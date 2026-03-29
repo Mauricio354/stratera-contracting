@@ -1,1 +1,706 @@
-<html><body><h1>Statera Contracting</h1></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Statera Contracting | Calgary Renovation Experts</title>
+<meta name="description" content="Statera Contracting — Calgary's premier renovation contractor with 20+ years of experience in residential and commercial renovations.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --primary:#111111;
+  --accent:#c2d951;
+  --accent-dark:#a8bf3a;
+  --light:#f7f7f7;
+  --white:#ffffff;
+  --gray-100:#f5f5f5;
+  --gray-200:#e4e4e4;
+  --gray-400:#999;
+  --gray-600:#666;
+  --gray-800:#333;
+  --text:#1a1a1a;
+  --radius:12px;
+  --shadow:0 4px 24px rgba(0,0,0,.07);
+  --shadow-lg:0 12px 48px rgba(0,0,0,.1);
+  --transition:all .3s cubic-bezier(.4,0,.2,1);
+}
+html{font-size:16px}
+body{font-family:'Inter',sans-serif;color:var(--text);background:var(--white);line-height:1.7;margin:0;display:flex;flex-direction:column;height:100vh;height:100dvh}
+.page-content{flex:1;overflow-y:auto;overflow-x:hidden;scroll-behavior:smooth}
+
+/* ── NAVBAR ── */
+.navbar{flex-shrink:0;width:100%;z-index:1000;padding:1rem 0;background:#111111;box-shadow:0 2px 20px rgba(0,0,0,.15)}
+.navbar .container{display:flex;align-items:center;justify-content:space-between}
+.nav-logo{display:flex;align-items:center;gap:.75rem;text-decoration:none}
+.nav-logo .logo-icon{height:42px;width:auto}
+.nav-logo span{font-family:'Playfair Display',serif;font-size:1.4rem;font-weight:700;color:var(--white);letter-spacing:2px;text-transform:uppercase}
+.nav-links{display:flex;gap:2rem;list-style:none}
+.nav-links a{color:rgba(255,255,255,.8);text-decoration:none;font-size:.875rem;font-weight:500;letter-spacing:.3px;transition:var(--transition);position:relative}
+.nav-links a::after{content:'';position:absolute;bottom:-4px;left:0;width:0;height:2px;background:var(--accent);transition:var(--transition)}
+.nav-links a:hover{color:var(--white)}
+.nav-links a:hover::after{width:100%}
+.nav-cta{background:var(--accent);color:var(--primary);padding:.6rem 1.5rem;border-radius:50px;text-decoration:none;font-size:.875rem;font-weight:700;transition:var(--transition);border:2px solid var(--accent)}
+.nav-cta:hover{background:transparent;color:var(--accent)}
+
+/* ── HAMBURGER (link to #mobile-nav) ── */
+.hamburger-link{display:none;padding:10px;-webkit-tap-highlight-color:transparent;text-decoration:none}
+.hamburger-link .bar{display:block;width:24px;height:2.5px;background:var(--white);border-radius:2px;margin:5px 0}
+
+/* ── MOBILE MENU — :target based (no JS, no checkbox) ── */
+.mobile-menu{position:absolute;top:0;left:0;width:100%;height:100vh;height:100dvh;background:rgba(17,17,17,.98);z-index:998;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:0;visibility:hidden;opacity:0;pointer-events:none;transition:opacity .25s ease,visibility .25s ease}
+.mobile-menu:target{visibility:visible;opacity:1;pointer-events:auto}
+.mobile-menu-close{position:absolute;top:1.2rem;right:1.5rem;color:var(--white);font-size:2rem;text-decoration:none;line-height:1;padding:.5rem;-webkit-tap-highlight-color:transparent}
+.mobile-menu-close:hover{color:var(--accent)}
+.mobile-menu a{color:rgba(255,255,255,.85);text-decoration:none;font-size:1.25rem;font-weight:500;padding:1rem 2rem;display:block;text-align:center}
+.mobile-menu a:hover,.mobile-menu a:active{color:var(--accent)}
+.mobile-menu .mobile-cta{display:inline-block;background:var(--accent);color:var(--primary);padding:.85rem 2rem;border-radius:50px;font-weight:700;text-align:center;margin-top:1.5rem;font-size:1rem}
+
+/* ── CONTAINER ── */
+.container{max-width:1200px;margin:0 auto;padding:0 1.5rem}
+
+/* ── HERO ── */
+.hero{position:relative;min-height:90vh;display:flex;align-items:center;overflow:hidden;background:var(--primary)}
+.hero-bg{position:absolute;inset:0;background:linear-gradient(160deg,#111 0%,#1a1a1a 40%,#222 100%)}
+.hero-bg::before{content:'';position:absolute;inset:0;background:url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.02'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")}
+.hero-bg::after{content:'';position:absolute;bottom:-2px;left:0;width:100%;height:180px;background:linear-gradient(to top,var(--white),transparent)}
+.hero-accent-shape{position:absolute;bottom:0;right:0;width:300px;height:300px;background:var(--accent);clip-path:polygon(100% 0,100% 100%,0 100%);opacity:.15}
+.hero-accent-shape2{position:absolute;top:20%;right:10%;width:150px;height:150px;border:2px solid rgba(194,217,81,.15);border-radius:50%;animation:pulse 4s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scale(1);opacity:.15}50%{transform:scale(1.1);opacity:.25}}
+.hero .container{position:relative;z-index:2;display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:4rem;padding-top:5rem;padding-bottom:4rem}
+.hero-content h1{font-family:'Playfair Display',serif;font-size:clamp(2.5rem,5vw,3.75rem);color:var(--white);line-height:1.15;margin-bottom:1.5rem}
+.hero-content h1 span{color:var(--accent);display:block}
+.hero-tagline{color:rgba(255,255,255,.5);font-size:1.1rem;max-width:480px;margin-bottom:2.5rem;line-height:1.8}
+.hero-btns{display:flex;gap:1rem;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:.5rem;padding:.85rem 2rem;border-radius:50px;font-size:.9rem;font-weight:600;text-decoration:none;transition:var(--transition);cursor:pointer;border:2px solid transparent}
+.btn-primary{background:var(--accent);color:var(--primary);border-color:var(--accent)}
+.btn-primary:hover{background:var(--accent-dark);border-color:var(--accent-dark);transform:translateY(-2px);box-shadow:0 8px 24px rgba(194,217,81,.25)}
+.btn-outline{background:transparent;color:var(--white);border-color:rgba(255,255,255,.25)}
+.btn-outline:hover{border-color:var(--white);background:rgba(255,255,255,.06);transform:translateY(-2px)}
+.hero-visual{position:relative;display:flex;justify-content:center}
+.hero-image-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem;max-width:480px}
+.hero-img{border-radius:var(--radius);overflow:hidden;position:relative;aspect-ratio:3/4;background:linear-gradient(135deg,#2a2a2a,#1a1a1a);border:1px solid rgba(255,255,255,.06)}
+.hero-img:nth-child(2){margin-top:2rem}
+.hero-img:nth-child(3){margin-top:-2rem}
+.hero-img-inner{width:100%;height:100%;display:flex;align-items:center;justify-content:center}
+.hero-img svg{width:48px;height:48px;opacity:.15;stroke:var(--accent)}
+.hero-stat{position:absolute;bottom:2rem;left:-1rem;background:var(--white);padding:1rem 1.5rem;border-radius:var(--radius);box-shadow:var(--shadow-lg);display:flex;align-items:center;gap:1rem;animation:slideUp 1s ease .5s both}
+@keyframes slideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.hero-stat .stat-num{font-size:2rem;font-weight:800;color:var(--primary);line-height:1}
+.hero-stat .stat-label{font-size:.75rem;color:var(--gray-600);line-height:1.4}
+.hero-stat .stat-accent{display:block;width:32px;height:3px;background:var(--accent);border-radius:2px;margin-top:.3rem}
+
+/* ── SECTION COMMON ── */
+section{padding:6rem 0}
+.section-label{display:inline-flex;align-items:center;gap:.5rem;font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:2.5px;color:var(--accent);margin-bottom:1rem}
+.section-label::before{content:'';width:24px;height:2px;background:var(--accent)}
+.section-title{font-family:'Playfair Display',serif;font-size:clamp(2rem,3.5vw,2.75rem);color:var(--primary);margin-bottom:1rem;line-height:1.2}
+.section-subtitle{color:var(--gray-600);font-size:1.05rem;max-width:560px;line-height:1.8}
+
+/* ── ABOUT ── */
+.about{background:var(--white)}
+.about .container{display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:center}
+.about-image{position:relative}
+.about-img-main{width:100%;border-radius:var(--radius);overflow:hidden;aspect-ratio:4/5;background:linear-gradient(135deg,#e8e8e8,#d0d0d0);display:flex;align-items:center;justify-content:center}
+.about-img-main svg{width:80px;height:80px;opacity:.2}
+.about-badge{position:absolute;bottom:2rem;right:-1.5rem;background:var(--primary);color:var(--white);padding:1.5rem;border-radius:var(--radius);text-align:center;box-shadow:var(--shadow-lg)}
+.about-badge .badge-num{font-size:2.5rem;font-weight:800;line-height:1;color:var(--accent)}
+.about-badge .badge-text{font-size:.75rem;text-transform:uppercase;letter-spacing:1px;margin-top:.25rem;color:rgba(255,255,255,.7)}
+.about-content{padding-right:1rem}
+.about-text{color:var(--gray-600);font-size:1rem;line-height:1.9;margin-top:1.5rem}
+.about-features{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin-top:2.5rem}
+.about-feature{display:flex;gap:.75rem;align-items:flex-start}
+.about-feature-icon{width:40px;height:40px;min-width:40px;border-radius:10px;background:rgba(194,217,81,.12);display:flex;align-items:center;justify-content:center}
+.about-feature-icon svg{width:20px;height:20px;stroke:var(--accent-dark);fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.about-feature h4{font-size:.9rem;font-weight:600;margin-bottom:.2rem}
+.about-feature p{font-size:.8rem;color:var(--gray-600)}
+
+/* ── SERVICES ── */
+.services{background:var(--light)}
+.services-header{text-align:center;margin-bottom:4rem}
+.services-header .section-subtitle{margin:0 auto}
+.services-columns{display:grid;grid-template-columns:1fr 1fr;gap:2rem}
+.service-block{background:var(--white);border-radius:var(--radius);overflow:hidden;border:1px solid var(--gray-200);transition:var(--transition)}
+.service-block:hover{box-shadow:var(--shadow-lg);border-color:rgba(194,217,81,.3)}
+.service-block-header{padding:2rem 2rem 1.5rem;border-bottom:1px solid var(--gray-200);position:relative}
+.service-block-header::after{content:'';position:absolute;bottom:-1px;left:2rem;width:60px;height:3px;background:var(--accent);border-radius:2px}
+.service-block-header h3{font-family:'Playfair Display',serif;font-size:1.35rem;font-weight:700;color:var(--primary);margin-bottom:.5rem}
+.service-block-header p{font-size:.875rem;color:var(--gray-600);line-height:1.6}
+.service-list{padding:1.5rem 2rem 2rem;list-style:none}
+.service-list li{display:flex;align-items:center;gap:.65rem;padding:.55rem 0;font-size:.9rem;color:var(--gray-800);border-bottom:1px solid rgba(0,0,0,.04);transition:var(--transition)}
+.service-list li:last-child{border-bottom:none}
+.service-list li:hover{color:var(--primary);padding-left:.25rem}
+.service-list li::before{content:'';width:6px;height:6px;min-width:6px;border-radius:50%;background:var(--accent);display:inline-block}
+
+/* ── GALLERY ── */
+.gallery{background:var(--white)}
+.gallery-header{text-align:center;margin-bottom:4rem}
+.gallery-header .section-subtitle{margin:0 auto}
+.gallery-grid{display:grid;grid-template-columns:repeat(4,1fr);grid-template-rows:auto auto;gap:1rem}
+.gallery-item{border-radius:var(--radius);overflow:hidden;position:relative;cursor:pointer;background:#222;aspect-ratio:1}
+.gallery-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s ease}
+.gallery-item:hover img{transform:scale(1.05)}
+.gallery-item:nth-child(1){grid-column:span 2;grid-row:span 2;aspect-ratio:auto}
+.gallery-item::after{content:'';position:absolute;inset:0;background:linear-gradient(to top,rgba(17,17,17,.75) 0%,transparent 50%);opacity:0;transition:var(--transition)}
+.gallery-item:hover::after{opacity:1}
+.gallery-item .gallery-label{position:absolute;bottom:1.25rem;left:1.25rem;right:1.25rem;color:var(--white);font-size:.85rem;font-weight:600;z-index:2;opacity:0;transform:translateY(10px);transition:var(--transition)}
+.gallery-item:hover .gallery-label{opacity:1;transform:translateY(0)}
+
+/* ── TESTIMONIALS ── */
+.testimonials{background:var(--primary);color:var(--white)}
+.testimonials-header{text-align:center;margin-bottom:4rem}
+.testimonials .section-title{color:var(--white)}
+.testimonials .section-subtitle{color:rgba(255,255,255,.5);margin:0 auto}
+.testimonials-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.5rem}
+.testimonial-card{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.06);border-radius:var(--radius);padding:2rem;transition:var(--transition)}
+.testimonial-card:hover{background:rgba(255,255,255,.07);transform:translateY(-3px)}
+.testimonial-stars{display:flex;gap:.2rem;margin-bottom:1.25rem}
+.testimonial-stars svg{width:16px;height:16px;fill:var(--accent)}
+.testimonial-text{font-size:.95rem;line-height:1.8;color:rgba(255,255,255,.75);margin-bottom:1.5rem;font-style:italic}
+.testimonial-author{display:flex;align-items:center;gap:.75rem}
+.testimonial-avatar{width:44px;height:44px;border-radius:50%;background:var(--accent);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:.9rem;color:var(--primary)}
+.testimonial-name{font-weight:600;font-size:.9rem}
+.testimonial-role{font-size:.8rem;color:rgba(255,255,255,.45)}
+
+/* ── CONTACT ── */
+.contact{background:var(--light)}
+.contact .container{display:grid;grid-template-columns:1fr 1fr;gap:4rem;align-items:start}
+.contact-info{padding-top:1rem}
+.contact-info .section-subtitle{margin-bottom:2.5rem}
+.contact-details{display:flex;flex-direction:column;gap:1.5rem;margin-bottom:2.5rem}
+.contact-detail{display:flex;align-items:flex-start;gap:1rem}
+.contact-detail-icon{width:48px;height:48px;min-width:48px;border-radius:12px;background:rgba(194,217,81,.12);display:flex;align-items:center;justify-content:center}
+.contact-detail-icon svg{width:22px;height:22px;stroke:var(--accent-dark);fill:none;stroke-width:1.5}
+.contact-detail h4{font-size:.9rem;font-weight:600;margin-bottom:.2rem}
+.contact-detail p{font-size:.85rem;color:var(--gray-600);line-height:1.5}
+.contact-detail a{color:var(--primary);text-decoration:none;font-weight:500;transition:var(--transition)}
+.contact-detail a:hover{color:var(--accent-dark)}
+.contact-form-card{background:var(--white);border-radius:var(--radius);padding:2.5rem;box-shadow:var(--shadow)}
+.contact-form-card h3{font-family:'Playfair Display',serif;font-size:1.5rem;margin-bottom:.5rem;color:var(--primary)}
+.contact-form-card>p{font-size:.875rem;color:var(--gray-600);margin-bottom:2rem}
+.form-row{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-bottom:1rem}
+.form-group{margin-bottom:1rem}
+.form-group label{display:block;font-size:.8rem;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:var(--gray-800);margin-bottom:.4rem}
+.form-group input,.form-group textarea,.form-group select{width:100%;padding:.8rem 1rem;border:1.5px solid var(--gray-200);border-radius:10px;font-family:'Inter',sans-serif;font-size:.9rem;transition:var(--transition);background:var(--white);color:var(--text)}
+.form-group input:focus,.form-group textarea:focus,.form-group select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 4px rgba(194,217,81,.12)}
+.form-group textarea{resize:vertical;min-height:120px}
+.form-group select{appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 1rem center;cursor:pointer}
+.form-submit{width:100%;padding:1rem;background:var(--primary);color:var(--white);border:none;border-radius:50px;font-family:'Inter',sans-serif;font-size:.95rem;font-weight:600;cursor:pointer;transition:var(--transition);margin-top:.5rem}
+.form-submit:hover{background:#333;transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.2)}
+.form-success{display:none;text-align:center;padding:3rem 1rem}
+.form-success svg{width:64px;height:64px;stroke:var(--accent);margin-bottom:1rem}
+.form-success h3{font-family:'Playfair Display',serif;font-size:1.5rem;margin-bottom:.5rem}
+.form-success p{color:var(--gray-600);font-size:.9rem}
+
+/* ── FOOTER ── */
+.footer{background:var(--primary);color:var(--white);padding:4rem 0 2rem}
+.footer-top{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:3rem;padding-bottom:3rem;border-bottom:1px solid rgba(255,255,255,.06)}
+.footer-brand p{color:rgba(255,255,255,.45);font-size:.85rem;line-height:1.8;margin-top:1rem;max-width:300px}
+.footer-col h4{font-size:.75rem;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:1.25rem;color:var(--accent)}
+.footer-col ul{list-style:none}
+.footer-col li{margin-bottom:.6rem}
+.footer-col a{color:rgba(255,255,255,.55);text-decoration:none;font-size:.85rem;transition:var(--transition)}
+.footer-col a:hover{color:var(--white)}
+.footer-bottom{display:flex;justify-content:space-between;align-items:center;padding-top:2rem;font-size:.8rem;color:rgba(255,255,255,.35)}
+.footer-socials{display:flex;gap:1rem}
+.footer-socials a{width:36px;height:36px;border-radius:50%;border:1px solid rgba(255,255,255,.1);display:flex;align-items:center;justify-content:center;transition:var(--transition);color:rgba(255,255,255,.5);text-decoration:none}
+.footer-socials a:hover{background:var(--accent);border-color:var(--accent);color:var(--primary)}
+.footer-socials svg{width:16px;height:16px}
+
+/* ── RESPONSIVE ── */
+@media(max-width:1024px){
+  .hero .container{grid-template-columns:1fr;text-align:center;padding-top:4rem}
+  .hero-tagline{margin:0 auto 2.5rem}
+  .hero-btns{justify-content:center}
+  .hero-visual{display:none}
+  .about .container{grid-template-columns:1fr;gap:3rem}
+  .about-image{max-width:500px;margin:0 auto}
+  .about-badge{right:1rem}
+  .gallery-grid{grid-template-columns:repeat(3,1fr)}
+  .gallery-item:nth-child(1){grid-column:span 1;grid-row:span 1;aspect-ratio:1}
+  .testimonials-grid{grid-template-columns:1fr 1fr}
+  .contact .container{grid-template-columns:1fr}
+  .footer-top{grid-template-columns:1fr 1fr}
+}
+@media(max-width:768px){
+  section{padding:4rem 0}
+  .nav-links,.nav-cta{display:none!important}
+  .hamburger-link{display:block!important}
+  .services-columns{grid-template-columns:1fr}
+  .gallery-grid{grid-template-columns:1fr 1fr}
+  .testimonials-grid{grid-template-columns:1fr}
+  .form-row{grid-template-columns:1fr}
+  .about-features{grid-template-columns:1fr}
+  .footer-top{grid-template-columns:1fr;gap:2rem}
+  .footer-bottom{flex-direction:column;gap:1rem;text-align:center}
+}
+</style>
+</head>
+<body>
+
+<!-- ══ NAVBAR ══ -->
+<nav class="navbar" id="navbar">
+  <div class="container">
+    <a href="#top" class="nav-logo">
+      <svg class="logo-icon" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M8 12c4-6 12-10 20-8s14 10 14 18" stroke="rgba(255,255,255,.3)" stroke-width=".7" fill="none"/>
+        <path d="M5 18c3-8 14-14 24-10s16 14 12 24" stroke="rgba(255,255,255,.25)" stroke-width=".7" fill="none"/>
+        <path d="M4 24c2-10 12-18 24-14s18 16 14 28" stroke="rgba(255,255,255,.2)" stroke-width=".7" fill="none"/>
+        <path d="M6 30c4-8 10-16 22-12s14 14 10 24" stroke="rgba(255,255,255,.18)" stroke-width=".7" fill="none"/>
+        <path d="M30 8c-6-1-14 2-16 8-2 7 6 10 12 12s14 4 12 12c-2 7-10 10-18 8" stroke="white" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+      </svg>
+      <span>Statera</span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#gallery">Projects</a></li>
+      <li><a href="#testimonials">Reviews</a></li>
+    </ul>
+    <a href="#contact" class="nav-cta">Get a Quote</a>
+    <a href="#mobile-nav" class="hamburger-link" aria-label="Open menu">
+      <span class="bar"></span><span class="bar"></span><span class="bar"></span>
+    </a>
+  </div>
+</nav>
+
+<!-- ══ MOBILE MENU ── tapping any link changes the hash away from #mobile-nav, closing the menu ══ -->
+<div class="mobile-menu" id="mobile-nav">
+  <a href="#top" class="mobile-menu-close" aria-label="Close menu">&times;</a>
+  <a href="#about">About</a>
+  <a href="#services">Services</a>
+  <a href="#gallery">Projects</a>
+  <a href="#testimonials">Reviews</a>
+  <a href="#contact" class="mobile-cta">Get a Quote</a>
+</div>
+
+<!-- All scrollable content -->
+<div class="page-content">
+<span id="top"></span>
+
+<!-- ══ HERO ══ -->
+<section class="hero" id="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-accent-shape"></div>
+  <div class="hero-accent-shape2"></div>
+  <div class="container">
+    <div class="hero-content">
+      <h1>Renovation Solutions<span>Built for You.</span></h1>
+      <p class="hero-tagline">Calgary's trusted renovation experts with over 20 years of experience transforming residential and commercial spaces into extraordinary environments.</p>
+      <div class="hero-btns">
+        <a href="#contact" class="btn btn-primary">
+          Start Your Project
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+        <a href="#gallery" class="btn btn-outline">View Our Work</a>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="hero-image-grid">
+        <div class="hero-img">
+          <div class="hero-img-inner"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></div>
+        </div>
+        <div class="hero-img">
+          <div class="hero-img-inner"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg></div>
+        </div>
+        <div class="hero-img">
+          <div class="hero-img-inner"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.77-3.77a6 6 0 01-7.94 7.94l-6.91 6.91a2.12 2.12 0 01-3-3l6.91-6.91a6 6 0 017.94-7.94l-3.76 3.76z"/></svg></div>
+        </div>
+        <div class="hero-img">
+          <div class="hero-img-inner"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+        </div>
+      </div>
+      <div class="hero-stat">
+        <div class="stat-num">20+</div>
+        <div>
+          <div class="stat-label">Years of<br>Experience</div>
+          <span class="stat-accent"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ ABOUT ══ -->
+<section class="about" id="about">
+  <div class="container">
+    <div class="about-image">
+      <div class="about-img-main">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#999" stroke-width="1"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+      </div>
+      <div class="about-badge">
+        <div class="badge-num">20+</div>
+        <div class="badge-text">Years of<br>Excellence</div>
+      </div>
+    </div>
+    <div class="about-content">
+      <div class="section-label">About Statera</div>
+      <h2 class="section-title">A Client-First Approach to Every Renovation</h2>
+      <p class="about-text">Statera Contracting was built on a unique outlook of the renovation process. With over two decades of experience in Calgary, we believe every project deserves a dedicated, transparent, and collaborative approach. From heritage restorations to modern commercial build-outs, we bring meticulous craftsmanship and honest communication to every job we take on.</p>
+      <p class="about-text" style="margin-top:1rem">The name "Statera" comes from the Latin word for balance — and that's exactly what we bring to your project. We balance timelines with quality, budgets with ambition, and your vision with practical expertise to deliver results that exceed expectations.</p>
+      <div class="about-features">
+        <div class="about-feature">
+          <div class="about-feature-icon"><svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+          <div><h4>Licensed & Insured</h4><p>Full coverage for your peace of mind</p></div>
+        </div>
+        <div class="about-feature">
+          <div class="about-feature-icon"><svg viewBox="0 0 24 24"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></div>
+          <div><h4>On-Time Delivery</h4><p>We respect your schedule and budget</p></div>
+        </div>
+        <div class="about-feature">
+          <div class="about-feature-icon"><svg viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg></div>
+          <div><h4>Dedicated Team</h4><p>Skilled tradespeople on every job</p></div>
+        </div>
+        <div class="about-feature">
+          <div class="about-feature-icon"><svg viewBox="0 0 24 24"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg></div>
+          <div><h4>Clear Communication</h4><p>Transparent updates every step</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ SERVICES ══ -->
+<section class="services" id="services">
+  <div class="container">
+    <div class="services-header">
+      <div class="section-label">What We Do</div>
+      <h2 class="section-title">Our Renovation Services</h2>
+      <p class="section-subtitle">From concept to completion, we offer comprehensive renovation solutions tailored to your unique needs and vision.</p>
+    </div>
+    <div class="services-columns">
+      <!-- Residential -->
+      <div class="service-block">
+        <div class="service-block-header">
+          <h3>Residential Renovations</h3>
+          <p>Complete home transformations — from basement to roof, we modernize living spaces while preserving the character that makes your home unique.</p>
+        </div>
+        <ul class="service-list">
+          <li>Kitchens</li>
+          <li>Bathrooms</li>
+          <li>Basement Development</li>
+          <li>Custom Interior Work</li>
+          <li>Framing & Drywall</li>
+          <li>Flooring</li>
+          <li>Paint & Wallpaper</li>
+          <li>Plumbing</li>
+          <li>Electrical & Lighting</li>
+          <li>Decks & Fences</li>
+          <li>Design, Drawings & Permits</li>
+          <li>Project Management</li>
+        </ul>
+      </div>
+      <!-- Commercial -->
+      <div class="service-block">
+        <div class="service-block-header">
+          <h3>Commercial Renovations</h3>
+          <p>Professional-grade commercial build-outs designed to enhance productivity, meet code requirements, and impress your clients from day one.</p>
+        </div>
+        <ul class="service-list">
+          <li>Offices, Restaurants & Retail</li>
+          <li>Tenant Improvements</li>
+          <li>Franchises</li>
+          <li>Project Management</li>
+          <li>Design, Drawings & Permits</li>
+          <li>Partitioning & Glazing</li>
+          <li>Bathrooms & Kitchens</li>
+          <li>Framing & Drywall</li>
+          <li>Flooring</li>
+          <li>Paint & Wallpaper</li>
+          <li>Plumbing</li>
+          <li>Electrical & Lighting</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ GALLERY ══ -->
+<section class="gallery" id="gallery">
+  <div class="container">
+    <div class="gallery-header">
+      <div class="section-label">Our Portfolio</div>
+      <h2 class="section-title">Recent Renovation Projects</h2>
+      <p class="section-subtitle">A selection of our proudest transformations across Calgary. Each project tells a story of collaboration and craftsmanship.</p>
+    </div>
+    <div class="gallery-grid">
+      <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=800&fit=crop&q=80" alt="Heritage home renovation" loading="lazy">
+        <div class="gallery-label">1912 Carriage House — Full Heritage Restoration</div>
+      </div>
+      <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop&q=80" alt="Modern kitchen renovation" loading="lazy">
+        <div class="gallery-label">Modern Kitchen — Complete Gut Renovation</div>
+      </div>
+      <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=500&h=500&fit=crop&q=80" alt="Commercial office renovation" loading="lazy">
+        <div class="gallery-label">Downtown Office — Modern Workspace Build-Out</div>
+      </div>
+      <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=500&h=500&fit=crop&q=80" alt="Luxury bathroom renovation" loading="lazy">
+        <div class="gallery-label">Luxury Bathroom — Spa-Inspired Design</div>
+      </div>
+      <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=500&h=500&fit=crop&q=80" alt="Basement suite development" loading="lazy">
+        <div class="gallery-label">Basement Suite — Complete Income Property</div>
+      </div>
+      <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1604014237800-1c9102c219da?w=500&h=500&fit=crop&q=80" alt="Retail storefront build-out" loading="lazy">
+        <div class="gallery-label">Retail Storefront — Custom Brand Experience</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ TESTIMONIALS ══ -->
+<section class="testimonials" id="testimonials">
+  <div class="container">
+    <div class="testimonials-header">
+      <div class="section-label">Client Reviews</div>
+      <h2 class="section-title">What Our Clients Say</h2>
+      <p class="section-subtitle">Our reputation is built on trust, transparency, and exceptional results.</p>
+    </div>
+    <div class="testimonials-grid">
+      <div class="testimonial-card">
+        <div class="testimonial-stars">
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        </div>
+        <p class="testimonial-text">"Statera transformed our 1960s bungalow into our dream home. Their team was professional, communicative, and delivered beyond our expectations. The kitchen alone is worth every penny."</p>
+        <div class="testimonial-author">
+          <div class="testimonial-avatar">JM</div>
+          <div><div class="testimonial-name">Jennifer M.</div><div class="testimonial-role">Homeowner, Kensington</div></div>
+        </div>
+      </div>
+      <div class="testimonial-card">
+        <div class="testimonial-stars">
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        </div>
+        <p class="testimonial-text">"We hired Statera for our office build-out downtown. They completed the project on time, under budget, and the space looks incredible. Our team loves coming to work now."</p>
+        <div class="testimonial-author">
+          <div class="testimonial-avatar">DP</div>
+          <div><div class="testimonial-name">David P.</div><div class="testimonial-role">Business Owner, Beltline</div></div>
+        </div>
+      </div>
+      <div class="testimonial-card">
+        <div class="testimonial-stars">
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        </div>
+        <p class="testimonial-text">"The carriage house restoration was a dream project and Statera handled it beautifully. They respected the history of the building while bringing it up to modern standards. Couldn't be happier."</p>
+        <div class="testimonial-author">
+          <div class="testimonial-avatar">SR</div>
+          <div><div class="testimonial-name">Sarah R.</div><div class="testimonial-role">Property Investor, Inglewood</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ CONTACT ══ -->
+<section class="contact" id="contact">
+  <div class="container">
+    <div class="contact-info">
+      <div class="section-label">Get In Touch</div>
+      <h2 class="section-title">Let's Build Something Great Together</h2>
+      <p class="section-subtitle">Ready to start your renovation? Fill out the form and we'll get back to you within 24 hours with a free consultation.</p>
+      <div class="contact-details">
+        <div class="contact-detail">
+          <div class="contact-detail-icon"><svg viewBox="0 0 24 24"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg></div>
+          <div><h4>Location</h4><p>Calgary, Alberta, Canada</p></div>
+        </div>
+        <div class="contact-detail">
+          <div class="contact-detail-icon"><svg viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/></svg></div>
+          <div><h4>Phone</h4><p><a href="tel:+14035551234">(403) 555-1234</a></p></div>
+        </div>
+        <div class="contact-detail">
+          <div class="contact-detail-icon"><svg viewBox="0 0 24 24"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg></div>
+          <div><h4>Email</h4><p><a href="mailto:info@stateracontracting.com">info@stateracontracting.com</a></p></div>
+        </div>
+      </div>
+    </div>
+    <div class="contact-form-card">
+      <h3>Request a Free Quote</h3>
+      <p>Tell us about your project and we'll get back to you promptly.</p>
+      <form id="contactForm">
+        <div class="form-row">
+          <div class="form-group">
+            <label for="firstName">First Name</label>
+            <input type="text" id="firstName" name="firstName" placeholder="John" required>
+          </div>
+          <div class="form-group">
+            <label for="lastName">Last Name</label>
+            <input type="text" id="lastName" name="lastName" placeholder="Smith" required>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="john@example.com" required>
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone</label>
+            <input type="tel" id="phone" name="phone" placeholder="(403) 555-1234">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="projectType">Project Type</label>
+          <select id="projectType" name="projectType" required>
+            <option value="" disabled selected>Select your project type</option>
+            <optgroup label="Residential">
+              <option value="kitchen">Kitchen Renovation</option>
+              <option value="bathroom">Bathroom Renovation</option>
+              <option value="basement">Basement Development</option>
+              <option value="custom-interior">Custom Interior Work</option>
+              <option value="decks-fences">Decks & Fences</option>
+              <option value="residential-other">Other Residential</option>
+            </optgroup>
+            <optgroup label="Commercial">
+              <option value="office">Office Renovation</option>
+              <option value="restaurant">Restaurant Renovation</option>
+              <option value="retail">Retail Build-Out</option>
+              <option value="tenant-improvement">Tenant Improvement</option>
+              <option value="franchise">Franchise Build-Out</option>
+              <option value="commercial-other">Other Commercial</option>
+            </optgroup>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="message">Project Details</label>
+          <textarea id="message" name="message" placeholder="Tell us about your project — what are you looking to renovate? Any specific goals, timeline, or budget in mind?" required></textarea>
+        </div>
+        <button type="submit" class="form-submit">Send My Request</button>
+      </form>
+      <div class="form-success" id="formSuccess">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+        <h3>Thank You!</h3>
+        <p>Your request has been sent. We'll be in touch within 24 hours to discuss your project.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ FOOTER ══ -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="#top" class="nav-logo" style="display:inline-flex">
+          <svg class="logo-icon" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M8 12c4-6 12-10 20-8s14 10 14 18" stroke="rgba(255,255,255,.3)" stroke-width=".7" fill="none"/>
+            <path d="M5 18c3-8 14-14 24-10s16 14 12 24" stroke="rgba(255,255,255,.25)" stroke-width=".7" fill="none"/>
+            <path d="M4 24c2-10 12-18 24-14s18 16 14 28" stroke="rgba(255,255,255,.2)" stroke-width=".7" fill="none"/>
+            <path d="M6 30c4-8 10-16 22-12s14 14 10 24" stroke="rgba(255,255,255,.18)" stroke-width=".7" fill="none"/>
+            <path d="M30 8c-6-1-14 2-16 8-2 7 6 10 12 12s14 4 12 12c-2 7-10 10-18 8" stroke="white" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+          </svg>
+          <span>Statera</span>
+        </a>
+        <p>Calgary's trusted renovation experts. Building balanced spaces with over 20 years of craftsmanship and care.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Navigation</h4>
+        <ul>
+          <li><a href="#about">About Us</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#gallery">Projects</a></li>
+          <li><a href="#testimonials">Reviews</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Services</h4>
+        <ul>
+          <li><a href="#services">Residential</a></li>
+          <li><a href="#services">Commercial</a></li>
+          <li><a href="#services">Kitchens</a></li>
+          <li><a href="#services">Basements</a></li>
+          <li><a href="#services">Offices</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contact</h4>
+        <ul>
+          <li><a href="tel:+14035551234">(403) 555-1234</a></li>
+          <li><a href="mailto:info@stateracontracting.com">info@stateracontracting.com</a></li>
+          <li><a href="#">Calgary, AB</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; 2026 Statera Contracting. All rights reserved.</span>
+      <div class="footer-socials">
+        <a href="https://www.facebook.com/people/Statera-Contracting/61559736449256/" target="_blank" rel="noopener" aria-label="Facebook">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+        </a>
+        <a href="#" aria-label="Instagram">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+        </a>
+        <a href="#" aria-label="LinkedIn">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</div><!-- end .page-content -->
+
+<script>
+// All JS below is progressive enhancement — site works fully without it
+
+/* Progressive enhancement — site works fully without JS */
+try {
+  // Form submission — mailto
+  var form = document.getElementById('contactForm');
+  if (form) {
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var f = this;
+      var subject = encodeURIComponent('New Project Inquiry: ' + f.projectType.value + ' - ' + f.firstName.value + ' ' + f.lastName.value);
+      var body = encodeURIComponent(
+        'New renovation inquiry from your website:\n\n' +
+        'Name: ' + f.firstName.value + ' ' + f.lastName.value + '\n' +
+        'Email: ' + f.email.value + '\n' +
+        'Phone: ' + (f.phone.value || 'Not provided') + '\n' +
+        'Project Type: ' + f.projectType.value + '\n\n' +
+        'Project Details:\n' + f.message.value
+      );
+      window.location.href = 'mailto:info@stateracontracting.com?subject=' + subject + '&body=' + body;
+      f.style.display = 'none';
+      document.getElementById('formSuccess').style.display = 'block';
+    });
+  }
+
+  // Scroll-triggered fade-in animations
+  var scroller = document.querySelector('.page-content');
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        entry.target.style.opacity = '1';
+        entry.target.style.transform = 'translateY(0)';
+      }
+    });
+  }, { threshold: 0.1, root: scroller });
+
+  document.querySelectorAll('.service-block, .gallery-item, .testimonial-card, .about-feature').forEach(function(el) {
+    el.style.opacity = '0';
+    el.style.transform = 'translateY(24px)';
+    el.style.transition = 'opacity .6s ease, transform .6s ease';
+    observer.observe(el);
+  });
+} catch(e) { /* site works without JS */ }
+</script>
+</body>
+</html>
