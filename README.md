@@ -1,1 +1,0 @@
-# stratera-contracting
