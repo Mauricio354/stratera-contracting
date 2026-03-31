@@ -87,7 +87,7 @@ export default function ServicePageTemplate({ service }: Props) {
           <div className="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-primary/50" />
         </div>
         <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-white to-transparent" />
-        <div className="container relative z-10 py-20">
+        <div className="container relative z-10 pt-10 pb-20">
           <div className="max-w-2xl">
             <div className="section-label text-accent/80">Calgary Renovation Contractor</div>
             <h1 className="font-serif text-[clamp(2.25rem,4vw,3.5rem)] text-white leading-[1.1] mt-2 mb-6">
