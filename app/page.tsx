@@ -106,7 +106,7 @@ export default function HomePage() {
         <div className="absolute bottom-0 right-0 w-[300px] h-[300px] bg-accent opacity-[0.08]" style={{ clipPath: "polygon(100% 0,100% 100%,0 100%)" }} />
         <div className="absolute top-[20%] right-[10%] w-36 h-36 border-2 border-accent/[0.12] rounded-full animate-pulse" />
         <div className="absolute bottom-0 left-0 w-full h-36 bg-gradient-to-t from-white to-transparent" />
-        <div className="container relative z-10 py-24">
+        <div className="container relative z-10 pt-12 pb-24">
           <div className="max-w-2xl">
             <div className="section-label text-accent/80 mb-6">Calgary&apos;s Renovation Experts</div>
             <h1 className="font-serif text-[clamp(2.75rem,5vw,4.25rem)] text-white leading-[1.1] mb-6">
