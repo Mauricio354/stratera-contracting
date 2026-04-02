@@ -13,7 +13,7 @@ export default function ServiceCard({ slug, shortTitle, description, icon, varia
   return (
     <Link
       href={`/services/${slug}`}
-      className={`group block rounded-card p-7 border transition-all duration-300 hover:-translate-y-1 ${
+      className={`group block rounded-card p-6 border transition-all duration-300 hover:-translate-y-1 ${
         isDark
           ? "bg-white/[0.04] border-white/[0.06] hover:bg-white/[0.07]"
           : "bg-white border-gray-200 hover:shadow-card-lg hover:border-accent/30"
