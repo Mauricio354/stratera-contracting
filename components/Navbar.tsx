@@ -45,7 +45,7 @@ export default function Navbar() {
               alt="Statera Contracting"
               width={451}
               height={119}
-              className="h-12 w-auto"
+              className="h-14 w-auto"
               priority
             />
           </Link>
@@ -151,7 +151,7 @@ export default function Navbar() {
               alt="Statera Contracting"
               width={451}
               height={119}
-              className="h-12 w-auto"
+              className="h-14 w-auto"
             />
           </Link>
 
