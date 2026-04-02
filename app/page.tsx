@@ -217,7 +217,7 @@ export default function HomePage() {
               From concept to completion, comprehensive renovation solutions tailored to your unique needs and vision.
             </p>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {serviceCards.map((s) => (
               <ServiceCard key={s.slug} {...s} />
             ))}

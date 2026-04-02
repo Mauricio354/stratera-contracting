@@ -19,10 +19,11 @@ export default function GalleryGrid({ images, columns = 4 }: GalleryGridProps) {
     ? "grid grid-cols-2 md:grid-cols-3 gap-4"
     : "grid grid-cols-2 md:grid-cols-4 gap-4";
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
+  const [loaded, setLoaded] = useState(false);
 
-  const close = useCallback(() => setLightboxIndex(null), []);
-  const prev = useCallback(() => setLightboxIndex((i) => (i !== null ? (i - 1 + images.length) % images.length : null)), [images.length]);
-  const next = useCallback(() => setLightboxIndex((i) => (i !== null ? (i + 1) % images.length : null)), [images.length]);
+  const close = useCallback(() => { setLightboxIndex(null); setLoaded(false); }, []);
+  const prev = useCallback(() => { setLoaded(false); setLightboxIndex((i) => (i !== null ? (i - 1 + images.length) % images.length : null)); }, [images.length]);
+  const next = useCallback(() => { setLoaded(false); setLightboxIndex((i) => (i !== null ? (i + 1) % images.length : null)); }, [images.length]);
 
   useEffect(() => {
     if (lightboxIndex === null) return;
@@ -39,13 +40,26 @@ export default function GalleryGrid({ images, columns = 4 }: GalleryGridProps) {
     };
   }, [lightboxIndex, close, prev, next]);
 
+  // Preload adjacent images when lightbox is open
+  useEffect(() => {
+    if (lightboxIndex === null || images.length <= 1) return;
+    const preloadIndexes = [
+      (lightboxIndex + 1) % images.length,
+      (lightboxIndex - 1 + images.length) % images.length,
+    ];
+    preloadIndexes.forEach((idx) => {
+      const img = new window.Image();
+      img.src = images[idx].src;
+    });
+  }, [lightboxIndex, images]);
+
   return (
     <>
       <div className={gridClass}>
         {images.map((img, i) => (
           <button
             key={i}
-            onClick={() => setLightboxIndex(i)}
+            onClick={() => { setLoaded(false); setLightboxIndex(i); }}
             className="relative aspect-[3/2] rounded-card overflow-hidden group cursor-pointer"
           >
             <Image src={img.src} alt={img.alt} fill className="object-cover transition-transform duration-500 group-hover:scale-105" sizes={columns === 3 ? "(max-width:768px) 50vw, 33vw" : "(max-width:768px) 50vw, 25vw"} />
@@ -88,18 +102,27 @@ export default function GalleryGrid({ images, columns = 4 }: GalleryGridProps) {
             <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round"><path d="M9 18l6-6-6-6" /></svg>
           </button>
 
+          {/* Loading spinner */}
+          {!loaded && (
+            <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-0">
+              <svg className="w-8 h-8 animate-spin text-white/40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M21 12a9 9 0 11-6.219-8.56" strokeLinecap="round" /></svg>
+            </div>
+          )}
+
           {/* Image */}
           <div
             className="relative w-[90vw] h-[80vh] max-w-5xl"
             onClick={(e) => e.stopPropagation()}
           >
             <Image
+              key={lightboxIndex}
               src={images[lightboxIndex].src}
               alt={images[lightboxIndex].alt}
               fill
-              className="object-contain"
+              className={`object-contain transition-opacity duration-200 ${loaded ? "opacity-100" : "opacity-0"}`}
               sizes="90vw"
               priority
+              onLoad={() => setLoaded(true)}
             />
           </div>
 
