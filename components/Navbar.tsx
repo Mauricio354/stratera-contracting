@@ -41,11 +41,11 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" onClick={handleLogoClick} className="flex items-center no-underline">
             <Image
-              src="/images/statera-logo-bw-transparent.png"
+              src="/images/statera-logo-navbar.png"
               alt="Statera Contracting"
-              width={260}
-              height={65}
-              className="h-14 w-auto"
+              width={451}
+              height={119}
+              className="h-12 w-auto"
               priority
             />
           </Link>
@@ -147,10 +147,10 @@ export default function Navbar() {
           {/* Logo inside menu */}
           <Link href="/" onClick={() => setMenuOpen(false)} className="flex items-center mb-10">
             <Image
-              src="/images/statera-logo-bw-transparent.png"
+              src="/images/statera-logo-navbar.png"
               alt="Statera Contracting"
-              width={220}
-              height={55}
+              width={451}
+              height={119}
               className="h-12 w-auto"
             />
           </Link>
