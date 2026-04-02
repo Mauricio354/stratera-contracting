@@ -168,7 +168,7 @@ export default function HomePage() {
       <section id="about" className="py-24 bg-white">
         <div className="container grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
           <div className="relative">
-            <div className="w-full aspect-[4/5] rounded-card overflow-hidden">
+            <div className="relative w-full aspect-[4/5] rounded-2xl overflow-hidden">
               <Image src="/images/patrick-headshot.jpg" alt="Patrick Ballard - Owner of Statera Contracting" fill className="object-cover" sizes="(max-width:1024px) 100vw, 50vw" />
             </div>
             <div className="absolute bottom-8 -right-6 bg-primary text-white p-6 rounded-card shadow-card-lg text-center">
