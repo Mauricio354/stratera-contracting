@@ -17,7 +17,7 @@ const serviceIcons: Record<string, React.ReactNode> = {
       <path d="M4 12h16" /><path d="M4 12a2 2 0 01-2-2V6a2 2 0 012-2h1a2 2 0 012 2v1" /><rect x="2" y="12" width="20" height="8" rx="2" />
     </svg>
   ),
-  "basement-development-calgary": (
+  "basement-living-spaces-calgary": (
     <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
       <rect x="2" y="7" width="20" height="15" rx="2" /><path d="M17 7V5a2 2 0 00-2-2H9a2 2 0 00-2 2v2" />
     </svg>
@@ -59,7 +59,7 @@ export default function ServicePageTemplate({ service }: Props) {
   const relatedDescriptions: Record<string, string> = {
     "kitchen-renovation-calgary": "Complete kitchen transformations — custom cabinetry, countertops, and full gut renovations.",
     "bathroom-renovation-calgary": "Spa-inspired bathroom renovations with expert tile work, plumbing, and custom vanities.",
-    "basement-development-calgary": "Legal suites, recreation rooms, and home offices — fully permitted and built to code.",
+    "basement-living-spaces-calgary": "Legal suites, recreation rooms, and home offices — fully permitted and built to code.",
     "commercial-renovation-calgary": "Offices, restaurants, retail, and tenant improvements — professional-grade build-outs.",
   };
 
@@ -200,10 +200,10 @@ export default function ServicePageTemplate({ service }: Props) {
             <div className="section-label justify-center">Our Work</div>
             <h2 className="section-title">{service.shortTitle} Projects in Calgary</h2>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {service.gallery.map((img, i) => (
               <div key={i} className="relative aspect-[4/3] rounded-card overflow-hidden group">
-                <Image src={img.src} alt={img.alt} fill className="object-cover transition-transform duration-500 group-hover:scale-105" sizes="(max-width:768px) 100vw, 33vw" />
+                <Image src={img.src} alt={img.alt} fill className="object-cover transition-transform duration-500 group-hover:scale-105" sizes="(max-width:768px) 50vw, 25vw" />
                 <div className="absolute inset-0 bg-gradient-to-t from-primary/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
                 <p className="absolute bottom-4 left-4 right-4 text-white text-sm font-semibold opacity-0 group-hover:opacity-100 translate-y-2 group-hover:translate-y-0 transition-all duration-300 z-10">{img.label}</p>
               </div>

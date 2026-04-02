@@ -38,8 +38,7 @@ const services: Service[] = [
     heroHeadline: "Kitchen Renovation Calgary",
     heroTagline:
       "Transform the heart of your home with Calgary's trusted renovation experts. Custom cabinetry, premium countertops, and complete kitchen transformations — built to last a lifetime.",
-    heroImage:
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&h=700&fit=crop&q=80",
+    heroImage: "/images/kitchens/DSC_9938 (1).jpg",
     intro:
       "A kitchen renovation is one of the highest-return investments you can make in a Calgary home. Whether you're looking for a cosmetic refresh, a functional layout overhaul, or a complete gut renovation, Statera Contracting brings 20+ years of expertise to every project. We manage everything from design and permits through to the final coat of paint — so you don't have to coordinate a dozen different trades.",
     includes: [
@@ -132,25 +131,18 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      {
-        src: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop&q=80",
-        alt: "Modern kitchen renovation Calgary with white cabinets and quartz countertops",
-        label: "Modern Kitchen — Complete Gut Renovation",
-      },
-      {
-        src: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop&q=80",
-        alt: "Open concept kitchen renovation Calgary with island",
-        label: "Open Concept Kitchen — Island & Custom Cabinetry",
-      },
-      {
-        src: "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=800&h=600&fit=crop&q=80",
-        alt: "Contemporary Calgary kitchen with dark cabinets and marble countertops",
-        label: "Contemporary Kitchen — Dark Cabinets & Marble",
-      },
+      { src: "/images/kitchens/12_140_Cannington_Pl_SW_12_mls.jpg", alt: "Kitchen renovation Calgary — Cannington Place", label: "Cannington Place — Kitchen Transformation" },
+      { src: "/images/kitchens/14-web-or-mls-_MG_0029_1.jpg", alt: "Modern kitchen renovation Calgary", label: "Modern Kitchen — Full Renovation" },
+      { src: "/images/kitchens/Copy of 03_127_Hidden_Spring_Mews_NW3.jpg", alt: "Kitchen renovation Hidden Spring Mews Calgary", label: "Hidden Spring Mews — Kitchen Remodel" },
+      { src: "/images/kitchens/Copy of 13_63_Brantford_Cres_13_mls (1).jpg", alt: "Kitchen renovation Brantford Crescent Calgary", label: "Brantford Crescent — Custom Kitchen" },
+      { src: "/images/kitchens/DSC_1497.jpg", alt: "Calgary kitchen renovation with custom cabinetry", label: "Custom Cabinetry & Countertops" },
+      { src: "/images/kitchens/DSC_9938 (1).jpg", alt: "Contemporary kitchen renovation Calgary", label: "Contemporary Kitchen — Complete Build" },
+      { src: "/images/kitchens/IMG_1867.jpg", alt: "Kitchen renovation Calgary — modern finishes", label: "Modern Finishes — Kitchen Renovation" },
+      { src: "/images/kitchens/c1-2.JPG", alt: "Calgary kitchen renovation project", label: "Full Kitchen Renovation" },
     ],
     relatedSlugs: [
       "bathroom-renovation-calgary",
-      "basement-development-calgary",
+      "basement-living-spaces-calgary",
       "commercial-renovation-calgary",
     ],
   },
@@ -164,8 +156,7 @@ const services: Service[] = [
     heroHeadline: "Bathroom Renovation Calgary",
     heroTagline:
       "From powder room refreshes to full spa-inspired master ensuites, Statera Contracting delivers bathroom renovations that combine beautiful design with lasting quality.",
-    heroImage:
-      "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&h=700&fit=crop&q=80",
+    heroImage: "/images/bathrooms/DSC_6625.jpg",
     intro:
       "A well-executed bathroom renovation adds immediate value to your Calgary home and transforms one of the most-used rooms in your house. Statera Contracting handles every element of your bathroom project — from demolition and waterproofing through to the final fixture installation. We specialize in both functional refreshes and complete spa-style transformations, always with the attention to detail that your space deserves.",
     includes: [
@@ -260,40 +251,32 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      {
-        src: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&h=600&fit=crop&q=80",
-        alt: "Luxury bathroom renovation Calgary with freestanding tub and marble tile",
-        label: "Luxury Ensuite — Spa-Inspired Design",
-      },
-      {
-        src: "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?w=800&h=600&fit=crop&q=80",
-        alt: "Modern bathroom renovation Calgary with walk-in shower and double vanity",
-        label: "Master Ensuite — Walk-In Shower & Double Vanity",
-      },
-      {
-        src: "https://images.unsplash.com/photo-1620626011761-996317702519?w=800&h=600&fit=crop&q=80",
-        alt: "Contemporary Calgary bathroom with large format tile and frameless glass shower",
-        label: "Contemporary Bath — Large Format Tile",
-      },
+      { src: "/images/bathrooms/23_127_Hidden_Spring_Mews_NW23.jpg", alt: "Bathroom renovation Hidden Spring Mews Calgary", label: "Hidden Spring Mews — Bathroom Remodel" },
+      { src: "/images/bathrooms/23_63_Brantford_Cres_23_mls (1).jpg", alt: "Bathroom renovation Brantford Crescent Calgary", label: "Brantford Crescent — Bathroom Renovation" },
+      { src: "/images/bathrooms/31_140_Cannington_Pl_SW_31_mls (1) (1).jpg", alt: "Bathroom renovation Cannington Place Calgary", label: "Cannington Place — Full Bathroom Build" },
+      { src: "/images/bathrooms/DSC_6625.jpg", alt: "Modern bathroom renovation Calgary", label: "Modern Bathroom — Complete Renovation" },
+      { src: "/images/bathrooms/DSC_6629.jpg", alt: "Calgary bathroom renovation with custom tile", label: "Custom Tile & Fixtures" },
+      { src: "/images/bathrooms/DSC_9962.jpg", alt: "Contemporary bathroom renovation Calgary", label: "Contemporary Bathroom Design" },
+      { src: "/images/bathrooms/c2-15 (1).JPG", alt: "Calgary bathroom renovation project", label: "Full Bathroom Transformation" },
+      { src: "/images/bathrooms/mm15.JPG", alt: "Bathroom renovation Calgary — modern finishes", label: "Modern Finishes — Bathroom Renovation" },
     ],
     relatedSlugs: [
       "kitchen-renovation-calgary",
-      "basement-development-calgary",
+      "basement-living-spaces-calgary",
       "commercial-renovation-calgary",
     ],
   },
   {
-    slug: "basement-development-calgary",
-    shortTitle: "Basement Development",
-    title: "Basement Development Calgary",
-    metaTitle: "Basement Development Calgary | Legal Suites & Finishing | Statera",
+    slug: "basement-living-spaces-calgary",
+    shortTitle: "Basement & Living Spaces",
+    title: "Basement & Living Spaces Calgary",
+    metaTitle: "Basement & Living Spaces Calgary | Legal Suites & Finishing | Statera",
     metaDescription:
       "Calgary basement development & finishing by Statera Contracting. Legal suites, home theatres, rec rooms. Permits handled. 20+ yrs experience. Free quote.",
-    heroHeadline: "Basement Development Calgary",
+    heroHeadline: "Basement & Living Spaces Calgary",
     heroTagline:
       "Unlock the potential beneath your home. Statera Contracting transforms unfinished Calgary basements into legal suites, home offices, recreation rooms, and income-generating spaces.",
-    heroImage:
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&h=700&fit=crop&q=80",
+    heroImage: "/images/living-spaces/DSC_5276 - Copy.jpg",
     intro:
       "Finishing your basement is one of the highest-value renovation investments in Calgary. A well-built legal basement suite can generate $1,500–$2,500/month in rental income, while a developed recreation or media room dramatically expands your family's living space. Statera Contracting manages every aspect of basement development — from structural framing and egress window installation through to the final coat of paint — including all City of Calgary permits.",
     includes: [
@@ -388,21 +371,14 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      {
-        src: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop&q=80",
-        alt: "Finished basement suite Calgary with open concept living area",
-        label: "Legal Basement Suite — Complete Development",
-      },
-      {
-        src: "https://images.unsplash.com/photo-1593696140826-c58b021acf8b?w=800&h=600&fit=crop&q=80",
-        alt: "Modern basement recreation room Calgary with home theatre setup",
-        label: "Basement Recreation Room — Home Theatre",
-      },
-      {
-        src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop&q=80",
-        alt: "Basement home office Calgary renovation with custom built-ins",
-        label: "Basement Home Office — Custom Built-Ins",
-      },
+      { src: "/images/living-spaces/04_127_Hidden_Spring_Mews_NW4 - Copy.jpg", alt: "Basement living space Hidden Spring Mews Calgary", label: "Hidden Spring Mews — Living Space" },
+      { src: "/images/living-spaces/53_140_Cannington_Pl_SW_25 (1)_mls.jpg", alt: "Basement development Cannington Place Calgary", label: "Cannington Place — Basement Development" },
+      { src: "/images/living-spaces/Copy of 05_63_Brantford_Cres_5_mls.jpg", alt: "Living space renovation Brantford Crescent Calgary", label: "Brantford Crescent — Living Space" },
+      { src: "/images/living-spaces/Copy of 07_63_Brantford_Cres_7_mls.jpg", alt: "Basement renovation Brantford Crescent Calgary", label: "Brantford Crescent — Basement Finish" },
+      { src: "/images/living-spaces/Copy of 16_63_Brantford_Cres_16_mls.jpg", alt: "Basement living area Calgary renovation", label: "Brantford Crescent — Recreation Room" },
+      { src: "/images/living-spaces/Copy of 18_63_Brantford_Cres_18_mls.jpg", alt: "Calgary basement living space renovation", label: "Brantford Crescent — Complete Finish" },
+      { src: "/images/living-spaces/DSC_5276 - Copy.jpg", alt: "Basement development Calgary — modern finish", label: "Modern Basement — Full Development" },
+      { src: "/images/living-spaces/c1-1.JPG", alt: "Calgary basement and living space project", label: "Full Basement & Living Space Build" },
     ],
     relatedSlugs: [
       "kitchen-renovation-calgary",
@@ -420,8 +396,7 @@ const services: Service[] = [
     heroHeadline: "Commercial Renovation Calgary",
     heroTagline:
       "From downtown office build-outs to restaurant fit-ups and retail renovations, Statera Contracting delivers commercial spaces that impress clients and support your business.",
-    heroImage:
-      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&h=700&fit=crop&q=80",
+    heroImage: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-1.jpg",
     intro:
       "Your commercial space sends a powerful message to every client, customer, and employee who walks through the door. Statera Contracting brings 20+ years of commercial renovation experience to Calgary businesses — from single-tenant office improvements to multi-unit restaurant fit-ups. We understand commercial timelines, occupancy deadlines, and the importance of minimizing business disruption during construction.",
     includes: [
@@ -517,26 +492,19 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      {
-        src: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop&q=80",
-        alt: "Commercial office renovation Calgary with open workspace and glass partitions",
-        label: "Downtown Office — Modern Workspace Build-Out",
-      },
-      {
-        src: "https://images.unsplash.com/photo-1604014237800-1c9102c219da?w=800&h=600&fit=crop&q=80",
-        alt: "Retail storefront renovation Calgary with custom brand signage",
-        label: "Retail Storefront — Custom Brand Experience",
-      },
-      {
-        src: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop&q=80",
-        alt: "Restaurant renovation Calgary with custom bar and dining area",
-        label: "Restaurant Fit-Up — Full Interior Build-Out",
-      },
+      { src: "/images/commercial/SPDD-2748-2.jpg", alt: "Commercial renovation Calgary — modern interior", label: "Commercial Interior — Modern Build-Out" },
+      { src: "/images/commercial/SPDD-2856-2.jpg", alt: "Commercial space renovation Calgary", label: "Commercial Space — Full Renovation" },
+      { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-1.jpg", alt: "The Still Calgary — restaurant renovation", label: "The Still — Restaurant Build-Out" },
+      { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-2.jpg", alt: "The Still Calgary — commercial interior", label: "The Still — Interior Design" },
+      { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-6.jpg", alt: "The Still Calgary — bar and dining area", label: "The Still — Bar & Dining Area" },
+      { src: "/images/commercial/Untitled design.png", alt: "Commercial renovation Calgary project", label: "Commercial Renovation Project" },
+      { src: "/images/commercial/facebook_1669405734404_7001995149437663920.jpg", alt: "Calgary commercial renovation — completed project", label: "Commercial Project — Completed Build" },
+      { src: "/images/commercial/office.png", alt: "Office renovation Calgary", label: "Office Renovation — Modern Workspace" },
     ],
     relatedSlugs: [
       "kitchen-renovation-calgary",
       "bathroom-renovation-calgary",
-      "basement-development-calgary",
+      "basement-living-spaces-calgary",
     ],
   },
 ];

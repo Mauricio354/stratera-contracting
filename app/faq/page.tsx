@@ -57,7 +57,7 @@ const faqCategories = [
       {
         q: "How much does basement development cost in Calgary?",
         a: "Basement development in Calgary typically costs $45–$75/sq ft for a standard recreational finish, or $65–$100+/sq ft for a legal suite. A 1,000 sq ft basement runs approximately $45,000–$100,000 depending on complexity and finish level.",
-        link: { href: "/services/basement-development-calgary", label: "Learn more about basement development" },
+        link: { href: "/services/basement-living-spaces-calgary", label: "Learn more about basement & living spaces" },
       },
       {
         q: "Can you help design the renovation or do I need my own designer?",

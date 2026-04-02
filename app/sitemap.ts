@@ -11,7 +11,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/contact`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/services/kitchen-renovation-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
     { url: `${base}/services/bathroom-renovation-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
-    { url: `${base}/services/basement-development-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
+    { url: `${base}/services/basement-living-spaces-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
     { url: `${base}/services/commercial-renovation-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
   ];
 }

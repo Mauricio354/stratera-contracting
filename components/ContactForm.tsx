@@ -136,7 +136,7 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
           <optgroup label="Residential">
             <option value="Kitchen Renovation">Kitchen Renovation</option>
             <option value="Bathroom Renovation">Bathroom Renovation</option>
-            <option value="Basement Development">Basement Development</option>
+            <option value="Basement & Living Spaces">Basement &amp; Living Spaces</option>
             <option value="Decks & Fences">Decks &amp; Fences</option>
             <option value="Other Residential">Other Residential</option>
           </optgroup>

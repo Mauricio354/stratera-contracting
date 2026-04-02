@@ -4,7 +4,7 @@ import Image from "next/image";
 const serviceLinks = [
   { href: "/services/kitchen-renovation-calgary", label: "Kitchen Renovation" },
   { href: "/services/bathroom-renovation-calgary", label: "Bathroom Renovation" },
-  { href: "/services/basement-development-calgary", label: "Basement Development" },
+  { href: "/services/basement-living-spaces-calgary", label: "Basement & Living Spaces" },
   { href: "/services/commercial-renovation-calgary", label: "Commercial Renovation" },
 ];
 

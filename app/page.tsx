@@ -42,8 +42,8 @@ const serviceCards = [
     ),
   },
   {
-    slug: "basement-development-calgary",
-    shortTitle: "Basement Development",
+    slug: "basement-living-spaces-calgary",
+    shortTitle: "Basement & Living Spaces",
     description:
       "Unlock the potential beneath your home. Legal suites, recreation rooms, home offices — all fully permitted and built to code.",
     icon: (
@@ -105,12 +105,12 @@ const testimonials = [
 ];
 
 const galleryItems = [
-  { src: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=800&fit=crop&q=80", alt: "Heritage home renovation Calgary full restoration", label: "1912 Carriage House — Full Heritage Restoration" },
-  { src: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop&q=80", alt: "Modern kitchen renovation Calgary complete gut renovation", label: "Modern Kitchen — Complete Gut Renovation" },
-  { src: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=500&h=500&fit=crop&q=80", alt: "Commercial office renovation Calgary downtown workspace", label: "Downtown Office — Modern Workspace Build-Out" },
-  { src: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=500&h=500&fit=crop&q=80", alt: "Luxury bathroom renovation Calgary spa design", label: "Luxury Bathroom — Spa-Inspired Design" },
-  { src: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=500&h=500&fit=crop&q=80", alt: "Basement suite development Calgary legal suite", label: "Basement Suite — Complete Income Property" },
-  { src: "https://images.unsplash.com/photo-1604014237800-1c9102c219da?w=500&h=500&fit=crop&q=80", alt: "Retail storefront renovation Calgary custom build", label: "Retail Storefront — Custom Brand Experience" },
+  { src: "/images/kitchens/DSC_9938 (1).jpg", alt: "Kitchen renovation Calgary — modern finishes", label: "Modern Kitchen — Complete Renovation" },
+  { src: "/images/bathrooms/DSC_6625.jpg", alt: "Bathroom renovation Calgary — contemporary design", label: "Contemporary Bathroom — Full Remodel" },
+  { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-1.jpg", alt: "The Still Calgary — restaurant renovation", label: "The Still — Restaurant Build-Out" },
+  { src: "/images/kitchens/14-web-or-mls-_MG_0029_1.jpg", alt: "Kitchen renovation Calgary", label: "Custom Kitchen — Full Gut Renovation" },
+  { src: "/images/living-spaces/DSC_5276 - Copy.jpg", alt: "Basement and living space renovation Calgary", label: "Basement & Living Space — Full Development" },
+  { src: "/images/commercial/SPDD-2748-2.jpg", alt: "Commercial renovation Calgary — modern interior", label: "Commercial Interior — Modern Build-Out" },
 ];
 
 export default function HomePage() {
