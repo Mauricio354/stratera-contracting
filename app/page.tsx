@@ -121,8 +121,10 @@ export default function HomePage() {
 
       {/* ── HERO ── */}
       <section className="relative min-h-[90vh] flex items-center overflow-hidden bg-primary">
-        <Image src="/images/living-spaces/04_127_Hidden_Spring_Mews_NW4 - Copy.jpg" alt="" fill className="object-cover opacity-[0.07]" sizes="100vw" priority />
-        <div className="absolute inset-0 bg-gradient-to-br from-[#111]/90 via-[#1a1a1a]/80 to-[#222]/70" />
+        <div className="absolute inset-0">
+          <Image src="/images/living-spaces/hidden-spring-mews.jpg" alt="" fill className="object-cover opacity-[0.08]" sizes="100vw" priority />
+          <div className="absolute inset-0 bg-gradient-to-br from-[#111] via-[#1a1a1a] to-[#222] opacity-90" />
+        </div>
         <div className="absolute bottom-0 right-0 w-[300px] h-[300px] bg-accent opacity-[0.08]" style={{ clipPath: "polygon(100% 0,100% 100%,0 100%)" }} />
         <div className="absolute top-[20%] right-[10%] w-36 h-36 border-2 border-accent/[0.12] rounded-full animate-pulse" />
         <div className="absolute bottom-0 left-0 w-full h-36 bg-gradient-to-t from-white to-transparent" />
