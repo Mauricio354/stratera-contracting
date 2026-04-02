@@ -21,7 +21,7 @@ const contactDetails = [
     label: "Phone",
     value: "403-512-8755",
     href: "tel:+14035128755",
-    desc: "Mon–Fri, 8am–5pm",
+    desc: "Mon–Fri, 8am–6pm",
   },
   {
     icon: "M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2zM22 6l-10 7L2 6",
@@ -33,7 +33,7 @@ const contactDetails = [
   {
     icon: "M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0zM12 7a3 3 0 100 6 3 3 0 000-6z",
     label: "Location",
-    value: "Calgary, Alberta",
+    value: "Dalhousie, Calgary, Alberta",
     href: null,
     desc: "Serving Calgary & surrounding areas",
   },
@@ -92,7 +92,7 @@ export default function ContactPage() {
               <h3 className="font-semibold text-primary text-sm mb-4">Business Hours</h3>
               <div className="space-y-2 text-sm">
                 {[
-                  { day: "Monday – Friday", hours: "8:00 AM – 5:00 PM" },
+                  { day: "Monday – Friday", hours: "8:00 AM – 6:00 PM" },
                   { day: "Saturday", hours: "By appointment" },
                   { day: "Sunday", hours: "Closed" },
                 ].map((h) => (

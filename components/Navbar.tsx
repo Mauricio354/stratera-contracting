@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 
@@ -25,20 +26,21 @@ export default function Navbar() {
   const isActive = (href: string) => pathname === href;
   const isServicesActive = services.some((s) => pathname === s.href);
 
+  const handleLogoClick = (e: React.MouseEvent) => {
+    if (pathname === "/") {
+      e.preventDefault();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  };
+
   return (
     <>
       {/* sticky top-0 keeps the navbar pinned when scrolling */}
       <nav className="sticky top-0 w-full z-50 py-4 bg-primary shadow-[0_2px_20px_rgba(0,0,0,0.15)]">
         <div className="container flex items-center justify-between">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-3 no-underline">
-            <svg className="h-10 w-auto" viewBox="0 0 50 50" fill="none">
-              <path d="M8 12c4-6 12-10 20-8s14 10 14 18" stroke="rgba(255,255,255,.3)" strokeWidth=".7" fill="none" />
-              <path d="M5 18c3-8 14-14 24-10s16 14 12 24" stroke="rgba(255,255,255,.25)" strokeWidth=".7" fill="none" />
-              <path d="M4 24c2-10 12-18 24-14s18 16 14 28" stroke="rgba(255,255,255,.2)" strokeWidth=".7" fill="none" />
-              <path d="M30 8c-6-1-14 2-16 8-2 7 6 10 12 12s14 4 12 12c-2 7-10 10-18 8" stroke="white" strokeWidth="3.5" strokeLinecap="round" fill="none" />
-            </svg>
-            <span className="font-serif text-xl font-bold text-white tracking-[2px] uppercase">Statera</span>
+          <Link href="/" onClick={handleLogoClick} className="flex items-center no-underline">
+            <Image src="/images/logo-light.png" alt="Statera Contracting" width={200} height={50} className="h-10 w-auto" priority />
           </Link>
 
           {/* Desktop Nav */}
@@ -136,8 +138,8 @@ export default function Navbar() {
           </button>
 
           {/* Logo inside menu */}
-          <Link href="/" onClick={() => setMenuOpen(false)} className="flex items-center gap-2 mb-10">
-            <span className="font-serif text-lg font-bold text-white tracking-[2px] uppercase">Statera</span>
+          <Link href="/" onClick={() => setMenuOpen(false)} className="flex items-center mb-10">
+            <Image src="/images/logo-light.png" alt="Statera Contracting" width={180} height={45} className="h-9 w-auto" />
           </Link>
 
           {/* Services label */}

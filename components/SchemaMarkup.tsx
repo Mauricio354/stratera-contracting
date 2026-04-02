@@ -33,6 +33,12 @@ export const localBusinessSchema = {
     { "@type": "City", name: "Cochrane" },
     { "@type": "City", name: "Chestermere" },
   ],
+  openingHoursSpecification: {
+    "@type": "OpeningHoursSpecification",
+    dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    opens: "08:00",
+    closes: "18:00",
+  },
   priceRange: "$$",
   aggregateRating: {
     "@type": "AggregateRating",
