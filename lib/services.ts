@@ -507,6 +507,117 @@ const services: Service[] = [
       "basement-living-spaces-calgary",
     ],
   },
+  {
+    slug: "home-additions-calgary",
+    shortTitle: "Home Additions",
+    title: "Home Additions Calgary",
+    metaTitle: "Home Additions Calgary | Room Additions & Extensions | Statera",
+    metaDescription:
+      "Custom home additions in Calgary by Statera Contracting. Second-storey additions, bump-outs, garage conversions & sunrooms. Permitted & built to code. 20+ yrs experience. Free quote.",
+    heroHeadline: "Home Additions Calgary",
+    heroTagline:
+      "Need more space without the hassle of moving? Statera Contracting designs and builds custom home additions that blend seamlessly with your existing home — from bump-outs to full second-storey additions.",
+    heroImage: "/images/kitchens/DSC_9938 (1).jpg",
+    intro:
+      "A well-planned home addition is one of the most effective ways to gain the space you need without leaving the neighbourhood you love. Whether you need an extra bedroom, a larger kitchen, a home office, or a full second storey, Statera Contracting manages every detail — from initial design and City of Calgary permits through to the final coat of paint. We ensure your addition looks and feels like it was always part of the original home, not an afterthought.",
+    includes: [
+      "Architectural design and structural engineering",
+      "City of Calgary development and building permit applications",
+      "Foundation and footings (for ground-level additions)",
+      "Structural framing and roof tie-in",
+      "Exterior cladding, siding, and roofing to match existing home",
+      "Window and door supply and installation",
+      "Electrical rough-in, panel upgrades, and finish",
+      "Plumbing rough-in and finish (if applicable)",
+      "HVAC extension and ductwork",
+      "Insulation, vapour barrier, and drywall",
+      "Flooring, painting, and trim",
+      "Interior finishing to match existing home",
+      "Project management start to finish",
+      "All inspections and final occupancy coordination",
+    ],
+    process: [
+      {
+        step: "01",
+        title: "Free Consultation",
+        description:
+          "We visit your home, assess the structure and lot, discuss your goals and budget, and walk you through what's feasible for your property.",
+      },
+      {
+        step: "02",
+        title: "Design & Permits",
+        description:
+          "We produce architectural drawings, coordinate structural engineering, and handle all City of Calgary permit applications — development and building permits.",
+      },
+      {
+        step: "03",
+        title: "Build",
+        description:
+          "From foundation to finishing, our team executes the addition on schedule with daily communication and meticulous attention to blending new with existing.",
+      },
+      {
+        step: "04",
+        title: "Inspection & Handover",
+        description:
+          "We coordinate all required City inspections, complete a detailed walkthrough, and hand over a seamless, fully finished addition.",
+      },
+    ],
+    costFactors: [
+      {
+        factor: "Addition size",
+        detail:
+          "A small bump-out (50–100 sq ft) and a full second-storey addition (800+ sq ft) have very different structural and material requirements.",
+      },
+      {
+        factor: "Foundation work",
+        detail:
+          "Ground-level additions require new foundations and footings. Second-storey additions may require reinforcing existing foundations.",
+      },
+      {
+        factor: "Structural complexity",
+        detail:
+          "Tying into existing roof lines, load-bearing walls, and matching exterior finishes adds complexity compared to standalone builds.",
+      },
+      {
+        factor: "Plumbing and HVAC",
+        detail:
+          "Adding a bathroom or extending your heating system increases cost but is often essential for the space to be fully functional.",
+      },
+      {
+        factor: "Exterior matching",
+        detail:
+          "Matching existing siding, roofing, and trim so the addition looks original requires careful material selection and skilled installation.",
+      },
+    ],
+    faqs: [
+      {
+        q: "How much does a home addition cost in Calgary?",
+        a: "Home addition costs in Calgary typically range from $200–$400+ per square foot depending on complexity. A small bump-out or sunroom may start around $40,000–$60,000, while a full second-storey addition can range from $150,000–$350,000+. Foundation work, plumbing, and exterior matching are the main cost drivers. We provide a detailed fixed-price quote after your free consultation.",
+      },
+      {
+        q: "Do I need a permit for a home addition in Calgary?",
+        a: "Yes — all home additions in Calgary require both a development permit and a building permit from the City. Structural, electrical, plumbing, and mechanical work all require separate permits and inspections. Statera handles all permit applications and inspection coordination as part of our project management.",
+      },
+      {
+        q: "How long does a home addition take to build?",
+        a: "Timeline depends on the scope. A small bump-out or sunroom takes 8–12 weeks. A larger ground-floor addition takes 12–20 weeks. A full second-storey addition takes 16–24+ weeks. Permit approval adds 4–10 weeks before construction begins. We provide a detailed schedule with your quote.",
+      },
+      {
+        q: "Will the addition match the rest of my home?",
+        a: "Absolutely — this is one of our top priorities. We carefully match exterior siding, roofing, trim, and paint so the addition looks like it was always part of the original home. Interior finishes (flooring, baseboards, doors) are also matched to create a seamless transition.",
+      },
+      {
+        q: "Can I stay in my home during the addition?",
+        a: "In most cases, yes. For bump-outs and ground-floor additions, we contain the construction zone and you can live in the rest of the home. For second-storey additions, there may be a period of 1–2 weeks during roof removal where temporary relocation is recommended. We discuss this during your consultation.",
+      },
+    ],
+    gallery: [],
+    relatedSlugs: [
+      "kitchen-renovation-calgary",
+      "basement-living-spaces-calgary",
+      "commercial-renovation-calgary",
+    ],
+  },
 ];
 
 export default services;

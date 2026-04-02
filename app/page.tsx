@@ -64,6 +64,17 @@ const serviceCards = [
       </svg>
     ),
   },
+  {
+    slug: "home-additions-calgary",
+    shortTitle: "Home Additions",
+    description:
+      "Room additions, bump-outs, second-storey extensions, and sunrooms — seamlessly blended with your existing home.",
+    icon: (
+      <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z" /><path d="M12 8v8M8 12h8" />
+      </svg>
+    ),
+  },
 ];
 
 const testimonials = [
@@ -121,10 +132,7 @@ export default function HomePage() {
 
       {/* ── HERO ── */}
       <section className="relative min-h-[90vh] flex items-center overflow-hidden bg-primary">
-        <div className="absolute inset-0">
-          <Image src="/images/living-spaces/hidden-spring-mews.jpg" alt="" fill className="object-cover opacity-[0.08]" sizes="100vw" priority />
-          <div className="absolute inset-0 bg-gradient-to-br from-[#111] via-[#1a1a1a] to-[#222] opacity-90" />
-        </div>
+        <div className="absolute inset-0 bg-gradient-to-br from-[#111] via-[#1a1a1a] to-[#222]" />
         <div className="absolute bottom-0 right-0 w-[300px] h-[300px] bg-accent opacity-[0.08]" style={{ clipPath: "polygon(100% 0,100% 100%,0 100%)" }} />
         <div className="absolute top-[20%] right-[10%] w-36 h-36 border-2 border-accent/[0.12] rounded-full animate-pulse" />
         <div className="absolute bottom-0 left-0 w-full h-36 bg-gradient-to-t from-white to-transparent" />
@@ -209,7 +217,7 @@ export default function HomePage() {
               From concept to completion, comprehensive renovation solutions tailored to your unique needs and vision.
             </p>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6">
             {serviceCards.map((s) => (
               <ServiceCard key={s.slug} {...s} />
             ))}

@@ -13,5 +13,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/services/bathroom-renovation-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
     { url: `${base}/services/basement-living-spaces-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
     { url: `${base}/services/commercial-renovation-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
+    { url: `${base}/services/home-additions-calgary`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
   ];
 }

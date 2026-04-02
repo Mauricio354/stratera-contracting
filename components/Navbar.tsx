@@ -10,6 +10,7 @@ const services = [
   { href: "/services/bathroom-renovation-calgary", label: "Bathroom Renovation" },
   { href: "/services/basement-living-spaces-calgary", label: "Basement & Living Spaces" },
   { href: "/services/commercial-renovation-calgary", label: "Commercial Renovation" },
+  { href: "/services/home-additions-calgary", label: "Home Additions" },
 ];
 
 const navLinks = [

@@ -28,6 +28,11 @@ const serviceIcons: Record<string, React.ReactNode> = {
       <rect x="2" y="3" width="20" height="14" rx="2" /><path d="M8 21h8M12 17v4" />
     </svg>
   ),
+  "home-additions-calgary": (
+    <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z" /><path d="M12 8v8M8 12h8" />
+    </svg>
+  ),
 };
 
 interface Props {
@@ -62,6 +67,7 @@ export default function ServicePageTemplate({ service }: Props) {
     "bathroom-renovation-calgary": "Spa-inspired bathroom renovations with expert tile work, plumbing, and custom vanities.",
     "basement-living-spaces-calgary": "Legal suites, recreation rooms, and home offices — fully permitted and built to code.",
     "commercial-renovation-calgary": "Offices, restaurants, retail, and tenant improvements — professional-grade build-outs.",
+    "home-additions-calgary": "Room additions, bump-outs, and second-storey extensions — seamlessly blended with your home.",
   };
 
   return (
