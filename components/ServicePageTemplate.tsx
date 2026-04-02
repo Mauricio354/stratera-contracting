@@ -4,6 +4,7 @@ import type { Service } from "@/lib/services";
 import { getRelatedServices } from "@/lib/services";
 import ServiceCard from "@/components/ServiceCard";
 import ContactForm from "@/components/ContactForm";
+import GalleryGrid from "@/components/GalleryGrid";
 import SchemaMarkup, { localBusinessSchema } from "@/components/SchemaMarkup";
 
 const serviceIcons: Record<string, React.ReactNode> = {
@@ -143,8 +144,19 @@ export default function ServicePageTemplate({ service }: Props) {
         </div>
       </section>
 
-      {/* ── PROCESS ── */}
+      {/* ── GALLERY ── */}
       <section className="py-24 bg-gray-100">
+        <div className="container">
+          <div className="text-center mb-12">
+            <div className="section-label justify-center">Our Work</div>
+            <h2 className="section-title">{service.shortTitle} Projects in Calgary</h2>
+          </div>
+          <GalleryGrid images={service.gallery} />
+        </div>
+      </section>
+
+      {/* ── PROCESS ── */}
+      <section className="py-24 bg-white">
         <div className="container">
           <div className="text-center mb-16">
             <div className="section-label justify-center">How It Works</div>
@@ -170,7 +182,7 @@ export default function ServicePageTemplate({ service }: Props) {
       </section>
 
       {/* ── COST FACTORS ── */}
-      <section className="py-24 bg-white">
+      <section className="py-24 bg-gray-100">
         <div className="container">
           <div className="max-w-3xl mx-auto">
             <div className="section-label">Pricing Guide</div>
@@ -180,7 +192,7 @@ export default function ServicePageTemplate({ service }: Props) {
             </p>
             <div className="space-y-4">
               {service.costFactors.map((cf, i) => (
-                <div key={i} className="flex gap-5 p-5 bg-gray-100 rounded-card border border-gray-200">
+                <div key={i} className="flex gap-5 p-5 bg-white rounded-card border border-gray-200">
                   <div className="w-8 h-8 min-w-[32px] rounded-lg bg-accent/15 flex items-center justify-center text-accent-dark font-bold text-sm">{i + 1}</div>
                   <div>
                     <h3 className="font-semibold text-primary text-sm mb-1">{cf.factor}</h3>
@@ -189,25 +201,6 @@ export default function ServicePageTemplate({ service }: Props) {
                 </div>
               ))}
             </div>
-          </div>
-        </div>
-      </section>
-
-      {/* ── GALLERY ── */}
-      <section className="py-24 bg-gray-100">
-        <div className="container">
-          <div className="text-center mb-12">
-            <div className="section-label justify-center">Our Work</div>
-            <h2 className="section-title">{service.shortTitle} Projects in Calgary</h2>
-          </div>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            {service.gallery.map((img, i) => (
-              <div key={i} className="relative aspect-[4/3] rounded-card overflow-hidden group">
-                <Image src={img.src} alt={img.alt} fill className="object-cover transition-transform duration-500 group-hover:scale-105" sizes="(max-width:768px) 50vw, 25vw" />
-                <div className="absolute inset-0 bg-gradient-to-t from-primary/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-                <p className="absolute bottom-4 left-4 right-4 text-white text-sm font-semibold opacity-0 group-hover:opacity-100 translate-y-2 group-hover:translate-y-0 transition-all duration-300 z-10">{img.label}</p>
-              </div>
-            ))}
           </div>
         </div>
       </section>
