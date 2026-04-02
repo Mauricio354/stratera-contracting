@@ -4,8 +4,56 @@ import { Resend } from "resend";
 const CLIENT_EMAIL = "statera.contracting@gmail.com";
 const FROM_EMAIL = "Statera Website <noreply@stateracontracting.com>";
 
+// Simple in-memory rate limiter: max 5 submissions per IP per 15 minutes
+const rateLimit = new Map<string, { count: number; resetAt: number }>();
+const RATE_LIMIT_MAX = 5;
+const RATE_LIMIT_WINDOW = 15 * 60 * 1000; // 15 minutes
+
+function isRateLimited(ip: string): boolean {
+  const now = Date.now();
+  const entry = rateLimit.get(ip);
+  if (!entry || now > entry.resetAt) {
+    rateLimit.set(ip, { count: 1, resetAt: now + RATE_LIMIT_WINDOW });
+    return false;
+  }
+  entry.count++;
+  return entry.count > RATE_LIMIT_MAX;
+}
+
+// Escape HTML to prevent injection in email templates
+function escapeHtml(str: string): string {
+  return str
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+// Max lengths for each field
+const MAX_LENGTHS: Record<string, number> = {
+  firstName: 100,
+  lastName: 100,
+  email: 254,
+  phone: 30,
+  projectType: 100,
+  message: 5000,
+};
+
+function truncate(val: string, max: number): string {
+  return val.slice(0, max);
+}
+
 export async function POST(req: NextRequest) {
-  // Initialise lazily so missing env var doesn't crash the build
+  // Rate limiting
+  const ip = req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
+  if (isRateLimited(ip)) {
+    return NextResponse.json(
+      { error: "Too many requests. Please wait a few minutes and try again." },
+      { status: 429 }
+    );
+  }
+
   const apiKey = process.env.RESEND_API_KEY;
   if (!apiKey) {
     return NextResponse.json(
@@ -17,9 +65,16 @@ export async function POST(req: NextRequest) {
 
   try {
     const body = await req.json();
-    const { firstName, lastName, email, phone, projectType, message } = body;
 
-    // Basic server-side validation
+    // Truncate and sanitize all inputs
+    const firstName = escapeHtml(truncate(String(body.firstName || "").trim(), MAX_LENGTHS.firstName));
+    const lastName = escapeHtml(truncate(String(body.lastName || "").trim(), MAX_LENGTHS.lastName));
+    const email = truncate(String(body.email || "").trim(), MAX_LENGTHS.email);
+    const phone = escapeHtml(truncate(String(body.phone || "").trim(), MAX_LENGTHS.phone));
+    const projectType = escapeHtml(truncate(String(body.projectType || "").trim(), MAX_LENGTHS.projectType));
+    const message = escapeHtml(truncate(String(body.message || "").trim(), MAX_LENGTHS.message));
+
+    // Validate required fields
     if (!firstName || !lastName || !email || !projectType || !message) {
       return NextResponse.json(
         { error: "Please fill in all required fields." },

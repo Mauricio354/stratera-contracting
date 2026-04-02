@@ -78,6 +78,7 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
             className={inputClass}
             placeholder="John"
             required
+            maxLength={100}
             disabled={isLoading}
             value={formData.firstName}
             onChange={(e) => setFormData({ ...formData, firstName: e.target.value })}
@@ -90,6 +91,7 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
             className={inputClass}
             placeholder="Smith"
             required
+            maxLength={100}
             disabled={isLoading}
             value={formData.lastName}
             onChange={(e) => setFormData({ ...formData, lastName: e.target.value })}
@@ -105,6 +107,7 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
             className={inputClass}
             placeholder="john@example.com"
             required
+            maxLength={254}
             disabled={isLoading}
             value={formData.email}
             onChange={(e) => setFormData({ ...formData, email: e.target.value })}
@@ -116,6 +119,7 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
             type="tel"
             className={inputClass}
             placeholder="(403) 555-1234"
+            maxLength={30}
             disabled={isLoading}
             value={formData.phone}
             onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
@@ -157,6 +161,7 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
           className={inputClass + " min-h-[120px] resize-y"}
           placeholder="Tell us about your project — what are you looking to renovate? Any specific goals, timeline, or budget in mind?"
           required
+          maxLength={5000}
           disabled={isLoading}
           value={formData.message}
           onChange={(e) => setFormData({ ...formData, message: e.target.value })}
