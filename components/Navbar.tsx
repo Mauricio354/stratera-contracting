@@ -40,7 +40,14 @@ export default function Navbar() {
         <div className="container flex items-center justify-between">
           {/* Logo */}
           <Link href="/" onClick={handleLogoClick} className="flex items-center no-underline">
-            <Image src="/images/logo-light.png" alt="Statera Contracting" width={200} height={50} className="h-10 w-auto" priority />
+            <Image
+              src="/images/statera-logo-bw.png"
+              alt="Statera Contracting"
+              width={200}
+              height={50}
+              className="h-10 w-auto"
+              priority
+            />
           </Link>
 
           {/* Desktop Nav */}
@@ -139,7 +146,13 @@ export default function Navbar() {
 
           {/* Logo inside menu */}
           <Link href="/" onClick={() => setMenuOpen(false)} className="flex items-center mb-10">
-            <Image src="/images/logo-light.png" alt="Statera Contracting" width={180} height={45} className="h-9 w-auto" />
+            <Image
+              src="/images/statera-logo-bw.png"
+              alt="Statera Contracting"
+              width={160}
+              height={44}
+              className="h-9 w-auto"
+            />
           </Link>
 
           {/* Services label */}
