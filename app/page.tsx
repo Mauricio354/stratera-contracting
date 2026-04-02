@@ -3,6 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import ContactForm from "@/components/ContactForm";
 import ServiceCard from "@/components/ServiceCard";
+import GalleryGrid from "@/components/GalleryGrid";
 import SchemaMarkup, { localBusinessSchema } from "@/components/SchemaMarkup";
 
 export const metadata: Metadata = {
@@ -120,7 +121,8 @@ export default function HomePage() {
 
       {/* ── HERO ── */}
       <section className="relative min-h-[90vh] flex items-center overflow-hidden bg-primary">
-        <div className="absolute inset-0 bg-gradient-to-br from-[#111] via-[#1a1a1a] to-[#222]" />
+        <Image src="/images/living-spaces/04_127_Hidden_Spring_Mews_NW4 - Copy.jpg" alt="" fill className="object-cover opacity-[0.07]" sizes="100vw" priority />
+        <div className="absolute inset-0 bg-gradient-to-br from-[#111]/90 via-[#1a1a1a]/80 to-[#222]/70" />
         <div className="absolute bottom-0 right-0 w-[300px] h-[300px] bg-accent opacity-[0.08]" style={{ clipPath: "polygon(100% 0,100% 100%,0 100%)" }} />
         <div className="absolute top-[20%] right-[10%] w-36 h-36 border-2 border-accent/[0.12] rounded-full animate-pulse" />
         <div className="absolute bottom-0 left-0 w-full h-36 bg-gradient-to-t from-white to-transparent" />
@@ -223,18 +225,7 @@ export default function HomePage() {
               A selection of our proudest transformations across Calgary. Each project tells a story of collaboration and craftsmanship.
             </p>
           </div>
-          <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-            {galleryItems.map((item, i) => (
-              <div
-                key={i}
-                className="relative aspect-[4/3] overflow-hidden rounded-card group cursor-pointer"
-              >
-                <Image src={item.src} alt={item.alt} fill className="object-cover transition-transform duration-500 group-hover:scale-105" sizes="(max-width:768px) 50vw, 33vw" />
-                <div className="absolute inset-0 bg-gradient-to-t from-primary/75 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-                <p className="absolute bottom-4 left-4 right-4 text-white text-sm font-semibold opacity-0 group-hover:opacity-100 translate-y-2 group-hover:translate-y-0 transition-all duration-300 z-10">{item.label}</p>
-              </div>
-            ))}
-          </div>
+          <GalleryGrid images={galleryItems} columns={3} />
         </div>
       </section>
 
