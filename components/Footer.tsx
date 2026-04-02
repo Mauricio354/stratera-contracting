@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 const serviceLinks = [
   { href: "/services/kitchen-renovation-calgary", label: "Kitchen Renovation" },
@@ -20,12 +21,8 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 pb-12 border-b border-white/[0.06]">
           {/* Brand */}
           <div className="lg:col-span-1">
-            <Link href="/" className="flex items-center gap-3 mb-4">
-              <svg className="h-9 w-auto" viewBox="0 0 50 50" fill="none">
-                <path d="M8 12c4-6 12-10 20-8s14 10 14 18" stroke="rgba(255,255,255,.3)" strokeWidth=".7" fill="none" />
-                <path d="M30 8c-6-1-14 2-16 8-2 7 6 10 12 12s14 4 12 12c-2 7-10 10-18 8" stroke="white" strokeWidth="3.5" strokeLinecap="round" fill="none" />
-              </svg>
-              <span className="font-serif text-lg font-bold tracking-[2px] uppercase text-white">Statera</span>
+            <Link href="/" className="flex items-center mb-4">
+              <Image src="/images/logo-light.png" alt="Statera Contracting" width={180} height={45} className="h-9 w-auto" />
             </Link>
             <p className="text-white/45 text-sm leading-relaxed max-w-[260px]">
               Calgary&apos;s trusted renovation experts. Building balanced spaces with over 20 years of craftsmanship and care.
@@ -82,7 +79,8 @@ export default function Footer() {
                   statera.contracting@gmail.com
                 </a>
               </li>
-              <li className="text-white/55 text-sm">Calgary, AB</li>
+              <li className="text-white/55 text-sm">Dalhousie, Calgary, AB</li>
+              <li className="text-white/55 text-sm">Mon–Fri: 8am–6pm</li>
               <li className="flex items-center gap-2 mt-1">
                 <span className="text-xs bg-white/5 border border-white/10 text-white/50 px-2 py-0.5 rounded">WCB</span>
                 <span className="text-xs bg-white/5 border border-white/10 text-white/50 px-2 py-0.5 rounded">Insured</span>

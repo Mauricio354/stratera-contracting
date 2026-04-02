@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import SchemaMarkup, { localBusinessSchema } from "@/components/SchemaMarkup";
 
 export const metadata: Metadata = {
@@ -49,22 +50,40 @@ const credentials = [
 
 const testimonials = [
   {
-    initials: "JM",
-    name: "Jennifer M.",
-    role: "Homeowner, Kensington",
-    text: "Statera transformed our 1960s bungalow into our dream home. Their team was professional, communicative, and delivered beyond our expectations. The kitchen alone is worth every penny.",
+    initials: "L",
+    name: "Lee",
+    role: "Commercial Client",
+    text: "Statera has been a partner with us for several years now, managing rebuild projects of assorted sizes. Statera has demonstrated repeatedly an ability to deliver projects on time and budget, without sacrificing quality. I have found Statera to be both collaborative and reasonable, adapting to our unique needs.",
   },
   {
-    initials: "DP",
-    name: "David P.",
-    role: "Business Owner, Beltline",
-    text: "We hired Statera for our office build-out downtown. They completed the project on time, under budget, and the space looks incredible. Our team loves coming to work now.",
+    initials: "MG",
+    name: "Michael & Gen",
+    role: "Residential Client",
+    text: "We hired Patrick and his company for a renovation of our recent purchase home before we moved in. From that first meeting to get our estimate up until the very end, Patrick was great to work with. He was incredibly honest, upfront, and professional. He listened to our concerns and provided solutions with no judgement. We were very comfortable going to him with any questions or concerns. Patrick and his team paid great attention to detail and you could tell they took pride in their work. As for the renovation itself, we were very impressed with how well it turned out. Communication was quick, clear, and concise, so we always knew what to expect next. Overall, great experience and a job well done. We will certainly use him again for our future projects.",
   },
   {
-    initials: "SR",
-    name: "Sarah R.",
-    role: "Property Investor, Inglewood",
-    text: "The carriage house restoration was a dream project and Statera handled it beautifully. They respected the history of the building while bringing it up to modern standards.",
+    initials: "S",
+    name: "Samantha",
+    role: "Designer",
+    text: "I have known Patrick for over fifteen years and have worked with him on multiple projects. As an interior designer I\u2019ve worked with a lot of general contractors over the years and Patrick is one of the best. He is very easy to work with, a great communicator, transparent and an overall awesome guy. I can\u2019t recommend him enough, you won\u2019t be disappointed!",
+  },
+  {
+    initials: "MM",
+    name: "Matty & Maria",
+    role: "Residential Client",
+    text: "Fantastic job Patrick and his team at Statera contracting did on our home renovation. We have used them multiple times and have been happy each time! Communication was a breeze throughout the project, and they were always attentive to our needs and our preferences. The end result exceeded our expectations - our space looks absolutely lovely! Highly recommend their services to anyone looking for top notch craftmanship and professionalism.",
+  },
+  {
+    initials: "R",
+    name: "Richard",
+    role: "Commercial Client",
+    text: "I don\u2019t normally write reviews but I just had to say something about Patrick Ballard and the great service he provided me. I told him what I was envisioning and asked him for suggestions. The ideas he came back with were creative and embodied what I was trying to achieve. He made it happen and it turned out better than I imagined. Thank you, Patrick and the Statera team for the top-notch customer care. Keep up the great work.",
+  },
+  {
+    initials: "D",
+    name: "Dennis",
+    role: "Real Estate Investor",
+    text: "I\u2019ve used Statera on many different occasions and have found their work to be both innovative and creative. Their crew is professional to work with in all aspects. I would have no hesitation or reservation in utilizing their services again in the future or recommending them to anyone needing renovation work.",
   },
 ];
 
@@ -116,8 +135,8 @@ export default function AboutPage() {
             </div>
           </div>
           <div className="relative">
-            <div className="w-full aspect-[4/5] rounded-card overflow-hidden bg-gradient-to-br from-gray-200 to-gray-100 flex items-center justify-center">
-              <svg className="w-20 h-20 opacity-20" viewBox="0 0 24 24" fill="none" stroke="#999" strokeWidth="1"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z" /><polyline points="9 22 9 12 15 12 15 22" /></svg>
+            <div className="w-full aspect-[4/5] rounded-card overflow-hidden">
+              <Image src="/images/headshot.jpg" alt="Patrick Ballard - Owner of Statera Contracting" fill className="object-cover" sizes="(max-width:1024px) 100vw, 50vw" />
             </div>
             <div className="absolute bottom-8 -right-6 bg-primary text-white p-6 rounded-card shadow-card-lg">
               <div className="text-4xl font-extrabold text-accent leading-none font-serif">20+</div>
@@ -186,7 +205,7 @@ export default function AboutPage() {
             <div className="section-label justify-center text-accent/80">Reviews</div>
             <h2 className="font-serif text-[clamp(2rem,3.5vw,2.75rem)] text-white">What Our Clients Say</h2>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {testimonials.map((t) => (
               <div key={t.name} className="bg-white/[0.04] border border-white/[0.06] rounded-card p-8">
                 <div className="flex gap-1 mb-5">
@@ -194,7 +213,7 @@ export default function AboutPage() {
                     <svg key={i} className="w-4 h-4 fill-accent" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg>
                   ))}
                 </div>
-                <p className="text-white/75 text-sm leading-relaxed italic mb-6">&ldquo;{t.text}&rdquo;</p>
+                <p className="text-white/75 text-sm leading-relaxed italic mb-6 line-clamp-6">&ldquo;{t.text}&rdquo;</p>
                 <div className="flex items-center gap-3">
                   <div className="w-10 h-10 rounded-full bg-accent flex items-center justify-center font-bold text-primary text-xs">{t.initials}</div>
                   <div>
