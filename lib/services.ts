@@ -611,7 +611,16 @@ const services: Service[] = [
         a: "In most cases, yes. For bump-outs and ground-floor additions, we contain the construction zone and you can live in the rest of the home. For second-storey additions, there may be a period of 1–2 weeks during roof removal where temporary relocation is recommended. We discuss this during your consultation.",
       },
     ],
-    gallery: [],
+    gallery: [
+      { src: "/images/home-additions/A 1.jpg", alt: "Home addition in progress Calgary — framing and structure", label: "Addition In Progress — Framing & Structure" },
+      { src: "/images/home-additions/A 3.jpg", alt: "Home addition in progress Calgary — exterior build", label: "Addition In Progress — Exterior Build" },
+      { src: "/images/home-additions/A 5.jpg", alt: "Home addition in progress Calgary — construction phase", label: "Addition In Progress — Construction Phase" },
+      { src: "/images/home-additions/A 6.jpg", alt: "Home addition in progress Calgary — progress update", label: "Addition In Progress — Taking Shape" },
+      { src: "/images/home-additions/B 1.jpg", alt: "Home addition Calgary — before completion", label: "Before & After — Original Home" },
+      { src: "/images/home-additions/B 2.jpg", alt: "Home addition Calgary — after completion", label: "Before & After — Completed Addition" },
+      { src: "/images/home-additions/B 4.jpg", alt: "Home addition Calgary — before renovation", label: "Before & After — Before" },
+      { src: "/images/home-additions/B 5.jpg", alt: "Home addition Calgary — after renovation", label: "Before & After — After" },
+    ],
     relatedSlugs: [
       "kitchen-renovation-calgary",
       "basement-living-spaces-calgary",
