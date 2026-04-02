@@ -119,7 +119,7 @@ const testimonials = [
 const galleryItems = [
   { src: "/images/kitchens/DSC_9938 (1).jpg", alt: "Kitchen renovation Calgary — modern finishes", label: "Modern Kitchen — Complete Renovation" },
   { src: "/images/bathrooms/DSC_6625.jpg", alt: "Bathroom renovation Calgary — contemporary design", label: "Contemporary Bathroom — Full Remodel" },
-  { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-1.jpg", alt: "The Still Calgary — restaurant renovation", label: "The Still — Restaurant Build-Out" },
+  { src: "/images/living-spaces/04_127_Hidden_Spring_Mews_NW4 - Copy.jpg", alt: "Hidden Spring Mews Calgary — living space renovation", label: "Hidden Spring Mews — Living Space" },
   { src: "/images/kitchens/14-web-or-mls-_MG_0029_1.jpg", alt: "Kitchen renovation Calgary", label: "Custom Kitchen — Full Gut Renovation" },
   { src: "/images/living-spaces/DSC_5276 - Copy.jpg", alt: "Basement and living space renovation Calgary", label: "Basement & Living Space — Full Development" },
   { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-6.jpg", alt: "The Still Calgary — bar and dining area", label: "The Still — Bar & Dining Area" },
