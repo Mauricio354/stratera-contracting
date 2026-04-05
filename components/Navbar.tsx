@@ -45,7 +45,7 @@ export default function Navbar() {
               src="/images/statera-logo-navbar.png"
               alt="Statera Contracting"
               width={451}
-              height={82}
+              height={91}
               className="h-10 w-auto"
               priority
             />
@@ -152,7 +152,7 @@ export default function Navbar() {
               src="/images/statera-logo-navbar.png"
               alt="Statera Contracting"
               width={451}
-              height={82}
+              height={91}
               className="h-10 w-auto"
             />
             <span className="text-white/60 text-[7px] tracking-[2.5px] uppercase font-medium self-end -mt-0.5">Contracting</span>

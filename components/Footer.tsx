@@ -23,7 +23,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <Link href="/" className="flex flex-col mb-4">
-              <Image src="/images/statera-logo-navbar.png" alt="Statera Contracting" width={451} height={82} className="h-10 w-auto" />
+              <Image src="/images/statera-logo-navbar.png" alt="Statera Contracting" width={451} height={91} className="h-10 w-auto" />
               <span className="text-white/60 text-[7px] tracking-[2.5px] uppercase font-medium self-end -mt-0.5">Contracting</span>
             </Link>
             <p className="text-white/45 text-sm leading-relaxed max-w-[260px]">
