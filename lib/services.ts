@@ -132,7 +132,7 @@ const services: Service[] = [
     ],
     gallery: [
       { src: "/images/kitchens/12_140_Cannington_Pl_SW_12_mls.jpg", alt: "Kitchen renovation Calgary — Cannington Place", label: "Cannington Place — Kitchen Transformation" },
-      { src: "/images/kitchens/14-web-or-mls-_MG_0029_1.jpg", alt: "Modern kitchen renovation Calgary", label: "Modern Kitchen — Full Renovation" },
+      { src: "/images/kitchens/14-web-or-mls-_MG_0029_1.jpg", alt: "Peninsula kitchen renovation Calgary", label: "Peninsula Kitchen" },
       { src: "/images/kitchens/Copy of 03_127_Hidden_Spring_Mews_NW3.jpg", alt: "Kitchen renovation Hidden Spring Mews Calgary", label: "Hidden Spring Mews — Kitchen Remodel" },
       { src: "/images/kitchens/Copy of 13_63_Brantford_Cres_13_mls (1).jpg", alt: "Kitchen renovation Brantford Crescent Calgary", label: "Brantford Crescent — Custom Kitchen" },
       { src: "/images/kitchens/DSC_1497.jpg", alt: "Calgary kitchen renovation with custom cabinetry", label: "Custom Cabinetry & Countertops" },
@@ -371,13 +371,13 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { src: "/images/living-spaces/04_127_Hidden_Spring_Mews_NW4 - Copy.jpg", alt: "Basement living space Hidden Spring Mews Calgary", label: "Hidden Spring Mews — Living Space" },
+      { src: "/images/living-spaces/04_127_Hidden_Spring_Mews_NW4 - Copy.jpg", alt: "Modern living room renovation Calgary — fireplace and windows", label: "Modern Living Room — Fireplace & Windows" },
       { src: "/images/living-spaces/53_140_Cannington_Pl_SW_25 (1)_mls.jpg", alt: "Basement development Cannington Place Calgary", label: "Cannington Place — Basement Development" },
       { src: "/images/living-spaces/Copy of 05_63_Brantford_Cres_5_mls.jpg", alt: "Living space renovation Brantford Crescent Calgary", label: "Brantford Crescent — Living Space" },
       { src: "/images/living-spaces/Copy of 07_63_Brantford_Cres_7_mls.jpg", alt: "Basement renovation Brantford Crescent Calgary", label: "Brantford Crescent — Basement Finish" },
       { src: "/images/living-spaces/Copy of 16_63_Brantford_Cres_16_mls.jpg", alt: "Basement living area Calgary renovation", label: "Brantford Crescent — Recreation Room" },
       { src: "/images/living-spaces/Copy of 18_63_Brantford_Cres_18_mls.jpg", alt: "Calgary basement living space renovation", label: "Brantford Crescent — Complete Finish" },
-      { src: "/images/living-spaces/DSC_5276 - Copy.jpg", alt: "Basement development Calgary — modern finish", label: "Modern Basement — Full Development" },
+      { src: "/images/living-spaces/DSC_5276 - Copy.jpg", alt: "Entertainment area renovation Calgary — custom cabinets and woodwork", label: "Entertainment Area — Custom Cabinets and Woodwork" },
       { src: "/images/living-spaces/c1-1.JPG", alt: "Calgary basement and living space project", label: "Full Basement & Living Space Build" },
     ],
     relatedSlugs: [
@@ -494,9 +494,9 @@ const services: Service[] = [
     gallery: [
       { src: "/images/commercial/SPDD-2748-2.jpg", alt: "Commercial renovation Calgary — modern interior", label: "Commercial Interior — Modern Build-Out" },
       { src: "/images/commercial/SPDD-2856-2.jpg", alt: "Commercial space renovation Calgary", label: "Commercial Space — Full Renovation" },
-      { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-1.jpg", alt: "The Still Calgary — restaurant renovation", label: "The Still — Restaurant Build-Out" },
-      { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-2.jpg", alt: "The Still Calgary — commercial interior", label: "The Still — Interior Design" },
-      { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-6.jpg", alt: "The Still Calgary — bar and dining area", label: "The Still — Bar & Dining Area" },
+      { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-1.jpg", alt: "Downtown restaurant renovation Calgary", label: "Downtown Restaurant — Full Build-Out" },
+      { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-2.jpg", alt: "Downtown restaurant interior design Calgary", label: "Downtown Restaurant — Interior Design" },
+      { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-6.jpg", alt: "Downtown restaurant bar and dining area Calgary", label: "Downtown Restaurant — Bar & Dining Area" },
       { src: "/images/commercial/Untitled design.png", alt: "Commercial renovation Calgary project", label: "Commercial Renovation Project" },
       { src: "/images/commercial/facebook_1669405734404_7001995149437663920.jpg", alt: "Calgary commercial renovation — completed project", label: "Commercial Project — Completed Build" },
       { src: "/images/commercial/office.png", alt: "Office renovation Calgary", label: "Office Renovation — Modern Workspace" },
