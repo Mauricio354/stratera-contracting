@@ -40,15 +40,16 @@ export default function Navbar() {
       <nav className="sticky top-0 w-full z-50 py-4 bg-primary shadow-[0_2px_20px_rgba(0,0,0,0.15)]">
         <div className="container flex items-center justify-between">
           {/* Logo */}
-          <Link href="/" onClick={handleLogoClick} className="flex items-center no-underline">
+          <Link href="/" onClick={handleLogoClick} className="flex flex-col no-underline">
             <Image
               src="/images/statera-logo-navbar.png"
               alt="Statera Contracting"
               width={451}
-              height={119}
-              className="h-14 w-auto"
+              height={75}
+              className="h-28 w-auto"
               priority
             />
+            <span className="text-white/60 text-[10px] tracking-[4px] uppercase font-medium self-end -mt-1">Contracting</span>
           </Link>
 
           {/* Desktop Nav */}
@@ -146,14 +147,15 @@ export default function Navbar() {
           </button>
 
           {/* Logo inside menu */}
-          <Link href="/" onClick={() => setMenuOpen(false)} className="flex items-center mb-10">
+          <Link href="/" onClick={() => setMenuOpen(false)} className="flex flex-col mb-10">
             <Image
               src="/images/statera-logo-navbar.png"
               alt="Statera Contracting"
               width={451}
-              height={119}
-              className="h-14 w-auto"
+              height={75}
+              className="h-28 w-auto"
             />
+            <span className="text-white/60 text-[10px] tracking-[4px] uppercase font-medium self-end -mt-1">Contracting</span>
           </Link>
 
           {/* Services label */}

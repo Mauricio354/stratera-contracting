@@ -119,10 +119,10 @@ const testimonials = [
 const galleryItems = [
   { src: "/images/kitchens/DSC_9938 (1).jpg", alt: "Kitchen renovation Calgary — modern finishes", label: "Modern Kitchen — Complete Renovation" },
   { src: "/images/bathrooms/DSC_6625.jpg", alt: "Bathroom renovation Calgary — contemporary design", label: "Contemporary Bathroom — Full Remodel" },
-  { src: "/images/living-spaces/04_127_Hidden_Spring_Mews_NW4 - Copy.jpg", alt: "Hidden Spring Mews Calgary — living space renovation", label: "Hidden Spring Mews — Living Space" },
-  { src: "/images/kitchens/14-web-or-mls-_MG_0029_1.jpg", alt: "Kitchen renovation Calgary", label: "Custom Kitchen — Full Gut Renovation" },
-  { src: "/images/living-spaces/DSC_5276 - Copy.jpg", alt: "Basement and living space renovation Calgary", label: "Basement & Living Space — Full Development" },
-  { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-6.jpg", alt: "The Still Calgary — bar and dining area", label: "The Still — Bar & Dining Area" },
+  { src: "/images/living-spaces/04_127_Hidden_Spring_Mews_NW4 - Copy.jpg", alt: "Modern living room renovation Calgary — fireplace and windows", label: "Modern Living Room — Fireplace & Windows" },
+  { src: "/images/kitchens/14-web-or-mls-_MG_0029_1.jpg", alt: "Peninsula kitchen renovation Calgary", label: "Peninsula Kitchen" },
+  { src: "/images/living-spaces/DSC_5276 - Copy.jpg", alt: "Entertainment area renovation Calgary — custom cabinets and woodwork", label: "Entertainment Area — Custom Cabinets and Woodwork" },
+  { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-6.jpg", alt: "Downtown restaurant renovation Calgary — bar and dining area", label: "Downtown Restaurant — Bar & Dining Area" },
 ];
 
 export default function HomePage() {
@@ -140,7 +140,7 @@ export default function HomePage() {
           <div className="max-w-2xl">
             <div className="section-label text-accent/80 mb-6">Calgary&apos;s Renovation Experts</div>
             <h1 className="font-serif text-[clamp(2.75rem,5vw,4.25rem)] text-white leading-[1.1] mb-6">
-              Renovation Solutions<br /><span className="text-accent">Built for You.</span>
+              Renovations.<br /><span className="text-accent">Built for You.</span>
             </h1>
             <p className="text-white/55 text-lg leading-relaxed max-w-[500px] mb-10">
               Calgary&apos;s trusted renovation contractor with over 20 years of experience transforming residential and commercial spaces into extraordinary environments.
@@ -168,10 +168,8 @@ export default function HomePage() {
       <section id="about" className="py-24 bg-white">
         <div className="container grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
           <div className="relative">
-            <div className="relative w-full aspect-[4/5] rounded-2xl overflow-hidden">
-              <div className="absolute -inset-[8%]">
-                <Image src="/images/patrick-headshot.jpg" alt="Patrick Ballard - Owner of Statera Contracting" fill className="object-cover" sizes="(max-width:1024px) 100vw, 50vw" />
-              </div>
+            <div className="relative w-full aspect-[2/3] rounded-2xl overflow-hidden">
+              <Image src="/images/patrick-headshot.jpg" alt="Patrick Ballard - Owner of Statera Contracting" fill className="object-cover" sizes="(max-width:1024px) 100vw, 50vw" />
             </div>
             <div className="absolute bottom-8 -right-6 bg-primary text-white p-6 rounded-card shadow-card-lg text-center">
               <div className="text-4xl font-extrabold text-accent leading-none">20+</div>
@@ -280,10 +278,10 @@ export default function HomePage() {
             Statera Contracting serves homeowners and businesses throughout Calgary and the surrounding region, including neighbourhoods like{" "}
             <strong>Kensington, Beltline, Inglewood, Bridgeland, Mount Royal, Altadore, Marda Loop, Ramsay, Hillhurst, Sunnyside</strong>, and communities across{" "}
             <strong>NW, NE, SW, and SE Calgary</strong>. We also serve{" "}
-            <strong>Airdrie, Cochrane, Chestermere, and Okotoks</strong>.
+            <strong>Airdrie, Cochrane, Chestermere, Heritage Pointe, and Okotoks</strong>.
           </p>
           <div className="flex flex-wrap justify-center gap-3 mt-8">
-            {["Kensington", "Beltline", "Inglewood", "Bridgeland", "Mount Royal", "Altadore", "Marda Loop", "NW Calgary", "NE Calgary", "SW Calgary", "SE Calgary", "Airdrie", "Cochrane", "Chestermere"].map((area) => (
+            {["Kensington", "Beltline", "Inglewood", "Bridgeland", "Mount Royal", "Altadore", "Marda Loop", "NW Calgary", "NE Calgary", "SW Calgary", "SE Calgary", "Airdrie", "Cochrane", "Chestermere", "Heritage Pointe"].map((area) => (
               <span key={area} className="px-4 py-1.5 bg-white border border-gray-200 rounded-full text-sm text-gray-600 font-medium">{area}</span>
             ))}
           </div>
