@@ -22,9 +22,12 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 pb-12 border-b border-white/[0.06]">
           {/* Brand */}
           <div className="lg:col-span-1">
-            <Link href="/" className="flex flex-col mb-4">
-              <Image src="/images/statera-logo-navbar.png" alt="Statera Contracting" width={451} height={91} className="h-10 w-auto" />
-              <span className="text-white/60 text-[7px] tracking-[2.5px] uppercase font-medium self-end -mt-0.5">Contracting</span>
+            <Link href="/" className="flex items-center gap-2.5 mb-4">
+              <Image src="/images/statera-icon.png" alt="" width={381} height={310} className="h-10 w-auto" />
+              <div className="flex flex-col">
+                <span className="text-white font-serif text-[1.35rem] tracking-[0.15em] leading-none">STATERA</span>
+                <span className="text-white/50 text-[7px] tracking-[0.3em] uppercase font-medium mt-0.5">Contracting</span>
+              </div>
             </Link>
             <p className="text-white/45 text-sm leading-relaxed max-w-[260px]">
               Calgary&apos;s trusted renovation experts. Building balanced spaces with over 20 years of craftsmanship and care.
