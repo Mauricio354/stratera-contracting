@@ -23,7 +23,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <Link href="/" className="flex items-center mb-4">
-              <Image src="/images/statera-logo-navbar.png" alt="Statera Contracting" width={985} height={302} className="h-12 w-auto" />
+              <Image src="/images/statera-logo-navbar.png" alt="Statera Contracting" width={985} height={302} className="h-16 w-auto" />
             </Link>
             <p className="text-white/45 text-sm leading-relaxed max-w-[260px]">
               Calgary&apos;s trusted renovation experts. Building balanced spaces with over 20 years of craftsmanship and care.
