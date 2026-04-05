@@ -40,19 +40,15 @@ export default function Navbar() {
       <nav className="sticky top-0 w-full z-50 py-4 bg-primary shadow-[0_2px_20px_rgba(0,0,0,0.15)]">
         <div className="container flex items-center justify-between">
           {/* Logo */}
-          <Link href="/" onClick={handleLogoClick} className="flex items-center gap-2.5 no-underline">
+          <Link href="/" onClick={handleLogoClick} className="flex items-center no-underline">
             <Image
-              src="/images/statera-icon.png"
-              alt=""
-              width={381}
-              height={310}
-              className="h-10 w-auto"
+              src="/images/statera-logo-navbar.png"
+              alt="Statera Contracting"
+              width={451}
+              height={129}
+              className="h-14 w-auto"
               priority
             />
-            <div className="flex flex-col">
-              <span className="text-white font-serif text-[1.35rem] tracking-[0.15em] leading-none">STATERA</span>
-              <span className="text-white/50 text-[7px] tracking-[0.3em] uppercase font-medium mt-0.5">Contracting</span>
-            </div>
           </Link>
 
           {/* Desktop Nav */}
@@ -150,18 +146,14 @@ export default function Navbar() {
           </button>
 
           {/* Logo inside menu */}
-          <Link href="/" onClick={() => setMenuOpen(false)} className="flex items-center gap-2.5 mb-10">
+          <Link href="/" onClick={() => setMenuOpen(false)} className="flex items-center mb-10">
             <Image
-              src="/images/statera-icon.png"
-              alt=""
-              width={381}
-              height={310}
-              className="h-10 w-auto"
+              src="/images/statera-logo-navbar.png"
+              alt="Statera Contracting"
+              width={451}
+              height={129}
+              className="h-14 w-auto"
             />
-            <div className="flex flex-col">
-              <span className="text-white font-serif text-[1.35rem] tracking-[0.15em] leading-none">STATERA</span>
-              <span className="text-white/50 text-[7px] tracking-[0.3em] uppercase font-medium mt-0.5">Contracting</span>
-            </div>
           </Link>
 
           {/* Services label */}
