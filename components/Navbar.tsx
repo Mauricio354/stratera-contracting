@@ -45,11 +45,11 @@ export default function Navbar() {
               src="/images/statera-logo-navbar.png"
               alt="Statera Contracting"
               width={451}
-              height={75}
-              className="h-16 w-auto"
+              height={82}
+              className="h-10 w-auto"
               priority
             />
-            <span className="text-white/60 text-[8px] tracking-[3px] uppercase font-medium self-end -mt-0.5">Contracting</span>
+            <span className="text-white/60 text-[7px] tracking-[2.5px] uppercase font-medium self-end -mt-0.5">Contracting</span>
           </Link>
 
           {/* Desktop Nav */}
@@ -152,10 +152,10 @@ export default function Navbar() {
               src="/images/statera-logo-navbar.png"
               alt="Statera Contracting"
               width={451}
-              height={75}
-              className="h-16 w-auto"
+              height={82}
+              className="h-10 w-auto"
             />
-            <span className="text-white/60 text-[8px] tracking-[3px] uppercase font-medium self-end -mt-0.5">Contracting</span>
+            <span className="text-white/60 text-[7px] tracking-[2.5px] uppercase font-medium self-end -mt-0.5">Contracting</span>
           </Link>
 
           {/* Services label */}
