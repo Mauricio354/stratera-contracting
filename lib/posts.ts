@@ -29,6 +29,66 @@ export type Post = {
 
 export const posts: Post[] = [
   {
+    slug: "planning-kitchen-renovation-calgary",
+    title: "Planning a Kitchen Renovation in Calgary",
+    excerpt:
+      "How a Calgary kitchen reno really starts: layout before finishes, realistic budget ranges, and walking into construction with zero surprises.",
+    date: "2026-05-01",
+    author: "Patrick Ballard",
+    coverImage: "/images/kitchens/14-web-or-mls-_MG_0029_1.jpg",
+    coverAlt:
+      "Bright white Calgary kitchen renovation with herringbone backsplash, calacatta quartz countertops, brushed brass hardware, double wall oven, and floating wood shelves.",
+    category: "Kitchen Renovation",
+    readingTime: "3 min read",
+    metaTitle: "Planning a Kitchen Renovation in Calgary | Statera Tips",
+    metaDescription:
+      "How to plan a kitchen renovation in Calgary: layout decisions, realistic budget ranges, and what to know before you sign anything. By Patrick Ballard.",
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "A kitchen renovation in Calgary usually starts the same way: you get tired of the layout, the cabinets feel dated, or the appliances finally give out. From there, the first real step is not picking finishes. It is figuring out how your family actually uses the room.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Start With How You Use the Room",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Before Statera touches a single cabinet door, we spend time with clients in their existing kitchen, talking through the pinch points. Maybe the fridge blocks the pantry, or the island cuts off traffic between the back door and the dining room. In a lot of Calgary homes built before 2005, the kitchen was boxed off from the living space, and opening that up is often the single change that makes the whole home feel bigger.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What a Kitchen Renovation Costs in Calgary",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Once the layout is clear, we price it. A straightforward refresh with new cabinets, counters, and appliances in a standard galley kitchen can start around the mid twenties. A full gut renovation with a new island, wall removal, custom cabinetry, and upgraded electrical often lands in the sixty to ninety thousand range, and higher end builds in neighbourhoods like Britannia, Elbow Park, or Aspen can go well past that.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "No Surprises Before You Sign",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The point of the planning phase is that you walk into construction with no surprises. A good Calgary contractor will have every allowance and line item written down before you sign anything.",
+      },
+      {
+        type: "cta",
+        heading: "Thinking about a kitchen renovation?",
+        body: "Book a free, no-obligation consultation with Patrick and the Statera team to walk through your space and budget.",
+        href: "/contact",
+        label: "Get a Free Quote",
+      },
+    ],
+  },
+  {
     slug: "many-ways-to-skin-a-reno",
     title: "The Many Ways to \u201cSkin a Reno\u201d",
     excerpt:
