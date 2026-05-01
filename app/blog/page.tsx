@@ -19,8 +19,13 @@ export const metadata: Metadata = {
 
 export default function BlogIndexPage() {
   const allPosts = getAllPosts();
-  const featured = allPosts[0];
-  const rest = allPosts.slice(1);
+  // Layout switches once the blog has more than 4 posts: small post counts use
+  // a stacked full-width layout so the page never looks lonely; larger counts
+  // get the editorial featured-card-plus-grid treatment.
+  const FEATURED_GRID_THRESHOLD = 4;
+  const useFeaturedGrid = allPosts.length > FEATURED_GRID_THRESHOLD;
+  const featured = useFeaturedGrid ? allPosts[0] : null;
+  const rest = useFeaturedGrid ? allPosts.slice(1) : [];
 
   const blogSchema = {
     "@context": "https://schema.org",
@@ -75,7 +80,7 @@ export default function BlogIndexPage() {
                 Get a Free Quote
               </Link>
             </div>
-          ) : (
+          ) : useFeaturedGrid ? (
             <>
               {featured && (
                 <Link
@@ -153,6 +158,45 @@ export default function BlogIndexPage() {
                 </div>
               )}
             </>
+          ) : (
+            <div className="space-y-8">
+              {allPosts.map((post, idx) => (
+                <Link
+                  key={post.slug}
+                  href={`/blog/${post.slug}`}
+                  className="group grid md:grid-cols-2 gap-8 bg-white border border-gray-200 rounded-card overflow-hidden hover:shadow-[0_12px_40px_rgba(0,0,0,0.08)] transition-shadow"
+                >
+                  <div className="relative aspect-[4/3] md:aspect-auto md:min-h-[360px]">
+                    <Image
+                      src={post.coverImage}
+                      alt={post.coverAlt}
+                      fill
+                      sizes="(max-width: 768px) 100vw, 50vw"
+                      className="object-cover group-hover:scale-[1.02] transition-transform duration-500"
+                      priority={idx === 0}
+                    />
+                  </div>
+                  <div className="p-8 md:p-10 flex flex-col justify-center">
+                    <div className="flex items-center gap-3 text-xs uppercase tracking-[1.5px] text-accent-dark font-semibold mb-4">
+                      <span>{post.category}</span>
+                      <span className="text-gray-300">•</span>
+                      <span className="text-gray-500 font-normal normal-case tracking-normal">
+                        {formatPostDate(post.date)}
+                      </span>
+                    </div>
+                    <h2 className="font-serif text-2xl md:text-3xl text-primary leading-tight mb-3 group-hover:text-accent-dark transition-colors">
+                      {post.title}
+                    </h2>
+                    <p className="text-gray-600 text-sm leading-relaxed mb-5">
+                      {post.excerpt}
+                    </p>
+                    <div className="text-xs text-gray-500">
+                      {post.readingTime} · By {post.author}
+                    </div>
+                  </div>
+                </Link>
+              ))}
+            </div>
           )}
         </div>
       </section>
