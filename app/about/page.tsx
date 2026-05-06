@@ -137,7 +137,7 @@ export default function AboutPage() {
           <div className="relative">
             <div className="relative w-full aspect-[2/3] rounded-card overflow-hidden">
               <Image
-                src="/images/patrick-headshot.jpg"
+                src="/images/patrick-newheadshot.jpg"
                 alt="Patrick Ballard — Owner of Statera Contracting"
                 fill
                 className="object-cover"
