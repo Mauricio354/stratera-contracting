@@ -29,6 +29,74 @@ export type Post = {
 
 export const posts: Post[] = [
   {
+    slug: "bathroom-renovation-calgary-cost-2026",
+    title: "What a Bathroom Renovation in Calgary Actually Costs in 2026",
+    excerpt:
+      "Real Calgary bathroom renovation pricing for 2026, from refresh to full gut, plus what drives the number up or down and where to spend or save.",
+    date: "2026-05-11",
+    author: "Patrick Ballard",
+    coverImage: "/images/bathrooms/31_140_Cannington_Pl_SW_31_mls (1) (1).jpg",
+    coverAlt:
+      "Calgary bathroom renovation in Cannington Place with white subway tile shower, black-framed glass enclosure, hexagonal mosaic floor, navy vanity, brass fixtures, and wood floating shelves.",
+    category: "Bathroom Renovation",
+    readingTime: "5 min read",
+    metaTitle: "Bathroom Renovation Calgary 2026 Cost Guide | Statera",
+    metaDescription:
+      "What a bathroom renovation in Calgary really costs in 2026, from refresh to full gut, with timelines and where to spend or save. Statera Contracting.",
+    content: [
+      { type: "heading", level: 2, text: "Where Calgary Bathroom Costs Land Today" },
+      {
+        type: "paragraph",
+        text:
+          "A bathroom renovation in Calgary in 2026 sits in three rough tiers. A refresh, meaning new vanity, tile, paint, and fixtures with the existing layout left alone, runs around twelve to twenty thousand dollars for an average main bathroom. A mid-range remodel that replaces the tub or shower, swaps the tile, and updates plumbing fixtures usually lands between twenty-two and thirty-five thousand. A full gut where walls move, plumbing reroutes, and a custom shower goes in often crosses forty thousand and can climb past sixty for an ensuite with a freestanding tub and double vanity.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Those numbers shift based on three things. The first is the building. A 1970s house in Lake Bonavista has different plumbing realities than a six-year-old build in Mahogany. The second is finish level. A heated tile floor with a curbless shower is a different scope than a builder-grade vanity swap. The third is permits. Any time you move plumbing or a wall, the City of Calgary wants drawings and an inspection, and that adds time and a small line on the budget. None of these are reasons to skip the renovation, they are reasons to plan it properly.",
+      },
+      { type: "heading", level: 2, text: "What Drives the Number Up or Down" },
+      {
+        type: "paragraph",
+        text:
+          "Tile is usually the biggest single line on a Calgary bathroom budget after labour. Standard porcelain runs about four to eight dollars a square foot at most local suppliers. Imported large-format tile or natural stone can triple that quickly, and the install labour rises with it because the cuts are slower and the layout has to be precise. If your goal is a calm spa look without the spa price, mid-priced porcelain with a good grout match looks excellent and survives a long Calgary winter of boots and snow.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Plumbing relocations are the next big swing. Moving a toilet six feet across the room sounds small but means cutting concrete in a basement bathroom or pulling subfloor and joists upstairs. That work is real and worth doing if the layout is wrong, but it is the kind of decision that should be made on day one of design, not three weeks into demo. We sit down with our clients before any walls open and walk through which moves are worth the cost and which are not.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Fixtures are the area where most homeowners can save without losing quality. A reliable toilet from Toto or American Standard runs four to six hundred dollars and lasts decades. A shower system from Riobel or Moen in the mid range performs as well as a higher-end import for daily use. The places to spend a little more are the items you touch every day, the faucets and the shower handle, where the difference in build quality is felt every morning.",
+      },
+      { type: "heading", level: 2, text: "Timeline From First Call to Final Caulk" },
+      {
+        type: "paragraph",
+        text:
+          "A typical Statera bathroom renovation runs three to six weeks on site once we start demo. Before that there is usually two to four weeks of design, ordering, and permitting. Tile and vanities sometimes have a longer lead time, especially anything semi-custom, so we order early and stage the materials in our shop before the crew shows up at your house. That keeps the project moving and avoids the dead week where everyone is waiting on a backordered shower base.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Calgary inspections add a known step but rarely a long one. A rough-in plumbing inspection happens after the new lines are in and before the wall closes up. An electrical inspection follows the wiring rough-in. A final inspection wraps the project. We book those windows ahead and sequence the trades around them so nothing sits idle. Communication is daily. You get a short check-in by message most evenings during demo and rough-in so the project never feels like it is happening behind a curtain.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "If you are weighing whether to tackle a bathroom this summer or wait until fall, summer is typically the better window. Trades have steadier weather for moving materials in and out, and the bathroom is one of the rooms you can leave for a long weekend without disrupting the family if a critical step needs uninterrupted time. Most of our June and July bookings fill by mid-May, which is one more reason to start the conversation now.",
+      },
+      {
+        type: "cta",
+        heading: "Ready to plan your bathroom renovation?",
+        body: "Book a free in-home walkthrough and we'll give you a clear scope, a real price, and a timeline that fits your summer.",
+        href: "/contact",
+        label: "Get a Free Quote",
+      },
+    ],
+  },
+  {
     slug: "planning-kitchen-renovation-calgary",
     title: "Planning a Kitchen Renovation in Calgary",
     excerpt:
