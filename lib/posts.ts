@@ -29,6 +29,79 @@ export type Post = {
 
 export const posts: Post[] = [
   {
+    slug: "home-renovations-calgary-2026-roadmap",
+    title: "Planning Home Renovations in Calgary: A 2026 Owner’s Roadmap",
+    excerpt:
+      "How to plan home renovations in Calgary in 2026: real budgets, permits, trade sequencing, and how to avoid the mistakes that blow up timelines.",
+    date: "2026-05-18",
+    author: "Patrick Ballard",
+    coverImage: "/images/living-spaces/04_127_Hidden_Spring_Mews_NW4 - Copy.jpg",
+    coverAlt:
+      "Renovated Calgary living room at Hidden Spring Mews with double-height windows, vaulted ceiling, wide-plank wood floors, and a bright open-concept layout.",
+    category: "Home Renovations",
+    readingTime: "5 min read",
+    metaTitle: "Home Renovations Calgary 2026 Owner’s Roadmap | Statera",
+    metaDescription:
+      "How to plan home renovations in Calgary in 2026: budgets, permits, trade sequencing, and avoiding the common mistakes. Statera Contracting.",
+    content: [
+      { type: "heading", level: 2, text: "Start With the House You Have, Not the One You Want" },
+      {
+        type: "paragraph",
+        text:
+          "Calgary housing stock is a mix of postwar bungalows, eighties walkout splits, nineties suburban two-storeys, and the newer infills going up in Bridgeland, Killarney, and Marda Loop. Each one comes with its own set of bones and its own set of constraints. Before you sketch the dream layout, walk the home with a clear eye for what is fixed. Load-bearing walls, foundation lines, the location of the main electrical panel, and the way the gas line enters the house all have a vote in what the renovation can become and how much it will cost.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "We start every renovation conversation with a measure-up and a structural review, even if the project is just one room. A new kitchen that opens to the living room sounds simple until the wall in the middle is carrying the second floor. A basement suite plan looks great on paper until the soffit hides a rerouted heating duct and the ceiling drops to six and a half feet. None of these are deal breakers, but they belong in the conversation on day one, not week three.",
+      },
+      { type: "heading", level: 2, text: "Set a Real Budget Before You Pick Finishes" },
+      {
+        type: "paragraph",
+        text:
+          "The single biggest mistake we see Calgary homeowners make is choosing finishes before locking down a budget. Tile selections lead to vanity selections lead to lighting selections, and a month later the spreadsheet is forty percent over what you set out to spend. The cleaner approach is to define a target spend and a hard ceiling, then work the design and the finish package backward into those numbers.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "A useful rule of thumb for Calgary homes in 2026 is roughly two hundred and fifty to four hundred and fifty dollars per square foot for a full main floor renovation, depending on whether the kitchen and bathrooms are touched. Whole-home renos that include a primary bath, a kitchen, flooring, and paint typically run between one hundred and seventy and two hundred and fifty thousand for an average detached home. These ranges are a starting point, not a quote. A real number comes from a measured drawing and a written scope, which is something we provide before any deposit changes hands.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Build a contingency line of ten to fifteen percent into the budget and protect it. Hidden conditions in older Calgary homes show up most often in three places. Knob-and-tube or aluminum wiring in homes built before 1975. Drain lines that have settled or developed bellies, common in 1960s and 1970s builds. Mould or asbestos in finishes from before 1990. Each one is solvable but each one needs a real solution rather than a band-aid.",
+      },
+      { type: "heading", level: 2, text: "Permits, Trades, and the Order of Operations" },
+      {
+        type: "paragraph",
+        text:
+          "Most meaningful Calgary renovations need at least one City permit. Building, electrical, plumbing, and gas are the four categories you will run into. Statera handles the application, the drawings, and the inspections as part of every project so you are not chasing paperwork. The City has improved turnaround times in the last few years, but a complex project should still build a four to six week permit window into the front of the schedule.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Trade sequencing matters more than most homeowners realize. Demo first. Framing changes second. Rough-in plumbing and electrical third, in that order so the plumber owns the wall first. Insulation and drywall close out the rough-in stage. Then trim, cabinets, tile, paint, flooring, and final fixtures, roughly in that sequence with overlap. A renovation that flips the order, say tile before plumbing rough-in, is a renovation that either fails inspection or needs to be ripped out and redone.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Pick a contractor who runs the schedule and owns the trade list. A general contractor is not just a person with a pickup truck. The job is logistics, communication, payment timing, and quality control across six to ten different trades, plus the homeowner. We run a tight schedule so the kitchen does not sit empty for two weeks waiting on a counter template, and we communicate every change in writing so there is no debate at the end about what was agreed.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Home renovations in Calgary are one of the more meaningful investments you will make in your house, and they deserve a clear plan, an honest budget, and a contractor who treats the project like the home you live in.",
+      },
+      {
+        type: "cta",
+        heading: "Planning a home renovation this year?",
+        body: "Book a no-charge consultation. We'll sit down at your kitchen table and map out what your project actually needs.",
+        href: "/contact",
+        label: "Get a Free Quote",
+      },
+    ],
+  },
+  {
     slug: "bathroom-renovation-calgary-cost-2026",
     title: "What a Bathroom Renovation in Calgary Actually Costs in 2026",
     excerpt:
