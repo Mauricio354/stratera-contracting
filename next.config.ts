@@ -22,6 +22,25 @@ const nextConfig: NextConfig = {
       },
     ];
   },
+  // Belt and suspenders: redirect any www.stateracontracting.com traffic
+  // to the apex domain. Vercel's domain settings already handle this via
+  // a 308 redirect, but this rule ensures consolidation even if the
+  // Vercel config ever changes. permanent: true emits a 308.
+  async redirects() {
+    return [
+      {
+        source: "/:path*",
+        has: [
+          {
+            type: "host",
+            value: "www.stateracontracting.com",
+          },
+        ],
+        destination: "https://stateracontracting.com/:path*",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;
