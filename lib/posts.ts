@@ -29,6 +29,105 @@ export type Post = {
 
 export const posts: Post[] = [
   {
+    slug: "basement-finishing-calgary",
+    title: "Basement Finishing Calgary: Turning Unused Square Footage Into Real Living Space",
+    excerpt:
+      "Basement finishing in Calgary: what it costs, what permits you need, what gets missed, and how Statera runs the project from first call to final inspection.",
+    date: "2026-05-28",
+    author: "Patrick Ballard",
+    coverImage: "/images/living-spaces/basement-finishing-calgary.jpg",
+    coverAlt:
+      "Finished Calgary basement living space with open-concept layout, pot lighting, and modern finishes.",
+    category: "Basement Renovation",
+    readingTime: "5 min read",
+    metaTitle: "Basement Finishing Calgary: Full 2026 Guide | Statera",
+    metaDescription:
+      "Basement finishing Calgary guide for 2026. Layout ideas, permits, budget ranges, and how to pick a contractor you can trust.",
+    content: [
+      {
+        type: "heading",
+        level: 2,
+        text: "Why Calgary Homeowners Are Finishing Basements in 2026",
+      },
+      {
+        type: "paragraph",
+        text:
+          "In Calgary the basement question comes up in almost every home. Most houses in the city sit on a full concrete foundation with ceilings at or above eight feet, which means the lower level is the largest single piece of unused square footage in your home. Finishing it is one of the few renovations that adds real functional space without touching the footprint of the house.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "What we see most often right now falls into three buckets. Families with teenagers want a dedicated rec room and a second bathroom so mornings upstairs get less chaotic. Couples with parents moving in want a proper guest suite with its own bedroom and bath. And a growing number of clients in neighbourhoods like Evanston, Mahogany, and Walden want a home office setup that actually feels separate from the rest of the house.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Budget wise, a finished basement in Calgary for a standard 1,000 to 1,200 square foot area typically lands between forty and seventy thousand dollars, depending on whether you add a bathroom, a wet bar, or upgraded flooring. A rough-in already being in place from the original build can shave several thousand off that number.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Before committing to a scope, we always ask clients to think five years out. Are kids about to leave for university? Is a home-based business about to take off? The right layout depends on where your life is heading, not just where it is today.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Calgary Permits, Inspections, and the Parts People Miss",
+      },
+      {
+        type: "paragraph",
+        text:
+          "A basement development in Calgary almost always requires a development and building permit from the City. If you are adding a bedroom you need egress windows that meet current code. If you are adding a bathroom you need inspections at rough-in and final for both plumbing and electrical. Skipping permits is short-sighted. The City has gotten faster with approvals over the last two years, and an unpermitted basement is a real headache when you go to sell.",
+      },
+      {
+        type: "paragraph",
+        text: "A few things routinely get missed on basement projects:",
+      },
+      {
+        type: "list",
+        style: "bullet",
+        items: [
+          "Vapour barrier and insulation. Calgary winters are cold and dry, and a wall assembly that looks fine in summer can end up with condensation problems if the vapour barrier is not continuous behind the studs. This is especially true against exterior concrete walls.",
+          "Sound separation. If you are planning a media room or a guest suite below a main floor living space, put insulation in the ceiling joists and consider resilient channel for drywall. The cost is small and the comfort difference is large.",
+          "HVAC balancing. Tying new rooms into the existing duct system without a proper balance often leaves the basement either freezing or stuffy. A good contractor will account for that up front, not after the drywall is up.",
+          "Lighting layout. Basement ceilings are usually lower, which makes light fixtures feel closer. Low-profile pot lights and dimmers make a big difference in how the space actually feels to spend time in.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What to Expect When You Hire Statera for a Basement in Calgary",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Our basement finishing process runs in four phases. First we sit down in your home, measure the space, understand how you want to use it, and leave with enough information to produce a real scope. Second we come back with a drawing, a detailed scope of work, and a fixed-price contract with a payment schedule tied to milestones. Third we run the build, usually four to six weeks on site for a standard project, with weekly schedule updates. Fourth we close out with final inspections and a walk-through where anything small gets fixed on the spot.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Throughout the project you have one project manager who knows your file. When something needs a decision, it comes from that person, not five different trades messaging you directly. That single point of contact is one of the biggest reasons our clients refer us to their neighbours.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "We build basements in every corner of Calgary, from older neighbourhoods like Bowness and Haysboro to new communities like Carrington and Seton. Each home has its own quirks, and the work we do reflects that. No two basements we finish look exactly alike, because no two families use them the same way.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "If you have an unfinished basement that has been sitting empty for a few years, or a partly finished space that was never quite done right, get in touch. We will come out, look at what you have, and give you an honest read on what it would take to turn it into the space you actually want.",
+      },
+      {
+        type: "cta",
+        heading: "Ready to plan your basement?",
+        body: "Book a free consultation and we will walk through your space, talk layout options, and give you a straight answer on cost and timeline.",
+        href: "/contact",
+        label: "Get a Free Quote",
+      },
+    ],
+  },
+  {
     slug: "home-renovations-calgary-2026-roadmap",
     title: "Planning Home Renovations in Calgary: A 2026 Owner’s Roadmap",
     excerpt:

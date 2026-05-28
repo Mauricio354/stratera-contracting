@@ -32,6 +32,7 @@ export const localBusinessSchema = {
     { "@type": "City", name: "Airdrie" },
     { "@type": "City", name: "Cochrane" },
     { "@type": "City", name: "Chestermere" },
+    { "@type": "City", name: "Okotoks" },
   ],
   openingHoursSpecification: {
     "@type": "OpeningHoursSpecification",
