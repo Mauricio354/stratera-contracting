@@ -197,7 +197,7 @@ export default function HomePage() {
                     <svg className="w-5 h-5 stroke-accent-dark" viewBox="0 0 24 24" fill="none" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d={f.icon} /></svg>
                   </div>
                   <div>
-                    <h4 className="text-sm font-semibold text-primary mb-0.5">{f.title}</h4>
+                    <h3 className="text-sm font-semibold text-primary mb-0.5">{f.title}</h3>
                     <p className="text-xs text-gray-600">{f.desc}</p>
                   </div>
                 </div>
@@ -306,7 +306,7 @@ export default function HomePage() {
                     <svg className="w-5 h-5 stroke-accent-dark" viewBox="0 0 24 24" fill="none" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d={d.icon} /></svg>
                   </div>
                   <div>
-                    <h4 className="text-sm font-semibold text-primary mb-0.5">{d.label}</h4>
+                    <h3 className="text-sm font-semibold text-primary mb-0.5">{d.label}</h3>
                     {d.href ? (
                       <a href={d.href} className="text-sm text-gray-600 hover:text-accent-dark transition-colors font-medium">{d.value}</a>
                     ) : (

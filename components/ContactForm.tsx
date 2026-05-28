@@ -63,7 +63,7 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
   }
 
   const inputClass =
-    "w-full px-4 py-3 border-[1.5px] border-gray-200 rounded-[10px] font-sans text-sm transition-all duration-200 focus:outline-none focus:border-accent focus:shadow-[0_0_0_4px_rgba(194,217,81,0.12)] bg-white text-primary placeholder-gray-400 disabled:opacity-60 disabled:cursor-not-allowed";
+    "w-full px-4 py-3 border-[1.5px] border-gray-200 rounded-[10px] font-sans text-sm transition-all duration-200 focus:outline-none focus:border-accent focus:shadow-[0_0_0_4px_rgba(194,217,81,0.12)] bg-white text-primary placeholder-gray-600 disabled:opacity-60 disabled:cursor-not-allowed";
   const labelClass =
     "block text-xs font-semibold uppercase tracking-[0.5px] text-gray-800 mb-1.5";
   const isLoading = status === "loading";
@@ -72,8 +72,9 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
     <form onSubmit={handleSubmit} className="space-y-4">
       <div className="grid grid-cols-2 gap-4">
         <div>
-          <label className={labelClass}>First Name</label>
+          <label htmlFor="firstName" className={labelClass}>First Name</label>
           <input
+            id="firstName"
             type="text"
             className={inputClass}
             placeholder="John"
@@ -85,8 +86,9 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
           />
         </div>
         <div>
-          <label className={labelClass}>Last Name</label>
+          <label htmlFor="lastName" className={labelClass}>Last Name</label>
           <input
+            id="lastName"
             type="text"
             className={inputClass}
             placeholder="Smith"
@@ -101,8 +103,9 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
 
       <div className="grid grid-cols-2 gap-4">
         <div>
-          <label className={labelClass}>Email</label>
+          <label htmlFor="email" className={labelClass}>Email</label>
           <input
+            id="email"
             type="email"
             className={inputClass}
             placeholder="john@example.com"
@@ -114,8 +117,9 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
           />
         </div>
         <div>
-          <label className={labelClass}>Phone <span className="text-gray-400 normal-case font-normal">(optional)</span></label>
+          <label htmlFor="phone" className={labelClass}>Phone <span className="text-gray-600 normal-case font-normal">(optional)</span></label>
           <input
+            id="phone"
             type="tel"
             className={inputClass}
             placeholder="(403) 555-1234"
@@ -128,8 +132,9 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
       </div>
 
       <div>
-        <label className={labelClass}>Project Type</label>
+        <label htmlFor="projectType" className={labelClass}>Project Type</label>
         <select
+          id="projectType"
           className={inputClass + " appearance-none cursor-pointer"}
           required
           disabled={isLoading}
@@ -156,8 +161,9 @@ export default function ContactForm({ defaultService = "" }: ContactFormProps) {
       </div>
 
       <div>
-        <label className={labelClass}>Project Details</label>
+        <label htmlFor="message" className={labelClass}>Project Details</label>
         <textarea
+          id="message"
           className={inputClass + " min-h-[120px] resize-y"}
           placeholder="Tell us about your project — what are you looking to renovate? Any specific goals, timeline, or budget in mind?"
           required
