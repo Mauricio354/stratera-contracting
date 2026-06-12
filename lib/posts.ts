@@ -29,6 +29,186 @@ export type Post = {
 
 export const posts: Post[] = [
   {
+    slug: "bathroom-renovation-bearspaw",
+    title: "Bathroom Renovation in Bearspaw: What Acreage Homeowners Should Know",
+    excerpt:
+      "Bathroom renovation in Bearspaw is its own kind of project: Rocky View County permits, well water, septic limits, and acreage finish levels. Here is what to plan for.",
+    date: "2026-06-12",
+    author: "Patrick Ballard",
+    coverImage: "/images/bathrooms/DSC_6625.jpg",
+    coverAlt:
+      "Renovated Bearspaw bathroom with a white double vanity, grey quartz countertops, copper faucets, and a freestanding tub beneath a window.",
+    category: "Bathroom Renovation",
+    readingTime: "6 min read",
+    metaTitle: "Bathroom Renovation Bearspaw: Homeowner Guide | Statera",
+    metaDescription:
+      "Planning a bathroom renovation in Bearspaw? Practical guidance on permits, well water, septic, timelines, and costs for acreage and estate homes from a Calgary-area contractor.",
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Bathroom renovations in Bearspaw are not the same project as a bathroom renovation in an inner-city Calgary bungalow. The homes are bigger, the lots are measured in acres, and most properties run on well water and a septic system rather than city utilities. Those differences change how the work is planned, what permits apply, and where your budget actually goes.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "If you own a home off Bearspaw Road, Lochend, or one of the estate enclaves north of Highway 1A, this guide walks through the practical realities of renovating a bathroom out here. The goal is to help you plan well before you call anyone for a quote.",
+      },
+      { type: "heading", level: 2, text: "Bearspaw Is Rocky View County, Not the City of Calgary" },
+      {
+        type: "paragraph",
+        text:
+          "This is the first thing many homeowners get wrong. Bearspaw falls under Rocky View County, so your renovation does not go through the City of Calgary permit system. For most bathroom renovations, you will need a building permit from Rocky View County once the work involves moving or adding plumbing, changing electrical, or altering structure.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "A like-for-like cosmetic refresh, new vanity, new tile, new fixtures in the same locations, often does not trigger a permit. The moment you relocate a toilet, add a shower, move a wall, or run new electrical circuits, a permit is on the table. The county also requires that gas, electrical, and plumbing work be done under the proper trade permits by qualified trades.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "We coordinate that permitting with Rocky View County as part of the job, so you are not chasing paperwork yourself. Permitted work also protects you at resale, since unpermitted bathroom additions are a common snag during estate-home sales out here.",
+      },
+      { type: "heading", level: 2, text: "Well Water Changes Your Fixture and Material Choices" },
+      {
+        type: "paragraph",
+        text:
+          "City homes get treated municipal water. Most Bearspaw acreages draw from a well, and well water in this part of Rocky View County is frequently hard and can carry iron or sulphur. That has direct consequences for a bathroom renovation.",
+      },
+      {
+        type: "list",
+        style: "bullet",
+        items: [
+          "Hard water leaves mineral spotting on glass shower enclosures and chrome.",
+          "Iron can stain white tubs, sinks, and grout with an orange tint over time.",
+          "Mineral buildup shortens the life of cartridges inside faucets and shower valves.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Before we finalize finishes, it is worth knowing your water quality. If you do not already run a water softener or treatment system, a renovation is the natural time to add or upgrade one. We also steer clients toward fixtures and finishes that hide spotting better and toward valve brands with serviceable, easy-to-replace cartridges. Spending a little here protects the expensive finishes you are about to install.",
+      },
+      { type: "heading", level: 2, text: "Your Septic System Sets a Real Limit" },
+      {
+        type: "paragraph",
+        text:
+          "A second acreage reality: adding a bathroom is not just a plumbing question, it is a septic question. Every fixture you add increases the load on your septic field. If you are converting a powder room into a full bath, or adding an ensuite as part of a larger project, the existing system needs to have capacity for it.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "For a straightforward renovation that keeps the same number of fixtures, this usually is not an issue. For anything that adds a shower, tub, or toilet, it is worth confirming your septic field can handle the additional flow before committing to the design. We flag this early rather than discovering it mid-project.",
+      },
+      { type: "heading", level: 2, text: "Where Bearspaw Budgets Actually Go" },
+      {
+        type: "paragraph",
+        text:
+          "Estate and acreage homes tend to carry higher finish expectations, and the bathrooms are often larger than a city equivalent. A primary ensuite out here might include a freestanding tub, a large walk-in shower with a bench, double vanities, and in-floor heat. Those are the cost drivers, not the square footage alone.",
+      },
+      {
+        type: "paragraph",
+        text: "The big-ticket items in a Bearspaw bathroom renovation are usually:",
+      },
+      {
+        type: "list",
+        style: "bullet",
+        items: [
+          "Tile and stone, especially large-format tile and natural stone, which take more labour to set.",
+          "Glass, since frameless shower enclosures cost more than framed units.",
+          "Plumbing fixtures, where freestanding tubs and high-end shower systems add up quickly.",
+          "In-floor radiant heat, common in estate homes and worth keeping if you have it.",
+          "Any change to plumbing or electrical locations, since moving services is more expensive than working with what is there.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "There is also a quiet acreage factor: distance. Trades, inspectors, and material deliveries all travel out to Bearspaw, which can affect scheduling. A contractor who already works in the Calgary area and surrounding counties will plan around that instead of treating your home as an afterthought.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "We do not publish flat prices because no two acreage bathrooms are alike. What we do provide is a free consultation and a fixed-price quote, so once we have seen the space and your water and septic situation, the number we give you is the number you plan around.",
+      },
+      { type: "heading", level: 2, text: "A Realistic Timeline" },
+      {
+        type: "paragraph",
+        text:
+          "For a single full bathroom with some layout changes, plan for roughly three to five weeks of on-site work once materials are in hand. That assumes:",
+      },
+      {
+        type: "list",
+        style: "bullet",
+        items: [
+          "One to two weeks of demolition, rough-in plumbing and electrical, and inspections.",
+          "One to two weeks of tile, waterproofing, and cure time.",
+          "A final week for vanities, fixtures, glass, and finishing.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "The schedule extends if you are doing a larger ensuite, custom glass with a longer lead time, or specialty stone. Permit review through Rocky View County also adds time at the front end, which is why we start that process early. Ordering finishes before demolition begins is the single best thing you can do to keep a Bearspaw project on schedule, since redelivery to an acreage is not quick.",
+      },
+      { type: "heading", level: 2, text: "Working With a Contractor Who Knows the Area" },
+      {
+        type: "paragraph",
+        text:
+          "Bearspaw renovations reward a contractor who has actually worked on acreage properties. The well water question, the septic capacity check, the county permit process, and the higher finish expectations are all things a city-only renovator may not think to raise.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Statera Contracting is Calgary owned and operated with more than 20 years of experience across residential and commercial work. We are licensed, insured, and WCB compliant, we pull and coordinate the proper permits, and we work to fixed-price quotes with clear communication from start to finish.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "If you are planning a bathroom renovation in Bearspaw, book a free consultation and we will walk the space, talk through your water and septic setup, and give you a straight quote with no pressure.",
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions" },
+      { type: "heading", level: 3, text: "Do I need a permit for a bathroom renovation in Bearspaw?" },
+      {
+        type: "paragraph",
+        text:
+          "If you are only swapping finishes in the same layout, often no. If you move plumbing, add fixtures, change electrical, or alter structure, you will need a building permit from Rocky View County, along with the proper trade permits. We coordinate this for you.",
+      },
+      { type: "heading", level: 3, text: "Will my well water affect my new bathroom fixtures?" },
+      {
+        type: "paragraph",
+        text:
+          "It can. Hard water and iron are common on Bearspaw wells and can spot glass, stain surfaces, and wear out faucet cartridges faster. A renovation is a good time to check your water quality and add or upgrade treatment, then choose fixtures that hold up well.",
+      },
+      { type: "heading", level: 3, text: "Can my septic system handle adding a bathroom?" },
+      {
+        type: "paragraph",
+        text:
+          "It depends on your field capacity. Keeping the same number of fixtures is usually fine. Adding a toilet, shower, or tub increases the load, so we confirm your septic can handle it before finalizing the design.",
+      },
+      { type: "heading", level: 3, text: "How long does a bathroom renovation in Bearspaw take?" },
+      {
+        type: "paragraph",
+        text:
+          "A typical full bathroom with some layout changes runs about three to five weeks of on-site work, plus permit review and material lead times at the front. Larger ensuites and custom glass or stone extend that.",
+      },
+      { type: "heading", level: 3, text: "How much does a bathroom renovation cost in Bearspaw?" },
+      {
+        type: "paragraph",
+        text:
+          "There is no flat price, because finishes, size, and plumbing changes vary widely on acreage homes. After a free consultation we provide a fixed-price quote so you know the full cost before work starts.",
+      },
+      {
+        type: "cta",
+        heading: "Planning a bathroom renovation in Bearspaw?",
+        body: "Book a free consultation and we will walk the space, review your water and septic setup, and give you a straight, fixed-price quote.",
+        href: "/contact",
+        label: "Get a Free Quote",
+      },
+    ],
+  },
+  {
     slug: "basement-finishing-calgary",
     title: "Basement Finishing Calgary: Turning Unused Square Footage Into Real Living Space",
     excerpt:
