@@ -29,6 +29,85 @@ export type Post = {
 
 export const posts: Post[] = [
   {
+    slug: "garage-suite-calgary",
+    title: "Garage Suites in Calgary: What It Actually Costs to Turn Unused Space Into a Real Room",
+    excerpt:
+      "What a garage suite conversion actually costs in Calgary, the parking and permit questions the City will ask, and whether it beats a full addition.",
+    date: "2026-07-03",
+    author: "Patrick Ballard",
+    coverImage: "/images/home-additions/garage-suite-calgary-office-gym.png",
+    coverAlt:
+      "Converted Calgary garage suite with a home office on one side featuring a wood desk and dual monitors, and a home gym on the other with a bike, bench, and free weights, wide plank flooring throughout.",
+    category: "Home Additions",
+    readingTime: "5 min read",
+    metaTitle: "Garage Suite Calgary: 2026 Cost Guide | Statera",
+    metaDescription:
+      "What a garage suite conversion actually costs in Calgary in 2026, permit requirements, and whether it beats a full addition. From a licensed Calgary contractor.",
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "A lot of Calgary homeowners have an attached or detached garage sitting half full of things that used to be in the basement, and a growing number are asking whether that space could become a home office, a gym, or even a legal garage suite instead. A garage conversion is usually the cheapest way to add real square footage to a home, since the foundation, walls, and roof already exist. The question is whether it makes sense for your garage specifically.",
+      },
+      { type: "heading", level: 2, text: "What a Garage Suite Costs in Calgary" },
+      {
+        type: "paragraph",
+        text:
+          "Most garage conversions in Calgary land between fifteen and thirty five thousand dollars for a non-livable room, like an office or gym, depending on whether you are insulating an already-attached space or fully rebuilding a detached structure. Add plumbing and a kitchenette to build a full garage suite, and the number climbs quickly since you are now running new lines from the main house and meeting the same code requirements as a basement suite.",
+      },
+      { type: "heading", level: 2, text: "The Parking Question the City Will Ask" },
+      {
+        type: "paragraph",
+        text:
+          "Removing a garage from a property with limited off-street parking can trigger a City of Calgary land use review, since many residential zones require a minimum number of parking spaces. Before falling in love with a design, confirm your lot still meets parking requirements after the garage stops being a garage. This is one of the most commonly missed steps in a garage conversion, and it is the first thing we check.",
+      },
+      { type: "heading", level: 2, text: "Attached Versus Detached Garages" },
+      {
+        type: "paragraph",
+        text:
+          "An attached garage is usually the simpler conversion, since it already shares a wall, and often a roofline, with the house. Tying into existing heating and electrical is more straightforward. A detached garage conversion is closer to building a small standalone structure. It needs its own heat source or a buried utility run from the house, and if you want it as a livable suite rather than a studio or gym, it needs to meet the same code requirements as a basement suite, including egress and fire separation.",
+      },
+      { type: "heading", level: 2, text: "Permits You Will Need" },
+      {
+        type: "paragraph",
+        text:
+          "Converting a garage to living space in Calgary requires a building permit at minimum, and a development permit if the change affects parking requirements or the use of the space. Electrical and plumbing work each need their own permits and inspections. Skipping this step is a common shortcut that causes real problems at resale, since an unpermitted conversion cannot legally be represented as finished living space.",
+      },
+      { type: "heading", level: 2, text: "Is a Garage Suite the Right Move" },
+      {
+        type: "paragraph",
+        text:
+          "A garage conversion makes the most sense when you do not need the parking and want space fast, without the excavation and foundation work of a full addition. If you need the garage for vehicles or storage and still want more room, a bump-out addition or basement development is usually the better answer. We walk through this trade-off with every client before recommending a direction.",
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions" },
+      { type: "heading", level: 3, text: "Does a garage suite in Calgary need a permit?" },
+      {
+        type: "paragraph",
+        text:
+          "Yes. At minimum you need a building permit, and if the conversion affects parking requirements or changes the property's zoning use, a development permit as well. Electrical and plumbing work need separate permits and inspections.",
+      },
+      { type: "heading", level: 3, text: "Will I lose value by removing my garage?" },
+      {
+        type: "paragraph",
+        text:
+          "It depends on the neighbourhood and your lot's parking situation. In areas where off-street parking is expected, removing a garage without replacing that parking can affect resale appeal. We review this with you before committing to a design.",
+      },
+      { type: "heading", level: 3, text: "Can a garage conversion become a legal suite?" },
+      {
+        type: "paragraph",
+        text:
+          "Yes, if it meets the same requirements as a basement suite: proper egress, fire separation, ceiling height, and a separate entrance. This significantly increases scope and cost compared to a simple room conversion.",
+      },
+      {
+        type: "cta",
+        heading: "Thinking about turning your garage into real living space?",
+        body: "Book a free consultation and we will walk your property, check the parking and zoning requirements, and give you a straight answer on cost.",
+        href: "/contact",
+        label: "Get a Free Quote",
+      },
+    ],
+  },
+  {
     slug: "bathroom-renovation-bearspaw",
     title: "Bathroom Renovation in Bearspaw: What Acreage Homeowners Should Know",
     excerpt:
