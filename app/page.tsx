@@ -140,7 +140,7 @@ export default function HomePage() {
           <div className="max-w-2xl">
             <div className="section-label text-accent/80 mb-6">Calgary&apos;s Renovation Experts</div>
             <h1 className="font-serif text-[clamp(2.75rem,5vw,4.25rem)] text-white leading-[1.1] mb-6">
-              Renovations.<br /><span className="text-accent">Built for You.</span>
+              Calgary Renovations.<br /><span className="text-accent">Built for You.</span>
             </h1>
             <p className="text-white/55 text-lg leading-relaxed max-w-[500px] mb-10">
               Calgary&apos;s trusted renovation contractor with over 20 years of experience transforming residential and commercial spaces into extraordinary environments.

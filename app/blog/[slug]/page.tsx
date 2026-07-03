@@ -7,6 +7,7 @@ import PostContent from "@/components/PostContent";
 import {
   getAllPosts,
   getPostBySlug,
+  getPostFaqs,
   formatPostDate,
 } from "@/lib/posts";
 
@@ -81,9 +82,25 @@ export default async function BlogPostPage({
     },
   };
 
+  const postFaqs = getPostFaqs(post);
+  const faqSchema =
+    postFaqs.length > 0
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: postFaqs.map((faq) => ({
+            "@type": "Question",
+            name: faq.q,
+            acceptedAnswer: { "@type": "Answer", text: faq.a },
+          })),
+        }
+      : null;
+
+  const schemas = [localBusinessSchema, articleSchema, ...(faqSchema ? [faqSchema] : [])];
+
   return (
     <>
-      <SchemaMarkup schema={[localBusinessSchema, articleSchema]} />
+      <SchemaMarkup schema={schemas} />
 
       {/* Hero */}
       <section className="py-16 bg-primary relative overflow-hidden">

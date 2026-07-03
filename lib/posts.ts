@@ -699,6 +699,27 @@ export function getPostBySlug(slug: string): Post | undefined {
   return posts.find((p) => p.slug === slug);
 }
 
+// Extracts Q&A pairs from the "Frequently Asked Questions" section of a post's
+// content, where each question is an h3 heading immediately followed by a
+// paragraph answer. Used to generate FAQPage schema without duplicating FAQ
+// copy in a separate structured field.
+export function getPostFaqs(post: Post): { q: string; a: string }[] {
+  const faqStart = post.content.findIndex(
+    (block) => block.type === "heading" && block.level === 2 && block.text === "Frequently Asked Questions"
+  );
+  if (faqStart === -1) return [];
+
+  const faqs: { q: string; a: string }[] = [];
+  for (let i = faqStart + 1; i < post.content.length - 1; i++) {
+    const question = post.content[i];
+    const answer = post.content[i + 1];
+    if (question.type === "heading" && question.level === 3 && answer.type === "paragraph") {
+      faqs.push({ q: question.text, a: answer.text });
+    }
+  }
+  return faqs;
+}
+
 export function getAllPosts(): Post[] {
   return [...posts].sort((a, b) => (a.date < b.date ? 1 : -1));
 }
