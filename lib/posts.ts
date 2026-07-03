@@ -531,17 +531,17 @@ export const posts: Post[] = [
     slug: "planning-kitchen-renovation-calgary",
     title: "Planning a Kitchen Renovation in Calgary",
     excerpt:
-      "How a Calgary kitchen reno really starts: layout before finishes, realistic budget ranges, and walking into construction with zero surprises.",
-    date: "2026-05-01",
+      "How a Calgary kitchen reno really starts: layout before finishes, real cost tiers, a realistic timeline, and walking into construction with zero surprises.",
+    date: "2026-07-03",
     author: "Patrick Ballard",
     coverImage: "/images/kitchens/14-web-or-mls-_MG_0029_1.jpg",
     coverAlt:
       "Bright white Calgary kitchen renovation with herringbone backsplash, calacatta quartz countertops, brushed brass hardware, double wall oven, and floating wood shelves.",
     category: "Kitchen Renovation",
-    readingTime: "3 min read",
+    readingTime: "6 min read",
     metaTitle: "Planning a Kitchen Renovation in Calgary | Statera Tips",
     metaDescription:
-      "How to plan a kitchen renovation in Calgary: layout decisions, realistic budget ranges, and what to know before you sign anything. By Patrick Ballard.",
+      "How to plan a kitchen renovation in Calgary in 2026: layout decisions, real cost tiers, timelines, permits, and what to know before you sign anything.",
     content: [
       {
         type: "paragraph",
@@ -566,7 +566,36 @@ export const posts: Post[] = [
       {
         type: "paragraph",
         text:
-          "Once the layout is clear, we price it. A straightforward refresh with new cabinets, counters, and appliances in a standard galley kitchen can start around the mid twenties. A full gut renovation with a new island, wall removal, custom cabinetry, and upgraded electrical often lands in the sixty to ninety thousand range, and higher end builds in neighbourhoods like Britannia, Elbow Park, or Aspen can go well past that.",
+          "Once the layout is clear, we price it. Kitchen renovations in Calgary generally fall into three tiers. A basic cosmetic refresh, meaning new cabinet fronts or paint, counters, and a backsplash in the existing layout, starts around fifteen to twenty thousand dollars. A mid-range renovation with new cabinetry, upgraded counters, and some layout changes typically runs thirty to fifty thousand dollars. A full custom renovation with wall removal, a new island, custom cabinetry, and upgraded electrical can exceed eighty thousand dollars, and higher end builds in neighbourhoods like Britannia, Elbow Park, or Aspen can go well past that.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Pushes the Number Up or Down",
+      },
+      {
+        type: "paragraph",
+        text: "Once you know your tier, a handful of decisions do most of the work in moving the final price:",
+      },
+      {
+        type: "list",
+        style: "bullet",
+        items: [
+          "Cabinet quality. Stock cabinets, semi-custom, and fully custom cabinetry span a wide range, and cabinetry is usually the single biggest line item in the budget.",
+          "Countertop material. Laminate is the most affordable, quartz and granite sit in the mid-range, and waterfall marble edges are a premium upgrade.",
+          "Structural changes. Removing a wall or relocating plumbing and electrical adds cost, but it is often the change that makes an older Calgary kitchen actually work for how a family lives today.",
+          "Appliances. Whether you supply your own or have us coordinate them, appliance selection can swing the budget significantly on its own.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "A Realistic Timeline",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Most Calgary kitchen renovations run four to ten weeks from demolition to completion. Smaller cosmetic updates, cabinet fronts, countertops, backsplash, can be done in three to four weeks. Full gut renovations involving structural changes and custom cabinetry typically take eight to twelve weeks, mostly because custom cabinetry has its own lead time before the crew ever picks up a hammer. Ordering cabinetry and countertops as early as possible in the process is the single best thing you can do to protect your timeline.",
       },
       {
         type: "heading",
@@ -576,7 +605,38 @@ export const posts: Post[] = [
       {
         type: "paragraph",
         text:
-          "The point of the planning phase is that you walk into construction with no surprises. A good Calgary contractor will have every allowance and line item written down before you sign anything.",
+          "The point of the planning phase is that you walk into construction with no surprises. A good Calgary contractor will have every allowance and line item written down before you sign anything, so the number on your contract is the number you actually pay, not a starting point that grows once demolition begins.",
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions" },
+      { type: "heading", level: 3, text: "How much does a kitchen renovation cost in Calgary?" },
+      {
+        type: "paragraph",
+        text:
+          "Most kitchen renovations in Calgary range from twenty thousand to eighty thousand dollars or more, depending on size, finishes, and structural changes. A basic cosmetic refresh starts around fifteen to twenty thousand dollars, a mid-range renovation is typically thirty to fifty thousand dollars, and a full custom renovation can exceed eighty thousand. We provide a detailed fixed-price quote after your free consultation.",
+      },
+      { type: "heading", level: 3, text: "How long does a kitchen renovation take?" },
+      {
+        type: "paragraph",
+        text:
+          "A typical Calgary kitchen renovation takes four to ten weeks from demolition to completion. Smaller cosmetic updates can be done in three to four weeks. Full gut renovations involving structural changes and custom cabinetry take eight to twelve weeks. We provide a firm timeline in your quote.",
+      },
+      { type: "heading", level: 3, text: "Do I need a permit for a kitchen renovation in Calgary?" },
+      {
+        type: "paragraph",
+        text:
+          "Permits are required when you move walls, relocate plumbing, or make electrical upgrades. Cosmetic changes, new cabinets over an existing layout, countertops, or tile, typically do not require a permit. Statera handles all permit applications as part of our project management.",
+      },
+      { type: "heading", level: 3, text: "Should I pick finishes before or after setting a budget?" },
+      {
+        type: "paragraph",
+        text:
+          "Set the budget first. Picking finishes before you have a number leads to a design that gets value-engineered apart later. We start every project by understanding your layout goals and budget, then build a finish package that fits inside it.",
+      },
+      { type: "heading", level: 3, text: "Can I live in my home during the kitchen renovation?" },
+      {
+        type: "paragraph",
+        text:
+          "Yes, most clients stay in their home during a kitchen renovation. We set up a temporary kitchen area with a microwave, coffee maker, and mini fridge, keep the construction zone contained, and clean up each day. For large gut renovations, some clients choose to stay with family for the heaviest demo week.",
       },
       {
         type: "cta",
