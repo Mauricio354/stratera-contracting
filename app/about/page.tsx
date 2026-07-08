@@ -152,6 +152,37 @@ export default function AboutPage() {
         </div>
       </section>
 
+      {/* Family Business */}
+      <section className="py-24 bg-white">
+        <div className="container grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
+          <div className="relative w-full aspect-[4/3] rounded-card overflow-hidden">
+            <Image
+              src="/images/couple fav.jpg"
+              alt="Jozee and Patrick, owners of Statera Contracting"
+              fill
+              className="object-cover"
+              sizes="(max-width:1024px) 100vw, 50vw"
+            />
+          </div>
+          <div>
+            <div className="section-label">Meet the Owners</div>
+            <h2 className="section-title">A Family Business, Built on Trust</h2>
+            <p className="text-gray-600 leading-[1.9] mt-6">
+              Statera Contracting is a family-owned business, run by a husband and wife team who both know this city.
+            </p>
+            <p className="text-gray-600 leading-[1.9] mt-4">
+              Patrick leads operations and project execution, keeping every job on schedule and on budget from the first walkthrough to the final walkthrough.
+            </p>
+            <p className="text-gray-600 leading-[1.9] mt-4">
+              Jozee handles interior design, client experience, and business development, making sure every client feels informed and every space reflects how it will actually be used.
+            </p>
+            <p className="text-gray-600 leading-[1.9] mt-4">
+              Together, they bring a personal, hands-on approach that larger firms cannot match. When you call Statera, you are talking to the people who own the business and stand behind the work.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Values */}
       <section className="py-24 bg-gray-100">
         <div className="container">
