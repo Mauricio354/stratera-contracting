@@ -496,7 +496,7 @@ const services: Service[] = [
       { src: "/images/commercial/SPDD-2856-2.jpg", alt: "Commercial space renovation Calgary", label: "Commercial Space — Full Renovation" },
       { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-1.jpg", alt: "Downtown restaurant renovation Calgary", label: "Downtown Restaurant — Full Build-Out" },
       { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-2.jpg", alt: "Downtown restaurant interior design Calgary", label: "Downtown Restaurant — Interior Design" },
-      { src: "/images/commercial/DSC_8461.jpg", alt: "Commercial restaurant bar renovation Calgary", label: "Restaurant Bar — Custom Build-Out" },
+      { src: "/images/commercial/DSC_8461.jpg", alt: "Commercial renovation Calgary — Radiant project", label: "Commercial Renovation — Radiant Project" },
       { src: "/images/commercial/Untitled design.png", alt: "Commercial renovation Calgary project", label: "Commercial Renovation Project" },
       { src: "/images/commercial/facebook_1669405734404_7001995149437663920.jpg", alt: "Calgary commercial renovation — completed project", label: "Commercial Project — Completed Build" },
       { src: "/images/commercial/office.png", alt: "Office renovation Calgary", label: "Office Renovation — Modern Workspace" },
