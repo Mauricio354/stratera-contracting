@@ -753,6 +753,113 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "tenant-improvement-calgary",
+    title: "Commercial Renovation in Calgary: A Business Owner’s Guide to Tenant Improvement Timelines",
+    excerpt:
+      "What Calgary business owners need to know about tenant improvement timelines, the permit stack, and what actually drives commercial renovation costs before signing a lease.",
+    date: "2026-07-08",
+    author: "Patrick Ballard",
+    coverImage: "/images/commercial/DSC_8407.jpg",
+    coverAlt:
+      "Finished commercial tenant improvement in Calgary — a reception area build-out with a custom quartz reception desk, wood-slat paneling, and backlit signage.",
+    category: "Commercial Renovation",
+    readingTime: "4 min read",
+    metaTitle: "Commercial Renovation Calgary: TI Timeline Guide | Statera",
+    metaDescription:
+      "What Calgary business owners need to know about tenant improvement timelines, permits, and costs before signing a lease or starting a build-out.",
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "The clock on a commercial lease starts the moment you sign it, whether or not your space is ready to open. Business owners who plan the renovation timeline before signing avoid the most common and most expensive mistake in commercial fit-ups: an occupancy deadline that construction simply cannot meet.",
+      },
+      { type: "heading", level: 2, text: "What Counts as a Tenant Improvement" },
+      {
+        type: "paragraph",
+        text:
+          "A tenant improvement, or TI, is any modification made to a leased commercial space to fit a specific business’s needs. That ranges from paint, flooring, and signage on the light end, to full build-outs with new partition walls, electrical, plumbing, and mechanical systems on the heavy end. Offices, retail storefronts, and professional spaces are the most common tenant improvements we see in Calgary.",
+      },
+      { type: "heading", level: 2, text: "Realistic Timelines by Project Type" },
+      {
+        type: "paragraph",
+        text: "Construction timelines vary significantly by project type:",
+      },
+      {
+        type: "list",
+        style: "bullet",
+        items: [
+          "Small office TI, around 2,000 square feet: 6 to 10 weeks of construction.",
+          "Retail storefront renovation: a similar range to an office TI, longer if the storefront glazing or facade is being changed.",
+          "Restaurant or cafe front-of-house fit-up: 10 to 20 weeks, driven mainly by permit review and inspection stages rather than the build itself.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "On top of construction time, add permit review at the front end. Commercial permits generally take longer to clear than residential ones. Build that into your lease negotiation, specifically the length of your free-rent or fixturing period, rather than discovering the gap after signing.",
+      },
+      { type: "heading", level: 2, text: "The Permit Stack for Commercial Work" },
+      {
+        type: "paragraph",
+        text:
+          "Commercial renovations in Calgary typically require a development permit, a building permit, and an occupancy certificate before you can legally open. Restaurants add Alberta Health Services and fire department sign-off on top of the standard permit stack. Most landlords and property managers also require a certificate of insurance and proof of WCB coverage before any contractor sets foot on site, which is worth confirming early since it can add a step if your contractor is not already set up for it.",
+      },
+      { type: "heading", level: 2, text: "Working Around an Occupancy Deadline" },
+      {
+        type: "paragraph",
+        text:
+          "If your business needs to keep operating in an occupied building during the renovation, or your lease start date is fixed, the project needs to be sequenced around that constraint from day one. That usually means phased construction, clear hoarding and access protocols so neighbouring tenants are not disrupted, and scheduling the noisiest or dustiest work outside of business hours.",
+      },
+      { type: "heading", level: 2, text: "What Drives Commercial Renovation Costs" },
+      {
+        type: "paragraph",
+        text: "Several factors drive the total cost of a commercial renovation:",
+      },
+      {
+        type: "list",
+        style: "bullet",
+        items: [
+          "Shell space versus second-generation space. Second-generation space, meaning a unit that already had a tenant with similar electrical and plumbing needs, is significantly cheaper to build out than a bare shell.",
+          "Finish level. A basic office TI and a high-end retail build carry very different material and labour costs.",
+          "Accessible washroom requirements, which apply to most commercial spaces regardless of size.",
+          "Timeline pressure. Accelerated schedules tied to a lease start date sometimes require additional crew or extended hours.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Questions to Ask Before You Sign a Lease" },
+      {
+        type: "paragraph",
+        text:
+          "Ask the landlord whether the space is second-generation and what the previous tenant’s use was, since that tells you a lot about existing electrical panel capacity and plumbing infrastructure. Confirm the HVAC tonnage is adequate for your intended occupancy load. And confirm your tenant improvement allowance, if one is offered, actually covers the scope you are planning, not just a generic estimate.",
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions" },
+      { type: "heading", level: 3, text: "How long does a tenant improvement take in Calgary?" },
+      {
+        type: "paragraph",
+        text:
+          "A small office runs 6 to 10 weeks. A retail or restaurant fit-up runs 10 to 20 weeks, depending on scope and permit complexity.",
+      },
+      { type: "heading", level: 3, text: "Do I need a permit for a commercial renovation in Calgary?" },
+      {
+        type: "paragraph",
+        text:
+          "Yes. Virtually all commercial renovations require at least a building permit, and restaurants require additional Alberta Health Services and fire department approvals.",
+      },
+      { type: "heading", level: 3, text: "Can renovation happen while my business stays open?" },
+      {
+        type: "paragraph",
+        text:
+          "In most cases, yes. Phased construction and after-hours scheduling allow most tenant improvements to proceed without a full shutdown.",
+      },
+      {
+        type: "cta",
+        heading: "Signing a new lease or planning a commercial renovation?",
+        body: "Book a free consultation before you commit to a timeline the build cannot actually hit.",
+        href: "/contact",
+        label: "Get a Free Quote",
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
