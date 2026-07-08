@@ -133,8 +133,17 @@ export default function HomePage() {
       {/* ── HERO ── */}
       <section className="relative min-h-[90vh] flex items-center overflow-hidden bg-primary">
         <div className="absolute inset-0 bg-gradient-to-br from-[#111] via-[#1a1a1a] to-[#222]" />
-        <div className="absolute bottom-0 right-0 w-[300px] h-[300px] bg-accent opacity-[0.08]" style={{ clipPath: "polygon(100% 0,100% 100%,0 100%)" }} />
-        <div className="absolute top-[20%] right-[10%] w-36 h-36 border-2 border-accent/[0.12] rounded-full animate-pulse" />
+        <div className="hidden lg:block absolute inset-0">
+          <Image
+            src="/images/hero.png"
+            alt=""
+            fill
+            className="object-cover object-right"
+            sizes="100vw"
+            priority
+          />
+          <div className="absolute inset-0 bg-[linear-gradient(to_right,#111111_0%,#111111_52%,transparent_88%)]" />
+        </div>
         <div className="absolute bottom-0 left-0 w-full h-36 bg-gradient-to-t from-white to-transparent" />
         <div className="container relative z-10 pt-12 pb-24">
           <div className="max-w-2xl">
