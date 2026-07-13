@@ -1,8 +1,11 @@
 // Blog post data source.
 //
 // Each post is a typed object with structured content blocks. The blog index
-// page and the dynamic [slug] page both read from the `posts` array below.
-// Add new posts by appending to the array.
+// page and the dynamic [slug] page both read from the `posts` array below,
+// merged with the live BabyLoveGrowth feed. Add new hand-written posts by
+// appending to the array.
+
+import { getIndustryPosts } from "./babylovegrowth";
 
 export type ContentBlock =
   | { type: "heading"; level: 2 | 3; text: string }
@@ -10,7 +13,10 @@ export type ContentBlock =
   | { type: "list"; style: "bullet" | "number"; items: string[] }
   | { type: "image"; src: string; alt: string; caption?: string }
   | { type: "quote"; text: string; attribution?: string }
-  | { type: "cta"; heading: string; body: string; href: string; label: string };
+  | { type: "cta"; heading: string; body: string; href: string; label: string }
+  // Pre-sanitized HTML from an external feed (see lib/babylovegrowth.ts).
+  // Never construct this from unsanitized input.
+  | { type: "html"; html: string };
 
 export type Post = {
   slug: string;
@@ -862,8 +868,11 @@ export const posts: Post[] = [
   },
 ];
 
-export function getPostBySlug(slug: string): Post | undefined {
-  return posts.find((p) => p.slug === slug);
+export async function getPostBySlug(slug: string): Promise<Post | undefined> {
+  const local = posts.find((p) => p.slug === slug);
+  if (local) return local;
+  const industryPosts = await getIndustryPosts();
+  return industryPosts.find((p) => p.slug === slug);
 }
 
 // Extracts Q&A pairs from the "Frequently Asked Questions" section of a post's
@@ -887,8 +896,9 @@ export function getPostFaqs(post: Post): { q: string; a: string }[] {
   return faqs;
 }
 
-export function getAllPosts(): Post[] {
-  return [...posts].sort((a, b) => (a.date < b.date ? 1 : -1));
+export async function getAllPosts(): Promise<Post[]> {
+  const industryPosts = await getIndustryPosts();
+  return [...posts, ...industryPosts].sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
 export function formatPostDate(iso: string): string {

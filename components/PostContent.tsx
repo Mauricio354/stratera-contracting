@@ -85,6 +85,16 @@ export default function PostContent({ blocks }: { blocks: ContentBlock[] }) {
                 )}
               </blockquote>
             );
+          case "html":
+            // Pre-sanitized in lib/babylovegrowth.ts before it ever reaches
+            // this component — do not route unsanitized HTML through here.
+            return (
+              <div
+                key={i}
+                className="prose-industry text-gray-700 text-[15px] leading-relaxed [&_h2]:font-serif [&_h2]:text-2xl [&_h2]:md:text-3xl [&_h2]:text-primary [&_h2]:mt-10 [&_h2]:mb-2 [&_h3]:font-serif [&_h3]:text-xl [&_h3]:md:text-2xl [&_h3]:text-primary [&_h3]:mt-6 [&_h3]:mb-1 [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:space-y-2 [&_ul]:mb-6 [&_ol]:list-decimal [&_ol]:pl-6 [&_ol]:space-y-2 [&_ol]:mb-6 [&_table]:w-full [&_table]:my-6 [&_th]:text-left [&_th]:border-b [&_th]:border-gray-200 [&_th]:pb-2 [&_td]:border-b [&_td]:border-gray-100 [&_td]:py-2 [&_a]:text-accent-dark [&_a]:underline"
+                dangerouslySetInnerHTML={{ __html: block.html }}
+              />
+            );
           case "cta":
             return (
               <div
