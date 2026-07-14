@@ -12,8 +12,7 @@ import {
 } from "@/lib/posts";
 
 export async function generateStaticParams() {
-  const allPosts = await getAllPosts();
-  return allPosts.map((p) => ({ slug: p.slug }));
+  return getAllPosts().map((p) => ({ slug: p.slug }));
 }
 
 export async function generateMetadata({
@@ -22,7 +21,7 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  const post = await getPostBySlug(slug);
+  const post = getPostBySlug(slug);
   if (!post) return {};
   const url = `https://stateracontracting.com/blog/${post.slug}`;
   return {
@@ -53,10 +52,10 @@ export default async function BlogPostPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const post = await getPostBySlug(slug);
+  const post = getPostBySlug(slug);
   if (!post) notFound();
 
-  const related = (await getAllPosts())
+  const related = getAllPosts()
     .filter((p) => p.slug !== post.slug)
     .slice(0, 3);
 

@@ -17,8 +17,8 @@ export const metadata: Metadata = {
   },
 };
 
-export default async function BlogIndexPage() {
-  const allPosts = await getAllPosts();
+export default function BlogIndexPage() {
+  const allPosts = getAllPosts();
   // Layout switches once the blog has more than 4 posts: small post counts use
   // a stacked full-width layout so the page never looks lonely; larger counts
   // get the editorial featured-card-plus-grid treatment.

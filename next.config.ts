@@ -1,6 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  images: {
+    remotePatterns: [
+      // BabyLoveGrowth-hosted article images (lib/babylovegrowth.ts imports).
+      { protocol: "https", hostname: "csuxjmfbwmkxiegfpljm.supabase.co" },
+    ],
+  },
   async headers() {
     return [
       {

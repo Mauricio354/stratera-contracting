@@ -1,11 +1,12 @@
 // Blog post data source.
 //
 // Each post is a typed object with structured content blocks. The blog index
-// page and the dynamic [slug] page both read from the `posts` array below,
-// merged with the live BabyLoveGrowth feed. Add new hand-written posts by
-// appending to the array.
-
-import { getIndustryPosts } from "./babylovegrowth";
+// page and the dynamic [slug] page both read from the `posts` array below.
+// Add new hand-written posts by appending to the array.
+//
+// BabyLoveGrowth articles are imported the same way: fetch one with
+// lib/babylovegrowth.ts's fetchArticleById(), then add the resulting Post
+// object to this array by hand. There is no live feed, see that file for why.
 
 export type ContentBlock =
   | { type: "heading"; level: 2 | 3; text: string }
@@ -866,13 +867,121 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "contemporary-kitchen-renovation-your-2026-alberta-guide",
+    title: "Contemporary Kitchen Renovation: Your 2026 Alberta Guide",
+    excerpt:
+      "Contemporary kitchen renovation is the process of updating your kitchen with warm minimalism, natural materials, and clean lines to create a space that is both functional and inviting.",
+    date: "2026-07-14",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784013101496_Interior-designer-reviewing-contemporary-kitchen-renovation.jpeg",
+    coverAlt: "Contemporary kitchen renovation: your 2026 Alberta guide",
+    category: "Industry News",
+    readingTime: "10 min read",
+    metaTitle: "Contemporary Kitchen Renovation: Your 2026 Alberta Guide",
+    metaDescription:
+      "Discover the latest trends in contemporary kitchen renovation for 2026 in Alberta. Achieve a warm, inviting space with natural materials.",
+    content: [
+      {
+        type: "html",
+        html: `<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784013101496_Interior-designer-reviewing-contemporary-kitchen-renovation.jpeg" alt="Interior designer reviewing contemporary kitchen renovation" /></p>
+<p>Contemporary kitchen renovation is the process of updating your kitchen with warm minimalism, natural materials, and clean lines to create a space that is both functional and inviting. In 2026, this style has moved well past the cold grey palettes of the previous decade. Alberta homeowners are choosing white oak cabinetry, earthy tones like mushroom and greige, and layered lighting that works as hard as it looks good. Whether you are planning a full gut renovation or a focused refresh, understanding the design principles, budget realities, and planning steps ahead of time will save you money and frustration.</p>
+<h2>1. What are the key design elements of a contemporary kitchen renovation?</h2>
+<p>Contemporary kitchen renovation is defined by warm minimalism, natural cabinet materials, and earthy colour palettes. This is a clear shift away from the cool whites and high-gloss finishes that dominated kitchens a decade ago. The result is a kitchen that feels warm and lived-in without looking cluttered.</p>
+<p>The core design elements to focus on include:</p>
+<ul>
+<li><p><strong>Warm neutral palettes.</strong> Mushroom, greige, warm white, and muted sage replace cool greys and stark whites. These tones age well and photograph beautifully for resale.</p></li>
+<li><p><strong>Natural wood cabinetry.</strong> White oak and walnut are the top choices. Both species offer visible grain that adds texture without requiring decorative accessories.</p></li>
+<li><p><strong>Flat-panel and shaker cabinet profiles.</strong> These two profiles remain the most enduring choices. They suit both minimalist and transitional aesthetics and are widely available from Canadian suppliers.</p></li>
+<li><p><strong>Layered lighting.</strong> Combine recessed ceiling lights, under-cabinet task lighting, and a statement pendant over the island. Each layer serves a different purpose and together they create depth.</p></li>
+<li><p><strong>Open, uncluttered surfaces.</strong> Built-in storage, integrated appliances, and concealed outlets keep countertops clear. This is the single biggest visual upgrade in a minimalist kitchen remodel.</p></li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Choose your cabinet profile before anything else. Cabinet profiles and hardware layouts are costly to change later, so locking in a timeless shaker or flat-panel design early protects your investment.</em></p>
+<p>Two-tone cabinetry is now mainstream in contemporary kitchen remodelling. A common approach pairs a warm wood lower cabinet with a painted upper in a muted neutral. This adds visual interest without committing to a single bold colour throughout.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784013099395_Hands-selecting-cabinetry-samples-and-hardware.jpeg" alt="Hands selecting cabinetry samples and hardware" /></p>
+<h2>2. How to plan a budget for a contemporary kitchen renovation</h2>
+<p>The average contemporary kitchen renovation in Alberta costs between $25,000 and $55,000, with luxury projects frequently exceeding $90,000. Knowing which tier you are working in before you start design conversations prevents wasted time and misaligned expectations.</p>
+<table>
+<thead><tr><th>Budget tier</th><th>Typical range</th><th>What it covers</th></tr></thead>
+<tbody>
+<tr><td>Cosmetic</td><td>$6,000&ndash;$18,000</td><td>Cabinet refacing, new hardware, paint, lighting updates</td></tr>
+<tr><td>Mid-range</td><td>$25,000&ndash;$55,000</td><td>New cabinetry, countertops, appliances, flooring, layout adjustments</td></tr>
+<tr><td>Luxury</td><td>$60,000&ndash;$120,000+</td><td>Custom cabinetry, stone countertops, full layout changes, premium appliances</td></tr>
+</tbody>
+</table>
+<p>Within any budget, cabinetry typically represents 30 to 40% of the total, and labour accounts for another 20 to 30%. Those two categories alone can represent more than half your spend. Appliances typically take 15&ndash;20%, countertops 10&ndash;15%, and lighting 5&ndash;10%.</p>
+<p>A contingency fund of 10&ndash;15% is not optional. Hidden plumbing issues, outdated wiring, and subfloor damage are common discoveries once walls open. Budgeting for surprises upfront means you will not have to cut corners on finishes mid-project.</p>
+<p><strong>Pro Tip:</strong> <em>If your full budget is not yet available, consider a phased renovation. Tackle cabinetry and countertops first, then return for appliances and flooring. Phasing lets you spread costs without compromising the final result.</em></p>
+<p>For payment structure, do not pay more than 10&ndash;15% upfront and use milestone-based payments tied to completed stages. This keeps your contractor accountable and protects you if the project stalls. You can read more about <a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary">managing renovation costs</a> in the Statera Contracting planning guide for Calgary homeowners.</p>
+<h2>3. What materials and appliances best suit a contemporary kitchen remodel?</h2>
+<p>Material choices define how a contemporary kitchen remodel holds up over time. The right selections balance aesthetics, durability, and budget without forcing you to choose between them.</p>
+<p>Key materials and appliances to consider:</p>
+<ul>
+<li><p><strong>Quartz countertops.</strong> Quartz is non-porous, scratch-resistant, and available in a wide range of warm tones that suit 2026 palettes. Natural stone like quartzite or honed marble adds character but requires more maintenance.</p></li>
+<li><p><strong>Flooring.</strong> Large-format porcelain tile and engineered hardwood are the top choices for contemporary kitchens. Both handle Alberta's dry winters better than solid hardwood, which can gap and warp with seasonal humidity changes.</p></li>
+<li><p><strong>ENERGY STAR-rated appliances.</strong> Energy-efficient appliances reduce operating costs and qualify for rebates through programs like the Canada Greener Homes initiative. Wi-Fi enabled models are increasingly standard in mid-range and luxury renovations.</p></li>
+<li><p><strong>Panel-ready appliances.</strong> Integrated, panel-ready appliances hide behind cabinet doors for a fully streamlined look. This is one of the fastest-growing choices in contemporary kitchen design and adds significant visual cohesion.</p></li>
+<li><p><strong>Hardware and fixture finishes.</strong> Muted mixed metals are the current standard. Brushed brass paired with matte black, or unlacquered brass with warm nickel, adds depth without clashing. Avoid polished chrome in warm-toned kitchens as it reads as cold.</p></li>
+</ul>
+<p>The flooring and countertop combination sets the tone for the entire space. Choose these two elements together and build your cabinet colour and hardware choices around them.</p>
+<h2>4. Essential steps and timing for a successful kitchen renovation</h2>
+<p>A well-sequenced renovation avoids the costly mistakes that come from rushing decisions or skipping compliance steps. Follow this order:</p>
+<ol>
+<li><p><strong>Finalize your design and layout.</strong> Confirm the floor plan, cabinet layout, and appliance positions before any other decisions. Changes made after demolition are expensive.</p></li>
+<li><p><strong>Secure permits.</strong> Confirm and obtain the required permits for plumbing relocations, electrical upgrades, and structural changes before work begins. Skipping permits risks costly rework if inspectors require walls to be reopened.</p></li>
+<li><p><strong>Lock in materials early.</strong> Confirm custom cabinetry and stone countertops at least six months before demolition. Supply chain delays are the most common cause of project stalls in 2026.</p></li>
+<li><p><strong>Install dust barriers.</strong> Professional dust barriers and removable door seals must go up before demolition begins. Construction dust travels far beyond the kitchen and affects air quality throughout the home.</p></li>
+<li><p><strong>Demolition and rough-in work.</strong> Framing, plumbing, and electrical rough-in happen after demolition. Schedule inspections at rough-in stages before walls close.</p></li>
+<li><p><strong>Cabinetry and countertop installation.</strong> Cabinets go in after rough-in inspections pass. Countertops are templated and fabricated after cabinets are set.</p></li>
+<li><p><strong>Appliances, fixtures, and finishing.</strong> Appliances, plumbing fixtures, and lighting are installed last. Final inspections and touch-ups close out the project.</p></li>
+</ol>
+<p>The six-month material lead time surprises most homeowners. If you are planning a spring renovation, your cabinet and countertop orders should be placed in the autumn prior.</p>
+<h2>5. How to balance trendiness with timelessness for maximum home value</h2>
+<p>Kitchen renovations return 60&ndash;80% of their cost in increased home value. That is a strong return, but it is not a dollar-for-dollar gain. Designing purely for resale often produces a kitchen that satisfies no one.</p>
+<p>The most resale-friendly contemporary kitchen remodel combines a classic foundation with one or two current trend elements. Shaker or flat-panel cabinets in a warm neutral are the foundation. A single bold element, such as a fluted island panel, a statement range hood, or a handmade tile backsplash, adds personality without dating the space.</p>
+<blockquote><p>Transitional and shaker-modern styles are among the most popular choices with industry professionals heading into the next few years, blending clean contemporary lines with familiar, approachable details that appeal to a broad range of buyers.</p></blockquote>
+<p>Avoid overly specific cabinet profiles, intricate backsplash patterns, or highly saturated cabinet colours as your primary choice. These are the elements that look dated fastest and are the most expensive to change. Layer them as accents instead.</p>
+<p>The best approach is to design for how you actually use your kitchen. A family that cooks daily needs different storage, counter space, and appliance placement than a household that entertains occasionally. Functionality built around your real habits produces more satisfaction than a kitchen designed around a hypothetical future buyer.</p>
+<h2>Key takeaways</h2>
+<p>A successful contemporary kitchen renovation in 2026 requires locking in timeless cabinet profiles early, budgeting realistically with a contingency fund, and sequencing the project correctly from permits through to final inspection.</p>
+<table>
+<thead><tr><th>Point</th><th>Details</th></tr></thead>
+<tbody>
+<tr><td>Design for warm minimalism</td><td>Choose natural wood cabinetry, earthy tones, and layered lighting as your foundation.</td></tr>
+<tr><td>Budget with a contingency</td><td>Set aside 10&ndash;15% beyond your planned spend to cover hidden issues discovered during demolition.</td></tr>
+<tr><td>Lock materials in early</td><td>Order custom cabinetry and stone countertops at least six months before demolition to avoid delays.</td></tr>
+<tr><td>Use milestone-based payments</td><td>Limit upfront deposits to 10&ndash;15% and tie remaining payments to completed project stages.</td></tr>
+<tr><td>Balance trends with timeless choices</td><td>Use a classic cabinet profile as your base and add one bold trend element as an accent.</td></tr>
+</tbody>
+</table>
+<h2>What I have learned from years of kitchen renovations in Calgary</h2>
+<p>The question I hear most often is: &ldquo;Should I spend more on cabinets or countertops?&rdquo; My answer is always cabinets. Countertops are a single surface. Cabinets define the entire visual structure of the room, and they are the element you interact with dozens of times a day. A well-built shaker cabinet in white oak will look right in ten years. A trendy cabinet profile in an unusual finish may not.</p>
+<p>Technology integration is another area where homeowners often overthink it. Wi-Fi enabled appliances and under-cabinet charging stations are genuinely useful. Hidden outlets and integrated USB ports add convenience without changing the aesthetic. But smart faucets and voice-activated lighting rarely survive a renovation cycle intact. Keep the technology practical and replaceable.</p>
+<p>The detail that catches people off guard most often is the permit and inspection process. Alberta homeowners sometimes assume that a cosmetic renovation does not require permits. The moment you move a drain, add a circuit, or touch a load-bearing wall, you are in permit territory. We always pull the right permits at Statera Contracting because the cost of rework when an inspector requires an opened wall is far greater than the permit fee.</p>
+<p>My honest advice: design the kitchen for your family first. The 60&ndash;80% return on investment is real, but it comes from a well-executed renovation, not from chasing trends. A kitchen that works beautifully for you will also appeal to future buyers.</p>
+<blockquote><p><em>&mdash; Patrick</em></p></blockquote>
+<h2>Working with Statera Contracting on your Calgary kitchen renovation</h2>
+<p>Statera Contracting specializes in <a href="https://stateracontracting.com/services/kitchen-renovation-calgary">kitchen renovations in Calgary</a> and surrounding areas, handling everything from design consultation and permit applications through to material selection and final inspection. We work with homeowners across all budget tiers, from focused cosmetic updates to full luxury remodels.</p>
+<p>Our process is built around clear milestones, transparent pricing, and no surprises. We review your layout, confirm your material lead times, and manage the construction sequence so your project stays on schedule. If you are ready to plan your renovation or just want to understand what your budget can realistically achieve, visit <a href="https://stateracontracting.com">Statera Contracting</a> to book a consultation. We are here to make the process straightforward from the first conversation.</p>
+<h2>FAQ</h2>
+<h3>How much does a contemporary kitchen renovation cost in Alberta?</h3>
+<p>A mid-range kitchen renovation in Alberta typically costs between $25,000 and $55,000, with luxury projects exceeding $90,000. Cosmetic updates start around $6,000 and can reach $18,000.</p>
+<h3>Do I need a permit for a kitchen renovation in Calgary?</h3>
+<p>Permits are required for any work involving plumbing relocation, electrical upgrades, or structural changes. Skipping permits risks costly rework if inspections require walls to be reopened after the fact.</p>
+<h3>What cabinet style works best for a contemporary kitchen remodel?</h3>
+<p>Flat-panel and shaker profiles are the most enduring choices for a contemporary kitchen remodel. Both suit warm minimalist aesthetics and hold their appeal across multiple design cycles.</p>
+<h3>How far in advance should I order kitchen materials?</h3>
+<p>Lock in custom cabinetry and stone countertops at least six months before your planned demolition date. Supply chain delays are the most common cause of project stalls in 2026.</p>
+<h3>What return on investment can I expect from a kitchen renovation?</h3>
+<p>Kitchen renovations generally return 60&ndash;80% of their cost in increased home value. Designing for personal usability rather than speculative resale tends to produce both better satisfaction and stronger long-term value.</p>`,
+      },
+    ],
+  },
 ];
 
-export async function getPostBySlug(slug: string): Promise<Post | undefined> {
-  const local = posts.find((p) => p.slug === slug);
-  if (local) return local;
-  const industryPosts = await getIndustryPosts();
-  return industryPosts.find((p) => p.slug === slug);
+export function getPostBySlug(slug: string): Post | undefined {
+  return posts.find((p) => p.slug === slug);
 }
 
 // Extracts Q&A pairs from the "Frequently Asked Questions" section of a post's
@@ -896,9 +1005,8 @@ export function getPostFaqs(post: Post): { q: string; a: string }[] {
   return faqs;
 }
 
-export async function getAllPosts(): Promise<Post[]> {
-  const industryPosts = await getIndustryPosts();
-  return [...posts, ...industryPosts].sort((a, b) => (a.date < b.date ? 1 : -1));
+export function getAllPosts(): Post[] {
+  return [...posts].sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
 export function formatPostDate(iso: string): string {
