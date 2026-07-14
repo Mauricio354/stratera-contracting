@@ -26,6 +26,8 @@ This runs as a Claude Code cloud routine (Routines → Statera BabyLoveGrowth Da
 
 State tracking: `.automation/babylovegrowth-seen.json` in this repo's root, a JSON object keyed by article ID, value `{"status": "published"}` or `{"status": "held", "reason": "..."}`. Check this file before processing an ID a second time. It lives inside the repo (not on a local machine) on purpose: a cloud routine gets a fresh checkout each run, so state has to be committed to persist. Commit updates to this file in the same commit as any content change.
 
+New-article detection: do NOT filter BabyLoveGrowth's article list on `published`. Per their support, that field only flips true after we've already published something ourselves and their crawler confirms it off our sitemap days later, it is never a signal that something is new. A genuinely new article sits at `published: false` forever until we act on it, using it as the trigger means nothing would ever fire. Instead, treat "not yet in the state file" as the trigger, with one safety buffer: skip any article whose `updated_at` date is today, only process ones last touched on a prior day. This avoids fetching content while it's still mid-generation (their dashboard shows a same-day "ready by [time]" countdown for in-progress articles), at the cost of at most a one-day delay.
+
 Hard trip-wire, hold and notify, never auto-publish:
 
 1. Title matches a comparison/listicle pattern: "top N", "vs", "versus", "alternatives", "best ... companies/contractors/providers", or similar.
