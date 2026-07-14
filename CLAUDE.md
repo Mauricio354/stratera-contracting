@@ -22,7 +22,9 @@ This prints a `Post` object (sanitized HTML, any link off the Statera domain alr
 
 As of 2026-07-14, this runs unattended via a scheduled routine, no manual "please fetch this" request needed day to day. Mauricio has opted into full automation on the mechanical items below, on the condition that anything matching a hard trip-wire is held instead of published. Do not loosen the trip-wire without him explicitly asking.
 
-State tracking: `C:\Users\mrosas\MR-Web-Solutions\ops\automation\statera-babylovegrowth-seen.json`, a JSON object keyed by article ID, value `"published"` or `"held"` plus a reason. Check this file before processing an ID a second time. This file is outside the client repo on purpose, it's routine bookkeeping, not something that belongs in Statera's git history.
+This runs as a Claude Code cloud routine (Routines → Statera BabyLoveGrowth Daily Publish), not a local scheduled task, so it works even when nobody's machine is on. A local scheduled task with the same job exists as a fallback and is normally disabled once the cloud routine is confirmed working.
+
+State tracking: `.automation/babylovegrowth-seen.json` in this repo's root, a JSON object keyed by article ID, value `{"status": "published"}` or `{"status": "held", "reason": "..."}`. Check this file before processing an ID a second time. It lives inside the repo (not on a local machine) on purpose: a cloud routine gets a fresh checkout each run, so state has to be committed to persist. Commit updates to this file in the same commit as any content change.
 
 Hard trip-wire, hold and notify, never auto-publish:
 
