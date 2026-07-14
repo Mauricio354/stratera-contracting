@@ -29,5 +29,6 @@ Apply all of these. Fix what can be fixed inline, flag anything that needs a jud
 5. Flag unsourced statistics presented as fact ("72% of professionals...") with no citation. Confirm with Mauricio whether to cut or verify before publishing.
 6. Check spelling/typos introduced by the generator (e.g. "programes").
 7. Outbound links off the Statera domain are already stripped automatically by `lib/babylovegrowth.ts`'s sanitizer, this doesn't need manual checking, but the surrounding text may still name a competitor even with the link removed, that's covered by rule 1.
+8. Drop the article's opening image if it's the same file as `coverImage`. The page template already renders `coverImage` above the content, so leaving it in the body duplicates it right at the top of the article.
 
 After fixes, show Mauricio the specific changes before adding the post to `lib/posts.ts`, don't publish silently even when a fix looks obvious.
