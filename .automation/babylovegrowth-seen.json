@@ -1,3 +1,4 @@
 {
-  "598354": { "status": "published" }
+  "598354": { "status": "published" },
+  "601357": { "status": "held", "reason": "raw content_html contains <a href> links to non-Statera domains (renoquotes.com, costcanada.com, renoplanner.ai, alpinecredits.ca) — comparison-shaped source content per hard trip-wire #2, even though the sanitized import would strip them" }
 }
