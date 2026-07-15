@@ -977,6 +977,215 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "cost-of-renovating-a-house-in-calgary-2026-budget-guide",
+    title: "Cost of Renovating a House in Calgary: 2026 Budget Guide",
+    excerpt:
+      "The cost of renovating a house in Calgary typically runs $125–$175 per square foot for a full renovation, making it one of the largest financial decisions most homeowners will face.",
+    date: "2026-07-15",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784090464758_Couple-reviewing-renovation-budget-documents.jpeg",
+    coverAlt: "Cost of renovating a house in Calgary: 2026 budget guide",
+    category: "Industry News",
+    readingTime: "10 min read",
+    metaTitle: "Cost of Renovating a House in Calgary: 2026 Budget Guide",
+    metaDescription:
+      "Discover the cost of renovating a house in Calgary. Our 2026 budget guide breaks down expenses and helps you plan effectively.",
+    content: [
+      {
+        type: "html",
+        html: `<p>The cost of renovating a house in Calgary typically runs $125–$175 per square foot for a full renovation, making it one of the largest financial decisions most homeowners will face. That range covers labour, materials, permits, design fees, and a contingency buffer. <a href="https://renoquotes.com/en/blog/home-renovation-cost-in-canada-in-2026-price-per-square-foot-guide" rel="nofollow noopener noreferrer" target="_blank">Labour alone accounts for about 60%</a> of renovation costs across Canada. That figure has climbed steadily, which means your material budget now has to work harder. Understanding how these categories interact is the first step to building a realistic plan and avoiding the surprises that derail most projects.</p>
+
+<h2>What are the main factors affecting the cost of renovating a house in Calgary?</h2>
+<p>The scope of your project is the single biggest cost driver. A cosmetic refresh of a finished basement costs far less than a structural addition with new plumbing and electrical. Every decision you make about scope ripples through every other budget line.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784090471429_Hands-calculating-renovation-costs-with-documents.jpeg" alt="Hands calculating renovation costs with documents" /></p>
+<p><strong>Material quality</strong> creates the widest price swings. Standard-grade cabinetry, laminate countertops, and builder-grade fixtures sit at one end. Custom millwork, quartz surfaces, and imported tile sit at the other. The gap between those two ends can double your materials budget on a kitchen alone.</p>
+<p><strong>Labour rates in Calgary</strong> reflect a competitive trades market. <a href="https://www.costcanada.com/guides/calgary-renovation-guide/" rel="nofollow noopener noreferrer" target="_blank">Electricians charge $100–$145 per hour</a>, while painters run $45–$70 per hour. General contractor overhead adds another 15–25% on top of trade costs. That overhead covers scheduling, site management, and accountability, so it is not simply a markup.</p>
+<p>Permit fees and timelines add both cost and time to any project. Permits and inspections typically represent 2–5% of the total renovation budget. Interior non-structural permits issue in 2–5 weeks, while additions require 4–10 weeks. Skipping permits to save money creates liability problems when you sell.</p>
+<p>The age and condition of your home changes everything. <a href="https://renoplanner.ai/blog/renovation-budget-planner-canada" rel="nofollow noopener noreferrer" target="_blank">Older homes built before 1970 require a minimum 20% contingency</a> because hidden issues like knob-and-tube wiring, asbestos insulation, and wood rot appear once walls open up. A newer home in good condition can get by with a 10–15% contingency.</p>
+<p>Seasonal timing affects both price and contractor availability. Calgary’s oil-and-gas labour market creates demand spikes in spring and summer, which push prices up and reduce your choice of trades. Planning your project for fall or winter gives you more negotiating room and better access to experienced crews.</p>
+<ul>
+<li>Scope and structural complexity</li>
+<li>Material grade from budget to premium</li>
+<li>Trade labour rates and general contractor overhead</li>
+<li>Permit fees and inspection timelines</li>
+<li>Home age and hidden condition issues</li>
+<li>Seasonal demand in Calgary’s trades market</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Get your permit application submitted before you finalise your contractor bids. Knowing the permit timeline lets you build a realistic start date into your contract and avoids costly delays once trades are mobilised.</em></p>
+
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784090804182_Infographic-illustrating-renovation-budget-steps.jpeg" alt="Infographic illustrating renovation budget steps" /></p>
+<h2>How to estimate your renovation budget: methods and formulas</h2>
+<p>A reliable renovation budget follows a clear formula. Start with your square footage, multiply by the applicable cost-per-square-foot rate, then add permit fees, design costs, taxes, and your contingency. That structure prevents the most common budgeting mistake: treating the contractor quote as the total project cost.</p>
+<h3>The core budgeting formula</h3>
+<p>Use this sequence to build your estimate:</p>
+<ol>
+<li><strong>Calculate base construction cost.</strong> Multiply your renovation area in square feet by the applicable rate. Full renovations run $125–$175 per square foot. Targeted room renovations vary by project type.</li>
+<li><strong>Add permit and inspection fees.</strong> Budget 2–5% of your base construction cost for permits, depending on project complexity.</li>
+<li><strong>Add design and project management fees.</strong> Architect or designer fees typically run 5–10% of the construction cost for projects requiring drawings.</li>
+<li><strong>Add your contingency.</strong> Use 10–15% for newer homes in good condition. Use 20% or more for pre-1970 homes with hidden risks.</li>
+<li><strong>Add GST.</strong> Alberta charges 5% GST on labour and most materials. Split quotes that separate labour, materials, permits, and taxes make this calculation straightforward and prevent billing surprises.</li>
+</ol>
+<h3>Sample budget breakdown for a 1,500 sq ft full renovation</h3>
+<table>
+<thead>
+<tr>
+<th>Budget category</th>
+<th>Percentage of total</th>
+<th>Estimated amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Labour</td>
+<td>40–50%</td>
+<td>$93,750–$131,250</td>
+</tr>
+<tr>
+<td>Materials</td>
+<td>30–40%</td>
+<td>$56,250–$105,000</td>
+</tr>
+<tr>
+<td>Permits and inspections</td>
+<td>2–5%</td>
+<td>$3,750–$13,125</td>
+</tr>
+<tr>
+<td>Design and project management</td>
+<td>5–10%</td>
+<td>$9,375–$26,250</td>
+</tr>
+<tr>
+<td>Contingency</td>
+<td>10–20%</td>
+<td>$18,750–$52,500</td>
+</tr>
+</tbody>
+</table>
+<p><em>Figures based on a $125–$175/sq ft full renovation rate for a 1,500 sq ft home.</em></p>
+<p>Always collect at least three quotes before committing. Contractor quotes can vary by 30–50%, and the lowest bid often signals scope gaps that show up as expensive change orders later. Ask each contractor to break out labour, materials, and taxes separately so you are comparing equivalent scopes.</p>
+<p><strong>Pro Tip:</strong> <em>Ask every contractor to provide a line-item quote, not a lump-sum figure. A detailed quote makes it easy to spot where one bid is cutting corners and protects you if disputes arise mid-project.</em></p>
+
+<h2>Common renovation project costs in Calgary: kitchens, bathrooms, basements, and additions</h2>
+<p>Calgary-specific cost benchmarks give you a realistic anchor before you speak to a contractor. These figures reflect local labour rates, material costs, and permit requirements.</p>
+<table>
+<thead>
+<tr>
+<th>Project type</th>
+<th>Typical cost range</th>
+<th>Key cost drivers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kitchen renovation</td>
+<td>$35,000–$70,000</td>
+<td>Cabinetry, appliances, plumbing relocation</td>
+</tr>
+<tr>
+<td>Bathroom renovation</td>
+<td>$14,000–$32,000</td>
+<td>Tile, fixtures, ventilation, waterproofing</td>
+</tr>
+<tr>
+<td>Basement finishing</td>
+<td>$50,000–$95,000</td>
+<td>Egress windows, insulation, legal suite requirements</td>
+</tr>
+<tr>
+<td>Home addition (400 sq ft)</td>
+<td>$140,000–$280,000</td>
+<td>Foundation, structural engineering, permits</td>
+</tr>
+</tbody>
+</table>
+<p>These Calgary project benchmarks reflect 2026 market conditions and include contractor overhead. They do not include design fees or contingency, so add those on top.</p>
+<p>Two local factors push Calgary costs above national averages. First, Calgary’s expansive clay soils require a structural engineering assessment for any addition or foundation work. Engineering assessments cost $800–$2,500, and foundation repairs, if needed, can run from $5,000 to over $80,000 depending on severity. Second, Calgary carries a high radon risk. Adding radon rough-ins or a full mitigation system during a renovation adds $300–$2,500 to your project cost. Doing it during construction is far cheaper than retrofitting later.</p>
+<p>Energy-efficient upgrades can qualify for rebates that reduce your net cost. The Canada Greener Homes Grant offers up to $5,000 for eligible upgrades like insulation, windows, and heat pumps. Combining a renovation with qualifying upgrades lets you recover a meaningful portion of your materials spend.</p>
+<p>For homeowners planning a <a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation in Calgary</a> or a basement project, understanding these local cost layers before you budget prevents the most common shock: discovering that the “standard” national estimate does not account for Alberta-specific requirements.</p>
+
+<h2>Tips for managing renovation costs and avoiding budget overruns</h2>
+<p>Budget discipline starts before a single wall opens. The homeowners who stay on budget are the ones who made clear decisions upfront, not the ones who tried to figure it out as they went.</p>
+<ul>
+<li><strong>Build a must-have vs. nice-to-have list</strong> before soliciting quotes. Separating non-negotiable items from wish-list upgrades gives you a clear line to cut if costs run high.</li>
+<li><strong>Schedule in fall or winter.</strong> Fall and winter projects secure better pricing and improved contractor availability compared to the spring and summer rush.</li>
+<li><strong>Require itemised quotes.</strong> Every quote should separate labour, materials, permit allowances, and taxes. Lump-sum quotes hide the variables that cause overruns.</li>
+<li><strong>Fund your contingency separately.</strong> Keep contingency funds in a dedicated account. Treating it as part of your general budget leads to spending it on upgrades before the unexpected costs arrive.</li>
+<li><strong>Apply for rebates early.</strong> The Canada Greener Homes Grant and Alberta energy incentives require pre-approval in some cases. Missing the application window means missing the money.</li>
+</ul>
+<p>Alberta is the only province where homeowners can pull building permits themselves for their principal residence. This can save the 15–25% general contractor overhead on permit-related work, but it also transfers full project management responsibility to you. Most homeowners find that the savings do not outweigh the time and complexity involved, particularly on larger projects.</p>
+<p><strong>Pro Tip:</strong> <em>If your renovation budget is over $300,000, <a href="https://alpinecredits.ca/alpine-blog/cost-of-renovating-a-house-in-canada/" rel="nofollow noopener noreferrer" target="_blank">consider home equity financing</a> as a funding source. Home equity lines of credit typically carry lower interest rates than personal loans, but monitor rate changes carefully over a multi-month project.</em></p>
+
+<h2>Key takeaways</h2>
+<p>The cost of renovating a house in Calgary is determined by scope, labour rates, material choices, permit requirements, and contingency planning, with full renovations running $125–$175 per square foot before taxes and design fees.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Full renovation cost range</td>
+<td>Budget $125–$175 per square foot for a complete home renovation in Calgary.</td>
+</tr>
+<tr>
+<td>Labour is the largest cost</td>
+<td>Labour accounts for roughly 60% of renovation costs nationally; plan your budget around it.</td>
+</tr>
+<tr>
+<td>Contingency by home age</td>
+<td>Pre-1970 homes need a 20%+ contingency; newer homes can use 10–15%.</td>
+</tr>
+<tr>
+<td>Calgary-specific cost factors</td>
+<td>Clay soils, radon risk, and local permit timelines add costs not seen in national averages.</td>
+</tr>
+<tr>
+<td>Seasonal timing saves money</td>
+<td>Fall and winter projects offer better pricing and contractor availability in Calgary.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>What I’ve learned planning renovations in Calgary’s market</h2>
+<p>The biggest mistake I see Calgary homeowners make is treating the contractor quote as the budget. It is not. The quote is the construction cost. The budget includes permits, design, contingency, taxes, and the decisions you will inevitably change your mind about once the walls are open.</p>
+<p>Calgary’s market has a specific rhythm that most renovation guides do not capture. The oil-and-gas sector pulls skilled trades in and out of the residential market depending on project cycles. When upstream activity picks up, residential contractors lose experienced workers to higher-paying industrial sites. That tightens supply and pushes residential rates up, sometimes within a single season. Timing your project for the fall, after the summer industrial push, consistently produces better results.</p>
+<p>Alberta’s PST exemption on most building materials is a genuine advantage that homeowners underuse. Unlike most other provinces, Alberta does not charge provincial sales tax on materials. That saves 7–10% compared to a comparable project in British Columbia or Ontario. Factor that into your comparison if you are benchmarking against national cost guides.</p>
+<p>My honest advice: spend more time on planning and permitting before you talk to contractors than most people do. A detailed scope document and approved permit in hand changes the conversation. Contractors price uncertainty into their bids. Remove the uncertainty and you get sharper numbers.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+
+<h2>Planning your Calgary renovation with Statera Contracting</h2>
+<p>Budgeting a renovation is one thing. Executing it on time and on budget is another challenge entirely.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="https://stateracontracting.com" /></a></p>
+<p>Statera Contracting works with Calgary homeowners on <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovations</a>, <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovations</a>, <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement finishing</a>, and <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions</a>. Every project starts with a detailed, itemised quote that separates labour, materials, and permit costs so you know exactly what you are paying for. We understand Calgary’s permit timelines, clay soil conditions, and radon requirements, and we build those factors into your plan from day one. If you are ready to get a clear picture of your renovation costs, <a href="https://stateracontracting.com" target="_blank" rel="noopener">contact Statera Contracting</a> to book a consultation.</p>
+
+<h2>FAQ</h2>
+<h3>What is the average cost of a full home renovation in Calgary?</h3>
+<p>A full home renovation in Calgary typically costs $125–$175 per square foot, covering labour, materials, permits, and contractor overhead. Design fees and contingency add to that base figure.</p>
+<h3>How much contingency should I budget for a renovation?</h3>
+<p>Budget 10–15% contingency for newer homes in good condition, and at least 20% for homes built before 1970. Older homes frequently reveal hidden issues like outdated wiring or structural rot once work begins.</p>
+<h3>Do I need a permit for a home renovation in Calgary?</h3>
+<p>Most structural, electrical, plumbing, and mechanical work requires a building permit in Calgary. Interior non-structural permits typically issue in 2–5 weeks, while additions can take 4–10 weeks.</p>
+<h3>Can I save money by pulling my own permit in Alberta?</h3>
+<p>Alberta allows homeowners to pull permits for their principal residence, which can save general contractor overhead of 15–25%. The trade-off is full project management responsibility, which adds significant time and complexity.</p>
+<h3>What renovation rebates are available in Alberta?</h3>
+<p>The Canada Greener Homes Grant offers up to $5,000 for eligible energy-efficient upgrades like insulation, windows, and heat pumps. Additional provincial and local energy incentives may also apply depending on the upgrade type.</p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">Bathroom Renovation Calgary 2026 Cost Guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">Planning a Kitchen Renovation in Calgary | Statera Tips | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog" target="_blank" rel="noopener">Renovation Blog | Calgary Tips &amp; Insights | Statera Contracting</a></li>
+</ul>`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
