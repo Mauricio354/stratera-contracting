@@ -9,13 +9,16 @@
 // when asked to bring in a specific article, never at request or build time.
 //
 // The article body arrives as raw HTML from a third-party generator, so it
-// is sanitized before use: standard content tags are kept, but any link
-// pointing off the Statera domain is stripped to text. BabyLoveGrowth's
-// network model places outbound links to other accounts (including direct
-// competitors) inside the generated body text, so this is a hard
-// requirement, not a style preference. It does not touch the surrounding
-// wording, so the fetched article still needs a human read before it's
-// added to lib/posts.ts.
+// is sanitized before use: standard content tags are kept, and outbound
+// links are kept too. Decision 2026-07-15: Mauricio was told this renders
+// live, clickable links to other BabyLoveGrowth accounts (including direct
+// competitors) as part of their reciprocal "backlink credit" system, that
+// this is a recognized Google link-scheme pattern, and chose to accept
+// that risk. Outbound links get rel="nofollow noopener noreferrer" and
+// target="_blank" as a partial mitigation, they still render, but aren't
+// passed as an endorsement. Do not go back to stripping them without him
+// asking. It does not touch the surrounding wording, so the fetched
+// article still needs a human read before it's added to lib/posts.ts.
 
 import sanitizeHtml from "sanitize-html";
 import type { Post } from "./posts";
@@ -45,8 +48,9 @@ async function fetchJson<T>(path: string): Promise<T> {
   return res.json();
 }
 
-// Strips any link that doesn't point at the Statera domain down to plain
-// text, keeping same-site links and every other standard content tag.
+// Keeps same-site links as-is. Marks any link off the Statera domain
+// rel="nofollow noopener noreferrer" and target="_blank" rather than
+// stripping it, see the file header for why.
 function sanitizeArticleHtml(html: string): string {
   return sanitizeHtml(html, {
     allowedTags: [
@@ -56,17 +60,24 @@ function sanitizeArticleHtml(html: string): string {
     ],
     allowedAttributes: {
       img: ["src", "alt"],
-      a: ["href"],
+      a: ["href", "rel", "target"],
     },
-    exclusiveFilter: (frame) => {
-      if (frame.tag !== "a") return false;
-      const href = frame.attribs.href || "";
-      try {
-        const url = new URL(href, `https://${SITE_HOST}`);
-        return url.hostname !== SITE_HOST && !url.hostname.endsWith(`.${SITE_HOST}`);
-      } catch {
-        return true; // unparseable href, drop the link, keep the text
-      }
+    transformTags: {
+      a: (tagName, attribs) => {
+        const href = attribs.href || "";
+        let isExternal = false;
+        try {
+          const url = new URL(href, `https://${SITE_HOST}`);
+          isExternal = url.hostname !== SITE_HOST && !url.hostname.endsWith(`.${SITE_HOST}`);
+        } catch {
+          isExternal = false; // unparseable href, leave attributes as-is
+        }
+        if (!isExternal) return { tagName, attribs };
+        return {
+          tagName,
+          attribs: { ...attribs, rel: "nofollow noopener noreferrer", target: "_blank" },
+        };
+      },
     },
   });
 }
