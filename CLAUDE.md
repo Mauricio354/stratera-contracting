@@ -38,7 +38,7 @@ Hard trip-wire, hold and notify, never auto-publish:
 1. Title matches a comparison/listicle pattern: "top N", "vs", "versus", "alternatives", "best ... companies/contractors/providers", or similar.
 2. The article's raw `content_html` (before sanitizing) contains an `<a href>` to any domain other than stateracontracting.com. `lib/babylovegrowth.ts`'s sanitizer strips these before they'd ever render, but a competitor or product vendor link in the raw source is itself the signal that this is a comparison-shaped article, whether or not the safe text still reads fine.
 
-When a trip-wire fires: do not touch `lib/posts.ts`. Mark the state file entry `"held"` with the reason. Send a notification so Mauricio knows without checking manually. Leave it held until he says otherwise, don't re-notify every single day, once per newly-held article is enough.
+When a trip-wire fires: do not touch `lib/posts.ts`. Mark the state file entry `"held"` with the reason. Send a notification so Mauricio knows without checking manually. Leave it held until he says otherwise, don't re-notify every single day, once per newly-held article is enough. A held article still needs its state-file entry landed on `main` (see the PR step below), otherwise the next run won't see it as already handled.
 
 Mechanical fixes, apply automatically, no hold needed:
 
@@ -50,4 +50,4 @@ Mechanical fixes, apply automatically, no hold needed:
 
 Note every mechanical fix actually applied in the commit message so there's a record, even though nobody has to approve it first.
 
-Once clean, add the post to `lib/posts.ts`, run `npx tsc --noEmit` and `npm run build` to confirm it's valid, commit, and push to `origin main`. Mark the state file entry `"published"`.
+Once clean, add the post to `lib/posts.ts`, run `npx tsc --noEmit` and `npm run build` to confirm it's valid, then commit and push to a `claude/`-prefixed branch (the routine can't push to `main` directly), and open a pull request against `main` with `gh pr create`, titled exactly `[BabyLoveGrowth Auto-Publish] <article title>` (or `[BabyLoveGrowth Auto-Publish] hold: <article title>` for a held article). A GitHub Action (`.github/workflows/babylovegrowth-automerge.yml`) auto-merges any PR with that exact title prefix from a `claude/` branch, no human review needed, that title tag is reserved for this routine, don't reuse it elsewhere. Mark the state file entry `"published"` (or leave the `"held"` entry from above as-is).

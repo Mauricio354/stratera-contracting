@@ -1,0 +1,28 @@
+name: BabyLoveGrowth Auto-Merge
+
+# Merges the Statera BabyLoveGrowth Daily Publish routine's own PRs without a
+# human needing to review each one, since it can only push to claude/-prefixed
+# branches, not main, directly. The title tag below is reserved for this
+# routine: don't reuse "[BabyLoveGrowth Auto-Publish]" as a PR title prefix
+# for anything else, it's what this workflow trusts.
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    branches: [main]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  automerge:
+    if: |
+      startsWith(github.event.pull_request.title, '[BabyLoveGrowth Auto-Publish]') &&
+      startsWith(github.event.pull_request.head.ref, 'claude/')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr merge "${{ github.event.pull_request.number }}" --squash --delete-branch --repo "${{ github.repository }}"
