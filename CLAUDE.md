@@ -16,7 +16,7 @@ Fetch a specific article with:
 npx tsx scripts/import-babylovegrowth-article.ts <articleId>
 ```
 
-This prints a `Post` object (sanitized HTML, any link off the Statera domain already stripped) ready to review and paste into `lib/posts.ts`. It does not publish anything itself.
+This prints a `Post` object (sanitized HTML) ready to review and paste into `lib/posts.ts`. As of 2026-07-15, links off the Statera domain are kept live rather than stripped, see `lib/babylovegrowth.ts`'s header for why. It does not publish anything itself.
 
 ### Automated daily publish
 
