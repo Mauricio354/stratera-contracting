@@ -36,7 +36,8 @@ New-article detection: when a run starts with a message naming a specific "Artic
 Hard trip-wire, hold and notify, never auto-publish:
 
 1. Title matches a comparison/listicle pattern: "top N", "vs", "versus", "alternatives", "best ... companies/contractors/providers", or similar.
-2. The article's raw `content_html` (before sanitizing) contains an `<a href>` to any domain other than stateracontracting.com. `lib/babylovegrowth.ts`'s sanitizer strips these before they'd ever render, but a competitor or product vendor link in the raw source is itself the signal that this is a comparison-shaped article, whether or not the safe text still reads fine.
+
+Decision 2026-07-15: the outbound-link trip-wire (holding for any `<a href>` in raw `content_html` to a non-Statera domain) was removed at Mauricio's explicit direction, after he was told the SEO risk (this pattern is a recognized link-scheme signal and could trigger a Google manual action) and chose to accept it anyway. Do not reinstate it without him asking. This does NOT change what renders on the live page: `lib/babylovegrowth.ts`'s sanitizer still strips every non-Statera `<a href>` from the published HTML regardless of this policy, so outbound links from BabyLoveGrowth's raw source are no longer a hold reason, but they also never actually appear on stateracontracting.com either way.
 
 When a trip-wire fires: do not touch `lib/posts.ts`. Mark the state file entry `"held"` with the reason. Send a notification so Mauricio knows without checking manually. Leave it held until he says otherwise, don't re-notify every single day, once per newly-held article is enough. A held article still needs its state-file entry landed on `main` (see the PR step below), otherwise the next run won't see it as already handled.
 
