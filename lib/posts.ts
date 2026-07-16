@@ -1773,6 +1773,190 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "putting-an-addition-on-a-house-calgary-homeowners-guide",
+    title: "Putting an addition on a house: Calgary homeowner's guide",
+    excerpt:
+      "A home addition is defined as a permanent structural expansion of your existing house, built to increase liveable square footage while remaining attached to the original structure.",
+    date: "2026-07-10",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784040936220_Homeowner-reviewing-addition-blueprints-outside-house.jpeg",
+    coverAlt: "Putting an addition on a house: Calgary homeowner's guide",
+    category: "Industry News",
+    readingTime: "11 min read",
+    metaTitle: "Putting an addition on a house: Calgary homeowner's guide",
+    metaDescription:
+      "Discover essential tips for putting an addition on a house in Calgary. Navigate permits, zoning laws, and budgets to add lasting value.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A home addition is defined as a permanent structural expansion of your existing house, built to increase liveable square footage while remaining attached to the original structure. Putting an addition on a house in Calgary requires navigating the City of Calgary’s zoning bylaws, securing the right permits, designing for local environmental conditions, and budgeting for costs that are specific to Alberta. Get these four elements right, and you end up with a compliant, well-built space that adds lasting value. Miss one, and you face costly delays, redesigns, or failed inspections.</p>
+<p>Calgary homeowners have strong reasons to expand rather than move. Land transfer costs, a competitive resale market, and the disruption of relocating a family all make a well-planned home extension a practical choice. The key is knowing exactly what the city requires before you break ground.</p>
+<h2>What does putting an addition on a house actually involve?</h2>
+<p>A home addition, also called a room addition or home extension, covers a wide range of project types. Common home extension ideas include a main floor mudroom, a rear family room bump-out, a second storey addition, a sunroom, or an attached garage conversion. Each type carries different structural, zoning, and permit requirements.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784040936958_Architect-working-on-home-addition-plans-indoors.jpeg" alt="Architect working on home addition plans indoors" /></p>
+<p>The scope of your project determines which approvals you need, how long the process takes, and what it will cost. A small mudroom addition differs significantly from a full second storey in terms of engineering, foundation work, and permit complexity. Defining your goals clearly at the start saves time and money throughout every stage that follows.</p>
+<h2>Do Calgary zoning bylaws affect your home addition?</h2>
+<p>Zoning rules are the first thing to check before you design anything. You can use the <a href="https://beginwithdesign.com/blog/what-to-know-before-starting-your-project-in-your-community/" rel="nofollow noopener noreferrer" target="_blank">City of Calgary’s MyProperty</a> map tool or the Development Map to identify your zoning district and the restrictions that apply to your lot. These tools show height limits, setback distances, and parcel coverage rules in plain terms.</p>
+<p>Calgary’s Land Use Bylaw <a href="https://beginwithdesign.com/blog/zoning-rules-for-home-renovations-in-calgary/" rel="nofollow noopener noreferrer" target="_blank">limits lot coverage to 45%</a> in most communities. A main floor addition cannot extend more than 4.6 metres beyond the rear facade or 1.5 metres beyond the front facade without triggering a development permit. That means even a modest rear addition can require full community review if it pushes past those thresholds.</p>
+<p>Key zoning factors to review before designing your addition:</p>
+<ul>
+<li><strong>Setbacks:</strong> Minimum distances from property lines on all four sides</li>
+<li><strong>Height limits:</strong> Maximum building height for your zoning district</li>
+<li><strong>Lot coverage:</strong> Total footprint of all structures as a percentage of your lot</li>
+<li><strong>Heritage overlays:</strong> Some Calgary neighbourhoods have heritage design guidelines that restrict materials, massing, and exterior style</li>
+<li><strong>Minor relaxations:</strong> The city can grant variances, but excessive relaxations carry approval risk</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Zoning factor</th>
+<th>Typical Calgary rule</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lot coverage</td>
+<td>45% maximum in most districts</td>
+</tr>
+<tr>
+<td>Rear setback extension</td>
+<td>No more than 4.6m beyond rear facade</td>
+</tr>
+<tr>
+<td>Front setback extension</td>
+<td>No more than 1.5m beyond front facade</td>
+</tr>
+<tr>
+<td>Heritage neighbourhoods</td>
+<td>Exterior design must respect community character</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pro Tip:</strong> <em>Check your zoning district on the City of Calgary Development Map before you meet with a designer. Knowing your setback limits in advance lets your designer work within the rules from day one, rather than redesigning after a bylaw conflict is discovered.</em></p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784041469094_Infographic-illustrating-home-addition-planning-steps.jpeg" alt="Infographic illustrating home addition planning steps" /></p>
+<h2>How do you plan and design a home addition step by step?</h2>
+<p>Good planning prevents the most expensive mistakes. <a href="https://beginwithdesign.com" rel="nofollow noopener noreferrer" target="_blank">Hiring a professional home designer early</a> in the process is the single most effective way to avoid permit rejections and costly redesigns. A designer identifies bylaw issues before you submit an application, which can save months of delays.</p>
+<p>Follow these steps to plan your addition effectively:</p>
+<ol>
+<li><strong>Define your goals.</strong> Decide what problem the addition solves. More bedroom space, a larger kitchen, a home office, or an accessible main floor suite each require different design approaches.</li>
+<li><strong>Assess your lot and existing layout.</strong> Measure your current footprint, check your zoning limits, and identify structural constraints like load-bearing walls or existing utility lines.</li>
+<li><strong>Choose your addition type.</strong> Rear bump-outs are the most common and least disruptive. Second storey additions maximise space without expanding the footprint. Sunrooms and mudrooms are lower-cost entry points for smaller budgets.</li>
+<li><strong>Account for Calgary’s environmental conditions.</strong> Calgary sits on expansive soils in many areas, which shift with moisture changes and can crack foundations. Your designer and engineer must account for this in the foundation design.</li>
+<li><strong>Plan for radon.</strong> Alberta has elevated radon levels compared to most Canadian provinces. Any addition that includes below-grade or slab-on-grade construction should include radon mitigation planning from the start.</li>
+<li><strong>Get permit-ready drawings.</strong> Drawings prepared by a qualified designer or engineer speed up the permit review process and reduce the chance of application rejection.</li>
+</ol>
+<p><strong>Pro Tip:</strong> <em>If your addition is near a property line, ask your designer to confirm the exact setback measurement using a real property report, not just a survey estimate. Discrepancies between assumed and actual lot dimensions are a common cause of permit delays.</em></p>
+<h2>What permits do you need for a home addition in Calgary?</h2>
+<p>Two separate permits govern most Calgary home additions: the building permit and the development permit. Understanding the difference between them prevents the most common approval delays.</p>
+<p>A building permit focuses on safety and compliance with the Alberta Building Code. It covers structural integrity, fire separation, insulation, and egress. <a href="https://www.permitmasters.ca/calgary/addition-permits/" rel="nofollow noopener noreferrer" target="_blank">Any home addition requires a building permit</a>; this is non-negotiable regardless of size.</p>
+<p>A development permit acts as a community impact review. It evaluates whether your addition fits within zoning rules and neighbourhood character. Additions under 40 square metres that stay within setback limits may avoid the development permit requirement. Larger additions or those requiring variances need both permits.</p>
+<p>Timeline differences matter significantly:</p>
+<ul>
+<li><strong>Building permit:</strong> Approximately 7 days for straightforward residential additions</li>
+<li><strong>Development permit:</strong> 6–12 weeks, including a mandatory community advertising period</li>
+</ul>
+<p>Key permit requirements to prepare for:</p>
+<ul>
+<li>Permit-ready architectural drawings</li>
+<li>Site plan showing lot dimensions and proposed addition footprint</li>
+<li>Structural drawings for foundations and framing</li>
+<li>Separate permits for plumbing, electrical, and gas work</li>
+<li><a href="https://www.costcanada.com/guides/calgary-renovation-guide/" rel="nofollow noopener noreferrer" target="_blank">Licensed trades for all utility work</a>; utility inspections by Fortis Alberta or ATCO can add lead time on projects with gas appliances</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Submit your development permit application before finalising your construction drawings. The community advertising period runs concurrently with your design refinements, so you lose no time waiting.</em></p>
+<h2>What does a home addition cost in Calgary?</h2>
+<p>The cost of a house addition in Calgary varies widely based on size, type, and site conditions. Foundation work is the most unpredictable cost factor. Calgary’s expansive soils mean foundation repair or reinforcement can range from $5,000 to $80,000 depending on soil conditions and the scope of the addition. That is a wide range, and it is why a geotechnical assessment is worth the upfront cost.</p>
+<p>Radon mitigation adds another line item. A radon mitigation system costs $1,200 to $2,500 installed. For any addition with a slab or basement component, this is a cost to build into your budget from the start, not an afterthought.</p>
+<p>Other costs to account for:</p>
+<ul>
+<li><strong>Permit fees:</strong> Calculated based on project value; budget several hundred to a few thousand dollars depending on scope</li>
+<li><strong>Design and engineering fees:</strong> Typically a percentage of total project cost</li>
+<li><strong>Trades permits:</strong> Separate fees for plumbing, electrical, and gas</li>
+<li><strong>Contingency:</strong> Budget a minimum of 15% above your base estimate for unforeseen conditions</li>
+</ul>
+<p>Alberta homeowners can pull their own building permits, which can save $15,000 to $30,000 on smaller projects by eliminating general contractor markup. The trade-off is that you take on full responsibility for coordinating trades, scheduling inspections, and managing the project timeline. For homeowners without construction experience, this risk often outweighs the savings.</p>
+<p>You can also review <a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">Calgary-specific renovation costs</a> for related projects to calibrate your expectations before meeting with a contractor.</p>
+<h2>How do you choose the right contractor for your home addition?</h2>
+<p>The right contractor for a Calgary home addition has direct experience with the Alberta Building Code, local permit processes, and the specific environmental conditions that affect construction here. General renovation experience is not enough. You need someone who has navigated Calgary’s development permit process and understands expansive soil requirements.</p>
+<p>Questions to ask any contractor before hiring:</p>
+<ul>
+<li>Have you completed home additions in Calgary that required both a building and development permit?</li>
+<li>Do you work with a licensed home designer or can you recommend one?</li>
+<li>How do you handle coordination with licensed trades for plumbing, electrical, and gas?</li>
+<li>What is your process for managing permit inspections and utility approvals?</li>
+<li>Can you provide references from Calgary homeowners with completed additions?</li>
+</ul>
+<p>Managing the relationship well matters as much as choosing the right contractor. Agree on a detailed scope of work in writing before construction starts. Set clear payment milestones tied to project stages, not calendar dates. Establish a single point of contact for communication and expect weekly updates during active construction phases.</p>
+<p><strong>Pro Tip:</strong> <em>Ask to see a contractor’s previous permit drawings. A contractor who produces clear, permit-ready documentation is far less likely to face application rejections or inspection failures than one who relies on informal sketches.</em></p>
+<h2>Key takeaways</h2>
+<p>A successful Calgary home addition depends on understanding zoning limits, securing the right permits in the right order, and budgeting for local conditions like expansive soils and radon before construction begins.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Check zoning first</td>
+<td>Use the City of Calgary’s MyProperty tool to confirm setbacks and lot coverage before designing.</td>
+</tr>
+<tr>
+<td>Know your permit type</td>
+<td>Additions over 40 square metres or near setback limits require both a building and development permit.</td>
+</tr>
+<tr>
+<td>Budget for local conditions</td>
+<td>Expansive soils and radon mitigation add costs unique to Calgary; build these into your estimate early.</td>
+</tr>
+<tr>
+<td>Hire a designer early</td>
+<td>A qualified designer prevents bylaw conflicts before permit submission, saving months of potential delays.</td>
+</tr>
+<tr>
+<td>Vet your contractor thoroughly</td>
+<td>Choose a contractor with direct Calgary permitting experience and a clear written scope of work.</td>
+</tr>
+</tbody>
+</table>
+<h2>What I’ve learned from Calgary home additions</h2>
+<p><em>From Patrick:</em></p>
+<p>The biggest misconception I see from homeowners is that the design is the hard part. In Calgary, the permit process is where projects stall. Homeowners fall in love with a design, then discover it needs a development permit that takes 6–12 weeks and includes community advertising. That timeline surprises almost everyone the first time.</p>
+<p>What actually works is engaging a designer before you have a firm plan. Most homeowners come to us with a rough idea and a budget. The smart move is to get a designer to run a quick zoning check first. That 30-minute conversation can save three months of redesign work.</p>
+<p>The other thing I’d push back on is the idea that acting as your own general contractor always saves money. It can, but only if you have time to manage trades, coordinate inspections, and follow up on permit status. If you miss an inspection window or a trade books out, your project stalls and the savings evaporate. For most Calgary homeowners, a licensed contractor who knows the local process is worth the cost.</p>
+<p>Community context also matters more than people expect. Additions in established Calgary neighbourhoods with heritage overlays get more scrutiny. Respecting the existing character of your street, in terms of materials, massing, and roofline, is not just an aesthetic choice. It is the difference between a smooth approval and a contested one.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Planning a Calgary home addition with Statera Contracting</h2>
+<p>Statera Contracting works with Calgary homeowners on <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions</a> from initial design through permit approval and construction. We handle the full process, including coordinating with licensed trades for plumbing, electrical, and gas work, and managing permit submissions with the City of Calgary.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="https://stateracontracting.com" /></a></p>
+<p>Our team understands Calgary’s zoning bylaws, Alberta Building Code requirements, and the site-specific challenges that come with expansive soils and radon. Whether you are planning a rear bump-out, a second storey, or a sunroom, we bring the local knowledge that keeps your project on schedule. Contact Statera Contracting to book a consultation and get a clear picture of what your addition will take from start to finish.</p>
+<h2>FAQ</h2>
+<h3>Do I always need a permit for a home addition in Calgary?</h3>
+<p>Yes. Every home addition in Calgary requires a building permit. A development permit is also required when the addition exceeds 40 square metres or encroaches on setback limits.</p>
+<h3>How long does the Calgary home addition permit process take?</h3>
+<p>A building permit takes approximately 7 days for straightforward additions. A development permit takes 6–12 weeks due to mandatory community advertising.</p>
+<h3>What makes Calgary home additions more expensive than other cities?</h3>
+<p>Expansive soils and elevated radon levels add costs specific to Calgary. Foundation work can range from $5,000 to $80,000, and radon mitigation systems add $1,200 to $2,500 to the project budget.</p>
+<h3>Can I act as my own general contractor for a home addition in Calgary?</h3>
+<p>Alberta homeowners can pull their own building permits and manage their own projects. This can save $15,000 to $30,000 on smaller additions, but it requires coordinating all trades, inspections, and permit submissions yourself.</p>
+<h3>How do heritage guidelines affect my home addition in Calgary?</h3>
+<p>Certain Calgary neighbourhoods have heritage design guidelines that restrict exterior materials, massing, and style. These guidelines do not require neighbour approval but do influence what the city will approve in a development permit application.</p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">Home Additions Calgary | Room Additions &amp; Extensions | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/basement-finishing-calgary" target="_blank" rel="noopener">Basement Finishing Calgary: Full 2026 Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/garage-suite-calgary" target="_blank" rel="noopener">Garage Suite Calgary: 2026 Cost Guide | Statera | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
