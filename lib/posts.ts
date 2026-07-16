@@ -1578,6 +1578,201 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "kitchen-countertop-heights-the-complete-homeowners-guide",
+    title: "Kitchen countertop heights: the complete homeowner's guide",
+    excerpt:
+      "The standard kitchen countertop height in Canada is 36 inches from the finished floor.",
+    date: "2026-07-15",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784126341296_Woman-measuring-kitchen-countertop-height.jpeg",
+    coverAlt: "Kitchen countertop heights: the complete homeowner's guide",
+    category: "Industry News",
+    readingTime: "11 min read",
+    metaTitle: "Kitchen countertop heights: the complete homeowner's guide",
+    metaDescription:
+      "Discover optimal kitchen countertop heights for your home. Learn how to choose the right height for your kitchen's design and functionality.",
+    content: [
+      {
+        type: "html",
+        html: `<p>The standard kitchen countertop height in Canada is 36 inches from the finished floor. This measurement comes from a base cabinet height of <a href="https://renoquotes.com/en/blog/dimensions-kitchen-counter" rel="nofollow noopener noreferrer" target="_blank">34.5 inches</a> plus countertop thickness and substrate, and it has become the accepted norm because it suits the ergonomic needs of most adults for standing tasks like chopping, mixing, and prep work. Whether you are planning a full kitchen renovation in Calgary or simply replacing your countertops, understanding how this number works, and when to deviate from it, makes a real difference in how your kitchen feels every day.</p>
+<h2>What factors determine the ideal kitchen countertop height for your home?</h2>
+<p>The 36-inch standard is a starting point, not a fixed rule. The <a href="https://entryzo.com/how-tall-is-a-kitchen-island/" rel="nofollow noopener noreferrer" target="_blank">right countertop height</a> for your household depends on who uses the kitchen most and how they use it.</p>
+<h3>User height and ergonomics</h3>
+<p>The 36-inch standard was developed from historical ergonomic data for adults of average height. For someone significantly taller or shorter, that number can cause real discomfort over time. A counter that sits too low forces you to hunch your back during prep work. One that sits too high puts strain on your shoulders and wrists. The general ergonomic guideline is to position the counter surface roughly 3 to 4 inches below your bent elbow when standing upright. That means a household with a 6-foot-4 primary cook may benefit from counters closer to 38 or 39 inches, while a shorter household may prefer 34 inches.</p>
+<h3>Kitchen tasks and workflow</h3>
+<p>Different tasks favour different heights. Pastry work and heavy kneading are easier on a slightly lower surface, where you can apply downward pressure without straining. Detailed prep work like slicing vegetables is more comfortable at a standard or slightly higher surface. If your household does a wide range of cooking, a multi-height layout, with one lower prep zone and one standard-height zone, can serve both needs without compromise.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784126349713_Hands-kneading-dough-on-lower-kitchen-countertop.jpeg" alt="Hands kneading dough on lower kitchen countertop" /></p>
+<h3>Cabinet height, flooring, and appliances</h3>
+<p>Your base cabinets set the foundation for everything above. Standard base cabinets sit at 34.5 inches, leaving 1.5 inches for the countertop and any substrate layer. Flooring thickness matters too. If you install thick hardwood or tile after your cabinets are set, the finished floor height rises and your countertop ends up slightly higher than planned. Appliance compatibility is another real concern. Dishwashers, slide-in ranges, and under-counter refrigerators are all designed to fit under a 36-inch counter. Deviating significantly from that height can create gaps or clearance problems with these appliances.</p>
+<ul>
+<li><strong>User height:</strong> Measure elbow height for the primary cook and subtract 3 to 4 inches for the ideal surface height.</li>
+<li><strong>Task type:</strong> Lower surfaces suit heavy kneading; standard heights suit general prep and cooking.</li>
+<li><strong>Flooring thickness:</strong> Account for tile or hardwood depth before finalising cabinet height.</li>
+<li><strong>Appliance fit:</strong> Confirm dishwasher, range, and refrigerator clearances before committing to a non-standard height.</li>
+<li><strong>Accessibility needs:</strong> <a href="https://specialneedscomputers.ca/products/wheelchair-approach-adjustable-sink" rel="nofollow noopener noreferrer" target="_blank">Adjustable height surfaces</a> between 28 and 36 inches accommodate wheelchair users and people with limited mobility.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>If you are renovating for long-term living or aging in place, plan at least one section of counter at 32 to 34 inches. This small change dramatically improves accessibility without affecting the overall kitchen aesthetic.</em></p>
+<h2>How do different kitchen areas vary in countertop height and why?</h2>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784127140972_Infographic-comparing-standard-and-variable-countertop-heights.jpeg" alt="Infographic comparing standard and variable countertop heights" /></p>
+<p>Not every surface in your kitchen needs to sit at the same height. Islands, peninsulas, and perimeter counters each serve different functions, and their heights should reflect that.</p>
+<h3>Perimeter counters</h3>
+<p>The perimeter counters along your kitchen walls follow the 36-inch standard in nearly every residential kitchen in Alberta. This height aligns with standard base cabinets, fits all major appliances, and suits the widest range of users for everyday cooking tasks.</p>
+<h3>Counter-height islands</h3>
+<p>A counter-height island sits at 36 inches, matching the perimeter counters. This height works well when the island serves primarily as a prep surface, with seating as a secondary function. For seating at a counter-height island, you need stools with a <a href="https://canadianrenovationsuperstore.ca/blogs/news/kitchen-counter-stools-guide" rel="nofollow noopener noreferrer" target="_blank">seat height of 24 to 27 inches</a>. This leaves comfortable legroom and a natural seated posture for most adults.</p>
+<h3>Bar-height islands</h3>
+<p>A bar-height island sits at 42 inches. This height is better suited to social spaces where the island functions more as a gathering point than a work surface. It creates a visual separation between the kitchen and an adjacent living or dining area, which works well in open-concept layouts. Bar-height seating requires stools with a seat height of 28 to 32 inches. The trade-off is that a 42-inch surface is less comfortable for extended prep work, particularly for shorter users.</p>
+<h3>Split-level islands</h3>
+<p><a href="https://medium.com/@smartrenovations/kitchen-islands-and-peninsulas-in-gta-homes-design-sizing-and-functional-strategy-a0289f3bfbc2" rel="nofollow noopener noreferrer" target="_blank">Split-level islands</a> combine a 36-inch prep surface on one side with a raised 42-inch seating ledge on the other. This design is popular in open-concept Calgary homes because it separates the work zone from the social zone without requiring two separate pieces of furniture. The raised ledge also hides prep mess from guests seated on the other side.</p>
+<h3>Knee clearance and seating comfort</h3>
+<p>Comfortable seating at any island height requires adequate knee clearance. The standard recommendation is <a href="https://kaskitchens.ca/blog/kitchen-island-design-guide" rel="nofollow noopener noreferrer" target="_blank">12 to 15 inches of depth</a> beneath the overhang for seated users. Without that clearance, stools end up pushed back awkwardly and seating becomes uncomfortable quickly.</p>
+<table>
+<thead>
+<tr>
+<th>Island type</th>
+<th>Surface height</th>
+<th>Recommended stool seat height</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Counter-height island</td>
+<td>36 inches</td>
+<td>24–27 inches</td>
+</tr>
+<tr>
+<td>Bar-height island</td>
+<td>42 inches</td>
+<td>28–32 inches</td>
+</tr>
+<tr>
+<td>Split-level island</td>
+<td>36 inches / 42 inches</td>
+<td>Both stool types</td>
+</tr>
+<tr>
+<td>Perimeter counter</td>
+<td>36 inches</td>
+<td>Not applicable</td>
+</tr>
+</tbody>
+</table>
+<h2>What role do countertop materials and thickness play in finished height?</h2>
+<p>Material thickness directly affects your finished countertop height, and getting this wrong creates real problems with appliance fit and visual proportion.</p>
+<h3>Base cabinet and substrate math</h3>
+<p>Standard base cabinets sit at 34.5 inches. The remaining 1.5 inches is shared between the countertop slab and any substrate layer beneath it. If your slab is thinner than 1.5 inches, a plywood substrate fills the gap to maintain the <a href="https://countertopauthority.com/countertop-thickness-standards" rel="nofollow noopener noreferrer" target="_blank">36-inch finished height</a>. If your slab is thicker, the finished counter rises above 36 inches, which can affect appliance fit.</p>
+<h3>Material-specific thickness norms</h3>
+<p>Granite and quartz slabs typically range from 0.75 to 1.25 inches thick. A 0.75-inch slab needs a 0.75-inch plywood substrate to reach the standard finished height. A 1.25-inch slab needs only 0.25 inches of substrate, or none at all if the cabinet height is adjusted. Butcher block and solid wood countertops are often 1.5 inches thick, which means they sit directly on the cabinet without substrate. Concrete countertops vary widely and are typically poured in place, so their thickness is controlled during fabrication. Laminate countertops are usually 1.5 inches total, including the particleboard core.</p>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Typical thickness</th>
+<th>Substrate needed?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Granite / quartz</td>
+<td>0.75–1.25 inches</td>
+<td>Usually yes</td>
+</tr>
+<tr>
+<td>Butcher block</td>
+<td>1.5 inches</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Concrete</td>
+<td>Variable</td>
+<td>Depends on pour</td>
+</tr>
+<tr>
+<td>Laminate</td>
+<td>1.5 inches (with core)</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Solid surface</td>
+<td>0.5–0.75 inches</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<h3>Edge profiles and structural support</h3>
+<p>Thicker slabs support more dramatic edge profiles, like a full bullnose or waterfall edge, without additional reinforcement. Thinner slabs may require a built-up edge, where extra material is laminated to the front face to create the appearance of a thicker slab. This is a common technique with granite and quartz and adds minimal cost while improving the visual weight of the counter.</p>
+<p><strong>Pro Tip:</strong> <em>Always confirm your slab thickness with your supplier before your cabinets are installed. A last-minute switch from a 0.75-inch to a 1.25-inch slab changes your substrate requirements and can affect appliance clearances.</em></p>
+<h2>How to plan countertop heights for a functional and safe kitchen workflow?</h2>
+<p>Getting the heights right is only part of the equation. The spacing around your counters determines whether your kitchen actually works well day to day.</p>
+<ul>
+<li><strong>Single-cook kitchens:</strong> A minimum aisle width of 36 inches between counters and islands allows one person to move and work comfortably.</li>
+<li><strong>Multi-cook kitchens:</strong> Aisle widths of 48 to 60 inches allow two people to work side by side without blocking each other or appliance doors.</li>
+<li><strong>Appliance door clearance:</strong> Dishwasher, oven, and refrigerator doors all need clear swing space. A counter or island placed too close blocks these doors and creates a daily frustration.</li>
+<li><strong>Open-concept layouts:</strong> Coordinate island height with adjacent dining or living furniture. A bar-height island next to a low sofa creates an awkward visual disconnect.</li>
+<li><strong>Multi-user households:</strong> If children regularly use the kitchen, consider a lower prep zone at 30 to 32 inches. This makes cooking together safer and more practical.</li>
+<li><strong>Traffic flow:</strong> In Calgary homes with open-concept main floors, the kitchen island often sits in a high-traffic path. Wider aisles on the traffic side of the island reduce congestion during busy mornings.</li>
+</ul>
+<p>Clearance is the detail most homeowners overlook until it is too late. Prioritising clearance over style protects the long-term usability of your kitchen, regardless of how well-chosen your countertop height is.</p>
+<h2>Key takeaways</h2>
+<p>The standard kitchen countertop height of 36 inches suits most households, but the right choice depends on user height, material thickness, island function, and aisle clearance working together.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Standard height is 36 inches</td>
+<td>Base cabinets at 34.5 inches plus countertop thickness equals the accepted Canadian standard.</td>
+</tr>
+<tr>
+<td>Island height depends on use</td>
+<td>Counter-height islands suit prep work; bar-height islands at 42 inches suit social seating.</td>
+</tr>
+<tr>
+<td>Material thickness affects finished height</td>
+<td>Granite and quartz slabs from 0.75 to 1.25 inches require substrate to reach standard height.</td>
+</tr>
+<tr>
+<td>Aisle clearance is non-negotiable</td>
+<td>Single-cook kitchens need 36 inches minimum; multi-cook kitchens need 48 to 60 inches.</td>
+</tr>
+<tr>
+<td>Accessibility requires planning ahead</td>
+<td>Adjustable surfaces between 28 and 36 inches support wheelchair users and aging-in-place design.</td>
+</tr>
+</tbody>
+</table>
+<h2>Patrick’s take on countertop height decisions</h2>
+<p>After working on kitchen renovations across Calgary and the surrounding area, the pattern I see most often is homeowners defaulting to 36 inches without asking whether it actually fits their household. The standard exists for good reason, but it was built around an average that does not describe every family.</p>
+<p>The mistake I see most is ignoring the primary cook’s height. A 5-foot-2 homeowner working at a 36-inch counter for years will eventually feel it in their back and shoulders. A small adjustment during the renovation costs almost nothing. Fixing it afterward costs a full cabinet replacement.</p>
+<p>I also see people fall in love with bar-height islands for the look, then realise six months later that they never actually use the seating because the stools are uncomfortable or the clearance is wrong. The visual appeal of a 42-inch island is real, but it needs to match how you actually live in the space.</p>
+<p>My honest advice: talk to a professional before you finalise any heights. Not because the math is complicated, but because an experienced renovator will ask the questions you have not thought of yet. Adjustable countertop designs are worth considering for households with diverse needs, and retrofitting them later is significantly more complex than planning for them upfront.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Planning your kitchen renovation with Statera Contracting</h2>
+<p>Choosing the right countertop height is one of the most consequential decisions in a kitchen renovation, and it touches everything from cabinet selection to appliance fit to long-term comfort. Statera Contracting works with Calgary homeowners to plan kitchens that function well for the people who actually use them, not just for the average household.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="https://stateracontracting.com" /></a></p>
+<p>Whether you are working with a standard layout or exploring a split-level island, our team reviews your space, your household’s needs, and your appliance selections before a single cabinet is ordered. We also handle <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovations in Calgary</a> from initial planning through to final installation, so nothing falls through the cracks. If you are ready to talk through your project, reach out to Statera Contracting for a consultation.</p>
+<h2>FAQ</h2>
+<h3>What is the standard counter height in Canada?</h3>
+<p>The standard kitchen counter height in Canada is 36 inches from the finished floor. This is based on a base cabinet height of 34.5 inches plus countertop thickness and substrate.</p>
+<h3>How tall should a kitchen island be for seating?</h3>
+<p>Counter-height islands sit at 36 inches and use stools with a 24 to 27-inch seat height. Bar-height islands sit at 42 inches and require stools with a 28 to 32-inch seat height.</p>
+<h3>Does countertop material affect the finished height?</h3>
+<p>Yes. Granite and quartz slabs range from 0.75 to 1.25 inches thick, so a plywood substrate is often needed to reach the 36-inch standard. Thicker materials like butcher block at 1.5 inches typically need no substrate.</p>
+<h3>What is the minimum aisle width between a counter and an island?</h3>
+<p>The minimum aisle width for a single-cook kitchen is 36 inches. Multi-cook kitchens need 48 to 60 inches to allow safe movement and full appliance door clearance.</p>
+<h3>Can countertop heights be adjusted for accessibility?</h3>
+<p>Yes. Adjustable height surfaces between 28 and 36 inches accommodate wheelchair users and people with limited mobility. Retrofitting these surfaces requires specialised plumbing and electrical planning, so it is best addressed during the initial renovation rather than added later.</p>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
