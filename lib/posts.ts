@@ -47,7 +47,7 @@ export const posts: Post[] = [
       "Converted Calgary garage suite with a home office on one side featuring a wood desk and dual monitors, and a home gym on the other with a bike, bench, and free weights, wide plank flooring throughout.",
     category: "Home Additions",
     readingTime: "5 min read",
-    metaTitle: "Garage Suite Calgary: 2026 Cost Guide | Statera",
+    metaTitle: "Garage Suite Calgary: 2026 Cost Guide",
     metaDescription:
       "What a garage suite conversion actually costs in Calgary in 2026, permit requirements, and whether it beats a full addition. From a licensed Calgary contractor.",
     content: [
@@ -126,7 +126,7 @@ export const posts: Post[] = [
       "Renovated Bearspaw bathroom with a white double vanity, grey quartz countertops, copper faucets, and a freestanding tub beneath a window.",
     category: "Bathroom Renovation",
     readingTime: "6 min read",
-    metaTitle: "Bathroom Renovation Bearspaw: Homeowner Guide | Statera",
+    metaTitle: "Bathroom Renovation Bearspaw: Homeowner Guide",
     metaDescription:
       "Planning a bathroom renovation in Bearspaw? Practical guidance on permits, well water, septic, timelines, and costs for acreage and estate homes from a Calgary-area contractor.",
     content: [
@@ -306,7 +306,7 @@ export const posts: Post[] = [
       "Finished Calgary basement living space with open-concept layout, pot lighting, and modern finishes.",
     category: "Basement Renovation",
     readingTime: "5 min read",
-    metaTitle: "Basement Finishing Calgary: Full 2026 Guide | Statera",
+    metaTitle: "Basement Finishing Calgary: Full 2026 Guide",
     metaDescription:
       "Basement finishing Calgary guide for 2026. Layout ideas, permits, budget ranges, and how to pick a contractor you can trust.",
     content: [
@@ -405,7 +405,7 @@ export const posts: Post[] = [
       "Renovated Calgary living room at Hidden Spring Mews with double-height windows, vaulted ceiling, wide-plank wood floors, and a bright open-concept layout.",
     category: "Home Renovations",
     readingTime: "5 min read",
-    metaTitle: "Home Renovations Calgary 2026 Owner’s Roadmap | Statera",
+    metaTitle: "Home Renovations Calgary 2026 Owner’s Roadmap",
     metaDescription:
       "How to plan home renovations in Calgary in 2026: budgets, permits, trade sequencing, and avoiding the common mistakes. Statera Contracting.",
     content: [
@@ -478,7 +478,7 @@ export const posts: Post[] = [
       "Calgary bathroom renovation in Cannington Place with white subway tile shower, black-framed glass enclosure, hexagonal mosaic floor, navy vanity, brass fixtures, and wood floating shelves.",
     category: "Bathroom Renovation",
     readingTime: "5 min read",
-    metaTitle: "Bathroom Renovation Calgary 2026 Cost Guide | Statera",
+    metaTitle: "Bathroom Renovation Calgary 2026 Cost Guide",
     metaDescription:
       "What a bathroom renovation in Calgary really costs in 2026, from refresh to full gut, with timelines and where to spend or save. Statera Contracting.",
     content: [

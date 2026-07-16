@@ -5,12 +5,12 @@ import SchemaMarkup, { localBusinessSchema } from "@/components/SchemaMarkup";
 import { getAllPosts, formatPostDate } from "@/lib/posts";
 
 export const metadata: Metadata = {
-  title: "Renovation Blog | Calgary Tips & Insights | Statera Contracting",
+  title: "Renovation Blog | Calgary Tips & Insights",
   description:
     "Calgary renovation tips, guides, and insights from Statera Contracting. Kitchen, bathroom, basement, and commercial renovation advice from 20+ years of experience.",
   alternates: { canonical: "https://stateracontracting.com/blog" },
   openGraph: {
-    title: "Renovation Blog | Calgary Tips & Insights | Statera Contracting",
+    title: "Renovation Blog | Calgary Tips & Insights",
     description:
       "Calgary renovation tips, guides, and insights from Statera Contracting.",
     url: "https://stateracontracting.com/blog",

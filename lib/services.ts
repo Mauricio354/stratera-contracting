@@ -32,7 +32,7 @@ const services: Service[] = [
     slug: "kitchen-renovation-calgary",
     shortTitle: "Kitchen Renovation",
     title: "Kitchen Renovation Calgary",
-    metaTitle: "Kitchen Renovation Calgary | Licensed Contractor | Statera",
+    metaTitle: "Kitchen Renovation Calgary | Licensed Contractor",
     metaDescription:
       "Expert kitchen renovations in Calgary by Statera Contracting. Custom cabinetry, countertops & full gut renovations. 20+ yrs experience. Licensed & insured. Free quote.",
     heroHeadline: "Kitchen Renovation Calgary",
@@ -150,7 +150,7 @@ const services: Service[] = [
     slug: "bathroom-renovation-calgary",
     shortTitle: "Bathroom Renovation",
     title: "Bathroom Renovation Calgary",
-    metaTitle: "Bathroom Renovation Calgary | Licensed Contractor | Statera",
+    metaTitle: "Bathroom Renovation Calgary | Licensed Contractor",
     metaDescription:
       "Transform your Calgary bathroom with Statera Contracting. Spa-inspired designs, expert tile work, plumbing & electrical. 20+ yrs experience. Free consultation.",
     heroHeadline: "Bathroom Renovation Calgary",
@@ -270,7 +270,7 @@ const services: Service[] = [
     slug: "basement-living-spaces-calgary",
     shortTitle: "Basement & Living Spaces",
     title: "Basement & Living Spaces Calgary",
-    metaTitle: "Basement & Living Spaces Calgary | Legal Suites & Finishing | Statera",
+    metaTitle: "Basement & Living Spaces Calgary | Legal Suites & Finishing",
     metaDescription:
       "Calgary basement development & finishing by Statera Contracting. Legal suites, home theatres, rec rooms. Permits handled. 20+ yrs experience. Free quote.",
     heroHeadline: "Basement & Living Spaces Calgary",
@@ -390,7 +390,7 @@ const services: Service[] = [
     slug: "commercial-renovation-calgary",
     shortTitle: "Commercial Renovation",
     title: "Commercial Renovation Calgary",
-    metaTitle: "Commercial Renovation Calgary | Offices, Retail & Restaurants | Statera",
+    metaTitle: "Commercial Renovation Calgary | Offices, Retail & Restaurants",
     metaDescription:
       "Commercial renovation in Calgary. Offices, restaurants, retail & tenant improvements. WCB insured, on-time delivery. 20+ yrs experience. Free consultation.",
     heroHeadline: "Commercial Renovation Calgary",
@@ -515,7 +515,7 @@ const services: Service[] = [
     slug: "home-additions-calgary",
     shortTitle: "Home Additions",
     title: "Home Additions Calgary",
-    metaTitle: "Home Additions Calgary | Room Additions & Extensions | Statera",
+    metaTitle: "Home Additions Calgary | Room Additions & Extensions",
     metaDescription:
       "Custom home additions in Calgary by Statera Contracting. Second-storey additions, bump-outs, garage conversions & sunrooms. Permitted & built to code. 20+ yrs experience. Free quote.",
     heroHeadline: "Home Additions Calgary",
