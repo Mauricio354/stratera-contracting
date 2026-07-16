@@ -2,5 +2,6 @@
   "598354": { "status": "published" },
   "601357": { "status": "published" },
   "599310": { "status": "published" },
-  "596857": { "status": "published" }
+  "596857": { "status": "published" },
+  "569352": { "status": "held", "reason": "Title matches comparison/listicle trip-wire pattern (\"Top 3 ... Companies ... Providers\")" }
 }
