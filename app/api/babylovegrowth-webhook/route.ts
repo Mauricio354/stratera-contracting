@@ -11,6 +11,13 @@ const CLAUDE_BETA_HEADER = "experimental-cc-routine-2026-04-01";
 const ALERT_EMAIL = "mauricio@mrwebsolutions.ca";
 const FROM_EMAIL = "Statera Website <noreply@stateracontracting.com>";
 
+// BabyLoveGrowth retries a failed webhook delivery several times within
+// seconds. Without this, each retry for the same article sends its own
+// alert email. Best-effort only: a cold serverless instance can still let
+// a duplicate through, that's fine, a couple of alerts beats missing one.
+const ALERT_DEDUPE_WINDOW_MS = 10 * 60 * 1000;
+const recentAlerts = new Map<number, number>();
+
 function safeCompare(a: string, b: string): boolean {
   const bufA = Buffer.from(a);
   const bufB = Buffer.from(b);
@@ -18,7 +25,15 @@ function safeCompare(a: string, b: string): boolean {
   return timingSafeEqual(bufA, bufB);
 }
 
-async function alertFailure(subject: string, detail: string) {
+async function alertFailure(articleId: number, subject: string, detail: string) {
+  const now = Date.now();
+  const lastAlert = recentAlerts.get(articleId);
+  if (lastAlert && now - lastAlert < ALERT_DEDUPE_WINDOW_MS) {
+    console.error("babylovegrowth-webhook: suppressing duplicate alert within dedupe window:", subject, detail);
+    return;
+  }
+  recentAlerts.set(articleId, now);
+
   const apiKey = process.env.RESEND_API_KEY;
   if (!apiKey) {
     console.error("babylovegrowth-webhook: cannot send failure alert, RESEND_API_KEY not set:", subject, detail);
@@ -92,6 +107,7 @@ export async function POST(req: NextRequest) {
       const body = await fireResponse.text();
       console.error(`babylovegrowth-webhook: routine fire failed (${fireResponse.status}):`, body);
       await alertFailure(
+        articleId,
         `Failed to trigger publish routine for article ${articleId}`,
         `Article "${title}" (ID ${articleId}) arrived via webhook but the routine fire call failed with status ${fireResponse.status}:\n\n${body}`
       );
@@ -100,6 +116,7 @@ export async function POST(req: NextRequest) {
   } catch (err) {
     console.error("babylovegrowth-webhook: routine fire request threw:", err);
     await alertFailure(
+      articleId,
       `Failed to trigger publish routine for article ${articleId}`,
       `Article "${title}" (ID ${articleId}) arrived via webhook but the request to fire the routine threw an error: ${String(err)}`
     );
