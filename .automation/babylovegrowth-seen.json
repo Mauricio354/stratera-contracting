@@ -8,7 +8,7 @@
   "599284": { "status": "published", "publishedAt": "2026-07-16" },
   "575333": { "status": "held", "reason": "Title matches comparison/listicle trip-wire pattern (\"Top 4 ... Providers\")" },
   "569352": { "status": "held", "reason": "Title matches comparison/listicle trip-wire pattern (\"Top 3 ... Companies ... Providers\")" },
-  "606883": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-07-16, was mid-flight when the routine was paused" },
+  "606883": { "status": "published", "publishedAt": "2026-07-19" },
   "599450": { "status": "published", "publishedAt": "2026-07-17" },
   "569349": { "status": "published", "publishedAt": "2026-07-18" },
   "610773": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-07-17" }
