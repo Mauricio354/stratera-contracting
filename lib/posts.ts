@@ -2561,6 +2561,156 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "home-renovation-tax-credit",
+    title: "Home renovation tax credit in Canada: 2026 guide",
+    excerpt: "The Multigenerational Home Renovation Tax Credit and Home Accessibility Tax Credit can return up to $10,500 combined on a qualifying Canadian renovation, provided the permits and documentation hold up under CRA review.",
+    date: "2026-07-18",
+    author: "Industry News",
+    coverImage: "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784411294438_Homeowner-reviewing-renovation-tax-credit-documents.jpeg",
+    coverAlt: "Home renovation tax credit in Canada: 2026 guide",
+    category: "Industry News",
+    readingTime: "7 min read",
+    metaTitle: "Home renovation tax credit in Canada: 2026 guide",
+    metaDescription: "Discover how the home renovation tax credit in Canada can save you money. Explore the Multigenerational Home Renovation Tax Credit and more!",
+    content: [
+      {
+        type: "html",
+        html: `<h2>What home renovation tax credits are available in Canada?</h2>
+<p>The two main federal credits available to Canadian homeowners right now are the Multigenerational Home Renovation Tax Credit (MHRTC) and the Home Accessibility Tax Credit (HATC). If you’re renovating to bring a senior parent or a family member with a disability into your home, these credits can put real money back in your pocket.</p>
+<p>The MHRTC is a refundable credit equal to 15% of up to $50,000 in qualifying renovation expenses, for a maximum of $7,500 per qualifying renovation. Because it’s refundable, you receive the credit as a cash refund even if you owe no tax. The HATC works differently: it’s a <a href="https://shajani.ca/multigenerational-home-renovation-tax-credit-mhrtc-in-2026-what-families-must-know/" rel="nofollow noopener noreferrer" target="_blank">non-refundable credit of 15%</a> on up to $20,000 in eligible accessibility expenses, capping at $3,000. It reduces your tax payable but won’t generate a refund if your tax bill is already zero.</p>
+<p>To qualify for the MHRTC, the renovation must create a self-contained secondary unit with a private entrance, kitchen, bathroom, and sleeping area. The qualifying individual living in that unit must be either 65 or older by the end of the tax year, or an adult eligible for the Disability Tax Credit. The person claiming the credit must be a qualifying relation, such as a child, parent, grandparent, or sibling, who ordinarily resides in the eligible dwelling.</p>
+<p>You claim the credit in the tax year the renovation is completed, not when it starts. Completion means passing final inspection or receiving proof of project completion. Expenditures from prior years are included on Schedule 12 in the completion year, as long as they were incurred after December 31, 2023.</p>
+<blockquote>
+<p><strong>$7,500 maximum refundable credit</strong> through the MHRTC, plus up to <strong>$3,000</strong> through the HATC. Together, they can deliver up to $10,500 in combined credits on a single qualifying renovation.</p>
+</blockquote>
+<p><strong>Eligible expenses include:</strong></p>
+<ul>
+<li>Construction labour and building materials</li>
+<li>Architectural and design fees</li>
+<li>Plumbing and electrical work</li>
+<li>Building permits and equipment rentals</li>
+<li>Professional fees (electricians, plumbers, carpenters)</li>
+</ul>
+<p><strong>Expenses that do not qualify:</strong></p>
+<ul>
+<li>Household appliances and electronics</li>
+<li>Routine maintenance or repairs</li>
+<li>Landscaping and outdoor services</li>
+<li>Financing costs such as mortgage interest</li>
+<li>Any expense already claimed under another credit</li>
+</ul>
+<p>The MHRTC has a <a href="https://insightscpa.ca/multigenerational-home-renovation-tax-credit-canada-2026/" rel="nofollow noopener noreferrer" target="_blank">lifetime limit</a> tracked by both the eligible individual’s SIN and the property address. Only one qualifying renovation may be claimed per eligible individual, and the combined claim across all claimants cannot exceed $7,500 per renovation.</p>
+
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784411698123_Infographic-comparing-Canadian-renovation-tax-credits.jpeg" alt="Infographic comparing Canadian renovation tax credits" /></p>
+<h2>Alberta service providers who support tax credit claims</h2>
+<p>Choosing the right contractor and financial advisor in Alberta can make the difference between a smooth CRA claim and a denied one. Local providers who understand municipal building codes and CRA documentation expectations reduce your risk considerably.</p>
+<table>
+<thead>
+<tr>
+<th>Provider</th>
+<th>Type of service</th>
+<th>Location</th>
+<th>Customer rating</th>
+<th>Primary offerings relevant to tax credits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://sterlingedmonton.com/" rel="nofollow noopener noreferrer" target="_blank">Sterling Homes Edmonton (Head Office)</a></td>
+<td>General contractor</td>
+<td>Edmonton, AB</td>
+<td>4.2★ (655 reviews)</td>
+<td>Tax credit compliant residential construction and renovation; permit handling; documentation support</td>
+</tr>
+<tr>
+<td><a href="http://www.chmic.ca/" rel="nofollow noopener noreferrer" target="_blank">Calvert Home Mortgage Investment Corporation</a></td>
+<td>Mortgage and renovation financing</td>
+<td>Calgary, AB</td>
+<td>4.9★ (88 reviews)</td>
+<td>Tailored renovation financing aligned with MHRTC eligibility; tax credit documentation guidance</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784411293602_Contractors-reviewing-tax-credit-supporting-documents.jpeg" alt="Contractors reviewing tax credit supporting documents" /></p>
+<p>Sterling Homes Edmonton operates as a verified general contractor in Edmonton, with experience in residential construction and renovations that meet the compliance requirements for federal tax credits. Their familiarity with local permit processes is directly relevant to MHRTC eligibility, since renovations that don’t meet local building codes risk outright credit denial.</p>
+<p>Calvert Home Mortgage Investment Corporation takes a different angle. As a financial services provider in Calgary, they specialise in renovation financing structured around credit qualifications. For homeowners who need to fund a secondary suite build before the tax credit arrives, having a financing partner who understands the MHRTC’s documentation requirements is genuinely useful.</p>
+
+<h2>How to choose the right contractor and financial service</h2>
+<p>Picking a contractor or financial advisor without checking their familiarity with MHRTC rules is one of the most common and costly mistakes Alberta homeowners make. Here’s how to approach the selection process with confidence.</p>
+<p><strong>Questions to ask any contractor before signing:</strong></p>
+<ul>
+<li>Have you completed renovations that qualified for the MHRTC or HATC?</li>
+<li>Do you handle building permit applications, or is that left to the homeowner?</li>
+<li>Can you provide itemised invoices that include your GST/HST registration number?</li>
+<li>Will your contract clearly describe the scope of work tied to the secondary unit creation?</li>
+<li>How do you document project completion for CRA purposes?</li>
+</ul>
+<p>The contract itself matters as much as the conversation. It should describe the specific scope of work creating the secondary dwelling unit, not just a general renovation. Vague contracts make it harder to demonstrate to CRA that expenses were directly attributable to a qualifying renovation.</p>
+<p><strong>Pro Tip:</strong> <em>Treat your renovation paperwork the way a business treats its accounting. Keep every invoice, permit certificate, proof of payment, and delivery slip in one folder. CRA requires you to hold supporting documents for six years, and an audit without them can mean repaying the full credit.</em></p>
+<p>On the financial side, coordinate your renovation budget so eligible and ineligible expenses are tracked separately from the start. You cannot claim the same expense under both the MHRTC and the HATC, so splitting costs between the two credits requires clear records from day one. A good <a href="https://blog.sortedhomesolutions.co.nz/blog/renovation-project-management-a-homeowners-guide" target="_blank" rel="nofollow noopener noreferrer">renovation project management</a> approach, where scope, costs, and timelines are documented throughout, protects your claim at every stage.</p>
+<p><strong>Common mistakes to avoid:</strong></p>
+<ul>
+<li>Claiming appliances, furniture, or financing costs as eligible expenses</li>
+<li>Missing the permit requirement, which disqualifies the entire renovation</li>
+<li>Filing the claim in the wrong tax year (always the year of completion, not the year work began)</li>
+<li>Failing to confirm the qualifying individual meets the age or DTC criteria before starting</li>
+</ul>
+
+<h2>How renovation tax credits interact with other government incentives</h2>
+<p>The MHRTC and HATC don’t exist in isolation. Several other federal and provincial programmes can apply to the same renovation, and knowing how they interact prevents both missed savings and accidental double-claiming.</p>
+<p>The most important overlap is between the MHRTC and the HATC. You can claim both on the same renovation, but the same expense cannot be claimed under both credits. Allocate accessibility-specific costs to the HATC and structural secondary-unit costs to the MHRTC to maximise the combined benefit.</p>
+<p>For substantial renovations, the GST/HST new housing rebate may also apply. A renovation that removes or replaces 90% or more of the existing interior qualifies as a substantial renovation, making the homeowner eligible for a partial rebate of the GST/HST paid on renovation costs. Strict local building code compliance is required for this rebate as well, reinforcing why permits matter across the board.</p>
+<p>One rule applies universally: any government assistance you receive, including grants, forgivable loans, or rebates, must be subtracted from the eligible expenses you claim under the MHRTC. You cannot claim the full renovation cost if part of it was covered by a provincial grant or rebate programme. Check the <a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">2026 renovation roadmap</a> for Alberta-specific programme updates that may affect your eligible expense total.</p>
+
+<h2>Statera Contracting handles the renovation side so your credit claim is clean</h2>
+<p>If you’re planning a secondary suite, a <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement legal suite</a>, or an accessibility renovation in Calgary or the surrounding area, Statera Contracting builds it with the documentation your CRA claim requires.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="https://stateracontracting.com" /></a></p>
+<p>Every project comes with proper permits, itemised invoices with GST/HST registration, and a clearly scoped contract tied to the qualifying work. That’s the paperwork foundation a successful MHRTC claim is built on. Statera Contracting handles <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovations</a>, <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom upgrades</a>, basement suites, home additions, and exterior work across Calgary. Reach out to <a href="https://stateracontracting.com" target="_blank" rel="noopener">Statera Contracting</a> to discuss your project and get the renovation done right the first time.</p>
+
+<h2>Key takeaways</h2>
+<p>The MHRTC delivers up to $7,500 as a refundable cash credit, making it one of the most valuable federal renovation incentives available to Canadian homeowners in 2026.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MHRTC maximum credit</td>
+<td>15% of up to $50,000 in qualifying expenses, for a maximum refundable credit of $7,500 per renovation.</td>
+</tr>
+<tr>
+<td>HATC is non-refundable</td>
+<td>The HATC provides up to $3,000 but only reduces tax payable; it does not generate a cash refund.</td>
+</tr>
+<tr>
+<td>Claim year is completion year</td>
+<td>You must claim the MHRTC in the tax year the renovation is completed, not the year it began.</td>
+</tr>
+<tr>
+<td>Documentation is mandatory</td>
+<td>CRA requires invoices with GST/HST numbers, permits, proof of payment, and contractor details for every claim.</td>
+</tr>
+<tr>
+<td>Statera Contracting</td>
+<td>Builds permit-compliant secondary suites and renovations in Calgary with the documentation your MHRTC claim needs.</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">Bathroom remodel ideas: your 2026 Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">Commercial Renovation Calgary: TI Timeline Guide | Statera | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
