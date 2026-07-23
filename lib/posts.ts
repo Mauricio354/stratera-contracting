@@ -2955,6 +2955,202 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "kitchen-remodel-cost",
+    title: "Kitchen remodel cost in Calgary: 2026 Alberta guide",
+    excerpt: "A full kitchen renovation in Calgary typically costs between $25,000 and $80,000, depending on scope, materials, and whether the layout changes.",
+    date: "2026-07-20",
+    author: "Industry News",
+    coverImage: "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784552576685_Woman-reviewing-kitchen-remodel-cost-documents.jpeg",
+    coverAlt: "Kitchen remodel cost in Calgary: 2026 Alberta guide",
+    category: "Industry News",
+    readingTime: "8 min read",
+    metaTitle: "Kitchen remodel cost in Calgary: 2026 Alberta guide",
+    metaDescription: "Discover the kitchen remodel cost in Calgary for 2026. Get insights on budgets from $25,000 to $80,000 for your dream renovation!",
+    content: [
+      {
+        type: "html",
+        html: `<h2>What does a kitchen remodel cost in Calgary?</h2>
+<p>A full kitchen renovation in Calgary typically runs between <a href="https://renoplanner.ai/renovation-cost/kitchen/calgary" rel="nofollow noopener noreferrer" target="_blank">$25,000 and $80,000</a>, depending on scope, materials, and whether the layout changes. A cosmetic refresh, think new cabinet doors, updated hardware, and a fresh backsplash, can be more affordable, typically for smaller upgrades. A mid-range same-layout renovation usually costs more than a cosmetic refresh but less than a full redesign. A full gut with custom cabinetry, structural changes, and premium finishes reflects the highest budget tier.</p>
+<p><a href="https://www.homestars.com/kitchen/price-guides/kitchen-cost" rel="nofollow noopener noreferrer" target="_blank">Canadian renovation data</a> provides an average kitchen renovation cost reflecting a national perspective, with a wide cost range based on scope. Those numbers reflect the national picture. Calgary’s labour market and material costs tend to push local projects toward the higher end of comparable ranges.</p>
+<p>The biggest cost drivers are cabinetry, labour, and layout changes. Here is how a typical budget breaks down:</p>
+<ul>
+<li><strong>Cabinetry and hardware:</strong> a substantial portion of the total budget</li>
+<li><strong>Labour (demo, installation, trade coordination):</strong> a significant portion of the budget</li>
+<li><strong>Appliances and ventilation:</strong> a notable portion</li>
+<li><strong>Countertops:</strong> a smaller but important share</li>
+<li><strong>Flooring:</strong> a modest part</li>
+<li><strong>Permits, design fees, and other costs:</strong> the remaining balance</li>
+</ul>
+<p>One cost Calgary homeowners often underestimate is the contingency fund. <a href="https://www.trueformreno.com/how-to-create-a-budget-for-a-kitchen-remodel/" rel="nofollow noopener noreferrer" target="_blank">Experts recommend</a> setting aside 10–20% of your total budget before allocating anything to finishes. Older Calgary homes frequently hide outdated plumbing, electrical panels that need upgrading, or subfloor damage behind walls. That reserve is not optional; it is the difference between a project that finishes on budget and one that stalls mid-demo.</p>
+<p>Calgary’s dry climate adds another layer. <a href="https://www.renocalc.ca/en/cost/calgary/kitchen" rel="nofollow noopener noreferrer" target="_blank">Low winter humidity</a> under 25% can crack tile grout and cause solid wood cabinetry to warp. Specifying kiln-dried hardwoods and flexible grout additives costs a little more upfront but prevents expensive repairs down the road.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784552574895_Contractor-consulting-homeowners-in-renovation-site.jpeg" alt="Contractor consulting homeowners in renovation site" /></p>
+<p><strong>Pro Tip:</strong> <em>Finalize every product selection, including appliances, hardware, and tile, before demolition begins. Late changes are the single most common cause of costly change orders and project delays.</em></p>
+<h2>Calgary kitchen renovation contractors: who serves this market?</h2>
+<p>Several licensed contractors serve Calgary and the surrounding Alberta region. Their specialisations, service areas, and credentials vary considerably.</p>
+<table>
+<thead>
+<tr>
+<th>Contractor</th>
+<th>Services Offered</th>
+<th>Specialties</th>
+<th>Service Area</th>
+<th>Certifications / Awards</th>
+<th>Rating</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://gurkhalsarenovations.ca/" rel="nofollow noopener noreferrer" target="_blank">Gur Khalsa Renovation</a></td>
+<td>Kitchen, bathroom, home, office renovation</td>
+<td>Residential and corporate renovations</td>
+<td>Calgary and Alberta</td>
+<td>Inclusive full-service approach</td>
+<td>5★ (235 reviews)</td>
+</tr>
+<tr>
+<td><a href="http://kcbdesignbuild.com/" rel="nofollow noopener noreferrer" target="_blank">KCB Design Build Remodel</a></td>
+<td>Kitchen, bathroom, complete home transformations</td>
+<td>Design-build, end-to-end project management</td>
+<td>Calgary, Red Deer, Cochrane</td>
+<td>2025 and 2026 Renovator of the Year</td>
+<td>4.9★ (202 reviews)</td>
+</tr>
+<tr>
+<td><a href="https://www.acthomeservices.com/" rel="nofollow noopener noreferrer" target="_blank">ACT Construction and Renovation</a></td>
+<td>Kitchen, bathroom, basement, interior, exterior</td>
+<td>Residential interior and exterior</td>
+<td>Central Alberta</td>
+<td>Client-focused personalized service</td>
+<td>4.7★ (149 reviews)</td>
+</tr>
+<tr>
+<td><a href="https://www.knightsridgebuilders.com/" rel="nofollow noopener noreferrer" target="_blank">Knights Ridge Builders and Renovations</a></td>
+<td>Custom home renovations, general contracting</td>
+<td>Tailored residential renovations</td>
+<td>Calgary and Alberta</td>
+<td>Trusted local expertise</td>
+<td>5★ (120 reviews)</td>
+</tr>
+<tr>
+<td><a href="https://kay2.ca/" rel="nofollow noopener noreferrer" target="_blank">Kay2 Contracting &amp; Home Renovations</a></td>
+<td>Kitchen upgrades, home additions, basement development</td>
+<td>Home additions, basement development</td>
+<td>Calgary</td>
+<td>Best Renovation with Home Addition; Best Basement Developer in Canada</td>
+<td>4.7★ (81 reviews)</td>
+</tr>
+<tr>
+<td><a href="https://www.rebornrenovations.com/?utm_source=Google&amp;utm_medium=GMB" rel="nofollow noopener noreferrer" target="_blank">Reborn Renovations — Calgary Home Renovations</a></td>
+<td>Kitchen and home renovations</td>
+<td>Custom kitchen upgrades</td>
+<td>Calgary</td>
+<td>Local focus, personalized service</td>
+<td>4.8★ (80 reviews)</td>
+</tr>
+<tr>
+<td><a href="http://www.contactrenovations.ca/" rel="nofollow noopener noreferrer" target="_blank">Contact Renovations &amp; Custom Homes Ltd.</a></td>
+<td>Custom home renovations, kitchen, bathroom, home additions</td>
+<td>Luxury renovations and custom builds</td>
+<td>Edmonton and surrounding area</td>
+<td>CHBA Award for Best Renovation; multiple Best of Houzz awards</td>
+<td>4.8★ (72 reviews)</td>
+</tr>
+<tr>
+<td><a href="https://calgaryrenovationcontractors.com/" rel="nofollow noopener noreferrer" target="_blank">Calgary Renovation Contractors</a></td>
+<td>Kitchen remodelling, bathroom, windows, doors</td>
+<td>Kitchen remodelling, window and door installation</td>
+<td>Calgary</td>
+<td>Licensed, insured, bonded; Energy Star Partner</td>
+<td>4.9★ (52 reviews)</td>
+</tr>
+<tr>
+<td><a href="http://suitehomerenos.com/" rel="nofollow noopener noreferrer" target="_blank">Suite Home Renovations Inc</a></td>
+<td>Kitchen, bathroom, basement, exterior, commercial</td>
+<td>Custom residential and commercial renovations</td>
+<td>Calgary</td>
+<td>Over 20 years of experience</td>
+<td>5★ (38 reviews)</td>
+</tr>
+<tr>
+<td><a href="https://steadfastconstructionsltd.com/" rel="nofollow noopener noreferrer" target="_blank">Steadfast Constructions LTD.</a></td>
+<td>Kitchen, bathroom, basement, full home renovations</td>
+<td>Kitchen and basement renovations with permit handling</td>
+<td>Edmonton and surrounding area</td>
+<td>Licensed contractor, permit handling</td>
+<td>5★ (31 reviews)</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784553008234_Infographic-showing-kitchen-remodel-cost-ranges.jpeg" alt="Infographic showing kitchen remodel cost ranges" /></p>
+<p>A few entries deserve closer attention. KCB Design Build Remodel holds both the 2025 and 2026 Renovator of the Year award, making it one of the most credentialed design-build firms in the region for homeowners seeking a single point of contact from concept through completion. Kay2 Contracting earned recognition as Best Basement Developer in Canada and as a finalist for Best Home Renovation over $1M, highlighting its experience with larger, complex projects. Calgary Renovation Contractors stands out for its 0% financing for 12 months on approved credit, a practical option for homeowners managing cash flow during a renovation. Contact Renovations and Steadfast Constructions are Edmonton-based and serve that region; they are worth considering for homeowners outside Calgary proper.</p>
+<h2>How do you choose the right kitchen renovation contractor?</h2>
+<p>The contractor you hire shapes the entire experience, not just the final result. Start with the basics: verify that any contractor you consider is licensed and insured in Alberta. A licence confirms they meet provincial trade standards; insurance protects you if something goes wrong on site.</p>
+<p>Beyond credentials, ask these questions before signing anything:</p>
+<ul>
+<li><strong>What does the quote include, line by line?</strong> A detailed, itemised quote is the clearest sign a contractor has actually scoped your project. Vague lump-sum quotes almost always lead to disputes.</li>
+<li><strong>How do you handle unforeseen conditions?</strong> Any honest contractor will tell you that opening walls sometimes reveals surprises. Ask how they communicate those discoveries and price the additional work.</li>
+<li><strong>Who manages the trades?</strong> On a kitchen renovation, you will typically need a plumber, electrician, and carpenter in addition to the general contractor. Confirm who coordinates their schedules.</li>
+<li><strong>What is the payment schedule?</strong> Avoid contractors who ask for more than a reasonable deposit upfront. Progress payments tied to completed milestones are standard practice.</li>
+<li><strong>Can you provide local references?</strong> A contractor with a track record in Calgary should be able to connect you with past clients in the area.</li>
+</ul>
+<p>Awards and certifications matter too. A firm recognised by the Canadian Home Builders’ Association (CHBA) or a provincial renovation association has been evaluated against industry standards, not just reviewed online.</p>
+<p><strong>Pro Tip:</strong> <em>Before demolition starts, have every material, appliance, and fixture selected and confirmed with lead times. Waiting on a backordered range or a custom cabinet door can add weeks to your timeline and real dollars to your labour costs.</em></p>
+<h2>How long does a kitchen renovation take in Calgary?</h2>
+<p>A straightforward same-layout kitchen renovation in Calgary often takes several weeks from demolition to final walkthrough. That window assumes materials are ordered and confirmed before work begins, permits are pulled in advance, and no major surprises appear behind the walls.</p>
+<p>Add time for layout changes. Moving plumbing or electrical adds time to the schedule due to required inspections before walls close. Custom cabinetry lead times in Alberta can be several weeks and should be accounted for before demolition.</p>
+<p>Permit timelines in Calgary vary by project scope. Structural changes and work involving regulated trades require permits from the City of Calgary, and processing times can range from a few days for straightforward applications to several weeks for more complex submissions. Factor that into your planning, not as an afterthought.</p>
+<h2>Does a kitchen renovation deliver a return on investment in Canada?</h2>
+<p>A kitchen renovation consistently ranks as one of the highest-return home improvements in Canada, with returns typically between 75% and 100% of project cost reflected in resale value. That range is not guaranteed; it depends heavily on how well the renovation fits the home’s overall value and the neighbourhood’s price ceiling.</p>
+<p>Function drives return more reliably than finishes. Buyers respond to better storage, improved workflow, and updated appliances. A kitchen redesigned around an island and a logical work triangle tends to appraise better than one with expensive tile but a frustrating layout. For <a href="https://happy-doors.co.uk/blog/renovating-for-resale-the-most-cost-effective-kitchen-updates" rel="nofollow noopener noreferrer" target="_blank">renovating with resale in mind</a>, prioritise durable materials and timeless design over trends that date quickly.</p>
+<p>If you plan to stay in the home for several years, the daily-use value compounds the financial return. A kitchen you actually enjoy cooking in is worth something that does not show up on an appraisal.</p>
+<h2>Statera Contracting handles Calgary kitchen renovations from budget to build</h2>
+<p>Calgary homeowners who want a single, accountable team for their kitchen renovation will find Statera Contracting a practical choice. We handle the full scope: design consultation, permit applications, demolition, cabinetry installation, plumbing and electrical coordination, tiling, and finishing. You get one point of contact from the first site visit to the final walkthrough.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="https://stateracontracting.com" /></a></p>
+<p>We work with detailed, line-item quotes so you know exactly what you are paying for before a single wall comes down. Our team is familiar with Calgary’s permit process and the material considerations that come with Alberta’s climate. Whether your project is a focused <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation in Calgary</a> or a broader home renovation that includes bathrooms, a basement, or an addition, we scope it properly from the start. Contact Statera Contracting to book a consultation and get a clear picture of what your renovation will actually cost.</p>
+<h2>Key takeaways</h2>
+<p>Calgary kitchen renovation costs range from $25,000 for a cosmetic refresh to well over $80,000 for a full custom redesign, with the contingency fund and material choices being the two most controllable budget variables.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Calgary cost range</td>
+<td>Kitchen renovations typically run $25,000–$80,000 in Calgary, depending on scope and layout changes.</td>
+</tr>
+<tr>
+<td>Contingency fund</td>
+<td>Set aside 10–20% of your total budget before allocating anything to finishes or materials.</td>
+</tr>
+<tr>
+<td>Cabinetry and hardware</td>
+<td>Typically account for a substantial portion of the total renovation budget.</td>
+</tr>
+<tr>
+<td>ROI in Canada</td>
+<td>Kitchen renovations return 75–100% of project cost in resale value when function is prioritised over trends.</td>
+</tr>
+<tr>
+<td>Statera Contracting</td>
+<td>Offers full-scope Calgary kitchen renovations with detailed quotes, permit handling, and trade coordination.</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/budget-kitchen-renovations-your-2026-alberta-guide" target="_blank" rel="noopener">Budget kitchen renovations: your 2026 Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-design-calgary-your-2026-renovation-guide" target="_blank" rel="noopener">Kitchen design Calgary: your 2026 renovation guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">Bathroom remodel ideas: your 2026 Alberta guide | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
