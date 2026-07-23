@@ -14,5 +14,7 @@
   "610773": { "status": "published", "publishedAt": "2026-07-20" },
   "616468": { "status": "published", "publishedAt": "2026-07-21" },
   "619767": { "status": "published", "publishedAt": "2026-07-22" },
-  "623886": { "status": "published", "publishedAt": "2026-07-23" }
+  "623886": { "status": "published", "publishedAt": "2026-07-23" },
+  "629269": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-07-23" },
+  "632712": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-07-23" }
 }
