@@ -3151,6 +3151,155 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "cost-to-renovate-a-small-bathroom",
+    title: "Cost to renovate a small bathroom in Calgary: 2026 guide",
+    excerpt:
+      "A small bathroom renovation in Calgary typically costs $12,000 to $28,000, depending on scope, with budget refreshes starting around $7,000 and full premium rebuilds reaching $30,000 or more.",
+    date: "2026-07-21",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784658998569_Homeowner-reviewing-bathroom-renovation-quotes.jpeg",
+    coverAlt: "Cost to renovate a small bathroom in Calgary: 2026 guide",
+    category: "Industry News",
+    readingTime: "6 min read",
+    metaTitle: "Cost to renovate a small bathroom in Calgary: 2026 guide",
+    metaDescription:
+      "Discover the cost to renovate a small bathroom in Calgary. Learn budget tips and key insights to plan your perfect bathroom remodel today!",
+    content: [
+      {
+        type: "html",
+        html: `<h2>How much does a small bathroom renovation cost in Calgary?</h2>
+<p>A small bathroom renovation in Calgary typically costs $12,000 to $28,000 for a standard-quality finish, with premium scopes costing significantly more. Budget refreshes — new vanity, paint, updated fixtures — usually run $7,000 to $12,000. Full gut-and-rebuild projects with custom tile and layout changes sit at the higher end, often reaching $30,000 or more.</p>
+<p>The per-square-foot cost for small bathrooms is generally higher than for larger rooms because many fixed trade costs do not decrease with the room size. Waterproofing, plumbing rough-in, and electrical work cost roughly the same whether the room is 40 square feet or 80.</p>
+<blockquote>
+<p><strong>Cost callout:</strong> Tile work typically accounts for 25–35% of the total renovation cost. Choosing standard ceramic over premium stone can save thousands without sacrificing durability.</p>
+</blockquote>
+<p>Key cost drivers to plan for:</p>
+<ul>
+<li><strong>Labour:</strong> The largest single budget item, covering plumbing, electrical, tile setting, and carpentry</li>
+<li><strong>Fixtures and fittings:</strong> Vanity, toilet, shower or tub, faucets, and hardware</li>
+<li><strong>Tile and flooring:</strong> Material grade and pattern complexity directly affect both material and labour costs</li>
+<li><strong>Permits:</strong> Required for plumbing, electrical, and structural changes in Calgary</li>
+<li><strong>Layout changes:</strong> <a href="https://www.homestars.com/bathroom-sanitary/price-guides/bathroom-renovation-cost-calgary" rel="nofollow noopener noreferrer" target="_blank">Moving plumbing or drains</a> adds $2,000–$10,000 to any project</li>
+<li><strong>Contingency:</strong> Budget an additional reserve for unexpected repairs, permit delays, or material shortages</li>
+</ul>
+<p>Labour typically accounts for the largest share of the total renovation cost. Materials, permits, and contingency make up the remainder.</p>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-should-you-look-for-in-an-alberta-bathroom-renovation-contractor">What should you look for in an Alberta bathroom renovation contractor?</a></li>
+<li><a href="#how-do-you-choose-a-contractor-and-control-your-budget">How do you choose a contractor and control your budget?</a></li>
+<li><a href="#statera-contracting-handles-your-calgary-bathroom-renovation-from-quote-to-completion">Statera Contracting handles your Calgary bathroom renovation from quote to completion</a></li>
+<li><a href="#key-takeaways">Key takeaways</a></li>
+</ul>
+<h2>What should you look for in an Alberta bathroom renovation contractor?</h2>
+<p>Seven licensed contractors serve the Alberta bathroom renovation market, each with distinct strengths worth understanding before you request a quote.</p>
+<p><strong>Wave Bathroom Renovations</strong> focuses exclusively on bathroom work, covering floor and wall installations, fixture fitting, and full remodels. Their positioning centres on quality workmanship from start to finish.</p>
+<p><strong>Water Works Bathroom Renovations</strong> brings over 20 years of experience and offers a fully all-inclusive design-build process. They hold a Better Business Bureau profile and a Houzz Remodeling badge, and their scope covers everything from wedi board waterproofing to cabinet and countertop installation.</p>
+<p><strong>VK Renovations Edmonton</strong> specialises in custom tile work, curbless showers, freestanding tubs, and heated floor installations. Their strength is personalised design for homeowners who want something beyond a standard refresh.</p>
+<p><strong>OC Interiors</strong> handles tile expertise across marble, ceramic, and porcelain, alongside full plumbing, electrical, and ventilation setup. They work on both residential and commercial projects.</p>
+<p><strong>That Reno Guy Ltd.</strong> covers bathrooms, kitchens, and basements with a clear focus on project management and communication throughout the build.</p>
+<p><strong>Steadfast Constructions LTD.</strong> offers the broadest scope: bathroom and kitchen renovations, basement finishing, exterior work, permit and inspection handling, and a final walkthrough process.</p>
+<p><strong>Statera Contracting</strong> is Calgary-based and licensed, handling bathroom renovations alongside kitchens, basements, home additions, and commercial projects. Their <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovation services</a> cover the full scope from design through to completion.</p>
+<table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>What to compare</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Service scope</td>
+<td>Full design-build vs. trade coordination only</td>
+</tr>
+<tr>
+<td>Customer ratings</td>
+<td>Verified reviews on Google, Houzz, or BBB</td>
+</tr>
+<tr>
+<td>Pricing transparency</td>
+<td>Itemised quotes vs. lump-sum estimates</td>
+</tr>
+<tr>
+<td>Specialisations</td>
+<td>Custom tile, heated floors, accessible design</td>
+</tr>
+<tr>
+<td>Project management</td>
+<td>Dedicated contact, timeline tracking, site updates</td>
+</tr>
+<tr>
+<td>Post-renovation support</td>
+<td>Warranty terms and follow-up process</td>
+</tr>
+</tbody>
+</table>
+<p>Licensed contractors in Alberta often carry Better Business Bureau profiles and Houzz badges. Both are worth checking before signing anything.</p>
+<h2>How do you choose a contractor and control your budget?</h2>
+<p>The single most effective way to control the cost to renovate a small bathroom is to keep the existing layout. <a href="https://www.save.ca/community/smart-ways-to-save-on-bathroom-renovations/" rel="nofollow noopener noreferrer" target="_blank">Relocating plumbing or drains</a> triggers floor and sub-floor work that adds thousands to the final bill. If your toilet, vanity, and shower stay in their current positions, you avoid that cost entirely.</p>
+<p>Get at least three <a href="https://www.renovateindex.ca/blog/is-your-renovation-quote-too-high" rel="nofollow noopener noreferrer" target="_blank">written, itemised quotes</a> that break out labour, materials, permits, and contingency separately. A lump-sum number tells you very little. An itemised quote lets you compare line by line and spot where one contractor is cutting corners or padding margin.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784659520794_Infographic-showing-bathroom-renovation-cost-breakdown.jpeg" alt="Infographic showing bathroom renovation cost breakdown" /></p>
+<p><strong>Pro Tip:</strong> <em>Ask each contractor to specify tile grade, fixture brands, and waterproofing method in the quote. Vague material descriptions leave room for substitutions that change the finished result.</em></p>
+<p>Questions worth asking every contractor before you commit:</p>
+<ul>
+<li>Are you licensed and insured in Alberta?</li>
+<li>Do you handle permit applications, or does that fall to us?</li>
+<li>What warranty do you offer on labour and materials?</li>
+<li>How do you communicate progress during the build?</li>
+<li>What is your process for handling unexpected costs?</li>
+<li>Do you offer phased payments or financing options?</li>
+</ul>
+<p>Calgary’s dry winters, with humidity often dropping below 25%, create real risk for cabinetry and grout. Specifying kiln-dried hardwood cabinetry and flexible grout additives in your contract protects the finished work over time. A good contractor will raise this without prompting. For a full breakdown of what each renovation phase involves, the <a href="https://myreadyrenovation.com/bathroom-renovation-planning-guide" target="_blank" rel="nofollow noopener noreferrer">bathroom renovation planning guide</a> at Ready Renovation walks through timelines and cost components clearly.</p>
+<p>Permit fees vary by scope, but budget for them as a fixed line item rather than an afterthought. Unexpected structural repairs, water damage discovered during demolition, and material lead times can all push costs beyond the original estimate. A contingency reserve of 10–15% of your total budget is a practical standard.</p>
+<h2>Statera Contracting handles your Calgary bathroom renovation from quote to completion</h2>
+<p>Fixed pricing, local expertise, and a licensed team that manages permits, trades, and timelines under one roof. That’s what Statera Contracting brings to every bathroom renovation in Calgary, without the coordination headaches that come from managing multiple contractors yourself.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784658998260_Renovation-team-discussing-bathroom-plans-onsite.jpeg" alt="Renovation team discussing bathroom plans onsite" /></p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Stateracontracting" /></a></p>
+<p>We work with Calgary homeowners on bathrooms of every scope, from straightforward refreshes to full custom builds. Our quotes are itemised, our timelines are clear, and we handle permit applications as part of the process. If you want <a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">2026 bathroom remodel ideas</a> before you commit to a scope, we can walk through options with you. Contact Statera Contracting today to book your free consultation and get a detailed quote for your project.</p>
+<h2>Key takeaways</h2>
+<p>A standard small bathroom renovation in Calgary involves significant costs, with the biggest savings coming from keeping your existing layout and choosing materials strategically.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Calgary cost range</td>
+<td>$12,000–$28,000 typical, from about $7,000 for a budget refresh up to $30,000+ for a full premium rebuild.</td>
+</tr>
+<tr>
+<td>Tile budget share</td>
+<td>Tile work typically accounts for 25–35% of total renovation cost.</td>
+</tr>
+<tr>
+<td>Layout savings</td>
+<td>Keeping existing plumbing positions avoids $2,000–$10,000 in relocation costs.</td>
+</tr>
+<tr>
+<td>Quote discipline</td>
+<td>Get at least three itemised quotes breaking out labour, materials, and permits separately.</td>
+</tr>
+<tr>
+<td>Statera Contracting</td>
+<td>Calgary’s licensed renovation contractor offering fixed-price, permit-inclusive bathroom renovations.</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">Bathroom Renovation Calgary 2026 Cost Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">Bathroom remodel ideas: your 2026 Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">Bathroom Renovation Calgary | Licensed Contractor | Statera | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
