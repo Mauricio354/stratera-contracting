@@ -15,6 +15,6 @@
   "616468": { "status": "published", "publishedAt": "2026-07-21" },
   "619767": { "status": "published", "publishedAt": "2026-07-22" },
   "623886": { "status": "published", "publishedAt": "2026-07-23" },
-  "629269": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-07-23" },
+  "629269": { "status": "held", "reason": "Core content missing: article is titled as a Calgary small-bathroom-renovation cost guide but never states an actual cost range anywhere in the body; the 'Calgary cost range' row in the takeaways table is a blank em-dash placeholder. Appears to be a BabyLoveGrowth generation defect that dropped the central pricing figure. Not fabricating a dollar figure for Statera's real pricing without a human confirming it." },
   "632712": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-07-23" }
 }
