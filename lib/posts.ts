@@ -3300,6 +3300,189 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "average-kitchen-size",
+    title: "Average kitchen size in Canadian homes: 2026 guide",
+    excerpt:
+      "Canadian kitchen sizes average 103 sq. ft. in smaller homes, 161 to 169 sq. ft. in mid-sized homes, and 238 sq. ft. in larger homes, with functional kitchens generally needing at least 75 sq. ft. to work well.",
+    date: "2026-07-22",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784725276351_Woman-reviewing-kitchen-layout-plans.jpeg",
+    coverAlt: "Average kitchen size in Canadian homes: 2026 guide",
+    category: "Industry News",
+    readingTime: "9 min read",
+    metaTitle: "Average kitchen size in Canadian homes: 2026 guide",
+    metaDescription:
+      "Discover the average kitchen size in Canadian homes. Learn how kitchen dimensions vary by home type and optimize your space effectively.",
+    content: [
+      {
+        type: "html",
+        html: `<p>In Canadian homes, kitchen sizes vary widely depending on the size and type of the home. That range covers a lot of ground, from a compact galley in a starter condo to a sprawling open-plan kitchen in a custom-built house. The legal minimum under Canadian building code is just 4.2 m² (about 45 sq. ft.), but that figure is a regulatory floor, not a design target. Most functional kitchens start at around 75 sq. ft., and the majority of Canadian homeowners work with something in between.</p>
+<p>Here’s a quick snapshot of typical kitchen sizes by home category:</p>
+<ul>
+<li><strong>Small homes:</strong> average kitchen size is about 103 sq. ft.</li>
+<li><strong>Mid-size homes:</strong> average kitchen size is 161-169 sq. ft.</li>
+<li><strong>Large homes:</strong> average kitchen size is about 238 sq. ft.</li>
+</ul>
+<blockquote>
+<p><strong>By the numbers:</strong> <a href="https://www.thespruce.com/average-kitchen-size-1822119" rel="nofollow noopener noreferrer" target="_blank">Average kitchen dimensions</a> range from 103 sq. ft. in smaller homes to 238 sq. ft. in larger ones. Most residential kitchens are between 161 and 169 sq. ft. in mid-sized homes, and 238 sq. ft. in the largest homes.</p>
+</blockquote>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#how-does-average-kitchen-size-change-by-home-type-and-layout">How does average kitchen size change by home type and layout?</a></li>
+<li><a href="#how-kitchen-sizes-have-changed-over-the-decades">How kitchen sizes have changed over the decades</a></li>
+<li><a href="#what-does-canadian-building-code-say-about-minimum-kitchen-size">What does Canadian building code say about minimum kitchen size?</a></li>
+<li><a href="#key-factors-that-shape-kitchen-size-planning-in-alberta">Key factors that shape kitchen size planning in Alberta</a></li>
+<li><a href="#how-much-space-do-different-kitchen-zones-actually-need">How much space do different kitchen zones actually need?</a></li>
+<li><a href="#does-kitchen-size-affect-your-homes-resale-value">Does kitchen size affect your home’s resale value?</a></li>
+<li><a href="#key-takeaways">Key takeaways</a></li>
+</ul>
+<h2>How does average kitchen size change by home type and layout?</h2>
+<p>Kitchen dimensions don’t exist in isolation. They scale with the home and shift depending on the layout you choose.</p>
+<table>
+<thead>
+<tr>
+<th>Home size</th>
+<th>Average kitchen size</th>
+<th>Common layout</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Smaller homes</td>
+<td>Tend to have compact kitchens</td>
+<td>Galley or single-wall</td>
+</tr>
+<tr>
+<td>Medium-sized homes</td>
+<td>Feature moderately sized kitchens</td>
+<td>L-shape or U-shape</td>
+</tr>
+<tr>
+<td>Larger homes</td>
+<td>Often include spacious kitchens</td>
+<td>Open-plan or full U-shape with island</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784725762020_Infographic-comparing-kitchen-sizes-by-home-type.jpeg" alt="Infographic comparing kitchen sizes by home type" /></p>
+<p>Layout has a direct effect on how usable that square footage feels. A galley kitchen at 100 sq. ft. can be highly efficient if the aisle is wide enough, while an L-shaped kitchen of the same size might feel cramped if one leg is too short for appliances. Regional variations within Canada are modest but real. Alberta homes, particularly newer builds in Calgary’s suburbs, tend toward open-plan layouts with islands, which pushes average kitchen dimensions closer to the 160–180 sq. ft. range.</p>
+<p><strong>Typical size ranges by layout:</strong></p>
+<ul>
+<li><strong>Galley:</strong> Designed for narrow spaces, sizes vary.</li>
+<li><strong>L-shape:</strong> Common in medium-sized homes, offering efficient space.</li>
+<li><strong>U-shape:</strong> Maximizes counter space and storage, typically larger.</li>
+<li><strong>Open-plan with island:</strong> Popular in modern Alberta homes, generally quite spacious.</li>
+</ul>
+<p>For open-plan kitchens, <a href="https://diy-doors.co.uk/blog/how-to-design-an-open-plan-kitchen-cabinet-layout" target="_blank" rel="nofollow noopener noreferrer">designing the cabinet layout</a> early in the process helps you allocate space between cooking, storage, and circulation before walls or islands are committed.</p>
+
+<h2>How kitchen sizes have changed over the decades</h2>
+<p>Kitchens in Canadian homes built before the 1970s were typically small, closed-off rooms, often under 100 sq. ft. Cooking was a separate domestic task, not a social activity, and the kitchen reflected that.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784725277006_Overhead-view-of-vintage-small-kitchen.jpeg" alt="Overhead view of vintage small kitchen" /></p>
+<p>The shift began in the 1980s and accelerated through the 1990s as open-concept floor plans became popular. Kitchens started merging with dining and living areas, and the square footage allocated to them grew accordingly. By the 2000s, the kitchen had become the focal point of the home, driving demand for islands, double sinks, and dedicated appliance zones.</p>
+<p><strong>Key changes shaping modern kitchen sizes:</strong></p>
+<ul>
+<li>Larger overall home sizes in Canadian suburbs, particularly in Alberta and Ontario</li>
+<li>Growth of multi-function zones: prep, cooking, dining, and entertaining in one space</li>
+<li>Bigger appliances, including French-door refrigerators and double wall ovens, requiring more clearance</li>
+<li>Accessibility design requirements adding floor space around counters and appliances</li>
+<li>Open-plan integration reducing the need for separate dining rooms, but increasing kitchen square footage</li>
+</ul>
+<p>Modern Canadian kitchens are generally larger than their historical counterparts, and the trend toward multi-zone layouts shows no sign of reversing.</p>
+
+<h2>What does Canadian building code say about minimum kitchen size?</h2>
+<p>The <a href="https://www.code.greenkeyservices.ca/public/b09-9.5-design-of-areas-and-spaces.php" rel="nofollow noopener noreferrer" target="_blank">National Building Code sets a minimum kitchen floor area</a> for standalone kitchens within dwelling units, which is relatively small and intended as a legal baseline rather than a design recommendation.</p>
+<blockquote>
+<p><strong>Code minimum vs. practical minimum:</strong> While the legal minimum sets a baseline, a kitchen designed for practical daily use needs more space to comfortably accommodate standard appliances and countertop work areas.</p>
+</blockquote>
+<p>Beyond floor area, Canadian standards also govern the physical dimensions of kitchen components. Standard cabinetry dimensions in Canada are:</p>
+<ul>
+<li><strong>Base cabinets:</strong> 34.5" high (36" with countertop), 24" deep</li>
+<li><strong>Upper cabinets:</strong> 12" deep, 30–42" high</li>
+<li><strong>Clearance between countertop and upper cabinets:</strong> 18" minimum</li>
+<li><strong>Work aisle width:</strong> <a href="https://publications.gc.ca/collections/collection_2017/schl-cmhc/NH18-24-63E-2016-eng.pdf" rel="nofollow noopener noreferrer" target="_blank">36–42 inches recommended</a> for comfortable circulation</li>
+<li><strong>Accessible counter height:</strong> 730–860 mm, with 750 mm × 1,200 mm of clear floor space in front</li>
+</ul>
+<p>The CMHC also references accessibility standards requiring at least one counter at an adaptable height, which matters if you’re planning a renovation that needs to serve occupants over the long term.</p>
+
+<h2>Key factors that shape kitchen size planning in Alberta</h2>
+<p>Getting the square footage right is only part of the equation. How you use that space determines whether the kitchen actually works.</p>
+<p>The <strong>work triangle</strong> — the path between the sink, stove, and refrigerator — remains a foundational planning concept. CMHC’s kitchen design guidelines now extend this to multiple prep zones, recognizing that modern kitchens often have two cooks and multiple simultaneous tasks. Each leg of the triangle should ideally fall between 4 and 9 feet.</p>
+<p>Structural constraints matter just as much as preference. In Calgary’s older inner-city homes, load-bearing walls and mechanical chases often limit how far a kitchen can expand. Filler spaces, the narrow strips between cabinets and walls or ceilings, are a common source of planning errors. Homeowners frequently underestimate how much these gaps affect cabinetry fit and the final usable dimensions.</p>
+<p><strong>Planning considerations for Alberta homeowners:</strong></p>
+<ul>
+<li>Measure all walls, windows, and door openings before selecting cabinetry</li>
+<li>Account for appliance depth, particularly counter-depth fridges at 24–26" vs. standard at 29–32"</li>
+<li>Confirm ceiling height to determine upper cabinet sizing (standard 8’ ceilings vs. 9’ or vaulted)</li>
+<li>Check for gas lines, plumbing stacks, and electrical panels before moving walls</li>
+<li>Budget for permit costs if structural changes are involved</li>
+</ul>
+<p>Local Alberta suppliers like Ebram Countertop Inc and Diamond Kitchen Designs Ltd in Edmonton offer custom cabinetry and stone countertops calibrated to the specific dimensions of your space, which is particularly useful when working with non-standard layouts or older homes with irregular wall angles.</p>
+<p><strong>Pro Tip:</strong> <em>Before finalizing your kitchen layout, do a full tape-measure walkthrough with your contractor. Mark the footprint of every appliance on the floor with painter’s tape. You’ll immediately see whether the aisle widths and counter runs actually work in practice.</em></p>
+<p>If you’re weighing options for your renovation budget, the <a href="https://stateracontracting.com/blog/budget-kitchen-renovations-your-2026-alberta-guide" target="_blank" rel="noopener">2026 Alberta kitchen renovation guide</a> covers typical cost ranges for kitchens of different sizes and finishes.</p>
+
+<h2>How much space do different kitchen zones actually need?</h2>
+<p>A 150 sq. ft. kitchen sounds generous until you divide it into functional zones. Here’s how that space typically breaks down:</p>
+<p><strong>Cooking zone:</strong> The area around the range and hood requires at least 30–36 inches of width for the appliance itself, plus 15 inches of counter on at least one side for hot pans. Clearance in front of the range should be a minimum of 42 inches.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784725274827_Man-measuring-modern-kitchen-zones.jpeg" alt="Man measuring modern kitchen zones" /></p>
+<p><strong>Prep zone:</strong> A dedicated prep counter of at least 36 continuous inches is the practical minimum. In kitchens over 150 sq. ft., a second prep zone near the sink adds significant functionality, especially for households that cook from scratch regularly.</p>
+<p><strong>Storage zone:</strong> Base and upper cabinets typically occupy the perimeter. A U-shaped kitchen at 200 sq. ft. can deliver 20–25 linear feet of cabinetry. An L-shaped kitchen at 150 sq. ft. usually provides 12–16 linear feet, which is adequate for most households but leaves little room for a pantry cabinet.</p>
+<p><strong>Dining zone:</strong> When a kitchen includes an eat-in area or island seating, add at least 36 inches of clearance behind bar stools and 48 inches for a full dining table with chairs pulled out. This zone alone can account for 40–60 sq. ft. of the total kitchen footprint.</p>
+<p>Understanding how these zones interact helps explain why a 12×14 kitchen (168 sq. ft.) works well for most families. It’s large enough to separate prep and cooking, accommodate standard appliances, and still allow two people to move around without getting in each other’s way.</p>
+
+<h2>Does kitchen size affect your home’s resale value?</h2>
+<p>Yes, and the relationship is more direct than most homeowners expect. The kitchen consistently ranks as one of the top two rooms buyers evaluate when viewing a home, alongside the primary bathroom. A kitchen that feels undersized relative to the home’s overall square footage can pull down perceived value even when everything else is updated.</p>
+<p>In Alberta’s resale market, a kitchen that is proportionally well-sized and well-finished tends to return a strong portion of renovation costs. A <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation in Calgary</a> that brings an outdated 100 sq. ft. kitchen up to a functional 150 sq. ft. layout, with proper cabinetry, countertops, and lighting, typically improves both the listing price and the speed of sale.</p>
+<p>Buyers also respond to layout quality, not just raw square footage. An open-plan kitchen that connects to the living area reads as larger and more liveable than a closed kitchen of the same size. If your home’s floor plan allows it, removing a non-structural wall between the kitchen and an adjacent dining room is one of the highest-return moves in residential renovation.</p>
+
+<h2>Key takeaways</h2>
+<p>Canadian kitchen sizes range from 103 sq. ft. in smaller homes to 238 sq. ft. in large ones, with mid-sized homes typically having kitchens between 161 and 169 sq. ft. and requiring at least 75 sq. ft. to work comfortably.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Average size range</td>
+<td>Canadian kitchens average 103 sq. ft. in smaller homes, 161–169 sq. ft. in mid-sized homes, and 238 sq. ft. in large homes.</td>
+</tr>
+<tr>
+<td>Code minimum vs. practical</td>
+<td>Building code sets 4.2 m² (45 sq. ft.); functional kitchens need at least 75 sq. ft.</td>
+</tr>
+<tr>
+<td>Layout affects usability</td>
+<td>Aisle widths of 36–42 inches and proper zone separation matter as much as total square footage.</td>
+</tr>
+<tr>
+<td>Zone planning</td>
+<td>Cooking, prep, storage, and dining zones each require dedicated space within the total footprint.</td>
+</tr>
+<tr>
+<td>Resale impact</td>
+<td>A well-proportioned, updated kitchen improves both listing price and time on market in Alberta.</td>
+</tr>
+</tbody>
+</table>
+
+<p><em>Ready to plan your kitchen renovation? The team at Statera Contracting works with Calgary and Alberta homeowners to design kitchens that fit your space, your lifestyle, and your budget. Get a free consultation and find out what your kitchen could look like.</em></p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Stateracontracting" /></a></p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/kitchen-design-calgary-your-2026-renovation-guide" target="_blank" rel="noopener">Kitchen design Calgary: your 2026 renovation guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/contemporary-kitchen-renovation-your-2026-alberta-guide" target="_blank" rel="noopener">Contemporary Kitchen Renovation: Your 2026 Alberta Guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/budget-kitchen-renovations-your-2026-alberta-guide" target="_blank" rel="noopener">Budget kitchen renovations: your 2026 Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">Planning a Kitchen Renovation in Calgary | Statera Tips | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
