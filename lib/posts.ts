@@ -3483,6 +3483,210 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "renovating-an-older-home",
+    title: "Renovating an older home: what Alberta homeowners need to know",
+    excerpt:
+      "Older homes in Alberta carry real character, from original hardwood floors to plaster ceilings and craftsman trim that modern builds rarely replicate, but renovating one is a different process than updating a newer house.",
+    date: "2026-07-23",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784819267297_Home-inspector-examining-older-Alberta-house-foundation.jpeg",
+    coverAlt: "Renovating an older home: what Alberta homeowners need to know",
+    category: "Industry News",
+    readingTime: "10 min read",
+    metaTitle: "Renovating an older home: what Alberta homeowners need to know",
+    metaDescription:
+      "Renovating an older home in Alberta? Learn essential tips on inspections, hidden issues, and budgeting to ensure a successful project.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Older homes in Alberta carry real character, from original hardwood floors to plaster ceilings and craftsman trim that modern builds rarely replicate. But renovating an older home is a different process than updating a newer house, and the gap between what you see and what’s hidden inside the walls can be significant. Before any design decisions get made, a structural inspection should be your first call. Hidden issues like outdated knob-and-tube wiring, galvanized plumbing, asbestos, mould, and poor insulation are common in homes built before 1970, and they affect both your budget and your timeline. Electrical, plumbing, and insulation upgrades come before cosmetic work, full stop. Heritage designation, where it applies, adds another layer of permit requirements that can push timelines out by weeks or months. Budget with a meaningful contingency for surprises, and bring in professionals who know what older construction actually looks like from the inside.</p>
+<ul>
+<li>Structural inspection before any design or demolition work</li>
+<li>Prioritise electrical, plumbing, and insulation over finishes</li>
+<li>Heritage permits may apply and affect timelines</li>
+<li>Budget a healthy contingency for hidden issues</li>
+<li>Renovation timelines typically run several months from planning through completion</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Book a professional assessment before you finalize your budget. Catching a foundation issue or hazardous material early costs far less than discovering it mid-project.</em></p>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-are-the-real-pros-and-cons-of-renovating-an-older-home">What are the real pros and cons of renovating an older home?</a></li>
+<li><a href="#critical-planning-steps-before-you-start-any-renovation-work">Critical planning steps before you start any renovation work</a></li>
+<li><a href="#how-do-building-permits-and-alberta-regulations-affect-your-renovation">How do building permits and Alberta regulations affect your renovation?</a></li>
+<li><a href="#maintenance-priorities-and-lifespan-expectations-for-older-alberta-homes">Maintenance priorities and lifespan expectations for older Alberta homes</a></li>
+<li><a href="#how-to-choose-the-right-contractor-for-an-older-home-renovation-in-calgary">How to choose the right contractor for an older home renovation in Calgary</a></li>
+<li><a href="#statera-contracting-brings-older-home-expertise-to-calgary-renovations">Statera Contracting brings older home expertise to Calgary renovations</a></li>
+<li><a href="#key-takeaways">Key takeaways</a></li>
+</ul>
+<h2>What are the real pros and cons of renovating an older home?</h2>
+<p>Remodelling an older house is rarely a straightforward cost-benefit calculation. The rewards are genuine, but so are the complications.</p>
+<p><strong>Advantages worth considering:</strong></p>
+<ul>
+<li>Original architectural details like solid wood trim, wide-plank floors, and plaster ceilings are expensive to replicate and add real resale value when preserved</li>
+<li>Established neighbourhoods with mature trees and walkable streets are often where older homes sit, which supports long-term property value</li>
+<li>Renovation is generally more sustainable than demolition and rebuild, keeping materials out of landfill and reducing the embodied carbon of new construction</li>
+<li>Sensitive upgrades to kitchens, bathrooms, and mechanical systems can meaningfully increase what a home sells for</li>
+<li>You keep the character that drew you to the property in the first place</li>
+</ul>
+<p><strong>Challenges to plan around:</strong></p>
+<ul>
+<li><a href="https://www.sprucemagazine.ca/renovate-or-rebuild-spruce-magazine/" rel="nofollow noopener noreferrer" target="_blank">Energy efficiency in new builds</a> outperforms renovated older homes by a significant margin, even after upgrades</li>
+<li>Hidden issues drive costs up, often well beyond initial estimates</li>
+<li>Permit delays, especially on heritage-designated properties, extend timelines</li>
+<li>Specialized materials and extra labour for older construction cost more than standard renovation work</li>
+<li>Daily living is disrupted for months, particularly during mechanical system replacements</li>
+</ul>
+<p>The sustainability argument for renovation is real, but it does not cancel out the financial risk of a home with serious structural or environmental problems. If the foundation is compromised or hazardous materials are extensive, rebuilding may be the more practical path.</p>
+
+<h2>Critical planning steps before you start any renovation work</h2>
+<p>Good planning on an older home renovation is what separates a project that stays on budget from one that doesn’t.</p>
+<p><strong>Start with inspections, not Pinterest boards.</strong> A licensed home inspector and, where needed, a structural engineer should walk through the property before you commit to any scope of work. They will flag knob-and-tube wiring, lead or galvanized plumbing, undersized framing, and foundation movement before you’ve signed a contract.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784819267296_Contractor-and-homeowner-discuss-older-home-renovation.jpeg" alt="Contractor and homeowner discuss older home renovation" /></p>
+<p><strong>Evaluate renovation versus rebuild honestly.</strong> A sound foundation and structurally solid framing generally justify renovation. If structural damage is extensive, or if the cost of bringing the home up to current code approaches or exceeds the cost of a new build, rebuilding may make more financial sense. The decision hinges on structural soundness and long-term value retention, not sentiment alone.</p>
+<p><strong>Budget with a real contingency.</strong> Older home renovations regularly surface surprises that a standard quote won’t account for. Build a meaningful contingency into your budget from the start, not as an afterthought. This is especially true for homes built before 1960.</p>
+<ul>
+<li>Get a full inspection before finalizing scope</li>
+<li>Confirm whether any heritage designation applies to the property</li>
+<li>Prioritise in-wall systems before layout or finish decisions</li>
+<li>Set a realistic timeline: planning through construction typically runs 5 to 12 months</li>
+<li>Preserve original features where structurally sound; restoration usually costs less than replacement</li>
+<li>Plan permit applications early, particularly for structural or mechanical changes</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Work with a contractor who has direct experience with older homes in Alberta. They will anticipate the issues that a general renovator might miss, and that knowledge pays for itself quickly.</em></p>
+<p>Preserving original architectural features is worth the effort when the material is sound. Solid wood trim, original doors with period hardware, and plaster ceilings in good condition are all cheaper to restore than to tear out and replace with modern reproductions trying to look old. That principle applies whether you’re <a href="https://onedaydoorsandclosets.com/blog/featured/what-is-making-a-house-look-dated-right-now-and-what-were-turning-to-instead" rel="nofollow noopener noreferrer" target="_blank">upgrading vintage homes</a> or doing a full gut renovation.</p>
+
+<h2>How do building permits and Alberta regulations affect your renovation?</h2>
+<p>Permit requirements in Alberta follow the same national principle: if a renovation changes the structure, plumbing, electrical, or HVAC systems of your home, a <a href="https://www.homeowner.ca/a/do-you-need-a-permit-for-a-renovation-in-canada" rel="nofollow noopener noreferrer" target="_blank">building permit is required</a>. Cosmetic work like painting, flooring, and cabinet hardware typically does not. The rules are set at the municipal level, so Calgary’s requirements differ from those in smaller Alberta municipalities.</p>
+<p><strong>What typically requires a permit in Alberta:</strong></p>
+<ul>
+<li>Structural changes, including removing or altering load-bearing walls</li>
+<li>New electrical circuits, panel upgrades, or knob-and-tube replacement</li>
+<li>Plumbing changes or additions</li>
+<li>HVAC modifications</li>
+<li>Additions and secondary suites</li>
+<li>Exterior changes on heritage-designated properties</li>
+</ul>
+<p>Beyond the general building permit, separate trade permits for electrical, plumbing, and gas work are standard. Skipping them creates real problems: insurance claim denials, stop-work orders, fines, and complications at resale. In Ontario, fines under the Building Code Act reach $50,000 for individuals; Alberta municipalities carry comparable enforcement authority.</p>
+<p>Heritage-designated properties add another layer. Exterior changes visible from the street, including windows, siding, and porch details, may require a heritage permit in addition to a standard building permit. Heritage permit reviews involve municipal heritage committees and can add substantial time to an approval timeline.</p>
+<p><strong>Pro Tip:</strong> <em>Start your permit applications before you lock in a contractor start date. Permit timelines vary, and building in a buffer prevents costly delays once your crew is ready to begin.</em></p>
+<p>The City of Calgary allows homeowners to apply for retroactive permits on previously completed work, but that process involves inspections, potential remedial work, and added cost. It is far simpler to permit work correctly from the start.</p>
+
+<h2>Maintenance priorities and lifespan expectations for older Alberta homes</h2>
+<p>Alberta’s climate puts older homes under specific stress. Freeze-thaw cycles affect foundations and exterior cladding. Dry winters drive moisture imbalances that crack plaster and warp wood. Summers bring hail that shortens roof lifespans. Understanding what wears out and when helps you plan renovations and maintenance together, rather than treating them as separate concerns.</p>
+<p><strong>Typical lifespan ranges for key systems in older Alberta homes:</strong></p>
+<table>
+<thead>
+<tr>
+<th>System</th>
+<th>Approximate Lifespan</th>
+<th>Key Risk in Alberta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Asphalt shingle roofing</td>
+<td>20 years</td>
+<td>Hail damage accelerates replacement</td>
+</tr>
+<tr>
+<td>Knob-and-tube wiring</td>
+<td>Past useful life</td>
+<td>Insurance refusals; fire risk</td>
+</tr>
+<tr>
+<td>Galvanized plumbing</td>
+<td>—</td>
+<td>Corrosion, restricted flow</td>
+</tr>
+<tr>
+<td>Forced-air furnace</td>
+<td>15 years</td>
+<td>Efficiency drops sharply in cold climates</td>
+</tr>
+<tr>
+<td>Foundation (poured concrete)</td>
+<td>50 years</td>
+<td>Freeze-thaw cracking; waterproofing failure</td>
+</tr>
+<tr>
+<td>Exterior wood siding</td>
+<td>20 years</td>
+<td>Moisture infiltration; paint failure</td>
+</tr>
+</tbody>
+</table>
+<p>Moisture control is the single most important maintenance priority in an older Alberta home. Inadequate insulation allows warm interior air to meet cold exterior surfaces, creating condensation inside wall cavities. <a href="https://natural-resources.canada.ca/" rel="nofollow noopener noreferrer" target="_blank">Natural Resources Canada</a> identifies insulation and air sealing upgrades as foundational to both energy performance and moisture management in older housing stock.</p>
+<p>Deferred maintenance compounds quickly. A roof that needs replacing in year 20 and gets patched instead of replaced often causes interior water damage by year 23, turning a roofing project into a roofing-plus-drywall-plus-insulation project. Proactive care is consistently less expensive than reactive repair.</p>
+<p>Regular inspections of the foundation, roof, and exterior cladding, ideally annually, catch problems before they cascade. Heritage features like wood trim and original windows benefit from seasonal maintenance: caulking, painting, and weatherstripping extend their life without replacement.</p>
+
+<h2>How to choose the right contractor for an older home renovation in Calgary</h2>
+<p>The contractor you hire for an older home renovation matters more than it does for a straightforward new build. Older construction hides surprises that only experience teaches you to anticipate.</p>
+<p><strong>What to look for when vetting contractors:</strong></p>
+<ul>
+<li>Direct experience with pre-1960 or heritage homes in Alberta</li>
+<li>Familiarity with knob-and-tube wiring, galvanized plumbing, and older structural framing</li>
+<li>A clear process for handling permit applications, including trade permits</li>
+<li>Fixed-price contracts with a defined change order process for unforeseen issues</li>
+<li>References from comparable older home projects you can actually contact</li>
+</ul>
+<p>Ask specifically how the contractor handles surprises found inside walls. A vague answer is a red flag. A good contractor will describe a clear change order process and explain how scope adjustments get communicated and priced before work continues.</p>
+<p><strong>Pro Tip:</strong> <em>Ask to see a past project on a home of similar age. Walking through a completed renovation tells you more about a contractor’s capabilities than any portfolio photo.</em></p>
+<p>Fixed-price contracts matter on older homes precisely because surprises are likely. A contract that locks in scope and pricing, with a transparent process for changes, protects you when the walls open up and reveal something unexpected. Pair that with a <a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">detailed renovation budget</a> built around realistic Calgary costs, and you’re in a much stronger position before the project starts.</p>
+<p>Check whether the contractor pulls their own permits or expects you to. A licensed contractor who handles permitting is managing the compliance risk on your behalf, which is exactly what you want on a project where code compliance affects insurance coverage and resale value. For a broader look at what the <a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Calgary renovation process</a> involves from start to finish, it helps to understand the full permit and inspection sequence before you sign anything.</p>
+
+<h2>Statera Contracting brings older home expertise to Calgary renovations</h2>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Older homes in Calgary need a contractor who understands what’s behind the walls before the first quote gets written. Statera Contracting works with homeowners across Calgary and surrounding areas on exactly these projects: kitchens, bathrooms, basements, home additions, and exterior renovations where the age of the home changes how every phase of the work gets planned and executed.</p>
+<p>The difference with Statera Contracting is the upfront process. We walk through your home in person, identify the systems and structural conditions that will shape the project, and build a fixed-price contract around what we actually find, not a generic estimate. That means fewer surprises mid-project and a clearer picture of what you’re committing to before work begins. We also handle permit applications directly, including trade permits for electrical, plumbing, and gas work, so compliance is built into the project from day one.</p>
+<p>Canada’s <a href="https://stateracontracting.com/blog/home-renovation-tax-credit" target="_blank" rel="noopener">Multigenerational Home Renovation Tax Credit</a> offers up to $7,250 back on qualifying renovation expenses, and the Home Accessibility Tax Credit covers up to $20,000 in eligible costs for accessibility-focused work. We can help you understand which incentives apply to your project.</p>
+<p>Ready to get a realistic picture of what your older home renovation involves? <a href="https://stateracontracting.com" target="_blank" rel="noopener">Contact Statera Contracting</a> to book a walkthrough and get a fixed-price quote built around your home’s actual condition.</p>
+
+<h2>Key takeaways</h2>
+<p>Renovating an older home in Alberta requires prioritising hidden systems, planning for permit complexity, and budgeting realistically for what the walls may reveal.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Systems before surfaces</td>
+<td>Electrical, plumbing, and insulation upgrades must come before any cosmetic or layout work.</td>
+</tr>
+<tr>
+<td>Realistic timelines</td>
+<td>Renovation projects on older homes typically run 5 to 12 months from planning through completion.</td>
+</tr>
+<tr>
+<td>Permit compliance protects you</td>
+<td>Unpermitted work risks insurance denials, fines, and resale complications in Alberta.</td>
+</tr>
+<tr>
+<td>Preserve original features</td>
+<td>Restoring solid wood trim, plaster ceilings, and original doors costs less than replacing them with reproductions.</td>
+</tr>
+<tr>
+<td>Statera Contracting</td>
+<td>Fixed-price contracts, in-person assessments, and full permit handling for older home renovations across Calgary.</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/smart-renovations-for-calgary-homes-2026-guide" target="_blank" rel="noopener">Smart renovations for Calgary homes: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">Kitchen renovation ideas for Alberta homeowners: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/budget-kitchen-renovations-your-2026-alberta-guide" target="_blank" rel="noopener">Budget kitchen renovations: your 2026 Alberta guide | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
