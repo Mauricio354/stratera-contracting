@@ -3687,6 +3687,338 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "entire-home-renovations",
+    title: "Entire home renovations in Calgary & Edmonton: your roadmap",
+    excerpt:
+      "An entire home renovation in Calgary or Edmonton means redesigning or replacing multiple major systems and living areas at once — think kitchen, bathrooms, structural changes, mechanical systems, finishes, and possibly an exterior or secondary suite.",
+    date: "2026-07-24",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784903908679_Homeowner-planning-entire-home-renovation-at-table.jpeg",
+    coverAlt: "Entire home renovations in Calgary & Edmonton: your roadmap",
+    category: "Industry News",
+    readingTime: "14 min read",
+    metaTitle: "Entire home renovations in Calgary & Edmonton: your roadmap",
+    metaDescription:
+      "Planning entire home renovations in Calgary or Edmonton? Get scoped estimates, permit insights, and timelines to transform your space effectively!",
+    content: [
+      {
+        type: "html",
+        html: `<p>An entire home renovation in Calgary or Edmonton means redesigning or replacing multiple major systems and living areas at once — think kitchen, bathrooms, structural changes, mechanical systems, finishes, and possibly an exterior or secondary suite. If you’re at that stage, the single most useful next step is to get a scoped estimate and a permits check from a licensed contractor before you commit to a budget or a timeline.</p>
+<p><strong>Quick answers before you read further:</strong></p>
+<ul>
+<li><strong>Cost band:</strong> Full-home renovations in Calgary and Edmonton typically range from lower amounts for cosmetic-focused work to significantly higher amounts for structural, mechanical, and high-finish projects on larger homes.</li>
+<li><strong>Permit gating:</strong> Most whole-home projects require both a development permit and a building permit, plus separate trade permits for electrical, plumbing, gas, and HVAC work under the Alberta Safety Codes Act.</li>
+<li><strong>Timeline estimate:</strong> Plan for 6–14 months from design through final inspection, depending on scope, permit approvals, and material lead times.</li>
+</ul>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-does-an-entire-home-renovation-actually-include">What does an entire home renovation actually include?</a></li>
+<li><a href="#what-does-a-full-home-renovation-cost-in-calgary-and-edmonton">What does a full home renovation cost in Calgary and Edmonton?</a></li>
+<li><a href="#what-permits-do-you-need-for-a-whole-home-renovation-in-alberta">What permits do you need for a whole-home renovation in Alberta?</a></li>
+<li><a href="#what-does-the-project-timeline-look-like-stage-by-stage">What does the project timeline look like, stage by stage?</a></li>
+<li><a href="#how-do-you-plan-and-budget-for-a-full-home-remodel">How do you plan and budget for a full home remodel?</a></li>
+<li><a href="#how-do-you-choose-the-right-contractor-for-a-whole-house-renovation">How do you choose the right contractor for a whole-house renovation?</a></li>
+<li><a href="#key-takeaways">Key takeaways</a></li>
+<li><a href="#what-actually-makes-a-whole-home-renovation-succeed">What actually makes a whole-home renovation succeed</a></li>
+<li><a href="#ready-to-get-a-scoped-estimate-for-your-calgary-renovation">Ready to get a scoped estimate for your Calgary renovation?</a></li>
+<li><a href="#useful-sources-and-permit-resources">Useful sources and permit resources</a></li>
+</ul>
+<h2>What does an entire home renovation actually include?</h2>
+<p>Scope is where most projects go sideways. Homeowners often start with a kitchen and bathrooms in mind, then discover mid-project that the electrical panel is undersized, the insulation doesn’t meet current code, or a wall they wanted to remove is load-bearing. Getting clear on scope categories up front protects your budget and your timeline.</p>
+<p>A typical full home renovation covers some or all of the following:</p>
+<ul>
+<li><strong>Kitchen:</strong> Cabinetry, countertops, appliances, plumbing rough-in, electrical circuits, ventilation, and flooring. <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">Kitchen renovations</a> are often the single largest line item in a whole-home project.</li>
+<li><strong>Bathrooms:</strong> Primary and secondary bathrooms — tile, fixtures, vanities, plumbing, ventilation fans, and sometimes radiant floor heating.</li>
+<li><strong>Structural changes:</strong> Removing or relocating load-bearing walls, adding beams, reconfiguring floor plans. These trigger engineer-stamped drawings and building permits.</li>
+<li><strong>MEP systems:</strong> Electrical (panel upgrades, new circuits, pot lights), plumbing (supply and drain lines), HVAC (furnace, ductwork, HRV), and gas lines. Each trade typically requires its own permit.</li>
+<li><strong>Insulation and building envelope:</strong> Upgrading attic, wall, and basement insulation to current Alberta Building Code standards.</li>
+<li><strong>Windows and exterior doors:</strong> Often replaced during a full renovation for energy performance and aesthetics.</li>
+<li><strong>Flooring and finishes:</strong> Hardwood, tile, LVP, trim, paint, and millwork throughout.</li>
+<li><strong>Exterior work:</strong> Siding, roofing, decks, garages, and landscaping grading.</li>
+<li><strong>Additions and secondary suites:</strong> Room additions, garage conversions, or legal basement suites — each with their own permit and zoning requirements.</li>
+</ul>
+<p>The distinction between cosmetic and structural scope matters a great deal for both cost and permitting. Cosmetic work (paint, flooring, cabinet refacing) rarely triggers a permit. Structural and MEP work almost always does.</p>
+<p><strong>Pro Tip:</strong> <em>Ask your contractor to separate the scope into “cosmetic,” “mechanical,” and “structural” line items in the estimate. This makes it easier to phase work if your budget tightens, and it clarifies which items are permit-gated before demolition starts.</em></p>
+
+<h2>What does a full home renovation cost in Calgary and Edmonton?</h2>
+<p>Cost is the question every homeowner asks first, and the honest answer is that it depends heavily on scope, finishes, and what’s hiding behind the walls. That said, local cost bands give you a useful starting framework.</p>
+<h3>Typical cost bands for Alberta whole-home renovations</h3>
+<table>
+<thead>
+<tr>
+<th>Band</th>
+<th>Approximate range</th>
+<th>What it typically covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Entry-level</td>
+<td>Cosmetic refresh: new flooring, paint, kitchen and bath updates, minor electrical</td>
+<td></td>
+</tr>
+<tr>
+<td>Mid-range</td>
+<td>Full kitchen and bath gut, MEP upgrades, some structural changes, mid-grade finishes</td>
+<td></td>
+</tr>
+<tr>
+<td>High-end</td>
+<td>Structural reconfiguration, full MEP replacement, custom finishes, additions or suites</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>For a detailed breakdown of what drives costs in Calgary specifically, the <a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">2026 Calgary renovation cost guide</a> is worth reading before you finalize a budget.</p>
+<h3>Main cost drivers</h3>
+<table>
+<thead>
+<tr>
+<th>Driver</th>
+<th>Impact on budget</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Labour is a significant portion of total project cost; trades (electricians, plumbers) are billed separately</td>
+<td></td>
+</tr>
+<tr>
+<td>Structural changes</td>
+<td>Load-bearing wall removal, beams, and engineer fees add significant cost</td>
+</tr>
+<tr>
+<td>Kitchen scope</td>
+<td>Custom cabinetry and appliances alone can be a major budget item</td>
+</tr>
+<tr>
+<td>Bathrooms</td>
+<td>Primary bath gut-and-rebuild commonly involves substantial investment</td>
+</tr>
+<tr>
+<td>MEP systems</td>
+<td>Panel upgrades, full plumbing re-pipe, or HVAC replacement each can significantly impact budget</td>
+</tr>
+<tr>
+<td>Permit fees</td>
+<td>Scale with construction value; budget these as a line item, not an afterthought</td>
+</tr>
+<tr>
+<td>Finishes</td>
+<td>The gap between builder-grade and custom finishes can double a room’s cost</td>
+</tr>
+<tr>
+<td>Contingency</td>
+<td>An additional percentage of the total budget, depending on the age of the home and scope complexity, should be planned</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784903911567_Contractor-and-project-manager-on-renovation-site.jpeg" alt="Contractor and project manager on renovation site" /></p>
+<p>Contingency deserves its own moment. On a home built before the 1980s, 15–20% is a reasonable buffer because hidden issues — knob-and-tube wiring, asbestos-containing materials, undersized drain lines — are common discoveries once walls open. On a newer home with a well-defined scope, 10% may be sufficient. Either way, treat contingency as a planned expense, not a worst-case scenario fund.</p>
+
+<h2>What permits do you need for a whole-home renovation in Alberta?</h2>
+<p>Permits are the gating item for your entire project schedule. Under the <a href="https://open.alberta.ca/dataset/bc792588-d0e9-4a76-978b-1c46d405bb09/resource/e53a7350-431c-4368-ab7e-5123611513ef/download/do-i-need-a-building-permit.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta Safety Codes Act</a>, permits must be obtained before starting any work covered by the Alberta Building and Fire Codes, the Canadian Electrical Code, the Gas Code, or the National Plumbing Code. Starting without them puts your project at risk of stop-work orders and can complicate your home insurance.</p>
+<h3>What the cities require</h3>
+<p>Both Edmonton and Calgary operate their own permit systems under provincial authority. <a href="https://www.edmonton.ca/residential_neighbourhoods/renovations-basement-development" rel="nofollow noopener noreferrer" target="_blank">Edmonton’s renovation guidance</a> confirms that most major renovation projects require both a development permit and a building permit, and that structural changes require engineer-stamped drawings. Floor plans must show layout, room labels, window types, and dimensions.</p>
+<p>Common permit requirements for a whole-home project include:</p>
+<ul>
+<li><strong>Development permit:</strong> Required when you’re changing the use of a space, adding square footage, or building a secondary suite.</li>
+<li><strong>Building permit:</strong> Required for most major construction, including interior reconfiguration, structural changes, and finishing living spaces.</li>
+<li><strong>Electrical permit:</strong> Required for panel upgrades, new circuits, or rewiring; must be applied for by a licensed electrician in Alberta.</li>
+<li><strong>Plumbing permit:</strong> Required for new drain lines, supply lines, or fixture relocations.</li>
+<li><strong>Gas permit:</strong> Required for any gas line work; a certified gas fitter must apply.</li>
+<li><strong>HVAC/mechanical permit:</strong> Required for new ductwork, furnace replacement, or HRV installation.</li>
+</ul>
+<p>One important note from Alberta guidance: permit issuance does not relieve the owner of responsibility for code compliance. You remain accountable even after a permit is issued, which is why working with a contractor who manages the permit process actively matters.</p>
+<p><strong>Pro Tip:</strong> <em>Build a written permits checklist before demolition begins. List every permit by trade, who applies for it, and when the inspection is scheduled. This single document prevents the most common scheduling breakdown in whole-home projects: a trade showing up before their permit is approved.</em></p>
+<p>For planning permission drawings and what documentation packages typically look like, this <a href="https://theextensionworks.co.uk/blog/planning-permission-drawings-a-homeowners-2026-guide" target="_blank" rel="nofollow noopener noreferrer">homeowner’s guide to planning drawings</a> offers useful context on what to expect from your design team.</p>
+
+<h2>What does the project timeline look like, stage by stage?</h2>
+<p>A full home renovation is not a linear process. Design decisions affect permit applications, permit approvals gate demolition, and trade sequencing determines how fast finishes can begin. The projects that stay on schedule are the ones where the contractor has built permit approval windows and long-lead item lead times into the schedule from day one.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784903917269_Team-discussing-renovation-project-timeline-indoors.jpeg" alt="Team discussing renovation project timeline indoors" /></p>
+<h3>Typical renovation stages and durations</h3>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Typical duration</th>
+<th>Key dependencies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Discovery and design</td>
+<td>4–8 weeks</td>
+<td>Scope definition, drawings, engineer review</td>
+</tr>
+<tr>
+<td>Permit applications and approvals</td>
+<td>4–12 weeks</td>
+<td>Completeness of drawings; municipal queue times</td>
+</tr>
+<tr>
+<td>Demolition</td>
+<td>1–2 weeks</td>
+<td>Permit approval; hazardous material assessment</td>
+</tr>
+<tr>
+<td>Structural and rough-in (MEP)</td>
+<td>4–10 weeks</td>
+<td>Structural engineer sign-off; trade permit approvals</td>
+</tr>
+<tr>
+<td>Rough-in inspections</td>
+<td>1–2 weeks</td>
+<td>Inspector availability; deficiency corrections</td>
+</tr>
+<tr>
+<td>Finishes (flooring, tile, cabinetry, paint)</td>
+<td>6–12 weeks</td>
+<td>Material lead times; custom order windows</td>
+</tr>
+<tr>
+<td>Commissioning and final inspections</td>
+<td>1–3 weeks</td>
+<td>All trades complete; occupancy requirements</td>
+</tr>
+<tr>
+<td>Closeout and deficiency correction</td>
+<td>1–2 weeks</td>
+<td>Homeowner walkthrough; warranty documentation</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Total: approximately 6–14 months</strong> for a full-scope project, with larger homes or projects involving additions running toward the longer end.</p>
+<p>The most common timeline risks are permit approval delays (especially when drawings need revisions), custom cabinetry or tile with 10–14 week lead times, and unforeseen structural issues discovered during demolition. Plan your temporary living arrangements around the rough-in phase, which is the noisiest and most disruptive stage. For a broader look at managing the moving parts of a renovation, this <a href="https://blog.sortedhomesolutions.co.nz/blog/renovation-project-management-a-homeowners-guide" target="_blank" rel="nofollow noopener noreferrer">homeowner’s guide to renovation project management</a> covers the coordination principles well.</p>
+
+<h2>How do you plan and budget for a full home remodel?</h2>
+<p>Good budgeting starts with a detailed scope, not a rough number. The homeowners who run into trouble are the ones who set a budget before they know what the project actually includes.</p>
+<h3>Practical budgeting steps</h3>
+<ol>
+<li><strong>Define scope in writing</strong> before asking for estimates. Know which rooms are in, which systems are being replaced, and what finish level you’re targeting.</li>
+<li><strong>Set allowances for undecided items</strong> (tile, fixtures, appliances) so the estimate reflects a real number, not a placeholder.</li>
+<li><strong>Get a line-item estimate</strong>, not a lump sum. You need to see labour, materials, permits, and contingency broken out separately.</li>
+<li><strong>Add contingency</strong> — 10% minimum, 15–20% for older homes or structural scope.</li>
+<li><strong>Document everything</strong> from the start: receipts, invoices, photos by room. This matters for warranty claims, insurance, and any tax-credit applications.</li>
+</ol>
+<h3>Financing options</h3>
+<ul>
+<li><strong>Savings:</strong> The cleanest option; no interest, no lender approval timeline.</li>
+<li><strong>Home equity line of credit (HELOC):</strong> Flexible draw structure suits a phased project; interest-only payments during construction are common.</li>
+<li><strong>Renovation loan:</strong> Fixed term and rate; useful when you want a defined repayment schedule.</li>
+<li><strong>Refinancing:</strong> Some homeowners roll renovation costs into a mortgage refinance; consult a mortgage broker for current rates and qualification rules.</li>
+</ul>
+<h3>Canadian tax credits and rebates to know</h3>
+<p>The <a href="https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45355-mhrtc.html" rel="nofollow noopener noreferrer" target="_blank">Multigenerational Home Renovation Tax Credit (MHRTC)</a> allows eligible individuals to claim up to $50,000 in qualifying renovation expenditures per completed qualifying renovation, with a credit of 14.5% of qualifying costs up to a maximum of $7,250 per claim. The catch: the MHRTC applies only to renovations that create a self-contained secondary unit for a qualifying senior or a person eligible for the disability tax credit. It is not a general renovation credit, and many homeowners assume broader eligibility than the rules allow.</p>
+<p>For the FTHB GST/HST rebate, the substantial renovation test generally requires that 90% or more of the interior be removed or replaced, with only livable areas counting toward that threshold. Partially finished basements that aren’t habitable don’t count. If you think your project might qualify, document removed and replaced areas by room from the start — retroactive documentation is much harder to defend.</p>
+<p><strong>Pro Tip:</strong> <em>If your project includes a secondary suite and you’re targeting the MHRTC, structure the qualifying expenses as a separate line item in your contract from day one. Mixing suite costs with general renovation costs makes the claim much harder to substantiate at tax time. A <a href="https://stateracontracting.com/blog/home-renovation-tax-credit" target="_blank" rel="noopener">home renovation tax credit guide</a> can help you understand what qualifies before you finalize your scope.</em></p>
+
+<h2>How do you choose the right contractor for a whole-house renovation?</h2>
+<p>The contractor you choose determines more about your project outcome than any other single decision. A well-scoped project with the wrong contractor will still go over budget and over schedule.</p>
+<h3>Must-have credentials to verify</h3>
+<ol>
+<li><strong>Permit handling experience:</strong> Ask specifically whether they manage permit applications or expect you to. A contractor who handles permits actively is a meaningful differentiator.</li>
+<li><strong>Licensed trades:</strong> Confirm that electricians, plumbers, and gas fitters working on your project hold valid Alberta licences.</li>
+<li><strong>WCB clearance:</strong> Request a current Workers’ Compensation Board clearance certificate before signing.</li>
+<li><strong>Liability insurance:</strong> Minimum $2 million general liability; ask for the certificate, not just a verbal confirmation.</li>
+<li><strong>Written references and portfolio:</strong> Ask for references from projects of similar scope and complexity — not just kitchen refreshes if you’re doing a full-home remodel.</li>
+</ol>
+<h3>Questions to ask during the interview</h3>
+<ul>
+<li>How do you handle permit applications, and who is responsible if a permit is delayed?</li>
+<li>Is your contract fixed-price or allowance-based, and how are allowances reconciled?</li>
+<li>What is your change-order process, and what triggers one?</li>
+<li>How do you sequence trades, and who manages subcontractors day-to-day?</li>
+<li>What does your progress payment schedule look like, and what milestones trigger each payment?</li>
+<li>What warranty do you provide on workmanship, and how are deficiencies handled after closeout?</li>
+</ul>
+<h3>Contract essentials</h3>
+<ul>
+<li>Clear written scope with room-by-room detail</li>
+<li>Allowances listed explicitly (not buried in a lump sum)</li>
+<li>Change-order process with written approval required before work proceeds</li>
+<li>Payment schedule tied to milestones, not calendar dates</li>
+<li>Warranty terms in writing, including duration and what is covered</li>
+<li>Final inspection and closeout deliverables (permit sign-offs, as-built drawings, warranty documents)</li>
+</ul>
+<h3>Red flags to watch for</h3>
+<ul>
+<li>Vague scope or a single-page estimate for a multi-month project</li>
+<li>Verbal-only promises about timeline or price</li>
+<li>No written warranty on workmanship</li>
+<li>A request for more than 10–15% upfront before work begins</li>
+<li>Reluctance to provide proof of insurance, WCB clearance, or trade licences</li>
+</ul>
+
+<h2>Key takeaways</h2>
+<p>Entire home renovations in Calgary and Edmonton require a permits-first approach, a realistic contingency budget, and a contractor whose credentials you’ve verified in writing before signing anything.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Scope clarity first</td>
+<td>Define cosmetic, structural, and MEP scope in writing before requesting estimates.</td>
+</tr>
+<tr>
+<td>Permits gate your schedule</td>
+<td>Apply for all permits before demolition; trade permits require licensed contractors to apply in Alberta.</td>
+</tr>
+<tr>
+<td>Budget with contingency</td>
+<td>Add 10–20% contingency depending on home age and structural scope.</td>
+</tr>
+<tr>
+<td>Verify contractor credentials</td>
+<td>Confirm WCB clearance, liability insurance, licensed trades, and written references before signing.</td>
+</tr>
+<tr>
+<td>Statera Contracting</td>
+<td>Offers fixed-price contracts, permit management, and full-scope residential renovations in Calgary.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>What actually makes a whole-home renovation succeed</h2>
+<p>Most renovation horror stories share a common thread: the homeowner and contractor were not aligned on what “done” looked like until something went wrong. Scope creep, permit surprises, and budget overruns are almost always symptoms of that misalignment, not random bad luck.</p>
+<p>The projects that go well tend to have a few things in common. The scope was written down in detail before demolition started. Permits were applied for before trades were mobilized. Change orders were documented in writing, every time, without exception. And the homeowner received a clear milestone schedule at the start, not a vague “we’ll keep you posted” arrangement.</p>
+<p>Fixed-price contracting matters here more than most homeowners realize. When a contractor quotes a lump sum without a detailed scope behind it, that number is essentially a guess. A fixed price tied to a line-item scope is a commitment. The difference between those two things is the difference between a project that finishes on budget and one that doesn’t.</p>
+<p>Post-completion care is the other piece that separates a good renovation experience from a great one. Warranty documentation, as-built drawings, and a clear deficiency process after closeout aren’t extras — they’re part of what you’re paying for. Ask about them before you sign, not after.</p>
+
+<h2>Ready to get a scoped estimate for your Calgary renovation?</h2>
+<p>Statera Contracting handles entire home renovations in Calgary from design through final inspection, with fixed-price contracts, active permit management, and licensed trades on every project. Whether your project centres on a kitchen renovation, a <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom overhaul</a>, a <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement suite</a>, or a full-home reconfiguration across all three, we scope the work in detail before anything is signed.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Every project starts with a scoped estimate that breaks out labour, materials, permits, and contingency as separate line items — no lump-sum guesswork. Our permit team handles applications for building, development, and trade permits, and we coordinate inspections so your schedule doesn’t stall waiting on approvals. References and portfolio examples from comparable projects are available on request.</p>
+<p><a href="https://stateracontracting.com" target="_blank" rel="noopener">Request your scoped estimate</a> and we’ll walk through your scope, your timeline, and your budget in a straightforward conversation — no pressure, no vague numbers.</p>
+
+<h2>Useful sources and permit resources</h2>
+<p>These official sources are worth bookmarking before your project begins. Download PDFs where available and confirm current fee schedules directly with each municipality, as fees are updated periodically.</p>
+<ul>
+<li><strong>Canada Revenue Agency — MHRTC:</strong> Full eligibility rules and qualifying expense guidance for the Multigenerational Home Renovation Tax Credit.</li>
+<li><strong>CRA — FTHB GST/HST rebate:</strong> Explains the 90% substantial renovation test, livable area definitions, and documentation requirements.</li>
+<li><strong>CRA — GST/HST New Housing Rebate (RC4028):</strong> Detailed guide covering owner-built and substantially renovated homes, major additions, and rebate eligibility conditions.</li>
+<li><strong>Alberta Safety Codes — Do I need a building permit?:</strong> Provincial guidance on when permits are required under the Alberta Building and Fire Codes, Electrical Code, Gas Code, and Plumbing Code.</li>
+<li><strong>City of Edmonton — Home renovations and basements:</strong> Edmonton-specific permit requirements, fee information, required drawing standards, and inspection guidance for residential renovations.</li>
+<li><strong>City of Calgary — Permits and development services:</strong> Calgary’s permit portal covers development and building permit applications, fee schedules, and inspection booking for residential projects. Search “City of Calgary building permits” to access the current portal and fee schedule.</li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog" target="_blank" rel="noopener">Renovation Blog | Calgary Tips &amp; Insights | Statera Contracting | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">Kitchen renovation ideas for Alberta homeowners: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/smart-renovations-for-calgary-homes-2026-guide" target="_blank" rel="noopener">Smart renovations for Calgary homes: 2026 guide | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
