@@ -4019,6 +4019,349 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "renovations-kitchen-cabinets",
+    title: "Kitchen cabinet renovations in Calgary: options & budgets",
+    excerpt:
+      "For most Calgary kitchens, refacing or replacing cabinet doors paired with a licensed contractor gives the best balance of cost, timeline, and long-term value.",
+    date: "2026-07-25",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784982663855_Woman-inspecting-kitchen-cabinet-interior.jpeg",
+    coverAlt: "Kitchen cabinet renovations in Calgary: options & budgets",
+    category: "Industry News",
+    readingTime: "15 min read",
+    metaTitle: "Kitchen cabinet renovations in Calgary: options & budgets",
+    metaDescription:
+      "Explore renovations kitchen cabinets in Calgary. Discover budget-friendly options from refacing to full replacements for your dream kitchen.",
+    content: [
+      {
+        type: "html",
+        html: `<p>For most Calgary kitchens, refacing or replacing cabinet doors paired with a licensed contractor gives the best balance of cost, timeline, and long-term value. If your cabinet boxes are solid and your layout works, you likely don’t need a full replacement. Save that for kitchens with water damage, failing structure, or a layout that genuinely doesn’t function.</p>
+<p><strong>Quick answers by budget:</strong></p>
+<ul>
+<li><strong>Under $5,000:</strong> Paint cabinets, swap hardware, add open shelving. DIY-friendly, weekend-to-a-few-days timeline.</li>
+<li><strong>$5,000–$20,000:</strong> Reface cabinets or replace doors and drawer fronts. Hire a licensed contractor for best results.</li>
+<li><strong>$20,000–$60,000+:</strong> Full cabinet replacement with stock/RTA, semi-custom, or custom cabinetry. Requires a licensed contractor, permits if layout changes, and a multi-week timeline.</li>
+</ul>
+<p><strong>Hire a licensed contractor immediately if you see:</strong> water damage inside cabinet boxes, soft or swollen plywood, a layout that requires moving plumbing or gas, or structural wall changes.</p>
+<p><strong>Pro Tip:</strong> <em>Before calling anyone, open every lower cabinet and press firmly on the floor and side panels. Soft spots, delamination, or visible mould mean replacement. Firm, square boxes mean refacing or new doors are on the table.</em></p>
+<p>Book a free in-home consult with <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">Statera Contracting</a> to scope your project and get a fixed-price estimate.</p>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-are-your-real-options-for-renovating-kitchen-cabinets">What are your real options for renovating kitchen cabinets?</a></li>
+<li><a href="#what-should-you-budget-for-cabinet-work-in-calgary">What should you budget for cabinet work in Calgary?</a></li>
+<li><a href="#how-long-does-a-cabinet-renovation-take-in-calgary">How long does a cabinet renovation take in Calgary?</a></li>
+<li><a href="#which-design-choices-actually-modernize-your-cabinets">Which design choices actually modernize your cabinets?</a></li>
+<li><a href="#what-permits-and-warranties-do-you-need-in-alberta">What permits and warranties do you need in Alberta?</a></li>
+<li><a href="#how-do-you-choose-the-right-contractor-in-calgary">How do you choose the right contractor in Calgary?</a></li>
+<li><a href="#when-does-diy-make-sense-for-cabinet-updates">When does DIY make sense for cabinet updates?</a></li>
+<li><a href="#calgary-pro-tips-from-statera-contracting">Calgary pro tips from Statera Contracting</a></li>
+<li><a href="#statera-contracting-handles-your-kitchen-cabinet-project-end-to-end">Statera Contracting handles your kitchen cabinet project end to end</a></li>
+<li><a href="#key-takeaways">Key takeaways</a></li>
+<li><a href="#a-practical-note-on-calgary-kitchen-projects">A practical note on Calgary kitchen projects</a></li>
+<li><a href="#useful-resources-and-further-reading">Useful resources and further reading</a></li>
+</ul>
+<h2>What are your real options for renovating kitchen cabinets?</h2>
+<p>“Renovating kitchen cabinets” covers a wide range of work, from a weekend paint job to a full custom build. Knowing which path fits your situation saves you from over-spending or under-delivering.</p>
+<h3>Paint or refinish</h3>
+<p>You keep the existing doors and boxes and apply fresh paint or a sprayed lacquer finish. This works well when the door style is acceptable and the boxes are sound. A professional cabinet painter will degrease, sand, prime with a bonding primer, and apply cabinet-grade enamel in thin coats. Skipping any of those steps leads to brush marks and early peeling.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784982668571_Man-painting-kitchen-cabinet-doors.jpeg" alt="Man painting kitchen cabinet doors" /></p>
+<h3>Reface cabinets</h3>
+<p>Refacing means applying a new veneer to the cabinet box faces and replacing all doors, drawer fronts, hinges, and hardware. The boxes stay in place. Cabinet refacing typically costs significantly less than full replacement when boxes are in good condition, making it the most cost-effective mid-range option.</p>
+<h3>Replace doors and drawer fronts only</h3>
+<p>If your box faces are in good shape, you can order new doors in a modern style (shaker, slab) and swap them out without touching the boxes at all. This is the single most cost-effective visual upgrade for many Calgary kitchens.</p>
+<h3>RTA and stock cabinets</h3>
+<p>Ready-to-assemble (RTA) and stock cabinets come in standard sizes and ship quickly. Material costs are lower, but installation labour is a separate and substantial line item. These suit straightforward layouts where standard dimensions work.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1784982664310_Installer-assembling-RTA-kitchen-cabinets.jpeg" alt="Installer assembling RTA kitchen cabinets" /></p>
+<h3>Semi-custom cabinetry</h3>
+<p>Semi-custom cabinets offer more size and finish options than stock, with lead times of roughly 4–8 weeks. They suit most mid-range renovations and give you meaningful design flexibility without the cost of a fully custom build.</p>
+<h3>Custom cabinetry</h3>
+<p>Custom cabinets are built to your exact dimensions and specifications. They’re the right choice for unusual layouts, high-end finishes, or when you want specific interior fittings built in from the start. Lead times run 8–16 weeks in Alberta.</p>
+<p><strong>Pro Tip:</strong> <em>Check your cabinet boxes before committing to any path. Open the doors, look at the interior corners, and press the floor panel. Solid plywood or hardwood construction means refacing or new doors will serve you well. Particleboard that’s swollen or delaminating is a signal to replace.</em></p>
+
+<h2>What should you budget for cabinet work in Calgary?</h2>
+<p><a href="https://wealthnorth.ca/personal-finance/how-much-does-it-cost/cost-of-kitchen-renovation-canada/" rel="nofollow noopener noreferrer" target="_blank">Cabinets represent 30–40%</a> of a total kitchen renovation budget in Canada, making them the single largest cost driver. Getting the cabinet decision right sets the tone for everything else.</p>
+<table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Typical Alberta Range</th>
+<th>What’s Included</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Paint/refinish (pro)</td>
+<td>$1,500–$5,000</td>
+<td>Degreasing, sanding, primer, cabinet-grade enamel, hardware reinstall</td>
+</tr>
+<tr>
+<td>Reface cabinets</td>
+<td>—</td>
+<td>New veneer on box faces, new doors/drawer fronts, hinges, hardware</td>
+</tr>
+<tr>
+<td>Replace doors only</td>
+<td>—</td>
+<td>New door and drawer fronts, hinges, hardware</td>
+</tr>
+<tr>
+<td>RTA/stock cabinets (supply + install)</td>
+<td>$8,000–$20,000</td>
+<td>Cabinet materials plus installation labour ($1,500–$5,000 separate line)</td>
+</tr>
+<tr>
+<td>Semi-custom cabinetry</td>
+<td>$15,000–$35,000</td>
+<td>Custom sizing, wider finish selection, installation</td>
+</tr>
+<tr>
+<td>Custom cabinetry</td>
+<td>$20,000–$60,000+</td>
+<td>Fully bespoke build, premium hardware, full installation</td>
+</tr>
+</tbody>
+</table>
+<p>For context, Canadian kitchen renovations range from cosmetic refreshes at $1,500–$5,000 up to full renovations at $35,000 and beyond, with mid-range projects typically landing between $15,000–$30,000. Alberta’s full gut renovations run $35,000–$75,000 for complete kitchen overhauls.</p>
+<p><strong>Add-on costs that commonly blow budgets:</strong></p>
+<ul>
+<li>Moving plumbing or gas lines: <a href="https://renoplanner.ai/renovation-cost/kitchen" rel="nofollow noopener noreferrer" target="_blank">$3,000–$8,000</a> added to the base scope</li>
+<li>Electrical upgrades such as new circuits, outlets, or under-cabinet lighting incur additional costs</li>
+<li>Countertop replacement costs vary widely depending on the material chosen</li>
+<li>Demolition and disposal incur additional costs</li>
+<li>Backsplash installation adds additional cost</li>
+</ul>
+<p>The most reliable way to control costs is to keep your existing layout. Moving the sink, stove, or fridge wall triggers plumbing, gas, and electrical work that adds quickly. For detailed local cost breakdowns, the <a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">kitchen remodel cost guide</a> from Statera Contracting covers Calgary-specific pricing in depth.</p>
+
+<h2>How long does a cabinet renovation take in Calgary?</h2>
+<p>Timeline depends heavily on which path you choose. Here’s a realistic sequence for a mid-range cabinet project:</p>
+<ol>
+<li><strong>Initial consult and site measure</strong> — 1–3 days to schedule; 1–2 hours on site</li>
+<li><strong>Design selections and approvals</strong> — 1–2 weeks (finishes, hardware, door style)</li>
+<li><strong>Cabinet lead time</strong> — Stock/RTA: 1–3 weeks. Semi-custom: 4–8 weeks. Custom: 8–16 weeks.</li>
+<li><strong>Permit applications (if required)</strong> — 2–6 weeks for structural or plumbing/gas changes in Calgary</li>
+<li><strong>Demo and rough-in trades</strong> — 1–3 days for cabinet removal; additional days if plumbing/electrical is involved</li>
+<li><strong>Cabinet installation</strong> — 2–5 days for a typical kitchen</li>
+<li><strong>Touch-ups, hardware, and finishing</strong> — 1–3 days</li>
+</ol>
+<p>A paint-and-hardware refresh can be done in 2–5 days by a professional. A full custom cabinet replacement with layout changes can run 12–20 weeks from first consult to final walkthrough.</p>
+<p><strong>Steps that typically require you to be present or plan around kitchen downtime:</strong></p>
+<ul>
+<li>Demo day (access needed, dust and noise)</li>
+<li>Cabinet installation days (kitchen is out of service)</li>
+<li>Countertop template and installation (2–3 days apart)</li>
+<li>Final inspection if permits were pulled</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Choose in-stock finishes and standard door sizes whenever possible. Switching from a custom colour to a stocked finish can cut your lead time by 3–5 weeks in Alberta, especially during the busy spring and fall renovation seasons.</em></p>
+
+<h2>Which design choices actually modernize your cabinets?</h2>
+<p>The biggest visual gains come from door style and finish, not from spending more on the cabinet box itself. Here’s how each design lever works.</p>
+<h3>Door styles</h3>
+<p>Shaker doors (a recessed centre panel with a simple frame) are the most versatile modern choice. They read as clean and contemporary without dating quickly. Understanding <a href="https://onedaydoorsandclosets.com/blog/featured/what-is-a-timeless-interior-door-shaker-doors" rel="nofollow noopener noreferrer" target="_blank">why shaker doors are considered timeless</a> helps explain why they dominate mid-range and high-end renovations alike. Slab or flat-panel doors suit a more minimal, European-style kitchen. Recessed panel doors lean traditional and work well in older Calgary homes where the architecture supports it.</p>
+<h3>Finishes</h3>
+<ul>
+<li><strong>Painted lacquer:</strong> Clean, durable, and the most popular finish for modern kitchens. Requires proper prep (degreasing, sanding, bonding primer) to hold long-term.</li>
+<li><strong>Stained wood:</strong> Warm and natural. Works best with quality hardwood doors; shows wear over time but ages gracefully.</li>
+<li><strong>Thermofoil:</strong> A vinyl wrap over MDF. Lower cost, but edges can lift over time, especially near heat sources.</li>
+<li><strong>Veneer:</strong> Real wood veneer over an engineered substrate. Good durability and a natural look at a lower cost than solid wood.</li>
+</ul>
+<h3>Hardware</h3>
+<p>Hardware is where you get disproportionate visual impact for a small spend. Pulls and knobs in matte black, brushed brass, or satin nickel are the current standard for modern kitchens. Functionally, soft-close hinges and full-extension drawer slides make a genuine daily difference. Concealed hinges give a cleaner look and are standard on slab and shaker doors.</p>
+<p><strong>Pro Tip:</strong> <em>Measure your existing hardware centre-to-centre before ordering new pulls. Matching the spacing means no new holes to drill and no patching to paint.</em></p>
+<h3>Interior fittings</h3>
+<p>Pull-out shelves in lower cabinets, spice pull-outs beside the stove, and utensil dividers in deep drawers are the upgrades homeowners consistently say they wish they’d added sooner. These are worth specifying at the cabinet order stage rather than retrofitting later.</p>
+<p>For more <a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">kitchen renovation ideas</a> suited to Alberta homes, Statera Contracting’s design guide covers current styles and practical storage options.</p>
+
+<h2>What permits and warranties do you need in Alberta?</h2>
+<p>Most cabinet-only renovations don’t require a permit in Alberta. The moment you move plumbing, gas, or make structural changes, that changes.</p>
+<p><strong>Work that typically requires a permit in Calgary:</strong></p>
+<ul>
+<li>Moving or adding plumbing (sink relocation, dishwasher rough-in to a new location)</li>
+<li>Moving or capping a gas line (range relocation)</li>
+<li>Structural changes (removing a wall, altering load-bearing elements)</li>
+<li>Adding new electrical circuits or moving a panel</li>
+</ul>
+<p>For any of those scopes, your contractor must pull the permit before work begins. A licensed contractor handles this as part of the project. Never accept a verbal assurance that “it doesn’t need a permit” for plumbing or gas work.</p>
+<p><strong>Trades that must be licensed in Alberta:</strong></p>
+<ul>
+<li>Plumbers (journeyman or master plumber licence required)</li>
+<li>Gas fitters (separate gas fitting licence required)</li>
+<li>Electricians (journeyman or master electrician licence required)</li>
+</ul>
+<p><strong>Warranties to ask for in writing:</strong></p>
+<ul>
+<li>Finish warranty on painted or lacquered cabinets (typically 1–2 years against peeling or adhesion failure)</li>
+<li>Hardware warranty (hinges and drawer slides: most quality hardware carries a lifetime mechanical warranty)</li>
+<li>Installation workmanship guarantee (ask for a minimum 1-year written guarantee from the contractor)</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Request the cabinet manufacturer’s warranty documentation at the time of order, not after installation. Some warranties require registration within 30 days of purchase.</em></p>
+
+<h2>How do you choose the right contractor in Calgary?</h2>
+<p>The lowest bid is rarely the right choice. Here’s a practical checklist for vetting any contractor you’re considering.</p>
+<ol>
+<li><strong>Verify their licence and insurance.</strong> Ask for the Alberta business licence number and a current certificate of liability insurance. Confirm coverage is active.</li>
+<li><strong>Review a local portfolio.</strong> Ask to see completed Calgary or Alberta kitchen projects, ideally with before-and-after photos. A contractor without local portfolio examples is a risk.</li>
+<li><strong>Get a written, itemised estimate.</strong> The estimate should separate cabinet costs, installation labour, trades (plumbing, electrical), and any permit fees. Verbal estimates are not acceptable.</li>
+<li><strong>Confirm who manages permits and trades.</strong> A general contractor should coordinate all licensed trades and pull required permits. If they expect you to manage this, that’s a red flag.</li>
+<li><strong>Ask about the change-order process.</strong> How are scope changes priced and approved? Get the answer in writing.</li>
+<li><strong>Check references.</strong> Ask for two or three recent local clients you can contact directly.</li>
+<li><strong>Review payment terms.</strong> A reasonable deposit is 10–15% upfront. Requests for 30–50% before work begins are a warning sign.</li>
+</ol>
+<p><strong>Red flags to watch for:</strong></p>
+<ul>
+<li>Verbal-only estimates with no written scope</li>
+<li>Pressure to decide immediately or lose the “deal”</li>
+<li>Unwillingness to provide licence or insurance documentation</li>
+<li>No local portfolio or references</li>
+<li>Requests for large cash payments</li>
+</ul>
+<p>When comparing bids, align them by scope first. A lower bid that excludes permit fees, disposal, or trades coordination isn’t actually cheaper. Ask each contractor to itemise cabinets, installation, trades, and permits separately so you’re comparing the same scope.</p>
+<p><strong>Pro Tip:</strong> <em>Ask specifically: “Where do your cabinets come from, and what is the lead time right now?” A contractor who can answer that precisely has done this recently and knows their supply chain.</em></p>
+
+<h2>When does DIY make sense for cabinet updates?</h2>
+<p>Some cabinet updates are genuinely DIY-friendly. Others look simple but create expensive rework when done without the right tools or experience.</p>
+<table>
+<thead>
+<tr>
+<th>Task</th>
+<th>DIY Viable?</th>
+<th>Key Consideration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hardware swap (knobs, pulls)</td>
+<td>Yes</td>
+<td>Match centre-to-centre spacing to avoid new holes</td>
+</tr>
+<tr>
+<td>Paint/refinish cabinets</td>
+<td>With preparation</td>
+<td>Requires degreasing, sanding, bonding primer, cabinet enamel</td>
+</tr>
+<tr>
+<td>Remove cabinet doors for open shelving</td>
+<td>Yes</td>
+<td>Patch screw holes, paint interior box</td>
+</tr>
+<tr>
+<td>Install open shelving</td>
+<td>Yes (basic)</td>
+<td>Wall anchoring into studs is critical</td>
+</tr>
+<tr>
+<td>Reface cabinets</td>
+<td>Not recommended</td>
+<td>Veneer alignment requires professional tools and experience</td>
+</tr>
+<tr>
+<td>Replace cabinet doors</td>
+<td>Possible</td>
+<td>Hinge alignment is precise; misalignment is visible</td>
+</tr>
+<tr>
+<td>Full cabinet removal and replacement</td>
+<td>No</td>
+<td>Structural, plumbing, and electrical risks</td>
+</tr>
+<tr>
+<td>Plumbing or gas changes</td>
+<td>No</td>
+<td>Licensed trades required by Alberta law</td>
+</tr>
+</tbody>
+</table>
+<p>A paint-and-hardware update is the <a href="https://www.marthastewart.com/how-to-refresh-kitchen-cabinets-11917570" rel="nofollow noopener noreferrer" target="_blank">fastest, lowest-cost way</a> to modernize cabinets and can often be completed in a weekend by a prepared DIYer. The catch is preparation: skipping the degreasing and sanding steps leads to peeling within a year.</p>
+<p><strong>Pro Tip:</strong> <em>For a high-impact DIY weekend: remove all hardware, clean every surface with a degreaser, lightly sand to break the sheen, apply a bonding primer, then two thin coats of cabinet-grade enamel. That sequence is what separates a finish that lasts five years from one that starts peeling in six months.</em></p>
+
+<h2>Calgary pro tips from Statera Contracting</h2>
+<p>These are the checks and tactics that come up on nearly every project we scope in Calgary.</p>
+<p><strong>On-site checklist for the first visit:</strong></p>
+<ul>
+<li>Measure cabinet height, width, and depth at multiple points (walls in older Calgary homes are rarely perfectly square)</li>
+<li>Check for moisture at the base of lower cabinets near the sink and dishwasher</li>
+<li>Inspect hinge condition and box squareness on every door</li>
+<li>Confirm appliance clearances, especially for refrigerator depth and range hood height</li>
+<li>Note ceiling height and soffit presence (affects upper cabinet sizing)</li>
+</ul>
+<p><strong>Local procurement and timing:</strong></p>
+<p>Calgary’s renovation season peaks in spring (March–May) and fall (September–October). Booking a contractor and ordering cabinets outside those windows typically means shorter lead times and more scheduling flexibility. If you’re choosing semi-custom or custom cabinets, placing your order in January or July gives you the best chance of hitting your target install date.</p>
+<p>For homeowners working with tighter budgets, phasing the renovation across two seasons is a practical approach. Reface or repaint in year one, then replace countertops and add new hardware in year two. The <a href="https://stateracontracting.com/blog/budget-kitchen-renovations-your-2026-alberta-guide" target="_blank" rel="noopener">budget kitchen renovation guide</a> from Statera Contracting covers phased approaches in detail.</p>
+<p><strong>Pro Tip:</strong> <em>When choosing between in-stock and custom finishes, ask your supplier what their current lead time is for each. In 2026, supply chain variability means a “standard” colour can sometimes have a longer wait than a custom one. Confirm before you commit.</em></p>
+
+<h2>Statera Contracting handles your kitchen cabinet project end to end</h2>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Statera Contracting is a licensed Calgary renovation contractor that manages kitchen cabinet projects from first measure to final installation, including permits, trades coordination, and cabinetry procurement. For homeowners who want a fixed price, a clear timeline, and a single point of contact, that’s a meaningful difference from managing multiple suppliers and subtrades yourself.</p>
+<p>We work with stock, semi-custom, and custom cabinet lines and handle the full scope: design consultation, permit applications where required, licensed plumbing and electrical coordination, cabinet installation, and a written workmanship warranty. Our portfolio covers kitchens across Calgary and surrounding Alberta communities.</p>
+<p>Ready to scope your project? Book a free kitchen renovation consult with Statera Contracting and get a written, itemised estimate with no obligation.</p>
+
+<h2>Key takeaways</h2>
+<p>The most cost-effective approach for most Calgary homeowners is to assess cabinet box condition first, then choose the least invasive renovation path that achieves the desired result.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Check boxes before deciding</td>
+<td>Solid plywood or hardwood boxes support refacing or door replacement at a substantially lower cost than full replacement.</td>
+</tr>
+<tr>
+<td>Budget by scope</td>
+<td>Cost varies widely: from cosmetic updates, to mid-range refacing or door replacement, up to full custom cabinetry at the highest end.</td>
+</tr>
+<tr>
+<td>Keep the layout</td>
+<td>Avoiding plumbing or gas moves saves considerable expense and time in the schedule.</td>
+</tr>
+<tr>
+<td>DIY the simple stuff</td>
+<td>Hardware swaps and open shelving are safe DIY wins; refacing, full replacement, and any trades work require licensed professionals.</td>
+</tr>
+<tr>
+<td>Statera Contracting</td>
+<td>Provides fixed-price, licensed kitchen cabinet renovation in Calgary, including permits, trades, and a written workmanship warranty.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>A practical note on Calgary kitchen projects</h2>
+<p>Calgary kitchens tend to be well-used spaces, and the homeowners we work with consistently prioritise durability and realistic timelines over chasing the lowest price. The projects that go smoothly share a few things: the homeowner checked their cabinet boxes before committing to a scope, they kept the layout where possible, and they hired a licensed contractor who provided a written estimate with itemised line items.</p>
+<p>The advice in this article reflects what we see on the ground in Calgary every season. Budgets are real, lead times matter, and the difference between a cabinet renovation that holds up for fifteen years and one that needs rework in three usually comes down to preparation and materials, not the brand name on the door.</p>
+
+<h2>Useful resources and further reading</h2>
+<p><strong>Statera Contracting pages:</strong></p>
+<ul>
+<li>Kitchen renovation services in Calgary — service overview, portfolio, and consult booking</li>
+<li>Kitchen remodel cost guide for Calgary — local cost breakdowns and budget ranges</li>
+<li>Budget kitchen renovations: Alberta guide — phased renovation strategies and cost-saving tactics</li>
+<li><a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">Planning a kitchen renovation in Calgary</a> — timelines, lifestyle considerations, and preparation checklist</li>
+</ul>
+<p><strong>External references used in this article:</strong></p>
+<ul>
+<li>WealthNorth: Cost of a kitchen renovation in Canada — national budget tiers and cabinet cost percentages</li>
+<li>RenoCalc: Kitchen remodel cost Canada — refacing vs replacement cost comparison</li>
+<li>RenoPlanner: Kitchen renovation cost in Canada — layout change cost impacts</li>
+</ul>
+<p><strong>Permits in Alberta:</strong></p>
+<p>For permit requirements specific to your municipality, check the City of Calgary’s Development and Building Approvals portal or your local Alberta municipal website. Your contractor should confirm permit requirements during the initial consult. Never rely on a verbal assurance that a permit isn’t needed for plumbing, gas, or structural work.</p>
+<p><strong>Pro Tip:</strong> <em>Bring three things to your first contractor consult: photos of your current kitchen (including inside the cabinets), rough measurements of the space, and a clear budget range. That combination lets a contractor give you a meaningful estimate in the first meeting rather than a ballpark that changes later.</em></p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/budget-kitchen-renovations-your-2026-alberta-guide" target="_blank" rel="noopener">Budget kitchen renovations: your 2026 Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">Kitchen remodel cost in Calgary: 2026 Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">Planning a Kitchen Renovation in Calgary | Statera Tips | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog" target="_blank" rel="noopener">Renovation Blog | Calgary Tips &amp; Insights | Statera Contracting | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
