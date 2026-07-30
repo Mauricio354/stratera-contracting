@@ -4622,6 +4622,520 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "adding-a-second-story-to-a-house",
+    title: "Adding a second storey to your house: Canada planning guide",
+    excerpt:
+      "Most detached and semi-detached Canadian homes can support a second storey, but feasibility depends on three things: foundation capacity, local zoning rules, and whether your mechanical systems can be extended.",
+    date: "2026-07-27",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785173928594_Homeowner-reviewing-house-plans-at-dining-table.jpeg",
+    coverAlt: "Adding a second storey to your house: Canada planning guide",
+    category: "Industry News",
+    readingTime: "26 min read",
+    metaTitle: "Adding a second storey to your house: Canada planning guide",
+    metaDescription:
+      "Discover essential tips for adding a second story to a house in Canada. Learn about costs and critical assessments before starting your project.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Most detached and semi-detached Canadian homes can support a second storey, but feasibility depends on three things: foundation capacity, local zoning rules, and whether your mechanical systems can be extended. Get those three checks right before you spend a dollar on design.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785173928824_Contractor-discussing-second-storey-feasibility-on-site.jpeg" alt="Contractor discussing second-storey feasibility on site" /></p>
+<p>Cost-wise, <a href="https://wealthnorth.ca/personal-finance/how-much-does-it-cost/cost-of-home-addition-canada/" rel="nofollow noopener noreferrer" target="_blank">second-storey additions</a> across Canada typically run $150,000–$550,000 all-in, depending on scope and region. Alberta sits in a moderate range, roughly $180–$350 per square foot, while Ontario and the GTA commonly land at the top of the national band. Those figures include construction, soft costs, and permits, but not temporary accommodation or contingency.</p>
+<p>Before any design work begins, you need three things confirmed:</p>
+<ul>
+<li>A licensed structural engineer’s assessment of your foundation and floor system</li>
+<li>A zoning check with your municipality on height limits, lot coverage, and setbacks</li>
+<li>A preliminary review against the <a href="https://nrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-canada-publications/national-building-code-canada-2020" rel="nofollow noopener noreferrer" target="_blank">National Building Code of Canada</a> and your provincial equivalent (the Ontario Building Code in Ontario, the BC Step Code in British Columbia)</li>
+</ul>
+<p>Statera Contracting handles all three of those steps as part of our feasibility process for Calgary-area homeowners, so you know what you’re working with before committing to a full design budget.</p>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-does-adding-a-second-storey-to-a-house-actually-involve">What does adding a second storey to a house actually involve?</a></li>
+<li><a href="#how-much-does-a-second-storey-addition-cost-in-canada">How much does a second-storey addition cost in Canada?</a></li>
+<li><a href="#what-permits-and-zoning-rules-apply-to-a-second-storey-in-canada">What permits and zoning rules apply to a second storey in Canada?</a></li>
+<li><a href="#does-your-foundation-actually-support-a-second-storey">Does your foundation actually support a second storey?</a></li>
+<li><a href="#how-long-does-a-second-storey-project-take-and-when-do-you-need-to-move-out">How long does a second-storey project take, and when do you need to move out?</a></li>
+<li><a href="#design-decisions-that-affect-your-budget-and-livability">Design decisions that affect your budget and livability</a></li>
+<li><a href="#second-storey-vs-ground-floor-addition-vs-moving-which-makes-sense-for-you">Second storey vs. ground-floor addition vs. moving: which makes sense for you?</a></li>
+<li><a href="#how-to-hire-the-right-contractor-for-a-second-storey-project">How to hire the right contractor for a second-storey project</a></li>
+<li><a href="#how-statera-contracting-approaches-second-storey-additions">How Statera Contracting approaches second-storey additions</a></li>
+<li><a href="#hidden-costs-and-surprises-homeowners-often-miss">Hidden costs and surprises homeowners often miss</a></li>
+<li><a href="#key-takeaways">Key takeaways</a></li>
+<li><a href="#statera-contracting-can-take-your-second-storey-project-from-feasibility-to-final-inspection">Statera Contracting can take your second-storey project from feasibility to final inspection</a></li>
+<li><a href="#useful-sources-and-further-reading-for-canadian-homeowners">Useful sources and further reading for Canadian homeowners</a></li>
+</ul>
+<h2>What does adding a second storey to a house actually involve?</h2>
+<p>A second-storey addition is not a straightforward extension. You are effectively rebuilding the top half of your home on top of an existing structure, which means every trade is involved and every system in the house gets touched. Here is how the project unfolds from start to finish.</p>
+<ol>
+<li>
+<p><strong>Feasibility review.</strong> A licensed structural engineer inspects your existing footings, soil conditions, first-floor load paths, and ceiling/joist capacity. Simultaneously, your designer or contractor checks the zoning envelope: building height limits, lot coverage maximums, angular plane rules, and setbacks. This step determines whether a full or partial second storey is viable without major structural intervention.</p>
+</li>
+<li>
+<p><strong>Architectural and engineering design.</strong> Once feasibility is confirmed, an architect produces permit-ready drawings. A structural engineer prepares stamped calculations covering the new floor system, shear walls, beam sizing, and any foundation reinforcement. Your mechanical engineer or HVAC designer plans how heating, cooling, plumbing, and electrical will extend upward.</p>
+</li>
+<li>
+<p><strong>Permit application.</strong> You submit a full building permit package to your municipality. This includes architectural drawings, stamped structural calculations, a site plan, and mechanical/electrical layouts. In some cases, a minor variance application goes to a Committee of Adjustment if the design exceeds zoning limits.</p>
+</li>
+<li>
+<p><strong>Temporary shoring and roof removal.</strong> Once permits are in hand, the contractor installs temporary shoring to support the first-floor structure, then removes the existing roof. This is the most weather-sensitive and disruptive phase of the project.</p>
+</li>
+<li>
+<p><strong>Foundation reinforcement (if required).</strong> If the engineer’s assessment identified inadequate footings, underpinning or new concrete strip footings are completed before framing begins. This phase can add significant time and cost.</p>
+</li>
+<li>
+<p><strong>Floor framing, walls, and new roof.</strong> The new floor system is framed, exterior walls are built, and a new roof is constructed. Structural inspections happen at framing milestones.</p>
+</li>
+<li>
+<p><strong>Mechanical, electrical, and plumbing rough-in.</strong> HVAC ducts or heat pump lines, electrical wiring, and plumbing risers are extended to the second floor. Ceiling finishes on the main floor are typically opened to run these systems.</p>
+</li>
+<li>
+<p><strong>Insulation, air-sealing, and finishing.</strong> Insulation is installed to meet current code requirements, walls are drywalled, and finishing work begins. Municipal inspectors review insulation and systems rough-in before walls are closed.</p>
+</li>
+<li>
+<p><strong>Final inspections and occupancy.</strong> The municipality conducts a final inspection covering all trades. Once sign-off is received, the addition is legal and occupiable.</p>
+</li>
+</ol>
+<p><strong>Pro Tip:</strong> <em>Order the structural engineer’s report before you engage an architect for detailed design. If the foundation needs underpinning, that changes the scope and budget significantly. Discovering it after design is complete means paying for revisions.</em></p>
+
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785173934278_Engineer-inspecting-house-foundation-in-basement.jpeg" alt="Engineer inspecting house foundation in basement" /></p>
+<h2>How much does a second-storey addition cost in Canada?</h2>
+<p>Cost is the question most homeowners ask first, and the honest answer is that the range is wide because the variables are significant. Here is how to think about it.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785174435681_Infographic-showing-cost-breakdown-of-second-storey-additions.jpeg" alt="Infographic showing cost breakdown of second-storey additions" /></p>
+<h3>Hard costs vs. soft costs</h3>
+<p><strong>Hard costs</strong> cover everything physical: framing, roofing, insulation, windows, exterior cladding, interior finishing, flooring, and all mechanical work. <strong>Soft costs</strong> cover everything professional: architectural fees, structural engineering, permit fees, development charges, planning consultant fees if a variance is needed, and any Committee of Adjustment costs. Soft costs typically add a notable percentage on top of the construction budget and should be budgeted as a separate line item, not folded into the per-square-foot construction estimate.</p>
+<h3>Regional cost ranges</h3>
+<p>Alberta sits in a moderate national range. Saskatchewan generally has moderate per-square-foot costs for second-storey work. Ontario tends to be higher, with costs commonly above the national average, and Toronto/GTA projects often exceed this due to labour, zoning complexity, and permit costs. British Columbia, particularly Vancouver, is among the highest cost regions.</p>
+<h3>What drives the cost up</h3>
+<ul>
+<li><strong>Foundation reinforcement or underpinning.</strong> This is the single largest unexpected cost on older bungalows. If footings are undersized, underpinning can add tens of thousands of dollars before framing even begins.</li>
+<li><strong>MEP upgrades.</strong> Extending HVAC, upgrading the electrical panel, and running plumbing risers to the second floor involves opening main-floor ceilings and walls. Modern <a href="https://canadaconstructionnetwork.com/reports/home-addition-costs-across-canada-2026" rel="nofollow noopener noreferrer" target="_blank">energy-efficiency standards</a> like the BC Step Code and recent Ontario Building Code updates can require whole-home mechanical upgrades, not just extensions.</li>
+<li><strong>Adding an ensuite.</strong> A basic second-floor bathroom can be a significant expense; higher-end finishes may substantially increase costs. Plumbing accounts for a large share of that cost because new supply and waste lines must be routed through the first-floor structure.</li>
+<li><strong>Structural steel and long spans.</strong> Open-concept second floors or additions over garages often require custom steel beams, which add both material and crane costs.</li>
+<li><strong>Finish level.</strong> Economy finishes versus premium finishes can shift the per-square-foot cost by $100 or more.</li>
+</ul>
+<h3>Sample budget scenarios (800–1,200 sq ft second storey, Alberta)</h3>
+<table>
+<thead>
+<tr>
+<th>Cost category</th>
+<th>Economy finish</th>
+<th>Midrange finish</th>
+<th>Premium finish</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MEP upgrades</td>
+<td>$15,000</td>
+<td>$25,000</td>
+<td>$40,000</td>
+</tr>
+<tr>
+<td>Contingency (15–20%)</td>
+<td>$26,000</td>
+<td>$40,000</td>
+<td>$53,000</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note: These are illustrative Alberta ranges. Your actual costs depend on your specific home, municipality, and scope. Get a fixed-price quote from a licensed contractor before committing.</em></p>
+<blockquote>
+<p><strong>Budget callout:</strong> Always carry a contingency of 15–20% on top of your construction estimate. Foundation surprises, hazardous material abatement, and permit delays are common enough that a 10% contingency is rarely sufficient on a second-storey project.</p>
+</blockquote>
+
+<h2>What permits and zoning rules apply to a second storey in Canada?</h2>
+<p><a href="https://www.toronto.ca/services-payments/building-construction/building-permit/before-you-apply-for-a-building-permit/when-do-i-need-a-building-permit/" rel="nofollow noopener noreferrer" target="_blank">Building permits are legally required</a> for second-storey additions in every Canadian municipality. Building without one risks stop-work orders, fines, and costly remediation or forced deconstruction. The permit process is not optional, and it is not something to work around.</p>
+<h3>What the permit package must include</h3>
+<p>Most municipal building departments require:</p>
+<ul>
+<li>Architectural drawings (floor plans, elevations, sections)</li>
+<li><a href="https://www.sepcoengineering.com/residential-structural-engineering/additions-second-storey-additions-structural-design-permit-drawings-toronto-gta/" rel="nofollow noopener noreferrer" target="_blank">Stamped structural calculations and drawings</a> from a licensed professional engineer</li>
+<li>A site plan showing setbacks and lot coverage</li>
+<li>Mechanical, electrical, and plumbing layouts</li>
+<li>Energy compliance documentation where required by provincial code</li>
+</ul>
+<p>The governing technical standards are the National Building Code of Canada and provincial equivalents. In Ontario, that is the Ontario Building Code. In British Columbia, the BC Step Code sets energy performance tiers that increasingly apply to addition projects. Alberta follows the National Building Code with provincial amendments.</p>
+<h3>Zoning checks you must make first</h3>
+<p>Zoning bylaws are frequently the primary blocker for second-storey additions, not construction capability. The key checks are:</p>
+<ul>
+<li><strong>Building height limits.</strong> Many residential zones cap total building height at 8–10 metres. A second storey on a tall bungalow can push you close to or over that limit.</li>
+<li><strong>Angular plane rules.</strong> Some municipalities require the building to step back from the property line as it rises, to limit shadowing on neighbours. This can force a partial second storey or a sloped roofline.</li>
+<li><strong>Lot coverage.</strong> Adding a second storey does not increase lot coverage (footprint), but some municipalities count gross floor area, which does increase.</li>
+<li><strong>Setbacks.</strong> If your existing home is already close to a setback limit, a second storey may trigger additional review.</li>
+</ul>
+<h3>When a minor variance is required</h3>
+<p>If your design exceeds any zoning standard, you need a minor variance from a Committee of Adjustment (or equivalent body in your province). This adds a planning consultant fee, a hearing fee, and typically several months to the timeline. Factor that into your schedule and budget before you fall in love with a design that pushes zoning limits.</p>
+<blockquote>
+<p><strong>Key risk:</strong> Unpermitted second-storey work is not just a fine risk. It creates a title issue that surfaces at sale, can void your home insurance, and may require partial demolition to resolve. The permit process protects you as much as it regulates you.</p>
+</blockquote>
+<blockquote>
+<p><strong>Timeline note:</strong> Permit review for a zoning-compliant second-storey addition typically takes 6–12 weeks in most Canadian municipalities. Projects requiring a Committee of Adjustment hearing can extend the pre-construction phase by several additional months.</p>
+</blockquote>
+
+<h2>Does your foundation actually support a second storey?</h2>
+<p>This is the question that determines whether your project is straightforward or expensive, and you cannot answer it without a licensed structural engineer. No contractor, no architect, and no online calculator can substitute for an engineer’s on-site assessment.</p>
+<h3>What the engineer checks</h3>
+<ul>
+<li><strong>Footing size and condition.</strong> Older homes, particularly bungalows built before the 1970s, often have footings sized only for a single storey. Adding a second storey roughly doubles the load on those footings.</li>
+<li><strong>Soil bearing capacity.</strong> In some Alberta communities, expansive clay soils or poor bearing conditions mean the soil itself cannot support additional load without remediation.</li>
+<li><strong>First-floor load paths.</strong> The engineer traces how loads travel from the new roof down through walls, beams, and columns to the foundation. Gaps in that load path need to be corrected.</li>
+<li><strong>Ceiling and joist adequacy.</strong> Existing ceiling joists are often sized as ceiling members, not floor members. They typically need to be upgraded or sistered to carry the live and dead loads of a second floor.</li>
+</ul>
+<h3>Common reinforcement solutions</h3>
+<ul>
+<li><strong>Underpinning.</strong> Extending existing footings deeper or wider to increase bearing area. This is <a href="https://www.parsways.ca/post/second-storey-addition-structural-design-ontario" rel="nofollow noopener noreferrer" target="_blank">the most common structural remedy</a> for older bungalows and can be the single largest unexpected cost on a project.</li>
+<li><strong>New concrete strip footings.</strong> Where underpinning is not practical, new footings are poured alongside or beneath existing ones.</li>
+<li><strong>Steel beams.</strong> Long spans or open-concept designs often require steel beams to transfer loads to columns and footings.</li>
+<li><strong>Sistered joists and engineered shear walls.</strong> Existing joists are reinforced by sistering new members alongside them. Shear walls resist lateral loads from wind and seismic forces.</li>
+</ul>
+<h3>Partial additions over a garage or wing</h3>
+<p>Adding a second storey only over a garage or a single wing of the house creates concentrated point loads at the transition between the addition and the existing structure. These situations almost always require custom steel work and careful engineering at the connection detail. Do not assume a partial addition is simpler or cheaper than a full second storey until the engineer has reviewed it.</p>
+<p><strong>What to request from your engineer:</strong> a written scope of investigation, confirmation of whether a soil report is needed, stamped drawings and calculations for the permit package, and a schedule for site reviews during construction.</p>
+
+<h2>How long does a second-storey project take, and when do you need to move out?</h2>
+<p>A realistic end-to-end timeline for a second-storey addition in Canada runs 5–14 months from first design meeting to move-in, depending on permit complexity and whether a variance is needed. Zoning-compliant projects typically run 5–9 months; projects requiring a Committee of Adjustment hearing can stretch to 8–14 months or longer.</p>
+<h3>Project milestone timeline</h3>
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Typical duration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Feasibility, structural assessment, zoning check</td>
+<td>2–4 weeks</td>
+</tr>
+<tr>
+<td>Architectural and engineering design</td>
+<td>6–10 weeks</td>
+</tr>
+<tr>
+<td>Permit application and review</td>
+<td>6–12 weeks (add 3–5 months for variance)</td>
+</tr>
+<tr>
+<td>Demolition and roof removal</td>
+<td>1–2 weeks</td>
+</tr>
+<tr>
+<td>Foundation reinforcement (if required)</td>
+<td>2–6 weeks</td>
+</tr>
+<tr>
+<td>Framing, new roof structure</td>
+<td>3–6 weeks</td>
+</tr>
+<tr>
+<td>MEP rough-in (HVAC, electrical, plumbing)</td>
+<td>3–5 weeks</td>
+</tr>
+<tr>
+<td>Insulation, drywall, finishing</td>
+<td>6–10 weeks</td>
+</tr>
+<tr>
+<td>Final inspections and occupancy</td>
+<td>1–2 weeks</td>
+</tr>
+</tbody>
+</table>
+<h3>When you need to vacate</h3>
+<p>Industry guidance is clear: the roof removal and structural tie-in phases are the most intrusive, and most homeowners need to temporarily vacate during these weeks. Once the roof is off, the home is exposed to weather, dust, and noise at a level that makes living there impractical and potentially unsafe. MEP rework, which involves opening main-floor ceilings, is the second most disruptive phase.</p>
+<p>Practical options for temporary accommodation include short-term rentals, staying with family, or phasing the work so bedrooms are relocated to a finished basement or main-floor room while upper-floor work proceeds. Budget for temporary accommodation costs according to your family size and local rental rates, and include this as a line item in your project budget.</p>
+<ul>
+<li>Schedule roof removal and framing in late spring or summer to reduce weather risk and delays.</li>
+<li>Confirm with your contractor exactly which phases require vacating and for how long, in writing, before signing the contract.</li>
+<li>Keep a packed “essentials kit” ready so you can move out quickly if the schedule shifts.</li>
+</ul>
+
+<h2>Design decisions that affect your budget and livability</h2>
+<p>Getting the design right early saves money later. Several decisions made at the drawing stage have outsized effects on cost, timeline, and how well the finished home actually functions.</p>
+<h3>Stair placement</h3>
+<p>Stairs are a high-impact decision that most homeowners underestimate. A code-compliant staircase consumes roughly 80–120 square feet of main-floor footprint, and its placement determines traffic flow through the entire house. Locating stairs in the wrong spot can cut a living room in half or block natural light from a main-floor window. Design the staircase location early, before the rest of the floor plan is locked in, to avoid expensive revisions.</p>
+<h3>Mechanical and electrical upgrades</h3>
+<p>Extending HVAC to a second floor is rarely as simple as adding a duct run. Most existing furnaces are sized for a single storey and lack the capacity to heat or cool additional square footage effectively. Heat pumps are increasingly the preferred solution for second-storey additions because they can be zoned independently and meet current energy code requirements. Electrical panel upgrades are common too: older 100-amp panels rarely have capacity for the additional circuits a second floor requires. Budget for these upgrades as certainties, not contingencies.</p>
+<h3>Envelope and energy performance</h3>
+<p>Provincial energy rules are tightening. The BC Step Code sets tiered performance requirements that increasingly apply to addition projects, and Ontario’s Building Code has been updated to require improved thermal performance on new construction and major additions. In Alberta, the National Building Code amendments set minimum insulation and air-sealing standards. When you open exterior walls and the roof for a second-storey addition, you will likely be required to upgrade insulation and air-sealing to current standards across the affected areas. In some cases, this triggers a whole-home energy review.</p>
+<p><strong>Pro Tip:</strong> <em>Check whether your municipality requires an energy compliance report as part of the permit package. Some Alberta municipalities now require this for major additions. Knowing early lets your designer incorporate it into the drawings rather than retrofitting it after permit submission.</em></p>
+<p>For guidance on <a href="https://theatticgenius.com/why-attic-floors-need-insulation" target="_blank" rel="nofollow noopener noreferrer">attic insulation and air-sealing</a> as part of your envelope upgrade, the transition between the new second floor and the existing structure is a common air-leakage point that needs careful detailing.</p>
+<h3>Common design tradeoffs</h3>
+<ul>
+<li><strong>Roofline integration.</strong> Matching the new roofline to the existing home’s profile affects both aesthetics and drainage. A mismatched roofline can create water management problems at the junction.</li>
+<li><strong>Window placement.</strong> Second-floor windows affect natural light, privacy, and exterior appearance. Placement also affects structural framing costs if windows fall in load-bearing wall locations.</li>
+<li><strong>Exterior cladding.</strong> Matching new cladding to existing materials is harder than it sounds, particularly on older homes where original materials may be discontinued. Budget for a full re-clad if a close match is not available.</li>
+<li><strong>Bathroom placement.</strong> Locating second-floor bathrooms directly above first-floor wet areas (kitchen, existing bathroom) minimises plumbing riser costs significantly.</li>
+</ul>
+
+<h2>Second storey vs. ground-floor addition vs. moving: which makes sense for you?</h2>
+<p>Not every homeowner should build up. The right answer depends on your lot, your budget, your timeline, and what you actually need from the additional space.</p>
+<table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>Second storey (build up)</th>
+<th>Ground-floor addition (build out)</th>
+<th>Moving</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Typical cost</td>
+<td>$150,000–$550,000+</td>
+<td>—</td>
+<td>Transaction costs + price gap</td>
+</tr>
+<tr>
+<td>Timeline/disruption</td>
+<td>5–14 months; vacate during roof/structural phases</td>
+<td>4–10 months; less intrusive to existing living areas</td>
+<td>1–3 months (transaction)</td>
+</tr>
+<tr>
+<td>Structural complexity</td>
+<td>High; foundation and load path review required</td>
+<td>Moderate; new foundation for addition only</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Permit/zoning difficulty</td>
+<td>Moderate to high; height limits, angular plane rules</td>
+<td>Moderate; lot coverage and setback checks</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Square footage gained</td>
+<td>800–1,200 sq ft (full second storey)</td>
+<td>—</td>
+<td>Depends on target home</td>
+</tr>
+<tr>
+<td>Mechanical/energy upgrades</td>
+<td>Significant; full MEP extension required</td>
+<td>Moderate; partial extension</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+<h3>When building up makes the most sense</h3>
+<p>A second-storey addition is the right call when your lot is small or fully built out, you want to preserve your yard, and the neighbourhood supports the investment. Urban Calgary infill lots are a good example: lot coverage is often already at or near the maximum, making a ground-floor addition impossible without a variance. Building up captures significant square footage without touching the yard.</p>
+<h3>When building out is the better choice</h3>
+<p>If your lot has room and your foundation is already undersized, a ground-floor addition avoids the foundation reinforcement cost entirely. Building out is also less invasive to the existing living areas during construction, since the roof stays intact and the main floor is less disrupted.</p>
+<h3>When moving is the smarter financial decision</h3>
+<p>If your foundation requires extensive underpinning, your lot has heritage restrictions, or you need the additional space within six months, moving may be the more practical path. The <a href="https://stateracontracting.com/blog/many-ways-to-skin-a-reno" target="_blank" rel="noopener">renovation vs. moving decision</a> comes down to whether the all-in cost of the addition, including soft costs and contingency, is less than the price gap between your current home and a larger one in the same neighbourhood.</p>
+<p><strong>Decision checklist:</strong></p>
+<ul>
+<li>Does your lot allow a second storey under current zoning? (Check height limits and angular plane rules first.)</li>
+<li>Does your foundation require underpinning? (Get the engineer’s report before deciding.)</li>
+<li>Is the all-in addition cost less than the cost of moving to a larger home nearby?</li>
+<li>Can your family manage 5–14 months of disruption and temporary accommodation?</li>
+<li>Does the neighbourhood support the resale value of a two-storey home?</li>
+</ul>
+
+<h2>How to hire the right contractor for a second-storey project</h2>
+<p>A second-storey addition is one of the most complex residential projects a contractor can take on. Hiring the wrong one is the fastest way to blow your budget, miss your timeline, and end up with unpermitted work.</p>
+<h3>Pre-hire checklist</h3>
+<ul>
+<li>Verify the contractor holds a valid Alberta business licence and general liability insurance (minimum $2 million).</li>
+<li>Confirm Workers’ Compensation Board (WCB) coverage for all workers on site.</li>
+<li>Request a portfolio of completed second-storey additions, with references you can actually call.</li>
+<li>Confirm the contractor has direct experience coordinating with municipal building departments and pulling permits in your municipality.</li>
+<li>Ask whether they work with in-house or preferred structural engineers, and how engineering coordination is managed.</li>
+</ul>
+<h3>Key questions to ask before signing</h3>
+<ul>
+<li>Who pulls the building permit, and whose name goes on it?</li>
+<li>How do you coordinate with the structural engineer during construction?</li>
+<li>What is your change-order process, and how are unforeseen costs handled?</li>
+<li>Is the contract fixed-price or cost-plus? What is included in the fixed price?</li>
+<li>What milestone inspections are scheduled, and who is responsible for booking them?</li>
+<li>What is your warranty on workmanship, and how long does it run?</li>
+</ul>
+<h3>Contract clauses to insist on</h3>
+<ul>
+<li>A detailed scope-of-work schedule listing every deliverable</li>
+<li>Milestone payments tied to completed and inspected phases, not calendar dates</li>
+<li>Clear permit responsibility: who applies, who pays fees, who manages re-submissions</li>
+<li>A written change-order process with cost approval required before work proceeds</li>
+<li>Contingency handling: how unforeseen costs (foundation surprises, hazardous materials) are communicated and approved</li>
+<li>A deficiency list process at substantial completion before final payment is released</li>
+</ul>
+<h3>Red flags to watch for</h3>
+<ul>
+<li>Vague scope of work with no line-item breakdown</li>
+<li>Unwillingness to provide stamped structural drawings or engineer references</li>
+<li>No WCB or liability insurance documentation</li>
+<li>Requesting more than 10–15% upfront before any work begins</li>
+<li>No clear inspection plan or milestone schedule</li>
+<li>Pressure to start before permits are issued</li>
+</ul>
+<p>For a broader look at <a href="https://stateracontracting.com/blog/putting-an-addition-on-a-house-calgary-homeowners-guide" target="_blank" rel="noopener">planning a home addition in Calgary</a>, including permit timelines and what to expect from the municipal process, Statera Contracting’s Calgary addition guide covers the local specifics in detail.</p>
+
+<h2>How Statera Contracting approaches second-storey additions</h2>
+<p>Statera Contracting manages second-storey additions in Calgary and surrounding areas as a complete design-to-delivery process. Here is how we structure it.</p>
+<h3>Our process, phase by phase</h3>
+<ul>
+<li><strong>Feasibility and structural scan.</strong> We start with a site visit and coordinate a licensed structural engineer’s assessment of your foundation, load paths, and first-floor framing. We also run a zoning check against your municipality’s bylaws before any design fees are committed.</li>
+<li><strong>Design and permit preparation.</strong> We work with our architectural and engineering partners to produce a full permit package: architectural drawings, stamped structural calculations, site plan, and mechanical layouts. We manage the permit submission and respond to any municipal comments.</li>
+<li><strong>Staged construction with inspections.</strong> Construction proceeds in phases tied to municipal inspection milestones: foundation/shoring, framing, MEP rough-in, insulation, and final. We book and manage all inspections so nothing is missed.</li>
+<li><strong>Handover and warranty.</strong> At substantial completion, we walk through a deficiency list with you before releasing final payment. Our workmanship warranty covers the completed addition.</li>
+</ul>
+<h3>What we bring to the project</h3>
+<ul>
+<li>Fixed-price line items on scope-defined work, so you know what you are committing to before construction starts</li>
+<li>Licensed trades across all disciplines (framing, roofing, HVAC, electrical, plumbing)</li>
+<li>WCB coverage for all workers on site</li>
+<li>Permit handling from application through final sign-off</li>
+<li>Engineering coordination to reduce delays caused by drawing revisions or municipal comments</li>
+</ul>
+<h3>Sample milestone schedule</h3>
+<table>
+<thead>
+<tr>
+<th>Milestone</th>
+<th>Typical timing from project start</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Feasibility and structural assessment complete</td>
+<td>Week 2–4</td>
+</tr>
+<tr>
+<td>Design sign-off and permit submission</td>
+<td>Week 8–12</td>
+</tr>
+<tr>
+<td>Permit issued</td>
+<td>Week 14 (varies by municipality)</td>
+</tr>
+<tr>
+<td>Roof removal and shoring</td>
+<td>Week 1–2 of construction</td>
+</tr>
+<tr>
+<td>Framing inspection passed</td>
+<td>Week 4–6 of construction</td>
+</tr>
+<tr>
+<td>MEP rough-in inspection passed</td>
+<td>Week 8–10 of construction</td>
+</tr>
+<tr>
+<td>Insulation and drywall</td>
+<td>Week 10–14 of construction</td>
+</tr>
+<tr>
+<td>Final inspection and occupancy</td>
+<td>Week 16 of construction</td>
+</tr>
+</tbody>
+</table>
+<p>If you are weighing a second storey against other <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home addition options in Calgary</a>, we can walk through feasibility for both approaches during an initial consultation.</p>
+
+<h2>Hidden costs and surprises homeowners often miss</h2>
+<p>Even well-planned second-storey projects encounter surprises. The ones below are common enough that you should budget for them before construction starts, not after.</p>
+<h3>The most common budget surprises</h3>
+<ul>
+<li><strong>Asbestos and hazardous material abatement.</strong> Homes built before 1990 often contain asbestos in popcorn ceilings, floor tiles, pipe insulation, or roofing materials. Abatement is mandatory before demolition and can add $5,000–$20,000 or more depending on the extent.</li>
+<li><strong>Knob-and-tube wiring.</strong> Many older Calgary homes still have knob-and-tube wiring. Most insurers will not cover a home with active knob-and-tube, and adding a second storey typically requires a full electrical upgrade.</li>
+<li><strong>Unexpected foundation defects.</strong> Cracks, settlement, or deteriorated footings discovered during construction require immediate remediation. This is why a pre-design engineer’s assessment is so important, but even thorough assessments can miss conditions that only become visible once excavation begins.</li>
+<li><strong>Insurance premium adjustments.</strong> Adding a second storey increases your home’s replacement value, which increases your insurance premium. Notify your insurer before construction begins, not after, to avoid a coverage gap during the project. Premiums typically rise once the addition is complete and the home is re-appraised.</li>
+<li><strong>Scaffolding and temporary weatherproofing.</strong> Once the roof is removed, the home needs temporary weatherproofing (tarps, temporary roofing) to protect the structure during framing. Scaffolding for exterior work adds cost too. Budget $5,000–$15,000 for these temporary works.</li>
+<li><strong>Development charges and Committee of Adjustment fees.</strong> Some municipalities charge development fees for additions that increase gross floor area. A Committee of Adjustment hearing, if required, adds consultant fees and a hearing fee on top of the standard permit cost.</li>
+<li><strong>Inspection re-tests.</strong> If a trade fails a municipal inspection, the re-test adds time and sometimes cost. Build a buffer into your timeline for this.</li>
+</ul>
+<h3>Pre-start checklist</h3>
+<p>Before your contractor breaks ground, confirm the following:</p>
+<ul>
+<li>Structural engineer’s assessment is complete and stamped drawings are in hand</li>
+<li>Zoning check is done and any required variance is approved</li>
+<li>Heritage designation check: some Calgary homes in established neighbourhoods have heritage overlays that restrict exterior changes</li>
+<li>Asbestos and hazardous material survey completed on homes built before 1990 (see <a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">renovating an older home in Alberta</a> for what to watch for)</li>
+<li>Drainage and grading plan reviewed: adding a second storey changes roof drainage volumes</li>
+<li>Temporary accommodation booked for the roof removal and structural phases</li>
+<li>Home insurance provider notified of the project scope and start date</li>
+<li>Financing confirmed and available before construction begins</li>
+</ul>
+<blockquote>
+<p><strong>Contingency guidance:</strong> For a second-storey project with no known foundation issues and a home built after 1990, carry a 15–20% contingency. For a home built before 1980, or one where the engineer has flagged potential foundation concerns, carry 20% or more. The contingency is not a slush fund; it is a risk buffer for the surprises that are statistically likely on this type of project.</p>
+</blockquote>
+
+<h2>Key takeaways</h2>
+<p>Adding a second storey to a house is feasible for most Canadian detached homes, but the project requires a structural engineer’s assessment, a zoning check, and a realistic budget that includes soft costs, mechanical upgrades, and a 15–20% contingency before any design work begins.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Start with engineering and zoning</td>
+<td>Get a licensed structural engineer’s report and a municipal zoning check before spending on architectural design.</td>
+</tr>
+<tr>
+<td>Budget for soft costs separately</td>
+<td>Soft costs (architect, engineer, permits) typically add 10–20% on top of construction costs and must be budgeted as a separate line item.</td>
+</tr>
+<tr>
+<td>Carry a 15–20% contingency</td>
+<td>Foundation surprises, hazardous materials, and permit delays are common enough that a 10% contingency is rarely sufficient.</td>
+</tr>
+<tr>
+<td>Expect 5–14 months end-to-end</td>
+<td>Zoning-compliant projects run 5–9 months; projects needing a Committee of Adjustment hearing can reach 8–14 months or more.</td>
+</tr>
+<tr>
+<td>Statera Contracting manages the full process</td>
+<td>Statera handles feasibility, engineering coordination, permit submission, and fixed-price construction for Calgary-area homeowners.</td>
+</tr>
+</tbody>
+</table>
+
+<h3>What actually makes second-storey projects succeed</h3>
+<p>Most second-storey projects that go sideways do not fail because of bad construction. They fail because the homeowner skipped the structural assessment, fell in love with a design before checking zoning, or hired a contractor who underpriced the job to win the work.</p>
+<p>The pattern we see repeatedly at Statera Contracting is this: a homeowner gets three quotes, picks the lowest one, and then discovers mid-project that the foundation needs underpinning, the electrical panel needs replacing, and the permit package was never properly submitted. By that point, the “savings” from the low quote are gone, and the project is months behind schedule.</p>
+<p>The pragmatic steps that actually protect you are unglamorous: get the engineer’s report first, confirm zoning before designing, and insist on a fixed-price contract with milestone payments tied to inspections. A contractor who resists any of those three things is telling you something important.</p>
+<p>Balancing cost, disruption, and long-term value on a second-storey project means being honest about what your home needs structurally before you commit to what you want aesthetically. The homes that turn out well are the ones where the homeowner understood the full scope going in, not the ones where the budget was set before the foundation was assessed.</p>
+
+<h2>Statera Contracting can take your second-storey project from feasibility to final inspection</h2>
+<p>A second-storey addition is one of the most significant investments you can make in your home, and the difference between a smooth project and a costly one usually comes down to who is managing the process. Statera Contracting delivers second-storey additions in Calgary and surrounding areas with a fixed-price approach that covers feasibility assessment, engineering coordination, permit handling, and full construction management.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>We coordinate the structural engineer, manage the permit submission, and keep the project on a milestone schedule tied to municipal inspections. You get a single point of contact from the first site visit through to final sign-off, with no surprises on scope or cost outside of a documented change-order process. Whether you are adding a full second storey, a partial addition over a garage, or weighing a home addition against other options, we can walk through the feasibility numbers with you before you commit to anything.</p>
+<p>Ready to find out what your home can support and what it will cost? Request a project estimate from Statera Contracting and we will start with a site visit and a straight answer on feasibility.</p>
+
+<h2>Useful sources and further reading for Canadian homeowners</h2>
+<p>These resources are worth bookmarking as you move through the planning process. Always check your specific municipality’s building department website for local permit requirements, as timelines and fees vary.</p>
+<ul>
+<li><strong>National Building Code of Canada</strong> — the governing technical standard for construction across Canada, with provincial amendments applying in each province.</li>
+<li><strong>City of Toronto — When do I need a building permit?</strong> — useful reference for understanding permit triggers, even if you are outside Toronto; most Canadian municipalities follow similar rules.</li>
+<li><strong><a href="http://www.ontario.ca/page/add-second-unit-your-house" rel="nofollow noopener noreferrer" target="_blank">Ontario.ca — Add a second unit in your house</a></strong> — Ontario government guidance on Building Code requirements for second units; relevant for understanding fire separation, egress, and inspection requirements.</li>
+<li><strong>WealthNorth — Cost of a home addition in Canada</strong> — national cost overview with regional breakdowns.</li>
+<li><strong>Canada Construction Network — Home addition costs across Canada</strong> — covers mechanical upgrade requirements and regional cost drivers.</li>
+<li><strong>Sepco Consulting Engineers — Second storey addition structural design</strong> — explains what a full structural engineering package for a second-storey permit submission includes.</li>
+<li><strong>Parsways — Structural design for second storey additions (Ontario)</strong> — practitioner guidance on foundation checks and underpinning requirements.</li>
+<li><strong>Statera Contracting — Home additions Calgary</strong> — Statera’s service page for home additions in Calgary and surrounding areas; starting point for requesting a feasibility consultation.</li>
+<li><strong><a href="https://stateracontracting.com/blog/home-renovation-tax-credit" target="_blank" rel="noopener">Statera Contracting — Home renovation tax credits in Canada</a></strong> — covers financing and tax credit options relevant to major home renovations, including additions.</li>
+<li><strong><a href="https://stateracontracting.com/blog/smart-renovations-for-calgary-homes-2026-guide" target="_blank" rel="noopener">Statera Contracting — Smart renovations for Calgary homes</a></strong> — energy-efficiency standards and renovation planning relevant to mechanical upgrades on second-storey projects.</li>
+</ul>
+<p>Check your local municipality’s building department website early in the planning process. Calgary, Edmonton, and most Alberta municipalities publish permit application guides, fee schedules, and zoning bylaw maps online. Starting there before your first contractor meeting will save you time and help you ask better questions.</p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/putting-an-addition-on-a-house-calgary-homeowners-guide" target="_blank" rel="noopener">Putting an addition on a house: Calgary homeowner’s guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/basement-finishing-calgary" target="_blank" rel="noopener">Basement Finishing Calgary: Full 2026 Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/average-kitchen-size" target="_blank" rel="noopener">Average kitchen size in Canadian homes: 2026 guide | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
