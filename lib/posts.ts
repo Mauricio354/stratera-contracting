@@ -5136,6 +5136,385 @@ export const posts: Post[] = [
       },
     ],
   },
+  {
+    slug: "senior-home-renovation-tax-credit",
+    title: "Senior home renovation tax credit: 2026 guide for Canadians",
+    excerpt:
+      "Canadian seniors and their families have access to two federal tax credits that can reduce the cost of accessibility renovations significantly.",
+    date: "2026-07-31",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785247060550_Senior-couple-reviewing-renovation-tax-credit-documents-at-kitchen-table.jpeg",
+    coverAlt: "Senior home renovation tax credit: 2026 guide for Canadians",
+    category: "Industry News",
+    readingTime: "18 min read",
+    metaTitle: "Senior home renovation tax credit: 2026 guide for Canadians",
+    metaDescription:
+      "Discover how the senior home renovation tax credit can save Canadian seniors thousands on accessibility renovations. Learn more now!",
+    content: [
+      {
+        type: "html",
+        html: `<p>Canadian seniors and their families have access to two federal tax credits that can reduce the cost of accessibility renovations significantly. The Home Accessibility Tax Credit (HATC) lets qualifying individuals claim 15% of up to $20,000 in eligible expenses per year, for a maximum non-refundable credit of $3,000. The Multigenerational Home Renovation Tax Credit (MHRTC) is refundable and covers 14.5% of up to $50,000 in qualifying renovation costs, for a maximum credit of $7,250 per qualifying renovation. Both credits apply nationwide, but provincial programmes add another layer of potential support that varies by where you live.</p>
+<p>Here is what you need to know at a glance:</p>
+<ul>
+<li><strong>HATC</strong> (line 31285): non-refundable, 15% of up to $20,000 eligible expenses = max $3,000 credit per year</li>
+<li><strong>MHRTC</strong> (line 45355): refundable, 14.5% of up to $50,000 qualifying expenditures = max $7,250 per qualifying renovation</li>
+<li><strong>Who qualifies</strong>: seniors aged 65 or older, or individuals eligible for the Disability Tax Credit (DTC); eligible family members may also claim in certain situations</li>
+<li><strong>Provincial programmes</strong>: Alberta, Ontario, British Columbia, Quebec, Manitoba, and New Brunswick each have their own programmes — check your provincial government portal</li>
+</ul>
+<p>Your immediate next steps are to confirm eligibility, collect itemised invoices from your contractor, and decide who will claim the credit on the tax return.</p>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-are-the-federal-senior-home-renovation-tax-credits-and-how-much-can-you-get">What are the federal senior home renovation tax credits and how much can you get?</a></li>
+<li><a href="#what-provincial-programmes-can-supplement-your-federal-credits">What provincial programmes can supplement your federal credits?</a></li>
+<li><a href="#which-renovation-expenses-actually-qualify-for-these-credits">Which renovation expenses actually qualify for these credits?</a></li>
+<li><a href="#how-do-you-claim-these-credits-on-your-tax-return">How do you claim these credits on your tax return?</a></li>
+<li><a href="#how-do-these-credits-interact-with-gsthst-rebates-and-other-programmes">How do these credits interact with GST/HST rebates and other programmes?</a></li>
+<li><a href="#worked-examples-how-much-could-you-actually-save">Worked examples: how much could you actually save?</a></li>
+<li><a href="#contractor-and-project-checklist-how-to-set-up-your-renovation-for-a-clean-cra-claim">Contractor and project checklist: how to set up your renovation for a clean CRA claim</a></li>
+<li><a href="#key-takeaways">Key takeaways</a></li>
+<li><a href="#why-documentation-and-licensed-contractors-matter-more-than-most-guides-admit">Why documentation and licensed contractors matter more than most guides admit</a></li>
+<li><a href="#statera-contracting-makes-senior-accessible-renovations-straightforward-in-calgary">Statera Contracting makes senior-accessible renovations straightforward in Calgary</a></li>
+<li><a href="#official-sources-and-further-reading">Official sources and further reading</a></li>
+</ul>
+<h2>What are the federal senior home renovation tax credits and how much can you get?</h2>
+<p>The HATC and MHRTC are the two primary federal tools for home improvement tax benefits related to accessibility. They have different purposes, different mechanics, and different outcomes on your tax return.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785247059390_Hands-organizing-renovation-invoices-for-tax-credit-claim.jpeg" alt="Hands organizing renovation invoices for tax credit claim" /></p>
+<h3>Home Accessibility Tax Credit (HATC)</h3>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785247558225_Infographic-comparing-HATC-and-MHRTC-tax-credits.jpeg" alt="Infographic comparing HATC and MHRTC tax credits" /></p>
+<p>The HATC is a non-refundable credit, which means it reduces the federal income tax you owe but does not generate a refund if your credit exceeds your tax payable. A qualifying individual can claim up to $20,000 in eligible expenses in a single tax year, and the credit rate is 15%, capping the benefit at $3,000.</p>
+<p><strong>Who is a qualifying individual for HATC?</strong></p>
+<ul>
+<li>A person aged 65 or older at the end of the tax year</li>
+<li>A person who is eligible for the Disability Tax Credit at any point in the year</li>
+<li>A supporting family member who owns or rents the home where a qualifying individual lives and is dependent on them</li>
+</ul>
+<p>There is no income threshold for the HATC. Any qualifying individual or their supporting family member can claim the full credit regardless of income level. The home must be the qualifying individual’s principal residence in Canada.</p>
+<p>One practical flexibility: where multiple eligible claimants exist for the same dwelling, the $20,000 expense limit can be shared among them, but the combined claim cannot exceed $20,000 for that dwelling in a given year.</p>
+<h3>Multigenerational Home Renovation Tax Credit (MHRTC)</h3>
+<p>The MHRTC has a different purpose. It supports families who renovate a home to create a self-contained secondary dwelling unit so that a senior or a DTC-eligible adult can live with a qualifying relative. Unlike the HATC, the MHRTC is refundable, meaning you can receive money back even if you owe no federal income tax. The credit is 14.5% of qualifying expenditures up to a maximum amount per qualifying renovation. Each qualifying renovation is a separate claim, so a family that completes multiple qualifying renovations could potentially claim multiple credits.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785247052066_Multigenerational-family-discussing-basement-renovation-project.jpeg" alt="Multigenerational family discussing basement renovation project" /></p>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>HATC</th>
+<th>MHRTC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Credit type</td>
+<td>Non-refundable</td>
+<td>Refundable</td>
+</tr>
+<tr>
+<td>Eligible expenses maximum</td>
+<td>$20,000 per year</td>
+<td>$50,000 per renovation</td>
+</tr>
+<tr>
+<td>Credit rate</td>
+<td>15%</td>
+<td>14.5%</td>
+</tr>
+<tr>
+<td>Maximum credit</td>
+<td>$3,000</td>
+<td>$7,250 per qualifying renovation</td>
+</tr>
+<tr>
+<td>CRA line number</td>
+<td>31285</td>
+<td>45355</td>
+</tr>
+<tr>
+<td>Schedule required</td>
+<td>None (enter directly)</td>
+<td>Schedule 12</td>
+</tr>
+<tr>
+<td>Purpose</td>
+<td>Accessibility/safety renovations</td>
+<td>Secondary unit for multigenerational living</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pro Tip:</strong> <em>If your renovation creates a secondary suite for a senior parent AND improves accessibility throughout the home, you may be able to claim MHRTC for the suite construction costs and HATC for the accessibility modifications elsewhere in the dwelling — provided the same expense is not claimed under both credits.</em></p>
+<p>For the MHRTC, the renovation period begins when the first qualifying expenditure is made (such as a building permit application) and ends when the renovation is completed, typically confirmed by a final inspection. You claim the credit in the tax year the renovation is completed, even if costs were incurred across multiple years.</p>
+
+<h2>What provincial programmes can supplement your federal credits?</h2>
+<p>Federal credits are consistent from coast to coast, but provincial programmes vary widely in type, eligibility, and benefit amount. Some provinces offer refundable tax credits, others provide grants or forgivable loans, and a few have dedicated programmes specifically for seniors aging in place.</p>
+<blockquote>
+<p>Provincial programmes for senior housing renovation incentives change more frequently than federal credits. Always verify current details directly on your provincial government’s official website before planning a project around a specific grant or credit.</p>
+</blockquote>
+<p>Here is a province-by-province overview of where to look:</p>
+<ul>
+<li><strong>Alberta</strong>: The Residential Access Modification Programme (RAMP) provides grants to low-income Albertans with disabilities or seniors who need home modifications to maintain independence. Check Alberta Seniors and Housing for current eligibility and amounts.</li>
+<li><strong>Ontario</strong>: The Home renovation tax credit for seniors and persons with disabilities is a provincial refundable credit. Ontario also has the Assistive Devices Programme and the Home and Vehicle Modification Programme through the Ministry of Children, Community and Social Services.</li>
+<li><strong>British Columbia</strong>: BC offers the Seniors’ Home Renovation Tax Credit, a refundable provincial credit for eligible seniors. The province also has the Home Adaptations for Independence (HAFI) programme for low-to-moderate income households.</li>
+<li><strong>Quebec</strong>: The RénoVert and LogiRénov programmes have offered provincial support for home renovation in the past; check Revenu Québec for current senior-specific credits and the Société d’habitation du Québec for grants.</li>
+<li><strong>Manitoba</strong>: The Primary Caregiver Tax Credit and the Seniors’ School Tax Rebate are available; check the Manitoba government portal for home modification grants through Manitoba Housing.</li>
+<li><strong>New Brunswick</strong>: The New Brunswick seniors’ home renovation tax credit is a provincial non-refundable credit for eligible seniors.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>When you receive a provincial grant or rebate for renovation work, that amount must be subtracted from the eligible expenses you claim for the HATC or MHRTC. Claiming the full cost when part was reimbursed is one of the most common errors CRA flags on these returns.</em></p>
+<p>An important overlap rule: if a provincial grant covers a portion of your renovation, only the net amount you paid out of pocket qualifies for the federal credit calculation. For example, if your bathroom modification cost $8,000 and a provincial grant covered $2,000, only $6,000 is eligible for the HATC calculation.</p>
+
+<h2>Which renovation expenses actually qualify for these credits?</h2>
+<p>Knowing which specific items CRA considers eligible makes a real difference when you are planning a project and budgeting for it. The HATC defines eligible expenses as permanent renovations integral to the dwelling that improve access, mobility, or reduce the risk of harm.</p>
+<p><strong>Eligible renovation examples:</strong></p>
+<ul>
+<li>Wheelchair ramps and exterior access modifications</li>
+<li>Walk-in bathtubs and wheel-in showers</li>
+<li>Grab bars, handrails, and support rails in bathrooms and hallways</li>
+<li>Widening doorways and hallways for wheelchair or walker access</li>
+<li>Stair lifts and vertical platform lifts</li>
+<li>Non-slip flooring materials installed permanently</li>
+<li>Lowered countertops and accessible kitchen modifications</li>
+<li>Lever-style door handles and accessible light switches</li>
+<li>Automatic door openers</li>
+</ul>
+<p><strong>Commonly ineligible items:</strong></p>
+<ul>
+<li>Household appliances (refrigerators, stoves, dishwashers)</li>
+<li>Routine maintenance and repairs (painting, cleaning, general upkeep)</li>
+<li>Financing costs and interest on renovation loans</li>
+<li>Entertainment systems and home theatre equipment</li>
+<li>Landscaping and outdoor work not directly related to access</li>
+<li>Work done primarily to increase property value rather than improve accessibility</li>
+</ul>
+<p>The key test CRA applies is “enduring nature”: the modification must be permanently integrated into the dwelling, not a portable or temporary aid. A grab bar bolted into the wall qualifies. A freestanding shower chair does not. A stair lift installed on a permanent track qualifies. A temporary ramp that can be removed without any structural change is a grey area and should be discussed with a tax professional before claiming.</p>
+<p>For MHRTC, the eligible expenses relate specifically to creating a self-contained secondary unit, including construction, plumbing, electrical, and finishing work. The unit must be a separate dwelling with its own kitchen, bathroom, and sleeping area.</p>
+<p><strong>Pro Tip:</strong> <em>Ask your contractor to provide a line-itemised invoice that separates labour from materials, lists each item with a brief description of its accessibility purpose, and includes the contractor’s GST/HST registration number. This single step resolves most CRA documentation questions before they arise. Statera Contracting’s team provides this format as standard on all senior-accessible renovation projects.</em></p>
+
+<h2>How do you claim these credits on your tax return?</h2>
+<p>Claiming the HATC is straightforward. You enter the eligible expenses on line 31285 of your federal income tax return. No separate schedule is required. The credit is calculated automatically at 15% of the amount you enter, up to the $20,000 maximum.</p>
+<p>The MHRTC requires more documentation. You complete Schedule 12 to report your qualifying expenditures and calculate the credit, then carry the result to line 45355 on your return. For 2024 and later tax years, this process applies.</p>
+<p><strong>When to claim:</strong></p>
+<ul>
+<li><strong>HATC</strong>: claim in the tax year the eligible expense was incurred</li>
+<li><strong>MHRTC</strong>: claim in the tax year the qualifying renovation is completed, even if costs were spread across multiple years</li>
+</ul>
+<p><strong>Documents CRA expects you to keep:</strong></p>
+<ul>
+<li>Itemised invoices and receipts for all work</li>
+<li>Contractor’s business name and address</li>
+<li>GST/HST registration number (if applicable)</li>
+<li>Dates of work performed</li>
+<li>Description of each item or service</li>
+<li>Proof of payment (bank statement, credit card statement, cancelled cheque, e-transfer confirmation)</li>
+<li>Building permits and inspection records for MHRTC claims</li>
+<li>For condominiums: a signed statement from the corporation confirming the work and cost allocation</li>
+</ul>
+<blockquote>
+<p>Keep all renovation receipts and supporting documents for at least six years from the date you file the return claiming the credit. CRA can request documentation for any return filed within that window, and missing invoices are the most common reason claims are denied or reduced.</p>
+</blockquote>
+<p><strong>Step-by-step claim process:</strong></p>
+<ol>
+<li>Confirm the qualifying individual’s eligibility (age 65+ or DTC-eligible) before the renovation begins</li>
+<li>Collect all invoices during the project — do not wait until tax time</li>
+<li>Subtract any provincial grants or GST/HST rebates received from the total eligible expenses</li>
+<li>For HATC: enter the net eligible amount on line 31285; for MHRTC: complete Schedule 12 and enter the result on line 45355</li>
+<li>If multiple family members are sharing the HATC claim, coordinate so the combined amount does not exceed $20,000 for the dwelling</li>
+<li>File your return and retain all supporting documents</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Claim</th>
+<th>Line number</th>
+<th>Schedule</th>
+<th>Credit type</th>
+<th>Timing</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HATC</td>
+<td>31285</td>
+<td>None required</td>
+<td>Non-refundable</td>
+<td>Year expense incurred</td>
+</tr>
+<tr>
+<td>MHRTC</td>
+<td>45355</td>
+<td>Schedule 12</td>
+<td>Refundable</td>
+<td>Year renovation completed</td>
+</tr>
+</tbody>
+</table>
+<p>A supporting family member can <a href="https://www.aklerbrowning.com/aging-in-place-benefitting-from-the-home-accessibility-tax-credit/" rel="nofollow noopener noreferrer" target="_blank">claim eligible HATC expenses</a> on behalf of a qualifying individual when that person lives with and is dependent on the family member who owns or rents the home. This is particularly relevant for adult children who own the home where an elderly parent lives.</p>
+
+<h2>How do these credits interact with GST/HST rebates and other programmes?</h2>
+<p>The core rule is straightforward: you cannot claim the same dollar twice. If any portion of your renovation cost was reimbursed by a grant, rebate, or insurance payment, that portion must be deducted from your eligible expenses before calculating the federal credit.</p>
+<p>The GST/HST New Housing Rebate and the Substantial Renovation Rebate are the most common rebates that interact with these credits. If you receive a GST/HST rebate on renovation work, the rebated amount must be subtracted from your qualifying expenditures for MHRTC purposes.</p>
+<p><strong>Non-duplication rules to follow:</strong></p>
+<ul>
+<li>The same expense cannot be claimed under both HATC and MHRTC</li>
+<li>An expense claimed as a medical expense on your return generally cannot also be claimed for HATC (check with a tax professional for your specific situation)</li>
+<li>Provincial grants reduce the eligible base for federal credits dollar-for-dollar</li>
+</ul>
+<p><strong>Practical tracking checklist:</strong></p>
+<ul>
+<li>Create a simple spreadsheet with columns for: expense description, total cost, grant/rebate received, net claimable amount, and which credit it applies to</li>
+<li>Flag each invoice as HATC-eligible, MHRTC-eligible, or reimbursed</li>
+<li>Keep grant award letters alongside renovation invoices so the deduction is clearly documented</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>If your project involves both a secondary suite (MHRTC) and accessibility modifications throughout the home (HATC), ask your contractor to invoice these as separate line items or even separate invoices. Mixing them on a single invoice makes it harder to allocate costs correctly and can slow down a CRA review.</em></p>
+
+<h2>Worked examples: how much could you actually save?</h2>
+<p>These three scenarios use the confirmed CRA credit rates to show realistic outcomes. All figures are based on net eligible expenses after any reimbursements.</p>
+<p><strong>Scenario 1 — Small accessibility upgrade (HATC)</strong>
+A senior installs grab bars, a handrail, and a non-slip shower floor. Total eligible cost: $4,000.
+HATC credit: $4,000 × 15% = <strong>$600</strong> (reduces federal tax owing by $600).</p>
+<p><strong>Scenario 2 — Larger bathroom renovation (HATC at maximum)</strong>
+A senior converts a standard bathroom to a fully accessible walk-in shower with widened doorway and lever hardware. Total eligible cost: $20,000.
+HATC credit: $20,000 × 15% = <strong>$3,000</strong> (maximum credit for the year).</p>
+<p><strong>Scenario 3 — Multigenerational suite addition (MHRTC)</strong>
+A family builds a self-contained secondary suite for a senior parent. Total qualifying expenditures: $40,000. No provincial grant received.
+MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid out even if no tax is owed).</p>
+<table>
+<thead>
+<tr>
+<th>Scenario</th>
+<th>Eligible expenses</th>
+<th>Credit rate</th>
+<th>Credit amount</th>
+<th>Refundable?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Small accessibility upgrade</td>
+<td>$4,000</td>
+<td>15% (HATC)</td>
+<td>$600</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Full accessible bathroom</td>
+<td>$20,000</td>
+<td>15% (HATC)</td>
+<td>$3,000</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Multigenerational suite</td>
+<td>$40,000</td>
+<td>14.5% (MHRTC)</td>
+<td>$5,800</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p>The refundable nature of the MHRTC is significant for seniors on fixed incomes who may owe little or no federal tax. A $5,800 refundable credit means a $5,800 cheque from CRA, regardless of tax payable.</p>
+
+<h2>Contractor and project checklist: how to set up your renovation for a clean CRA claim</h2>
+<p>Getting the documentation right before the first nail goes in is far easier than reconstructing it after the fact. Here is how to organise a project so the claim is straightforward.</p>
+<p><strong>Before the renovation starts:</strong></p>
+<ol>
+<li>Confirm the qualifying individual’s eligibility in writing (age, DTC status if applicable)</li>
+<li>Create a scope document that lists each planned item and its accessibility purpose (e.g., “widen bathroom doorway to 36 inches for wheelchair access”)</li>
+<li>Verify your contractor has a valid GST/HST registration number and can provide it on invoices</li>
+<li>Apply for any required building permits — the permit date establishes the start of the MHRTC renovation period</li>
+</ol>
+<p><strong>During the work:</strong></p>
+<ul>
+<li>Request invoices that separate labour and materials as distinct line items</li>
+<li>Confirm each invoice includes: contractor’s full business name and address, GST/HST registration number, work dates, and a description of each item</li>
+<li>Keep a project log noting dates, what was completed, and any change orders</li>
+</ul>
+<p><strong>At completion:</strong></p>
+<ul>
+<li>Obtain the final inspection record or occupancy permit for MHRTC projects</li>
+<li>Collect all invoices, receipts, and proof of payment in one folder (physical or digital)</li>
+<li>Note the completion date — this is the tax year you will claim MHRTC</li>
+</ul>
+<blockquote>
+<p>For MHRTC claims, the building permit application date is the official start of the renovation period and the final inspection date is the official end. Both documents belong in your claim file. Missing either one can delay or complicate a CRA review.</p>
+</blockquote>
+<p><strong>Pro Tip:</strong> <em>Statera Contracting organises all project documentation — permits, inspection records, and itemised invoices — into a client file at project close. If you are planning a senior-accessible renovation in Calgary, ask us about our documentation package so you have everything CRA expects, ready to hand to your accountant.</em></p>
+<p>Prefer traceable payment methods throughout the project: cheque, e-transfer, or credit card. Cash payments are harder to verify and create unnecessary risk if CRA requests proof. Keep contracts, change orders, and the final sign-off document alongside your invoices.</p>
+<p>For phased projects where work spans two calendar years, coordinate with your contractor on which items fall in which tax year. For HATC, each year’s expenses are claimed in that year. For MHRTC, all costs are claimed in the year the renovation is completed, so the timing of the final inspection matters.</p>
+
+<h2>Key takeaways</h2>
+<p>The HATC and MHRTC together offer Canadian seniors and their families combined federal tax credits on qualifying renovation work, with the MHRTC’s refundable nature making it especially valuable for those on fixed incomes.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HATC is non-refundable, up to $3,000</td>
+<td>Claim 15% of up to $20,000 in eligible accessibility expenses on line 31285 each tax year.</td>
+</tr>
+<tr>
+<td>MHRTC is refundable, up to $7,250 per qualifying renovation</td>
+<td>Claim 14.5% of up to $50,000 in qualifying multigenerational suite costs on line 45355 using Schedule 12.</td>
+</tr>
+<tr>
+<td>Subtract reimbursements first</td>
+<td>Deduct any provincial grants or GST/HST rebates from eligible expenses before calculating either credit.</td>
+</tr>
+<tr>
+<td>Documentation is the deciding factor</td>
+<td>Keep itemised invoices with contractor GST/HST numbers, work dates, and proof of payment for at least six years.</td>
+</tr>
+<tr>
+<td>Statera Contracting supports your claim</td>
+<td>Statera provides itemised invoices, permit handling, and a complete documentation package for senior-accessible renovations in Calgary.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>Why documentation and licensed contractors matter more than most guides admit</h2>
+<p>Most articles about tax credits for home upgrades focus on the numbers and stop there. The credit rates and maximums are important, but they are only half the picture. The other half is whether CRA accepts your claim when they review it.</p>
+<p>From our experience working on senior-accessible renovations in Calgary, the claims that run into trouble almost always share the same problem: vague or incomplete invoices. A receipt that says “bathroom renovation — $12,000” tells CRA nothing about whether the work was permanent, accessibility-related, or even completed in the right tax year. An invoice that lists “installation of 36-inch accessible doorway, grab bar installation at tub and toilet, wheel-in shower construction with non-slip tile” tells a clear story that maps directly to the CRA eligibility criteria.</p>
+<p>Licensed contractors matter for a second reason beyond quality of work. A contractor with a valid GST/HST registration number, a business address, and a proper invoicing system gives your claim credibility. CRA’s documentation requirements exist precisely because unlicensed cash work is common in renovation, and the agency knows it. When your invoice looks professional and complete, it signals that the work was done properly and the claim is legitimate.</p>
+<p>Permits are worth the extra step, especially for MHRTC claims. The permit application date anchors the start of your renovation period, and the final inspection date closes it. Without those two documents, the renovation period is undefined, and CRA has grounds to question the claim year. For accessibility modifications that do not require a permit under Alberta building code, keep photos, dated delivery receipts for materials, and contractor progress notes instead.</p>
+<p>Our recommendation: treat the documentation for a renovation tax claim the same way you would treat documentation for a business expense. Organised, complete, and kept for six years.</p>
+
+<h2>Statera Contracting makes senior-accessible renovations straightforward in Calgary</h2>
+<p>Accessible bathroom renovations, ramp installations, door widening, and multigenerational suite additions are among the most common projects we complete for Calgary seniors and their families. What sets Statera Contracting apart for these projects is not just the quality of the work — it is how we handle the paperwork that supports your tax claim.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Every senior-accessible project we complete includes itemised invoices that separate labour and materials, list each accessibility modification with a clear description, and carry our GST/HST registration number and business details. We handle permit applications and coordinate final inspections, so the documentation CRA expects for an MHRTC claim is in your hands at project close. Whether you are planning an <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">accessible bathroom renovation</a> or a full <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">secondary suite addition</a> for a senior family member, we cover Calgary and surrounding areas with fixed-price contracts and no surprises.</p>
+<p>Contact Statera Contracting today to request a consultation and get a detailed estimate for your senior-accessible renovation project.</p>
+
+<h2>Official sources and further reading</h2>
+<p>The rules for these credits are set by CRA and updated periodically. Always verify current programme details directly from official sources before filing.</p>
+<p><strong>Federal CRA pages:</strong></p>
+<ul>
+<li>Home Accessibility Tax Credit (HATC) — line 31285: eligibility, eligible expenses, and how to claim</li>
+<li>Multigenerational Home Renovation Tax Credit (MHRTC) — line 45355: overview, eligibility, and credit rate</li>
+<li>MHRTC — how to claim: Schedule 12, renovation period rules, and filing guidance</li>
+<li>MHRTC — expenses you can claim: qualifying expenditures and reimbursement rules</li>
+<li>Provincial credits and grants — Canada.ca: links to provincial programmes including Ontario and New Brunswick senior renovation credits</li>
+</ul>
+<p><strong>Statera Contracting resources:</strong></p>
+<ul>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodeling-for-seniors-a-safety-first-guide" target="_blank" rel="noopener">Bathroom remodelling for seniors: a safety-first guide</a>: practical guidance on eligible bathroom modifications</li>
+<li><a href="https://stateracontracting.com/blog/home-renovation-tax-credit" target="_blank" rel="noopener">Home renovation tax credit in Canada</a>: broader overview of federal and provincial credits</li>
+<li><a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">Renovating an older home: what Alberta homeowners need to know</a>: Alberta-specific permit and renovation considerations</li>
+</ul>
+<p>Provincial programme pages change regularly. For Alberta RAMP, Ontario’s senior renovation credits, BC’s Home Adaptations for Independence programme, and programmes in Quebec, Manitoba, and New Brunswick, go directly to each province’s official government website and search for “senior home modification” or “home accessibility grant.” Keep a printed or saved copy of the programme page you relied on when planning your project, alongside your renovation invoices, in case eligibility rules change after you file.</p>
+<p><em>This article provides general information about federal and provincial tax credits and is not tax or legal advice. Confirm current rules and your specific eligibility with CRA or a qualified tax professional before filing.</em></p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/home-renovation-tax-credit" target="_blank" rel="noopener">Home renovation tax credit in Canada: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/smart-renovations-for-calgary-homes-2026-guide" target="_blank" rel="noopener">Smart renovations for Calgary homes: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">Renovating an older home: what Alberta homeowners need to know | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
