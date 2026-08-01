@@ -5515,6 +5515,313 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "window-replacement-cost-calgary",
+    title: "Window replacement cost Calgary: what homeowners should budget",
+    excerpt:
+      "Expect to pay a moderate price per window installed for a standard vinyl replacement in Calgary, with full-house projects typically costing $22,000–$45,000 depending on size, glazing spec, and installation method.",
+    date: "2026-07-30",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785422096086_Man-measuring-window-frame-outside-Calgary-home.jpeg",
+    coverAlt: "Window replacement cost Calgary: what homeowners should budget",
+    category: "Industry News",
+    readingTime: "13 min read",
+    metaTitle: "Window replacement cost Calgary: what homeowners should budget",
+    metaDescription:
+      "Discover the average window replacement cost in Calgary. Budget effectively for your project with our comprehensive guide and tips!",
+    content: [
+      {
+        type: "html",
+        html: `<p>Expect to pay <strong>a moderate price per window installed</strong> for a standard vinyl replacement in Calgary, with <a href="https://canadaconstructionnetwork.com/reports/window-replacement-costs-across-canada-2026" rel="nofollow noopener noreferrer" target="_blank">full-house projects</a> typically costing $22,000–$45,000 depending on size, glazing spec, and installation method. A small three-window refresh typically runs moderately low cost; a whole-home replacement on a typical Calgary bungalow (12–16 windows) is generally $22,000–$45,000 fully installed, with installation method and glazing spec as the main factors. Your best first step is to request an in-home estimate with a written, itemised scope before committing to anything.</p>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#how-much-does-window-replacement-cost-in-calgary">How much does window replacement cost in Calgary?</a></li>
+<li><a href="#what-drives-the-final-price-in-calgary-specifically">What drives the final price in Calgary specifically?</a></li>
+<li><a href="#sample-calgary-project-budgets-what-to-expect-at-three-scales">Sample Calgary project budgets: what to expect at three scales</a></li>
+<li><a href="#local-service-models-what-to-expect-when-you-call-around">Local service models: what to expect when you call around</a></li>
+<li><a href="#how-to-choose-the-right-contractor-questions-and-red-flags">How to choose the right contractor: questions and red flags</a></li>
+<li><a href="#rebates-financing-and-permit-notes-for-calgary-homeowners">Rebates, financing, and permit notes for Calgary homeowners</a></li>
+<li><a href="#is-it-worth-replacing-20-year-old-windows-and-when-should-you-do-it">Is it worth replacing 20-year-old windows? And when should you do it?</a></li>
+<li><a href="#calgary-window-replacement-contractors-a-local-shortlist">Calgary window replacement contractors: a local shortlist</a></li>
+<li><a href="#estimated-total-costs-for-calgary-labour-materials-and-ancillary-charges">Estimated total costs for Calgary: labour, materials, and ancillary charges</a></li>
+<li><a href="#key-takeaways">Key takeaways</a></li>
+<li><a href="#statera-contracting-handles-the-full-scope-not-just-the-windows">Statera Contracting handles the full scope, not just the windows</a></li>
+</ul>
+<h2>How much does window replacement cost in Calgary?</h2>
+<p>Per-window installed price varies more by installation method and glazing spec than by brand. Here are realistic ranges for the most common types:</p>
+<ul>
+<li><strong>Casement windows:</strong> $650–$1,400 installed. Casements seal tightly and handle Calgary’s wind pressure well.</li>
+<li><strong>Double-hung / single-hung:</strong> $500–$1,100 installed. The most common retrofit choice for standard openings.</li>
+<li><strong>Slider windows:</strong> $450–$950 installed. Lower cost but slightly less airtight than casements.</li>
+<li><strong>Picture windows (fixed):</strong> $400–$900 installed. No moving parts, so labour is simpler.</li>
+</ul>
+<p><strong>By material:</strong></p>
+<ul>
+<li><strong>Vinyl:</strong> $500–$1,200 installed. Lowest maintenance, most popular in Calgary.</li>
+<li><strong>Fibreglass:</strong> $900–$2,000 installed. Better dimensional stability through Chinook temperature swings.</li>
+<li><strong>Wood:</strong> $1,200–$3,000+ installed. Premium look, higher upkeep, less common in new replacements.</li>
+</ul>
+<p><strong>Retrofit (insert) vs. full-frame replacement</strong> is where quotes diverge sharply. A retrofit insert drops into the existing frame opening, keeping trim intact and costing less. Full-frame removal includes the entire assembly replacement and can add a significant premium for structural work and finishing. The same window model can cost substantially more when a full-frame replacement and exterior capping are required.</p>
+<p><strong>Pro Tip:</strong> <em>Ask for an itemised quote that lists the window unit, installation labour, exterior capping, polyurethane caulking, interior trim, and disposal separately. A quote that bundles everything into one line makes it impossible to compare fairly.</em></p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785422471697_Infographic-showing-Calgary-window-replacement-cost-ranges.jpeg" alt="Infographic showing Calgary window replacement cost ranges" /></p>
+
+<h2>What drives the final price in Calgary specifically?</h2>
+<p>Calgary’s climate creates a higher cost floor than most Canadian cities. The <a href="https://www.calgary.ca/development/alberta-energy-code-houses-small-buildings.html" rel="nofollow noopener noreferrer" target="_blank">Alberta Building Code</a> mandates specific thermal performance standards, and the City’s own guidance reflects climate-driven performance expectations that exceed national minimums. Triple-pane, argon-filled windows have become the practical baseline for Calgary homes rather than a premium upgrade, because double-pane units that perform acceptably in milder provinces can fail prematurely under Calgary’s thermal cycling and Chinook effects.</p>
+<p>Other cost drivers to know:</p>
+<ul>
+<li><strong>Custom or non-standard sizes:</strong> add $150–$400 per opening for custom manufacturing.</li>
+<li><strong>Structural repairs:</strong> rot, water damage, or out-of-square framing discovered during removal can add $500–$2,000+ to a single opening.</li>
+<li><strong>Trim and finishing:</strong> interior casing and exterior capping are often quoted separately; budget $100–$300 per window.</li>
+<li><strong>Access and scaffolding:</strong> upper-storey windows on two-storey homes add $200–$600 per window for safe staging.</li>
+</ul>
+<blockquote>
+<p><strong>Hidden structural repairs are one of the most common causes of budget overruns.</strong> The City of Calgary’s climate-ready guidance emphasises early intervention on failing seals and frames precisely because moisture infiltration spreads quickly into wall assemblies, turning a $1,000 window job into a $4,000 framing repair.</p>
+</blockquote>
+<p><strong>On timing:</strong> manufacturing lead times for custom or triple-pane units usually take several weeks. Most single windows take a few hours to install; a full-house project can take several days. Winter installations require special conditions that can add a notable surcharge to large projects.</p>
+
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785422101747_Factory-worker-inspecting-custom-window-units.jpeg" alt="Factory worker inspecting custom window units" /></p>
+<h2>Sample Calgary project budgets: what to expect at three scales</h2>
+<p><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Budget planning</a> works best when you model your actual scenario. These ranges reflect installed costs including labour, materials, trim, and disposal, based on Calgary market data.</p>
+<table>
+<thead>
+<tr>
+<th>Project scenario</th>
+<th>Windows</th>
+<th>Low estimate</th>
+<th>High estimate</th>
+<th>Suggested contingency</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kitchen/bedroom refresh (vinyl retrofit) for a few windows typically costs a moderate amount</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>10%</td>
+</tr>
+<tr>
+<td>Front-of-house replacement (mid-spec) for several windows involves a mid-level budget range</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Full bungalow (triple-pane, full-frame) replacement with many windows requires a significant investment</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p>The contingency covers structural surprises, trim upgrades, and permit fees ($165–$440 in Calgary). For phased projects, many suppliers offer financing: common structures include 0% interest for 12 months or deferred payment into the following year. Ask what the APR becomes after the promotional period ends.</p>
+
+<h2>Local service models: what to expect when you call around</h2>
+<p>Calgary’s window market includes several distinct service models. Knowing which type you are dealing with helps you ask the right questions.</p>
+<table>
+<thead>
+<tr>
+<th>Service model</th>
+<th>Typical installed price</th>
+<th>Best for</th>
+<th>Common warranty</th>
+<th>Financing typical?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Local manufacturer + installer</td>
+<td>$450–$2,000/window</td>
+<td>Energy efficiency, custom shapes, warranty depth</td>
+<td>25 years to lifetime</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Regional installer (third-party product)</td>
+<td>$500–$1,400/window</td>
+<td>Budget, standard sizes</td>
+<td>5–10 years (product) + labour</td>
+<td>Sometimes</td>
+</tr>
+<tr>
+<td>Repair specialist (seal/unit only)</td>
+<td>$150–$750/unit</td>
+<td>Foggy panes, single failed seals</td>
+<td>1–5 years on repair</td>
+<td>Rarely</td>
+</tr>
+<tr>
+<td>Family-owned shop</td>
+<td>$600–$1,500/window</td>
+<td>Personalised service, local accountability</td>
+<td>Varies widely</td>
+<td>Sometimes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Buyer tip:</strong> shortlist two or three firms by warranty length and whether financing is available, not by brand name. A 25-year transferable warranty and a written labour guarantee matter more to resale value than any logo.</p>
+
+<h2>How to choose the right contractor: questions and red flags</h2>
+<p>Treat window replacement as a small construction project. The contractor you hire controls installation quality, and a poor install voids most product warranties.</p>
+<p><strong>Verifiable proofs to request before signing:</strong></p>
+<ul>
+<li>Valid Alberta business licence and liability insurance certificate</li>
+<li>WCB (Workers’ Compensation Board) clearance letter</li>
+<li>Sample written contract with itemised scope</li>
+<li>Warranty document in writing (product and labour, separately)</li>
+<li>ENERGY STAR® certification and NAFS-22 test results for the specific product</li>
+</ul>
+<p><strong>Questions to ask at the estimate:</strong></p>
+<ol>
+<li>Is this a retrofit insert or full-frame replacement, and why?</li>
+<li>Who does the interior finishing and exterior capping — your crew or a subcontractor?</li>
+<li>What is the manufacturing lead time for this specific product?</li>
+<li>What does the warranty cover, and is it transferable to a future buyer?</li>
+<li>If work is scheduled in winter, what cold-weather protocol do you follow?</li>
+</ol>
+<p><strong>Red flags that should stop the hire:</strong></p>
+<ul>
+<li>No written scope or a scope that says “supply and install windows” with no further detail</li>
+<li>Warranty described verbally only, with no document provided</li>
+<li>Demand for full payment before work begins</li>
+<li>No WCB clearance or proof of liability insurance on request</li>
+<li>Pressure to sign the same day without time to review the contract</li>
+</ul>
+
+<h2>Rebates, financing, and permit notes for Calgary homeowners</h2>
+<p><strong>Rebates worth checking:</strong></p>
+<ul>
+<li>The <strong>Canada Greener Homes Grant</strong> has provided up to $5,000 for eligible energy-efficiency retrofits, including windows meeting ENERGY STAR® Most Efficient criteria. Confirm current program status at nrcan.gc.ca before budgeting.</li>
+<li>Some manufacturers offer their own rebate calculators; ask for a rebate estimate at the time of quoting.</li>
+<li>Alberta has no provincial sales tax (PST), which reduces your effective cost compared with most other provinces.</li>
+</ul>
+<p><strong>Financing:</strong></p>
+<ul>
+<li>Common structures: $0 down, 0% interest for 6–12 months; deferred payment programmes (e.g., pay in 2027).</li>
+<li>Always ask: what is the standard APR after the promotional period, and are there administration fees?</li>
+</ul>
+<p><strong>Permits:</strong></p>
+<ul>
+<li>A like-for-like window replacement in the same opening generally does not require a building permit in Calgary.</li>
+<li>Changing the size of an opening, adding an egress window, or altering structural framing does trigger a permit. Egress window installations in Alberta show significant cost variation depending on the project specifics.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>When a vendor provides your quote, ask them to include a written rebate estimate alongside it. Reputable suppliers know which products qualify and can document the expected rebate amount before you commit.</em></p>
+
+<h2>Is it worth replacing 20-year-old windows? And when should you do it?</h2>
+<p><strong>Are 20-year-old windows worth replacing?</strong> Usually yes. Windows from the early 2000s typically use double-pane units with air fill rather than argon, and their seals degrade over time. Failed seals cause condensation between panes, reduced thermal performance, and eventually moisture infiltration into the wall assembly. Replacing them before moisture spreads prevents the kind of structural repair that can cost several times the window price itself.</p>
+<p><strong>Replace all at once or in phases?</strong></p>
+<ul>
+<li><strong>All at once:</strong> lower per-unit cost (some suppliers offer up to 20% off on 10+ window projects), single mobilisation, consistent spec throughout the house.</li>
+<li><strong>Phased:</strong> lower upfront spend, but you pay mobilisation costs multiple times and risk mismatched performance between old and new units.</li>
+</ul>
+<p>For most Calgary homeowners, replacing all windows in a single project is more cost-effective if the budget allows. If it does not, prioritise north- and west-facing windows first, as they take the most thermal stress.</p>
+<p><strong>Cheapest time to buy and install:</strong></p>
+<p>Late summer through early autumn (August–October) tends to offer the best combination of lead time, installer availability, and promotional pricing. Spring is busy and lead times stretch. Winter installs are possible but carry the cold-weather surcharge noted above.</p>
+<blockquote>
+<p><strong>ROI note:</strong> Calgary market data puts the return on investment for window replacement at resale at 70–80%. Energy savings on heating costs add to the long-term payback, particularly with triple-pane argon units replacing failed double-pane originals.</p>
+</blockquote>
+
+<h3>How these cost estimates were produced</h3>
+<p>The ranges in this article draw on Calgary-specific market data, Alberta Building Code requirements, municipal energy guidance, and published industry cost analyses. Calgary’s local cost index runs approximately 10% above the Canadian average, reflecting climate performance requirements and winter logistics. Budget a contingency of 10–20% on top of any quoted price to cover structural discoveries and finishing details that quotes frequently exclude.</p>
+
+<h2>Calgary window replacement contractors: a local shortlist</h2>
+<p>The following firms serve Calgary homeowners directly. Contact details and profiles are drawn from publicly available business listings.</p>
+<p><strong>Ecoline Windows</strong> manufactures ENERGY STAR® rated, NAFS-22 tested windows and offers an online price calculator and rebate calculator. They provide financing including a pay-in-2027 programme. Google rating: 4.9.</p>
+<p><strong>Window Mart Calgary</strong> supplies and installs vinyl windows and doors from Canadian manufacturers. BBB Accredited with an A+ rating; financing available at $0 down and 0% interest for 12 months, with up to 25% off promotional pricing.</p>
+<p><strong>GreenFox Windows &amp; Doors</strong> manufactures and installs Canadian-made windows with a 25-year warranty, Window Wise Certification, Best of HomeStars Calgary Award, and Consumer Choice Award. Free estimates available.</p>
+<p><strong>Canadian Choice Windows and Doors</strong> manufactures and installs energy-efficient windows with a 25-year transferable warranty. Bryan Baeumler Recommended. Promotions include 50% off installation and no payment/no interest for 6 months.</p>
+<p><strong>Window Seal West</strong> is a local Calgary manufacturer and installer with ENERGY STAR® rated products, BBB Accreditation, and a Google 5-star rating. Window replacement prices vary starting from a base cost depending on style.; financing available.</p>
+<p><strong>Go-Green Windows &amp; Doors Ltd.</strong> is a family-owned Calgary specialist offering both repair (foggy window repair from $150–$275; sealed unit replacement $350–$750) and full replacement ($1,500+). A+ BBB Accredited, 25-year window warranty, 10-year labour guarantee.</p>
+<p><strong>Royal View Windows &amp; Exteriors</strong> has served Calgary since 1985, offering lifetime warranties, BBB A+ rating, and HomeStars Winner recognition for five consecutive years. Various discounts and $0 down financing options are commonly offered by suppliers.</p>
+<p><strong>Lux Windows &amp; Glass Ltd.</strong> manufactures locally in Calgary. Products are commonly specified in the $1,300–$2,100 per opening installed range for the local market.</p>
+<p><strong>Western Windows</strong> serves the Calgary market with supply and installation of residential windows and doors.</p>
+<p><strong>Window Replacement Calgary / Best Solution Windows &amp; Doors</strong> offers window replacement and installation services in Calgary with free estimates.</p>
+
+<h2>Estimated total costs for Calgary: labour, materials, and ancillary charges</h2>
+<p>A standard-quality window renovation in Calgary involves a moderate budget for a mid-size project. The detailed cost breakdown below illustrates typical pricing ranges across Calgary projects.</p>
+<table>
+<thead>
+<tr>
+<th>Cost component</th>
+<th>Low estimate</th>
+<th>High estimate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Permits (if required)</td>
+<td>$165</td>
+<td>$440</td>
+</tr>
+</tbody>
+</table>
+<p>For premium triple-pane full-frame projects on a 1,200 sq ft Calgary home, the range rises to $22,000–$45,000. Budget-tier projects using vinyl retrofit on a few windows start around $4,400. Winter installation surcharges can be significant for large projects undertaken during cold periods.</p>
+
+<h2>Key takeaways</h2>
+<p>Calgary window replacement costs a moderate price per window installed for standard vinyl; full-house projects on a typical bungalow run $22,000–$45,000, with installation method and glazing spec driving the largest share of the variance.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Per-window cost range</td>
+<td>Budget $500–$1,200 installed for vinyl; fibreglass runs $900–$2,000.</td>
+</tr>
+<tr>
+<td>Full-house project range</td>
+<td>A 12–16 window Calgary bungalow typically costs $22,000–$45,000 fully installed.</td>
+</tr>
+<tr>
+<td>Biggest cost driver</td>
+<td>Installation method (retrofit vs. full-frame) affects price more than the window brand.</td>
+</tr>
+<tr>
+<td>Best time to buy</td>
+<td>August–October offers the best availability and promotional pricing in Calgary.</td>
+</tr>
+<tr>
+<td>Statera Contracting</td>
+<td>Manages window replacement as part of exterior and whole-home renovations in Calgary, with written scope and licensed trades.</td>
+</tr>
+</tbody>
+</table>
+
+<h3>A contractor’s perspective on where budgets go wrong</h3>
+<p>The most common reason a window project runs over budget is not the windows themselves. It is the scope that was never written down. We see it regularly: a homeowner gets a verbal quote, signs a one-page agreement, and then discovers mid-project that capping, interior trim, and disposal were not included. By that point, the crew is already on site and the homeowner has little leverage. The fix is straightforward: before you sign anything, ask for a line-item scope that lists every component separately, including finishing and disposal. If a contractor cannot or will not produce that document, that tells you something important about how the rest of the project will go. At Statera Contracting, written scope is standard practice on every exterior project we take on, because it protects both sides.</p>
+
+<h2>Statera Contracting handles the full scope, not just the windows</h2>
+<p>Window replacement rarely happens in isolation. Most Calgary homeowners replacing windows are also dealing with exterior trim, siding, or interior finishing that needs attention at the same time. Statera Contracting is a licensed Calgary renovation contractor that manages <a href="https://stateracontracting.com" target="_blank" rel="noopener">exterior renovation projects</a> end-to-end, including window replacement as part of a broader scope. We handle permits, coordinate trades, and deliver a written contract with itemised scope before work begins.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785422099116_Two-contractors-installing-window-exterior-on-home.jpeg" alt="Two contractors installing window exterior on home" /></p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If you want a single point of accountability for your project rather than coordinating multiple suppliers yourself, contact Statera Contracting for a written estimate. Book your in-home consultation at stateracontracting.com.</p>
+
+<h3>Useful sources and tools for further research</h3>
+<ul>
+<li><strong>City of Calgary — Alberta Energy Code for Houses and Small Buildings:</strong> calgary.ca/development/alberta-energy-code-houses-small-buildings.html — current code requirements and performance standards.</li>
+<li><strong>City of Calgary — Climate-Ready Measures for Windows and Doors:</strong> calgary.ca/environment/resources/climate-ready-measures-windows-and-doors.html — municipal guidance on early intervention and moisture prevention.</li>
+<li><strong>Natural Resources Canada — Canada Greener Homes:</strong> nrcan.gc.ca — confirm current rebate eligibility and amounts before budgeting.</li>
+<li><strong>Manufacturer rebate calculators:</strong> ask your supplier to run a rebate estimate at the time of quoting; most local manufacturers offer this tool online.</li>
+<li><strong>Statera Contracting — Calgary renovation estimates:</strong> stateracontracting.com — request a written, itemised estimate for exterior and window replacement projects.</li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">Kitchen remodel cost in Calgary: 2026 Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-to-renovate-a-small-bathroom" target="_blank" rel="noopener">Cost to renovate a small bathroom in Calgary: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">Bathroom Renovation Calgary 2026 Cost Guide | Statera | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
