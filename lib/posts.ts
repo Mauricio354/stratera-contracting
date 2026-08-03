@@ -5822,6 +5822,271 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "load-bearing-wall-removal-calgary",
+    title: "Load-bearing wall removal in Calgary: permits, costs and process",
+    excerpt:
+      "Yes, you can remove a load-bearing wall in Calgary — but only with a licensed Professional Engineer's stamped structural drawings and a City of Calgary building permit.",
+    date: "2026-08-02",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785672249317_Engineer-reviewing-load-bearing-wall-plans-at-desk.jpeg",
+    coverAlt: "Load-bearing wall removal in Calgary: permits, costs and process",
+    category: "Industry News",
+    readingTime: "11 min read",
+    metaTitle: "Load-bearing wall removal in Calgary: permits, costs and process",
+    metaDescription:
+      "Explore the essential steps for load bearing wall removal in Calgary, including permits, costs, and expert guidance to ensure a smooth project.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Yes, you can remove a load-bearing wall in Calgary — but only with a licensed Professional Engineer’s stamped structural drawings and a <a href="https://www.calgary.ca/development/permits/residential-epermit.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary building permit</a>. Skipping either step risks stop-work orders, fines, and serious complications when you sell or make an insurance claim.</p>
+<p>Before any demo begins, make these three calls:</p>
+<ul>
+<li><strong>A licensed P.Eng.</strong> for an on-site assessment and stamped structural drawings</li>
+<li><strong>A licensed general contractor</strong> with WCB clearance and liability insurance</li>
+<li><strong>The City of Calgary</strong> (or check the ePermit portal) to confirm permit requirements for your specific alteration</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Book the engineer first. The contractor cannot price the job accurately until the beam size and bearing details are confirmed.</em></p>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-is-a-load-bearing-wall-and-why-does-it-matter">What is a load-bearing wall and why does it matter?</a></li>
+<li><a href="#do-you-need-a-permit-for-load-bearing-wall-removal-in-calgary">Do you need a permit for load-bearing wall removal in Calgary?</a></li>
+<li><a href="#what-does-the-full-process-look-like-step-by-step">What does the full process look like, step by step?</a></li>
+<li><a href="#how-much-does-load-bearing-wall-removal-cost-in-calgary">How much does load-bearing wall removal cost in Calgary?</a></li>
+<li><a href="#which-professionals-do-you-need-on-this-project">Which professionals do you need on this project?</a></li>
+<li><a href="#how-do-you-choose-the-right-contractor-in-calgary">How do you choose the right contractor in Calgary?</a></li>
+<li><a href="#what-can-go-wrong-and-what-does-it-cost-to-fix">What can go wrong — and what does it cost to fix?</a></li>
+<li><a href="#why-does-a-peng-site-visit-matter-beyond-the-paperwork">Why does a P.Eng. site visit matter beyond the paperwork?</a></li>
+<li><a href="#statera-contracting-handles-the-full-process-for-calgary-homeowners">Statera Contracting handles the full process for Calgary homeowners</a></li>
+<li><a href="#key-takeaways">Key takeaways</a></li>
+</ul>
+<h2>What is a load-bearing wall and why does it matter?</h2>
+<p>A load-bearing wall transfers vertical loads — the weight of floors, roofs, and upper storeys — down through the structure to the foundation. Non-load-bearing partition walls simply divide space and carry only their own weight.</p>
+<p>Experienced pros look for a few quick indicators:</p>
+<ul>
+<li>Walls running <strong>perpendicular to floor joists</strong> are more likely to be load-bearing</li>
+<li>Walls positioned <strong>near the centre of the house</strong> or directly above a basement beam often carry significant loads</li>
+<li><strong>Continuous walls stacked floor over floor</strong> are a strong signal of a load path</li>
+</ul>
+<blockquote>
+<p>Removing a load-bearing wall without replacing it with a properly engineered beam transfers those loads to unintended points in the structure. The result can be sagging floors, cracked drywall, misaligned doors, and, in serious cases, foundation stress. The wall is doing a job you cannot see from the surface.</p>
+</blockquote>
+<p>Getting this wrong is expensive to fix. Getting it right requires an engineer, not just a contractor with a good eye.</p>
+
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785672250625_Construction-worker-inspecting-load-bearing-wall-site.jpeg" alt="Construction worker inspecting load bearing wall site" /></p>
+<h2>Do you need a permit for load-bearing wall removal in Calgary?</h2>
+<p>Yes, always. The City of Calgary requires a building permit for any structural alteration, including removing or moving walls on any floor of the house. A licensed P.Eng. must provide stamped structural drawings before the permit application is submitted.</p>
+<p><strong>The permit workflow runs like this:</strong></p>
+<ol>
+<li>Hire a P.Eng. for a site visit and structural assessment</li>
+<li>Engineer produces stamped drawings with beam specifications and bearing details</li>
+<li>Submit an Alteration/Structural permit application through the City’s ePermit portal, including stamped drawings, project scope, and contractor details</li>
+<li>City reviews the application; the ePermit system typically processes simple residential structural permits in a few calendar days</li>
+<li>Construction begins only after permit approval</li>
+<li>A pre-drywall structural inspection is required before walls are closed — the inspector confirms the installed beam matches the stamped design</li>
+<li>Final inspection closes the permit</li>
+</ol>
+<p><strong>Pro Tip:</strong> <em>Submit your permit application the same week the engineer delivers drawings. Every day the permit sits unsubmitted is a day your contractor may be idle.</em></p>
+<p>The City of Calgary’s home renovation permit checklist also flags asbestos abatement requirements for homes built before 1990. If your house falls in that range, budget for an asbestos assessment before demolition — missing this step can halt inspections mid-project.</p>
+
+<h2>What does the full process look like, step by step?</h2>
+<p>A typical Calgary wall removal project moves through these stages:</p>
+<ol>
+<li><strong>Site assessment</strong> — P.Eng. visits, measures joist spans, traces the load path, checks basement bearing conditions</li>
+<li><strong>Engineering design</strong> — beam sizing, bearing pad details, shoring plan; stamped drawings produced (usually 1–2 weeks after the site visit)</li>
+<li><strong>Permit application</strong> — submitted via ePermit with stamped drawings and contractor details</li>
+<li><strong>Permit approval</strong> — typically 1–7 calendar days for straightforward residential projects</li>
+<li><strong>Temporary shoring</strong> — contractor installs engineer-specified shoring to carry the load during removal</li>
+<li><strong>Demolition</strong> — wall framing removed carefully, utilities rerouted as needed</li>
+<li><strong>Beam installation</strong> — steel or LVL beam set on engineered bearing points</li>
+<li><strong>Pre-drywall inspection</strong> — City inspector verifies beam and bearing match stamped drawings</li>
+<li><strong>Finishing</strong> — drywall, paint, flooring transitions, trim</li>
+</ol>
+<p>Total timeline for a straightforward single-storey removal spans several weeks from first engineer contact to final inspection, assuming no permit delays or hidden complications.</p>
+<p>Heritage homes, multi-storey load paths, and asbestos abatement all extend that range. A wall that looks simple from the living room can require additional bearing support in the basement once the engineer measures on site.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785672523833_Infographic-illustrating-steps-in-load-bearing-wall-removal-process.jpeg" alt="Infographic illustrating steps in load bearing wall removal process" /></p>
+<p><strong>Pro Tip:</strong> <em>Schedule the engineer’s site visit before you finalize your contractor start date. Drawings and permit approval are the critical path — not the demo itself.</em></p>
+
+<h2>How much does load-bearing wall removal cost in Calgary?</h2>
+<p>Costs vary with wall length, beam type, and finishing scope. Here is a realistic breakdown for a typical Calgary project:</p>
+<table>
+<thead>
+<tr>
+<th>Cost Category</th>
+<th>Typical Range (CAD)</th>
+<th>Key Variables</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P.Eng. site visit + stamped drawings</td>
+<td>Part of total project cost</td>
+<td>Complexity, number of storeys</td>
+</tr>
+<tr>
+<td>City of Calgary building permit fees</td>
+<td>Part of total project cost</td>
+<td>Project valuation</td>
+</tr>
+<tr>
+<td>Beam and materials (LVL or steel)</td>
+<td>Part of total project cost</td>
+<td>Span, load, beam type</td>
+</tr>
+<tr>
+<td>Labour (shoring, demo, installation)</td>
+<td>Part of total project cost</td>
+<td>Wall length, access, trades required</td>
+</tr>
+<tr>
+<td>Finishing (drywall, paint, flooring)</td>
+<td>Part of total project cost</td>
+<td>Scope of patch work</td>
+</tr>
+<tr>
+<td>Contingency for asbestos, hidden utilities</td>
+<td>Part of total project cost</td>
+<td>Home age, complexity</td>
+</tr>
+</tbody>
+</table>
+<p>A mid-range project — a single-storey wall, LVL beam, standard finishing — typically falls within the $6,000–$12,000 total range in Calgary. Steel beams, longer spans, or multi-storey load paths push costs toward the higher end.</p>
+<p>No contractor can give you a reliable number without an engineer’s drawings in hand. The beam specification alone can shift the materials cost by thousands of dollars. For deeper context on how structural work affects overall project budgets, the <a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">kitchen remodel cost guide</a> covers how wall removals factor into full kitchen renovation pricing.</p>
+
+<h2>Which professionals do you need on this project?</h2>
+<p>Three roles are non-negotiable for a permitted load-bearing wall removal in Calgary:</p>
+<ul>
+<li><a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">Licensed Professional Engineer (P.Eng.)</a> — conducts the site visit, traces the load path, sizes the beam, and produces stamped structural drawings accepted by the City. Local resources include TAM CRETE ENGINEERING and Calgary Structural Engineers, both of which provide site assessments and permit-ready stamped drawings.</li>
+<li><strong>Licensed general contractor</strong> — coordinates shoring, demolition, beam installation, and finishing trades, and carries current WCB clearance and liability insurance.</li>
+<li><strong>City of Calgary permit office</strong> — reviews the stamped drawings and permit application, and confirms requirements for your specific alteration before work begins.</li>
+</ul>
+<p>The City of Calgary’s building inspector plays a fourth role: the pre-drywall inspection is a mandatory checkpoint, not optional. Stamped P.Eng. drawings are the legal record of code compliance and protect you at resale and for insurance purposes.</p>
+
+<h2>How do you choose the right contractor in Calgary?</h2>
+<p>Use this checklist before signing anything:</p>
+<ol>
+<li><strong>WCB clearance certificate</strong> — current, not expired</li>
+<li><strong>Liability insurance</strong> — minimum $2 million general liability</li>
+<li><strong>Written fixed-price estimate</strong> with line-item detail</li>
+<li><strong>Demonstrated experience</strong> with engineered beam installations and permitted structural work</li>
+<li><strong>References</strong> from at least two similar load-bearing wall projects in Calgary</li>
+<li><strong>Willingness to work with your P.Eng.</strong> and follow the stamped shoring plan exactly</li>
+</ol>
+<p>Questions worth asking directly:</p>
+<ul>
+<li>Who pulls the permit — you or us?</li>
+<li>Have you installed LVL and steel beams before, and can I see a past project?</li>
+<li>How do you handle temporary shoring, and do you follow the engineer’s shoring plan?</li>
+<li>What is your process if the inspector flags something at the pre-drywall stage?</li>
+</ul>
+<p><strong>Red flags to walk away from:</strong> a contractor who guesses beam sizes without an engineer, refuses to show WCB or insurance documents, insists the job does not need a permit, or provides a lump-sum bid with no line-item breakdown.</p>
+<p><strong>Pro Tip:</strong> <em>Tie payment milestones to inspection sign-offs in your contract. A payment released only after the City’s pre-drywall inspection passes gives you real leverage if something needs correcting.</em></p>
+
+<h2>What can go wrong — and what does it cost to fix?</h2>
+<p>Unpermitted or poorly executed wall removals produce predictable problems:</p>
+<ul>
+<li><strong>Sagging floors or ceilings</strong> from an undersized beam or missed bearing point</li>
+<li><strong>Cracked drywall and misaligned doors</strong> caused by micro-movements during removal when shoring is inadequate</li>
+<li><strong>Roof or floor deflection</strong> in multi-storey homes where the load path was not fully traced</li>
+<li><strong>Foundation stress</strong> if point loads shift to unengineered spots in the basement</li>
+</ul>
+<p>Remediation typically means temporary shoring again, an engineer-specified corrective beam retrofit, and full re-inspection — often costing more than the original project.</p>
+<blockquote>
+<p>If you notice new cracks, sticking doors, or visible sag after wall removal work, stop using the affected area and contact your P.Eng. and contractor immediately. Do not wait to see if it settles. Structural distress does not self-correct.</p>
+</blockquote>
+<p>The insurance and resale implications are equally serious. Performing structural work without permits can void a homeowner’s insurance claim related to the alteration and trigger mandatory disclosure obligations when you sell. Buyers’ home inspectors routinely flag unpermitted structural changes, and lenders sometimes refuse financing on properties with open or missing permits.</p>
+
+<h2>Why does a P.Eng. site visit matter beyond the paperwork?</h2>
+<p>The load path is the route structural loads travel from the roof and upper floors, through beams and walls, down to the foundation. An engineer traces that path on site — it cannot be reliably determined from a floor plan alone.</p>
+<p>On a typical site visit, a structural engineer checks:</p>
+<ul>
+<li>Joist direction and span relative to the wall being removed</li>
+<li>Existing bearing walls and beams in the basement</li>
+<li>Foundation bearing capacity at proposed new bearing points</li>
+<li>Point loads from upper storeys that concentrate force in unexpected locations</li>
+</ul>
+<p>What looks like a simple partition wall from the living room can turn out to carry a point load from a second-floor beam above. That discovery changes the beam size, the bearing pad design, and the cost — but catching it before demo is far cheaper than correcting it after.</p>
+<blockquote>
+<p>Stamped P.Eng. drawings are not just a permit requirement. They are the legal record that the structural design meets the Alberta Building Code, and they protect you if an insurance claim or a future buyer’s lawyer ever questions the work.</p>
+</blockquote>
+<p>Beam choice follows from the engineer’s calculations. Steel beams handle longer spans and heavier loads with a shallower profile; LVL (laminated veneer lumber) beams are lighter, easier to handle in tight spaces, and often cost less for moderate spans. The engineer specifies which is appropriate — the contractor does not make that call.</p>
+
+<h2>Statera Contracting handles the full process for Calgary homeowners</h2>
+<p>Coordinating an engineer, a permit, shoring, beam installation, and finishing work across multiple trades is where projects stall. Statera Contracting manages that entire sequence for Calgary homeowners, so you are not chasing drawings, permit status, and contractor schedules separately.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>A typical Statera load-bearing wall removal engagement includes:</p>
+<ul>
+<li>Free initial consultation and project scoping</li>
+<li>Coordination with your P.Eng. from site visit through stamped drawings</li>
+<li>Permit submission and follow-up with the City of Calgary</li>
+<li>Fixed-price estimate with line-item detail before any work begins</li>
+<li>WCB-covered, insured crew for shoring, demo, and beam installation</li>
+<li>Finishing work — drywall, paint, flooring transitions — so the space is move-in ready</li>
+<li>Written project warranty</li>
+</ul>
+<p>Whether the wall removal is part of a <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation</a> to open up your main floor, or a <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement project</a> that requires bearing point changes, we handle the coordination so nothing falls through the cracks. Contact Statera Contracting to schedule your free consultation and get a fixed-price estimate.</p>
+
+<h2>Key takeaways</h2>
+<p>A safe, compliant load-bearing wall removal in Calgary requires a P.Eng., a City of Calgary building permit, and a licensed contractor with WCB coverage and liability insurance — no exceptions.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Permit is mandatory</td>
+<td>The City of Calgary requires a building permit for all structural wall removals, with no exceptions.</td>
+</tr>
+<tr>
+<td>P.Eng. drawings are non-negotiable</td>
+<td>Stamped structural drawings are required for the permit and protect you at resale and for insurance.</td>
+</tr>
+<tr>
+<td>Budget realistically</td>
+<td>A mid-range Calgary project typically costs $6,000–$12,000 all-in, depending on beam type and finishing scope.</td>
+</tr>
+<tr>
+<td>Sequence matters</td>
+<td>Book the engineer before confirming your contractor start date — drawings and permit approval are the critical path.</td>
+</tr>
+<tr>
+<td>Statera Contracting</td>
+<td>Manages engineer coordination, permit submission, beam installation, and finishing for Calgary homeowners under one fixed-price contract.</td>
+</tr>
+</tbody>
+</table>
+
+<h3>A Calgary renovator’s perspective</h3>
+<p><em>By Patrick</em></p>
+<p>The detail that surprises most homeowners is how often the scope changes after the engineer’s site visit. A wall that looked straightforward on a floor plan turns out to carry a point load from a beam above, or the basement bearing conditions require a pad footing that was not in the original budget. This is not a problem — it is exactly why the site visit happens before any pricing is locked in.</p>
+<p>The other thing clients underestimate is the value of the pre-drywall inspection. Homeowners sometimes push to close walls quickly to move the project along. The inspection is the one moment where an independent set of eyes confirms the installed beam matches what the engineer designed. Skipping it, or rushing past it, removes the only objective checkpoint between the drawing and the finished wall. That checkpoint is worth the scheduling patience it requires.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+
+<h3>Useful local resources</h3>
+<p>These are the primary sources to consult as you plan your project:</p>
+<ul>
+<li><a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary home renovation and basement permit checklist</a> — confirms required documents including asbestos forms for older homes</li>
+<li><a href="https://stateracontracting.com" target="_blank" rel="noopener">Statera Contracting</a> — free consultation, fixed-price estimates, and full project management for load-bearing wall removals in Calgary</li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/basement-finishing-calgary" target="_blank" rel="noopener">Basement Finishing Calgary: Full 2026 Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/putting-an-addition-on-a-house-calgary-homeowners-guide" target="_blank" rel="noopener">Putting an addition on a house: Calgary homeowner’s guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/garage-suite-calgary" target="_blank" rel="noopener">Garage Suite Calgary: 2026 Cost Guide | Statera | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
+
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
