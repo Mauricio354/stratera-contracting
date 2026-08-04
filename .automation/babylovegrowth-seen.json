@@ -23,10 +23,10 @@
   "648016": { "status": "published", "publishedAt": "2026-07-29" },
   "653335": { "status": "published", "publishedAt": "2026-07-30" },
   "657155": { "status": "published", "publishedAt": "2026-07-31" },
-  "661401": { "status": "held", "reason": "Title matches comparison/listicle trip-wire pattern (\"Fixed price vs cost plus\")" },
+  "661401": { "status": "published", "publishedAt": "2026-08-04" },
   "665187": { "status": "published", "publishedAt": "2026-08-01" },
-  "669295": { "status": "held", "reason": "Title matches comparison/listicle trip-wire pattern (\"Siding vs stucco\")" },
-  "672781": { "status": "held", "reason": "Title matches comparison/listicle trip-wire pattern (\"Hardwood vs engineered flooring\")" },
+  "669295": { "status": "queued", "reason": "Manual override 2026-08-04 (Mauricio): material-comparison title, no competitor named or linked — cleared to publish, waiting on daily cap" },
+  "672781": { "status": "queued", "reason": "Manual override 2026-08-04 (Mauricio): material-comparison title, no competitor named or linked — cleared to publish, waiting on daily cap" },
   "676654": { "status": "published", "publishedAt": "2026-08-03" },
-  "681677": { "status": "held", "reason": "Title matches comparison/listicle trip-wire pattern (\"Asphalt vs metal roof\")" }
+  "681677": { "status": "queued", "reason": "Manual override 2026-08-04 (Mauricio): material-comparison title, cleared to publish once the RidgeCap GC outbound link is stripped — waiting on daily cap" }
 }
