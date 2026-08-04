@@ -6086,7 +6086,289 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "fixed-price-vs-cost-plus",
+    title: "Fixed price vs cost plus: what homeowners should pick",
+    excerpt:
+      "For most well-defined renovations, a fixed-price contract is the right choice — you know your total before a single nail goes in. Cost-plus makes more sense only when scope genuinely can't be determined upfront.",
+    date: "2026-07-29",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785335248325_Homeowner-reviewing-renovation-contract-paperwork.jpeg",
+    coverAlt: "Fixed price vs cost plus: what homeowners should pick",
+    category: "Industry News",
+    readingTime: "17 min read",
+    metaTitle: "Fixed price vs cost plus: what homeowners should pick",
+    metaDescription:
+      "Unsure whether to choose fixed price vs cost plus for your renovation? Discover the benefits of fixed-price contracts for budgeting and risk management.",
+    content: [
+      {
+        type: "html",
+        html: `<p>For most well-defined renovations — a bathroom refresh, a kitchen with finalized drawings and selections, a basement finishing project — a <strong>fixed-price contract</strong> is the right choice. You know your total before a single nail goes in; your lender will be happy, and the contractor carries the risk if lumber prices spike mid-project. Cost-plus contracts make more sense when scope genuinely cannot be determined upfront: older homes with unknown conditions, custom design-build projects still in flux, or investigative work where you need to open walls before anyone can price the job accurately.</p>
+<p>Here is the short version of why fixed price usually wins for homeowners:</p>
+<ul>
+<li><strong>Cost certainty.</strong> You get one number before you sign, and that number holds unless you request changes.</li>
+<li><strong>Financing compatibility.</strong> Canadian lenders and banks generally prefer fixed-price bids because they support predictable draw schedules.</li>
+<li><strong>Risk transfer.</strong> Labour and material cost increases are the contractor’s problem, not yours.</li>
+<li><strong>Design discipline.</strong> The process of building a fixed-price bid forces selections and specifications to be locked down early, which reduces surprises later.</li>
+</ul>
+<p>The main exceptions: if your project involves a heritage home, significant structural unknowns, or a highly custom design that is still evolving, cost-plus (or a hybrid with an investigative phase) usually produces a fairer outcome for both sides.</p>
 
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-do-fixed-price-and-cost-plus-contracts-actually-mean">What do fixed-price and cost-plus contracts actually mean?</a></li>
+<li><a href="#how-do-the-two-contract-types-compare-side-by-side">How do the two contract types compare side by side?</a></li>
+<li><a href="#pros-and-cons-of-each-contract-type-for-homeowners">Pros and cons of each contract type for homeowners</a></li>
+<li><a href="#when-should-you-choose-fixed-price-vs-cost-plus">When should you choose fixed price vs cost plus?</a></li>
+<li><a href="#how-does-cost-plus-pricing-actually-work-sample-calculations">How does cost-plus pricing actually work? Sample calculations</a></li>
+<li><a href="#key-contract-clauses-to-check-before-you-sign">Key contract clauses to check before you sign</a></li>
+<li><a href="#questions-to-ask-contractors-and-how-to-vet-them-properly">Questions to ask contractors and how to vet them properly</a></li>
+<li><a href="#key-takeaways">Key takeaways</a></li>
+<li><a href="#a-contractors-honest-take-on-contract-choice">A contractor’s honest take on contract choice</a></li>
+<li><a href="#how-statera-contracting-supports-you-through-the-contract-and-build-process">How Statera Contracting supports you through the contract and build process</a></li>
+<li><a href="#useful-sources-for-further-reading">Useful sources for further reading</a></li>
+</ul>
+<h2>What do fixed-price and cost-plus contracts actually mean?</h2>
+<p>A <strong>fixed-price contract</strong> (also called a lump sum or stipulated price contract) sets a single agreed amount for a defined scope of work. <a href="https://www.dlapiperrealworld.com/law/index.html?c=CA&amp;q=fixed-price-contracts&amp;s=forms-of-contract-procurement-methods&amp;t=construction" rel="nofollow noopener noreferrer" target="_blank">The contractor is paid that sum</a> regardless of what it actually costs them to complete the job. If their costs come in lower, they keep the difference. If costs run over, they absorb the loss. That risk transfer is exactly what you are paying for when a fixed-price bid comes in slightly higher than a cost-plus estimate.</p>
+<p>A <strong>cost-plus contract</strong> (also called a cost-reimbursement contract) works differently. You pay the contractor’s actual, documented costs for labour and materials, plus an agreed fee for managing the project. That fee can take a few forms:</p>
+<ul>
+<li><strong>Percentage markup</strong> — the most common format; the contractor adds a set percentage to every reimbursable cost.</li>
+<li><strong>Fixed fee</strong> — a flat dollar amount agreed upfront, which does not change as costs rise or fall.</li>
+<li><strong>Guaranteed Maximum Price (GMP)</strong> — a cost-plus hybrid that caps total expenditure at an agreed ceiling; costs below the cap may be shared between owner and contractor.</li>
+</ul>
+<p>You will also encounter a few related terms in bids. <strong>Time and materials (T&amp;M)</strong> contracts are closely related to cost-plus: you pay fixed hourly labour rates plus actual material costs, with the contractor’s profit built into the labour rate. <strong>Allowances</strong> and <strong>provisional sums</strong> appear in both contract types and represent placeholder amounts for items not yet fully specified (e.g., “tile allowance: $3,500”). The critical point: an allowance is an estimate, not a guarantee. If your actual tile selection costs $5,200, the difference becomes a change order regardless of which contract type you signed.</p>
+<p><strong>Pro Tip:</strong> <em>When reviewing a bid, count the number of allowances. A fixed-price contract with eight or ten vague allowances offers far less cost certainty than it appears to on the surface.</em></p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785335253504_Two-contractors-discussing-contract-terms.jpeg" alt="Two contractors discussing contract terms" /></p>
+
+<h2>How do the two contract types compare side by side?</h2>
+<p>The table below covers the dimensions that matter most when you are deciding which contract to use for a renovation or small build.</p>
+<table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>Fixed price (lump sum)</th>
+<th>Cost plus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cost predictability</strong></td>
+<td>High — total is set before work begins</td>
+<td>Low to moderate — final cost depends on actual expenditure</td>
+</tr>
+<tr>
+<td><strong>Who bears market risk</strong></td>
+<td>Contractor bears cost fluctuation risk</td>
+<td>Owner bears all cost fluctuation risk</td>
+</tr>
+<tr>
+<td><strong>Best for</strong></td>
+<td>Well-scoped projects with complete drawings and selections</td>
+<td>Complex, evolving, or investigative projects with uncertain scope</td>
+</tr>
+<tr>
+<td><strong>Typical fee structure</strong></td>
+<td>Single lump sum (includes contractor overhead, profit, and contingency)</td>
+<td>Reimbursable costs plus percentage fee or fixed fee</td>
+</tr>
+<tr>
+<td><strong>Administrative burden</strong></td>
+<td>Lower for owner; contractor manages procurement</td>
+<td>Higher for owner; requires invoice review and cost tracking</td>
+</tr>
+<tr>
+<td><strong>Change-order handling</strong></td>
+<td>Each change requires a formal written change order with a price</td>
+<td>Changes are easier to accommodate but directly increase reimbursable costs</td>
+</tr>
+<tr>
+<td><strong>Timeline and procurement</strong></td>
+<td>Contractor manages procurement; owner approves selections upfront</td>
+<td>Owner may be more involved in procurement decisions throughout the project</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785335739170_Infographic-comparing-fixed-price-and-cost-plus-contract-types.jpeg" alt="Infographic comparing fixed price and cost plus contract types" /></p>
+<p>A quick illustration of how a change order shifts costs under each model: say you decide mid-project to upgrade your kitchen countertop from laminate to quartz. Under a fixed-price contract, the contractor prices that change as a formal change order, typically including their markup on the material difference plus any additional labour. Under cost-plus, the upgrade simply flows through as an increased reimbursable cost, with the agreed percentage applied on top. Neither model makes changes free, but the fixed-price change order process tends to make the cost of changing your mind more visible and deliberate.</p>
+
+<h2>Pros and cons of each contract type for homeowners</h2>
+<h3>Fixed-price contracts</h3>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Budget certainty before construction starts</li>
+<li>Easier to secure construction financing</li>
+<li>Contractor is incentivised to work efficiently</li>
+<li>Lower administrative burden on the homeowner during construction</li>
+<li>Protects you from material and labour cost increases</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Requires complete design, drawings, and selections before pricing — more upfront work</li>
+<li>Changes are costly and require formal change orders</li>
+<li>Contractor may build contingency into the price for risks that never materialise, meaning you could pay for unused buffer</li>
+<li>You do not benefit from any supplier discounts the contractor receives</li>
+<li>A <a href="https://ataclaw.ca/common-types-of-construction-contracts/" rel="nofollow noopener noreferrer" target="_blank">fixed-price contract with vague allowances</a> can erode cost certainty significantly</li>
+</ul>
+<h3>Cost-plus contracts</h3>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Works well when scope is genuinely uncertain</li>
+<li>Easier to accommodate design changes mid-project</li>
+<li>Full invoice transparency — you see what everything actually costs</li>
+<li>You benefit directly from any supplier discounts the contractor negotiates</li>
+<li>A good fit for custom or design-build projects still in development</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>No guaranteed final cost; budget risk sits entirely with you</li>
+<li>Requires active owner involvement in reviewing invoices and approvals</li>
+<li>Cost-plus is not a blank cheque — courts expect contractors to document costs diligently and work reasonably</li>
+<li>Can complicate construction draw schedules with lenders</li>
+<li>Percentage-based fees create a perverse incentive: the more the project costs, the more the contractor earns</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>A ‘fixed-price’ contract loaded with provisional sums is not truly fixed. Before signing, ask the contractor to replace every allowance with a firm price or to clearly document the basis for each estimate — and get the change-order process spelled out in writing.</em></p>
+<p>Contractor behaviour matters as much as the contract label. Communication and transparency are the real determinants of success under either model. A contractor who provides weekly cost updates under cost-plus, or who walks you through every line of a fixed-price bid, will almost always produce a better outcome than one who treats the contract as a shield against questions.</p>
+
+<h2>When should you choose fixed price vs cost plus?</h2>
+<p>The right contract type depends on how well-defined your project is before construction begins. Here is how common renovation types typically map to each model.</p>
+<p><strong>Fixed price usually fits:</strong></p>
+<ul>
+<li><strong>Cosmetic bathroom renovation</strong> — tile replacement, vanity swap, fixture upgrades with all products selected. Scope is clear, risk is low, and a lump sum bid is straightforward.</li>
+<li><strong>Kitchen renovation with complete drawings and selections</strong> — cabinets, countertops, appliances, and layout all confirmed. This is the ideal fixed-price scenario; a <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">well-scoped kitchen project</a> with finalized specifications gives a contractor everything they need to price accurately.</li>
+<li><strong>Basement finishing with a permit set</strong> — framing, electrical, plumbing, and finishes all specified. Fixed price works well once the permit drawings are complete.</li>
+<li><strong>Home additions with engineered drawings</strong> — once structural and architectural drawings are approved, a fixed-price contract is appropriate for the build phase.</li>
+</ul>
+<p><strong>Cost-plus (or a hybrid) usually fits:</strong></p>
+<ul>
+<li><strong>Older homes with unknown conditions</strong> — knob-and-wiring, asbestos, or undocumented structural modifications are common in Calgary homes built before the 1980s. Opening walls before pricing is the only responsible approach.</li>
+<li><strong>Investigative or remediation work</strong> — mould, foundation issues, or water damage where the full extent is unknown until demolition begins.</li>
+<li><strong>Custom design-build projects still in development</strong> — if you are still working through design options, a cost-plus arrangement for the preconstruction and design phase, followed by a fixed-price contract for construction, is a sensible hybrid.</li>
+<li><strong>Complex <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement and living space</a> projects</strong> involving legal suite conversions or significant structural changes where conditions are uncertain.</li>
+</ul>
+<p><strong>On financing:</strong> Canadian lenders strongly prefer fixed-price contracts when approving construction draws. A cost-plus project requires additional disclosure and can complicate draw approvals, which may affect your ability to access funds at key project milestones. If your renovation is mortgage-financed or involves a construction loan, confirm your lender’s requirements before choosing cost-plus.</p>
+<p><strong>On timeline:</strong> Fixed-price contracts tend to move faster through the procurement phase because selections are locked before construction starts. Cost-plus projects can extend the timeline if the owner is still making decisions while trades are on site.</p>
+
+<h2>How does cost-plus pricing actually work? Sample calculations</h2>
+<p>Understanding the math behind cost-plus helps you evaluate whether a contractor’s fee is reasonable.</p>
+<h3>Cost-plus percentage: a worked example</h3>
+<p>Say you hire a contractor on a cost-plus basis for a kitchen renovation where the contractor adds a percentage markup to reimbursable costs. The total you pay reflects the actual documented costs plus the agreed percentage fee. If material costs increase mid-project, your total payment and the contractor’s fee increase correspondingly. This exemplifies how percentage-based cost-plus contracts can lead to higher contractor earnings if costs grow.</p>
+<h3>Fixed-price with allowances: a worked example</h3>
+<p>A fixed-price kitchen bid comes in at $52,000. Buried in the contract are two allowances: a tile allowance of $2,800 and a countertop allowance of $4,500. You select a tile that costs $3,900 and a quartz countertop at $6,200. That is $2,800 over the combined allowances, which becomes a change order. Your actual total: $54,800 — nearly $3,000 above the number you thought was fixed.</p>
+<p>This is why reviewing allowances line by line matters as much as reviewing the total. Industry commentary consistently notes that fixed-price bids for older homes often include contingency buffers for risks that may never arise. If the project runs smoothly, the contractor keeps that buffer. You pay for the insurance whether you need it or not.</p>
+<p>For a broader sense of what Calgary renovations typically cost before you evaluate bids, the <a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">2026 Calgary renovation budget guide</a> is a useful reference point.</p>
+
+<h2>Key contract clauses to check before you sign</h2>
+<p>Whether you are signing a fixed-price or cost-plus agreement, these clauses determine how protected you are when things do not go as planned.</p>
+<ul>
+<li><strong>Scope and specifications.</strong> The contract must describe exactly what is included — materials, finishes, dimensions, and any exclusions. Vague scope language is the most common source of disputes.</li>
+<li><strong>Allowances and provisional sums.</strong> Every allowance must state the dollar amount and what it covers. If an allowance is likely to be exceeded based on your actual selections, negotiate a firm price before signing.</li>
+<li><strong>Change-order process.</strong> The contract should require written, signed change orders before any out-of-scope work begins. Verbal approvals are difficult to enforce and <a href="https://www.airdberlis.com/docs/default-source/articles/construction-law-letter-march-2024.pdf?sfvrsn=b906d913_1" rel="nofollow noopener noreferrer" target="_blank">courts will look at actual conduct</a> when interpreting what was agreed.</li>
+<li><strong>Progress payment schedule.</strong> Payments should be tied to defined milestones, not arbitrary dates. Avoid front-loading payments heavily before work is complete.</li>
+<li><strong>Holdback provisions.</strong> Under most Canadian provincial lien statutes, owners are entitled to hold back a percentage of each progress payment as security against liens. In Alberta, the <em>Builders’ Lien Act</em> (now the <em>Prompt Payment and Construction Lien Act</em>) sets the applicable holdback rate. Check the <a href="https://www.canada.ca/en/revenue-agency.html" rel="nofollow noopener noreferrer" target="_blank">Canada Revenue Agency’s GST/HST guidance</a> for how holdbacks affect HST remittance timing.</li>
+<li><strong>Lien waivers and contractor insurance.</strong> Request statutory declarations or lien waivers from the general contractor and major subcontractors at key payment milestones. Confirm the contractor carries general liability insurance and WCB/WSIB coverage.</li>
+<li><strong>Warranty language.</strong> The contract should specify the warranty period for workmanship (typically one to two years) and reference manufacturer warranties for materials and fixtures.</li>
+<li><strong>Dispute resolution and termination.</strong> Look for a clear process — mediation before litigation is standard in most well-drafted construction contracts. The CCDC-3 form is a widely used Canadian standard for cost-plus projects and provides a reasonable starting framework.</li>
+<li><strong>Invoicing transparency (cost-plus).</strong> For cost-plus contracts, the agreement should require the contractor to provide all supporting invoices and timesheets. <a href="https://www.lexology.com/library/detail.aspx?g=20551cca-76a3-49b2-92e0-fb4b91bcdb62" rel="nofollow noopener noreferrer" target="_blank">Canadian courts confirm</a> that contractors must document costs diligently and that estimates are not a blank cheque.</li>
+</ul>
+<p><strong>Red flag to watch for:</strong> a contract that describes the project in one paragraph, lists a lump sum, and contains no change-order clause. That document will not protect you if scope disputes arise.</p>
+<p><strong>Canadian-specific note:</strong> Alberta’s <em>Prompt Payment and Construction Lien Act</em> governs lien rights and holdback obligations for projects in this province. If you are renovating outside Alberta, each province has its own lien legislation. The <a href="https://pihl.ca/construction-contracts/" rel="nofollow noopener noreferrer" target="_blank">Pihl Law Corp. overview of construction contracts</a> is a useful starting point for understanding how Canadian courts interpret fixed-price and cost-plus agreements.</p>
+
+<h2>Questions to ask contractors and how to vet them properly</h2>
+<p>The contract type matters, but so does the contractor you are trusting to execute it. Here is a practical checklist for the selection and pre-construction phase.</p>
+<p><strong>Questions to ask about past projects and process:</strong></p>
+<ul>
+<li>Can you show me a sample contract for a project similar to mine?</li>
+<li>How do you handle allowances — do you update me before selections are finalized?</li>
+<li>Under cost-plus, will you provide copies of all supplier and subcontractor invoices?</li>
+<li>What is your process for approving change orders, and who signs off on them?</li>
+<li>How do you track costs against budget during construction?</li>
+<li>Have you worked on homes of similar age and construction type in Calgary?</li>
+</ul>
+<p><strong>Vetting checklist:</strong></p>
+<ul>
+<li>Confirmed business licence and liability insurance (minimum $2 million general liability is standard in Alberta)</li>
+<li>WCB clearance letter confirming workers’ compensation coverage</li>
+<li>At least two or three references from comparable projects completed in the past two years</li>
+<li>A sample contract you can review with a lawyer before signing</li>
+<li>Evidence of a cost-tracking system (project management software, itemized invoices, weekly reporting)</li>
+<li>A named person responsible for approving change orders and communicating budget updates</li>
+<li>Willingness to provide a detailed scope document, not just a one-page quote</li>
+</ul>
+<p><strong>Trust signals in a proposal:</strong></p>
+<ul>
+<li>Labour and materials broken out separately, not bundled into a single line</li>
+<li>A procurement schedule showing when key materials need to be ordered</li>
+<li>Allowances that are clearly labelled and based on realistic current pricing</li>
+<li>A defined approval threshold — for example, changes under $500 may proceed with verbal approval, but anything above requires a written change order</li>
+</ul>
+<p>Scope clarity before construction is the single biggest factor in whether either contract type performs well. Reviewing <a href="https://onedaydoorsandclosets.com/blog/featured/avoiding-common-pitfalls-the-challenges-of-diy-door-replacement" rel="nofollow noopener noreferrer" target="_blank">common renovation pitfalls</a> before you start can help you ask sharper questions during the vetting process.</p>
+
+<h2>Key takeaways</h2>
+<p>Fixed-price contracts suit most well-defined renovations because they transfer cost risk to the contractor and satisfy lender requirements, while cost-plus works best when scope is genuinely uncertain and full invoice transparency is maintained throughout.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fixed price for defined scope</td>
+<td>Lock in all selections and drawings before signing; this is what makes the price meaningful.</td>
+</tr>
+<tr>
+<td>Cost-plus for uncertain scope</td>
+<td>Use it for older homes, investigative work, or custom design-build phases — not as a default.</td>
+</tr>
+<tr>
+<td>Allowances erode certainty</td>
+<td>Count and challenge every allowance in a fixed-price bid; each one is a potential change order.</td>
+</tr>
+<tr>
+<td>Financing favours fixed price</td>
+<td>Canadian lenders generally prefer fixed-price contracts for construction draw approvals.</td>
+</tr>
+<tr>
+<td>Statera Contracting’s approach</td>
+<td>Statera Contracting uses fixed-price contracts for well-scoped Calgary renovations after a thorough preconstruction planning phase.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>A contractor’s honest take on contract choice</h2>
+<p>Most homeowners come to us asking which contract type is better. The honest answer is that neither model is inherently superior — the right choice depends entirely on how much is known before construction begins.</p>
+<p>At Statera Contracting, we default to fixed-price contracts for the majority of our residential projects: kitchens, bathrooms, home additions, and basement finishing work. The reason is straightforward. When we invest the time upfront in preconstruction planning — confirming selections, reviewing existing conditions, completing permit drawings, and locking down subcontractor pricing — we can produce a number that actually means something. A fixed-price bid built on thorough preconstruction work is a genuine commitment, not a guess padded with contingency.</p>
+<p>That preconstruction phase is where most of the real work happens. We walk the site, review existing conditions, identify anything that could affect scope (older electrical panels, undocumented plumbing, non-standard framing), and work through selections with the homeowner before a number goes on paper. That process is what separates a reliable fixed-price bid from one that will generate change orders every other week.</p>
+<p>There are projects where we recommend a staged approach: a cost-plus investigative phase to open walls and assess conditions, followed by a fixed-price contract for the build. Older Calgary homes — particularly those built before the 1980s — often warrant this. It is a more transparent way to handle genuine uncertainty than padding a fixed-price bid with large contingencies and hoping for the best.</p>
+
+<h2>How Statera Contracting supports you through the contract and build process</h2>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Choosing between a fixed-price and cost-plus contract is easier when you have a contractor who will walk you through the decision honestly before anything is signed. Statera Contracting works with Calgary homeowners on kitchen renovations, <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom projects</a>, basement finishing, and <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions</a> — and we start every project with a preconstruction conversation about scope, selections, and which contract model actually fits your situation.</p>
+<p>For most well-defined projects, we provide a detailed fixed-price proposal with every allowance clearly documented and a transparent change-order process built in. For projects with genuine unknowns, we will tell you that upfront and recommend a staged approach rather than a padded lump sum that hides the uncertainty.</p>
+<p>If you are planning a renovation and want a clear, honest proposal, <a href="https://stateracontracting.com" target="_blank" rel="noopener">contact Statera Contracting</a> to book a preconstruction consultation.</p>
+
+<h2>Useful sources for further reading</h2>
+<p>These sources offer legal and industry perspectives that go deeper on the topics covered above.</p>
+<ul>
+<li><strong>Aird &amp; Berlis — Fixed price or cost plus? A tale of two construction project payment arrangements:</strong> A Canadian construction law firm’s analysis of how courts interpret contract labels versus actual conduct, including the Twister case. Useful if you want to understand the legal risk of informal behaviour that contradicts your written contract.</li>
+<li><strong>WeirFoulds LLP — Cost-plus contract is not a blank cheque:</strong> Legal commentary confirming that contractors under cost-plus agreements must document costs diligently and work reasonably. Helpful for understanding your rights when reviewing invoices.</li>
+<li><strong>Pihl Law Corp. — Fixed price vs. cost-plus construction contracts:</strong> A plain-English overview of both contract types from a Canadian legal perspective, covering risk allocation, transparency, and how courts approach interpretation.</li>
+<li><strong>Lexology — Cost-plus and time and material contracts in Canada:</strong> Detailed legal commentary on how Canadian courts treat cost-plus and T&amp;M claims, including the implied duty not to waste labour and materials and the importance of keeping detailed records.</li>
+<li><strong>ATAC Law — Types of construction contracts:</strong> A Canadian legal firm’s practical overview of contract types, including the hybrid investigative-phase approach and the risks of cost-plus arrangements favouring contractors.</li>
+<li><strong><a href="https://canadabuys.canada.ca/sites/default/files/2026-03/Practitioner%27s%20Guide%20for%20Procurement%20Pricing%202026-1.pdf" rel="nofollow noopener noreferrer" target="_blank">Canada Buys — Practitioner’s Guide for Procurement Pricing</a>:</strong> The federal government’s own guidance on fixed-price and cost-reimbursable contracts, useful for understanding how the two models are formally defined and validated in a Canadian context.</li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/many-ways-to-skin-a-reno" target="_blank" rel="noopener">The Many Ways to Skin a Reno | Calgary Renovation Tips | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/putting-an-addition-on-a-house-calgary-homeowners-guide" target="_blank" rel="noopener">Putting an addition on a house: Calgary homeowner’s guide | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
