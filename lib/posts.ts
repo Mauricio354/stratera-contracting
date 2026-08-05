@@ -6369,6 +6369,322 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "siding-vs-stucco",
+    title: "Siding vs stucco for Canadian homes: which should you choose?",
+    excerpt:
+      "For most Canadian homeowners, fibre cement or vinyl siding is the safer, lower-maintenance choice than traditional stucco — though stucco still earns its place in drier Prairie climates like Calgary when properly detailed.",
+    date: "2026-07-31",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785517440337_Couple-comparing-siding-and-stucco-samples-outside-home.jpeg",
+    coverAlt: "Siding vs stucco for Canadian homes: which should you choose?",
+    category: "Industry News",
+    readingTime: "18 min read",
+    metaTitle: "Siding vs stucco for Canadian homes: which should you choose?",
+    metaDescription:
+      "Explore siding vs stucco for Canadian homes. Discover which option offers better durability, cost savings, and maintenance for your region.",
+    content: [
+      {
+        type: "html",
+        html: `<p>For most Canadian homeowners, fibre cement or vinyl siding is the safer, lower-maintenance choice over traditional stucco. Stucco earns its place on homes in drier climates like Calgary or the southern Prairies, where freeze-thaw cycles are manageable and the aesthetic payoff is worth the higher upfront cost. In wetter regions, particularly coastal BC and the Atlantic provinces, stucco’s vulnerability to moisture intrusion makes siding the more practical long-term decision.</p>
+<p>The three factors that drive this verdict:</p>
+<ul>
+<li><strong>Climate first.</strong> <a href="https://doi.org/10.23967/c.dbmc.2023.128" rel="nofollow noopener noreferrer" target="_blank">Freeze-thaw cycles and moisture loads</a> are the primary failure drivers for stucco in Canada. Siding systems, particularly fibre cement, handle moisture and temperature swings with fewer structural consequences.</li>
+<li><strong>Budget and lifecycle cost.</strong> Stucco typically costs more to install and more to repair when problems develop. Siding panels are easier and cheaper to replace.</li>
+<li><strong>Maintenance commitment.</strong> Stucco requires regular inspection and professional patching. Most siding types need only periodic cleaning and occasional panel replacement.</li>
+</ul>
+<p>The main categories covered here: traditional cement-based stucco and EIFS (exterior insulation and finish systems) on the stucco side; fibre cement, vinyl, wood (cedar), aluminium, and steel siding on the cladding side.</p>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#how-do-siding-and-stucco-compare-side-by-side">How do siding and stucco compare side by side?</a></li>
+<li><a href="#what-you-need-to-know-about-stucco-types-costs-and-canadian-climate-risks">What you need to know about stucco: types, costs, and Canadian climate risks</a></li>
+<li><a href="#which-siding-materials-work-best-in-canadian-conditions">Which siding materials work best in Canadian conditions?</a></li>
+<li><a href="#how-does-your-region-affect-which-material-you-should-choose">How does your region affect which material you should choose?</a></li>
+<li><a href="#how-to-decide-a-practical-checklist-and-the-right-questions-to-ask-contractors">How to decide: a practical checklist and the right questions to ask contractors</a></li>
+<li><a href="#calgary-and-alberta-what-statera-contracting-sees-on-exterior-projects">Calgary and Alberta: what Statera Contracting sees on exterior projects</a></li>
+<li><a href="#key-takeaways">Key takeaways</a></li>
+<li><a href="#what-the-jobsite-actually-teaches-you-about-exterior-cladding">What the jobsite actually teaches you about exterior cladding</a></li>
+<li><a href="#statera-contracting-handles-exterior-re-clads-in-calgary-and-nearby">Statera Contracting handles exterior re-clads in Calgary and nearby</a></li>
+<li><a href="#useful-canadian-sources-and-further-reading">Useful Canadian sources and further reading</a></li>
+</ul>
+<h2>How do siding and stucco compare side by side?</h2>
+<p>The table below covers the dimensions that matter most for a Canadian re-clad decision. Cost ranges reflect installed pricing in Canadian dollars and vary by region, wall complexity, and contractor.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785517804480_Infographic-comparing-siding-and-stucco-key-factors.jpeg" alt="Infographic comparing siding and stucco key factors" /></p>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Upfront cost (installed, CAD/sq ft)</th>
+<th>Expected lifespan</th>
+<th>Maintenance</th>
+<th>Climate suitability</th>
+<th>Aesthetics</th>
+<th>Energy performance</th>
+<th>Repairability</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Traditional cement stucco</td>
+<td>$8</td>
+<td>50+ years (well-installed)</td>
+<td>Inspect annually; professional patching every 5–10 years</td>
+<td>Good in dry climates; cracking risk in freeze-thaw</td>
+<td>Seamless, textured; repaintable</td>
+<td>Moderate; no added insulation</td>
+<td>Difficult; colour-matching patches</td>
+</tr>
+<tr>
+<td>EIFS</td>
+<td>$10–$20</td>
+<td>over 50 years</td>
+<td>Inspect sealants annually; moisture-sensitive</td>
+<td>Moderate; requires precise drainage detailing</td>
+<td>Smooth or textured; versatile</td>
+<td>High; continuous insulation board</td>
+<td>Moderate; specialist repair needed</td>
+</tr>
+<tr>
+<td>Fibre cement siding</td>
+<td>$7</td>
+<td>40–60 years</td>
+<td>Repaint every 10–15 years; inspect caulking</td>
+<td>Excellent; resists moisture, pests, rot</td>
+<td>Wide profile range; factory colour options</td>
+<td>Moderate; depends on wall assembly</td>
+<td>Good; individual boards replaceable</td>
+</tr>
+<tr>
+<td>Vinyl siding</td>
+<td>$4</td>
+<td>20–40 years</td>
+<td>Minimal; wash annually</td>
+<td>Moderate; brittle in extreme cold, warps in heat</td>
+<td>Many profiles; limited colour depth</td>
+<td>Low to moderate</td>
+<td>Excellent; snap-in panel replacement</td>
+</tr>
+<tr>
+<td>Cedar / wood siding</td>
+<td>$9</td>
+<td>20–40 years (maintained)</td>
+<td>Paint or stain every 3–7 years</td>
+<td>Fair; moisture-sensitive without proper sealing</td>
+<td>Premium natural grain</td>
+<td>Low; no added insulation</td>
+<td>Good; individual boards replaceable</td>
+</tr>
+<tr>
+<td>Aluminium siding</td>
+<td>$7</td>
+<td>40–60 years</td>
+<td>Repaint when faded; inspect for dents</td>
+<td>Good; corrosion-resistant near salt air</td>
+<td>Smooth; limited profiles</td>
+<td>Low</td>
+<td>Moderate; dents are permanent</td>
+</tr>
+<tr>
+<td>Steel siding</td>
+<td>$9</td>
+<td>40–60 years</td>
+<td>Inspect coating; touch up chips promptly</td>
+<td>Excellent; high impact resistance</td>
+<td>Industrial to modern profiles</td>
+<td>Low to moderate</td>
+<td>Moderate; coating integrity is key</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Regional quick read:</strong></p>
+<ul>
+<li><strong>Prairies (Calgary, Edmonton, Saskatoon):</strong> Traditional stucco or fibre cement are both viable. Stucco suits drier conditions well; fibre cement is the lower-risk choice for homeowners who want predictable maintenance.</li>
+<li><strong>Coastal BC:</strong> Fibre cement or steel siding. High rainfall and salt air make stucco a higher-risk choice without exceptional drainage detailing.</li>
+<li><strong>Humid east (Ontario, Quebec, Atlantic provinces):</strong> Fibre cement is the consistent performer. Stucco requires careful moisture management and is less forgiving of installation shortcuts.</li>
+</ul>
+
+<h2>What you need to know about stucco: types, costs, and Canadian climate risks</h2>
+<p>Stucco is not one product. The two systems you will encounter in Canada behave quite differently, and choosing between them has real consequences for moisture management and long-term cost.</p>
+<h3>Traditional cement-based stucco</h3>
+<p>Traditional stucco is a multi-coat cement plaster applied over metal lath and a water-resistive barrier (WRB). A properly detailed three-coat system includes a scratch coat, a brown coat, and a finish coat. When the drainage plane and flashing are done correctly, it can last well over 50 years. The problem is that “done correctly” is doing a lot of work in that sentence.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785517434555_Close-up-of-traditional-stucco-wall-with-moisture-test.jpeg" alt="Close-up of traditional stucco wall with moisture test" /></p>
+<p>Stucco is rigid. As a house moves seasonally, hairline cracks develop, particularly around window and door corners. In Canadian climates, water enters those cracks, freezes, expands, and widens them. <a href="https://nrc-publications.canada.ca/eng/view/object/?id=b6cd5f60-d4f4-4292-a964-2d33eaa3439c" rel="nofollow noopener noreferrer" target="_blank">NRC research on hygrothermal performance</a> confirms that the integrity of the building envelope and moisture-management details determine longevity more than the finish material itself. A stucco home with poor flashing will fail faster than a vinyl-sided home with good flashing.</p>
+<p>Installed cost for traditional cement stucco in Canada varies by wall complexity and region. That includes lath, WRB, three coats, and labour. Repair costs are harder to predict because colour-matching aged stucco is genuinely difficult, and patching a small crack often means refinishing a full wall section.</p>
+<h3>EIFS (exterior insulation and finish systems)</h3>
+<p>EIFS replaces the rigid cement base with a continuous insulation board (typically EPS foam), a fibreglass mesh embedded in a base coat, and an acrylic finish coat. The insulation board delivers meaningful continuous R-value that traditional stucco cannot match, which is why EIFS is often specified when energy performance is a priority. EIFS offers continuous insulation benefits that traditional stucco cannot provide, but it requires precise installation with drainage details to avoid trapping moisture behind the system and to maximize energy efficiency, as detailed in <a href="https://onedaydoorsandclosets.com/blog/featured/what-kind-of-doors-are-best-for-interiors" rel="nofollow noopener noreferrer" target="_blank">the best interior door types for insulation</a>.</p>
+<p>Barrier EIFS (no drainage gap) was the source of significant moisture damage in Canadian homes through the 1990s and early 2000s. Drainage-plane EIFS, which incorporates a gap or drainage mat behind the insulation board, addresses that risk. If a contractor proposes EIFS without specifying a drainage cavity and a robust WRB, that is a red flag. Installed cost for EIFS reflects the added insulation and system complexity.</p>
+<p><strong>Maintenance for both stucco systems:</strong> Walk the perimeter every spring. Look for cracks wider than a hairline at corners, around penetrations, and along the base of walls. Sealant at control joints and around windows typically needs replacement every 5–10 years. Professional patching is not optional when cracks appear; DIY caulk fills rarely hold through a Canadian winter.</p>
+<p><strong>Pro Tip:</strong> <em>Press gently on the stucco surface around window corners and at the base of walls. A hollow sound or soft give suggests moisture has compromised the substrate behind the finish. Catch it early and you are looking at a patch repair; miss it and you may be looking at a full re-clad.</em></p>
+
+<h2>Which siding materials work best in Canadian conditions?</h2>
+<p>Siding covers a wide range of products, and the performance gap between them is significant. Here is how the main options stack up for Canadian homeowners.</p>
+<h3>Fibre cement siding</h3>
+<p>Fibre cement (cement, sand, and cellulose fibre pressed into boards or panels) is the most consistently recommended siding material for Canadian climates. It resists moisture, pests, and rot, holds paint well, and handles freeze-thaw cycles without cracking or warping. James Hardie siding is the most widely recognized brand in Canada, available in lap, panel, and shingle profiles with factory-applied colour options that carry meaningful warranties. LP SmartSide is an engineered wood alternative that offers similar dimensional stability with factory treatments against rot and insect attack, though it is wood-based rather than cement-based.</p>
+<p>Installed cost varies depending on factors such as brand and installation. Repainting is required every 10–15 years, and caulking around penetrations needs inspection annually. Individual boards can be replaced without disturbing the rest of the wall, which keeps repair costs manageable over the life of the home.</p>
+<h3>Vinyl siding</h3>
+<p>Vinyl is the entry-level choice for good reason: it is inexpensive, lightweight, and genuinely low-maintenance under normal conditions. Installed cost is generally lower than other materials, making it a budget-accessible option. The trade-off is performance at temperature extremes. Vinyl becomes brittle in severe cold and can crack on impact during a Canadian winter; it can also warp or buckle in prolonged heat. Colour is factory-baked into the material, so repainting is not a straightforward option and often voids the manufacturer’s warranty.</p>
+<p>Panel replacement is simple and inexpensive when damage is localized, which is one of vinyl’s genuine strengths. For a homeowner on a tight budget who wants low annual upkeep and is not in a region with extreme temperature swings, vinyl is a reasonable choice.</p>
+<h3>Wood and cedar siding</h3>
+<p>Wood siding, with cedar being the most common premium option in Canada, delivers a natural warmth and grain that no manufactured product fully replicates. Cedar siding is particularly valued for heritage homes and custom builds where authenticity is a design requirement. The maintenance commitment is real: paint or stain every 3–7 years, annual inspection for cracking or checking, and prompt attention to any areas where the finish has failed. Moisture is the enemy, and wood siding without a proper rainscreen and WRB will deteriorate faster than any other material on this list.</p>
+<p>Installed cost depends on material quality and labour intensity of proper installation. Lifecycle cost depends almost entirely on how consistently the finish is maintained.</p>
+<h3>Aluminium and steel siding</h3>
+<p>Aluminium siding is light, fire-resistant, and recyclable, making it a practical choice near coastal areas where salt air would corrode steel. Its main limitation is dents: aluminium dents permanently and the repair is visible. Craneboard is one product family that appears in Canadian market discussions for siding alternatives, though availability varies by region.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785517443296_Technician-inspecting-aluminium-siding-on-house-exterior.jpeg" alt="Technician inspecting aluminium siding on house exterior" /></p>
+<p>Steel siding offers the highest impact resistance of any cladding on this list, which matters in hail-prone areas like southern Alberta. A properly coated steel panel can last 40–60 years. The critical maintenance task is keeping the coating intact: chips and scratches expose bare metal to rust, so prompt touch-up is not optional. Installed cost is comparable to premium wood, but the durability payoff over decades can be higher.</p>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Typical installed cost (CAD/sq ft)</th>
+<th>Lifespan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vinyl siding</td>
+<td>$4</td>
+<td>20–40 years</td>
+</tr>
+<tr>
+<td>Fibre cement (James Hardie, LP SmartSide)</td>
+<td>$7</td>
+<td>40–60 years</td>
+</tr>
+<tr>
+<td>Aluminium siding</td>
+<td>$7</td>
+<td>40–60 years</td>
+</tr>
+<tr>
+<td>Cedar / wood siding</td>
+<td>$9</td>
+<td>20–40 years (maintained)</td>
+</tr>
+<tr>
+<td>Steel siding</td>
+<td>$9</td>
+<td>40–60 years</td>
+</tr>
+</tbody>
+</table>
+
+<h2>How does your region affect which material you should choose?</h2>
+<p>Canada’s climate is not uniform, and the right cladding choice in Calgary is not automatically the right choice in Halifax or Vancouver. The primary failure modes differ by region, and understanding them helps you rule options in or out before you start getting quotes.</p>
+<h3>Freeze-thaw and moisture intrusion</h3>
+<p>The freeze-thaw cycle is the dominant risk for stucco across most of Canada. Water enters a crack, freezes overnight, expands, and widens the crack. Repeat that process over a few winters and a hairline crack becomes a moisture pathway into the wall assembly. Studies projecting increased precipitation and more frequent extreme weather events suggest that moisture loads on exterior wall systems will increase over the coming decades in many Canadian cities, which raises the long-term risk profile for stucco in already-wet climates.</p>
+<p>Siding systems are generally more tolerant of freeze-thaw because individual panels can flex slightly and damaged sections can be replaced without affecting the rest of the wall.</p>
+<h3>Regional recommendations</h3>
+<p><strong>Prairies (Alberta, Saskatchewan, Manitoba):</strong> Low annual precipitation and cold, dry winters make this the most stucco-friendly region in Canada. Traditional cement stucco performs well here when installed with proper control joints and flashing. Fibre cement is the lower-risk alternative for homeowners who prefer predictable maintenance. Steel siding is worth considering in hail-prone areas of southern Alberta.</p>
+<p><strong>Coastal BC:</strong> High annual rainfall and mild but persistent moisture make stucco a higher-risk choice. Fibre cement with a proper rainscreen assembly is the standard recommendation. EIFS is viable only with drainage-plane detailing and an experienced installer. Aluminium siding handles the salt air near the coast without corrosion concerns.</p>
+<p><strong>Humid east (Ontario, Quebec, Atlantic provinces):</strong> Freeze-thaw combined with high humidity creates the most demanding conditions for any cladding system. Fibre cement is the consistent performer. Traditional stucco requires exceptional detailing and a contractor with specific experience in high-moisture assemblies. Wood siding can work but demands a rigorous maintenance schedule.</p>
+<h3>Wall assembly details that determine performance</h3>
+<p>The NRC’s MEWS project research is clear: the wall assembly matters more than the finish material. A drained air cavity behind the cladding, a robust WRB, and properly lapped and sealed flashing at all penetrations are what separate a 50-year envelope from one that fails in 10. This applies equally to stucco and siding.</p>
+<p><strong>Pro Tip:</strong> <em>Ask any contractor to show you the wall assembly detail on their quote drawings. Specifically, look for a labelled drainage cavity (minimum 10mm for siding, a drainage mat or gap for EIFS), a named WRB product, and a flashing detail at every window, door, and penetration. If the quote shows only a finish material with no assembly detail, ask for it in writing before you sign.</em></p>
+
+<h2>How to decide: a practical checklist and the right questions to ask contractors</h2>
+<p>Working through these steps before you call contractors will save you time and help you get quotes that are actually comparable.</p>
+<h3>Decision checklist</h3>
+<ol>
+<li><strong>Define the scope.</strong> Are you patching and repainting, or is this a full tear-off and re-clad? A moisture diagnostic (probe testing or infrared scan) on the existing wall will tell you whether the substrate is sound enough to re-clad over or whether sheathing replacement is likely.</li>
+<li><strong>Assess your climate risk.</strong> Use the regional guide above. If you are in a high-moisture zone, stucco requires a higher standard of detailing and a more experienced installer.</li>
+<li><strong>Set a realistic budget.</strong> Include a contingency for substrate repair. Sheathing rot and degraded framing are common discoveries after tear-off, and a responsible contractor will include a defined allowance for this in the quote rather than billing it as a surprise extra.</li>
+<li><strong>Shortlist materials.</strong> Based on climate, budget, and aesthetic preference, narrow to two or three options before you start getting quotes. Comparing a stucco quote to a vinyl quote to a fibre cement quote is useful; comparing six materials across four contractors creates confusion.</li>
+<li><strong>Check permit requirements.</strong> A full re-clad in Calgary and most Canadian municipalities requires a building permit. Confirm this with your contractor and factor the timeline into your project schedule. For Calgary renovation planning, permit timelines vary by project scope and season.</li>
+<li><strong>Evaluate quotes on assembly, not just price.</strong> The lowest quote is often the one that omits drainage details, substrate repair allowances, and proper flashing.</li>
+</ol>
+<h3>Questions to ask every contractor</h3>
+<ul>
+<li>What WRB product are you specifying, and how will it be lapped and sealed at penetrations?</li>
+<li>Does your quote include a drainage cavity? What is the gap dimension and how is it maintained?</li>
+<li>What is your allowance for substrate or sheathing repair after tear-off, and how is it priced?</li>
+<li>What warranty do you provide on workmanship, and what does it cover?</li>
+<li>What is the installation window for this material, and what temperature or weather conditions will stop work?</li>
+<li>Are you pulling the permit, or is that my responsibility?</li>
+</ul>
+<h3>Red flags on quotes and contracts</h3>
+<ul>
+<li>No flashing detail specified for windows, doors, or roof-wall intersections</li>
+<li>No substrate repair allowance (or a vague “extra as required” clause with no unit rate)</li>
+<li>Labour rates significantly below local market without explanation</li>
+<li>No named WRB product or drainage cavity specification</li>
+<li>A verbal-only warranty with nothing in writing</li>
+</ul>
+<p>For older homes, also read what Alberta homeowners need to know about renovating older properties before finalizing your scope, particularly if the existing sheathing is board sheathing or older foam.</p>
+
+<h2>Calgary and Alberta: what Statera Contracting sees on exterior projects</h2>
+<p>Calgary’s climate creates a specific set of conditions that affect cladding choice and installation timing. Winters are cold and dry, but chinooks can push temperatures from -20°C to +10°C within hours. That rapid temperature swing stresses any rigid cladding system, and stucco in particular. Summers bring intense UV exposure and, in southern Alberta, significant hail risk.</p>
+<p>For Calgary homeowners, Statera Contracting’s experience on exterior re-clad projects points to a few consistent patterns:</p>
+<ul>
+<li><strong>Fibre cement is the most common choice</strong> for homeowners who want durability without the maintenance commitment of stucco. James Hardie and LP SmartSide are both widely available and well-supported by local suppliers.</li>
+<li><strong>Traditional stucco is viable in Calgary</strong> when the installer has specific experience with control joint placement and drainage plane detailing. The drier climate reduces the moisture risk that makes stucco problematic on the coast, but freeze-thaw cracking is still a real concern.</li>
+<li><strong>Steel siding is worth a serious look</strong> for homes in hail-exposed areas. The impact resistance is meaningfully better than fibre cement or vinyl, and the long service life offsets the higher upfront cost.</li>
+<li><strong>EIFS requires careful contractor selection.</strong> The energy performance benefits are real, but the installation sensitivity is also real. Ask specifically about drainage-plane EIFS and get references from completed projects.</li>
+<li><strong>Installation timing matters.</strong> Stucco and caulking applications have temperature minimums. In Calgary, the practical exterior renovation window runs from late April through October. Scheduling outside that window adds cost and risk.</li>
+</ul>
+<p>For a broader look at sustainable exterior materials in Alberta, including durability and environmental considerations, that resource covers the trade-offs in more depth.</p>
+
+<h2>Key takeaways</h2>
+<p>Fibre cement siding is the most consistently reliable exterior cladding choice for Canadian homeowners across most climate zones, with stucco remaining a strong option in drier Prairie climates when installed with proper drainage detailing.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fibre cement leads in most regions</td>
+<td>Resists moisture, pests, and freeze-thaw cycles; individual boards are replaceable without full-wall disruption.</td>
+</tr>
+<tr>
+<td>Stucco suits dry Prairie climates</td>
+<td>Traditional cement stucco performs well in Calgary and similar low-precipitation zones when drainage and flashing are correctly detailed.</td>
+</tr>
+<tr>
+<td>Wall assembly determines longevity</td>
+<td>A proper WRB, drainage cavity, and sealed flashing matter more than the finish material choice alone.</td>
+</tr>
+<tr>
+<td>Choose EIFS for energy goals</td>
+<td>EIFS delivers continuous insulation that traditional stucco and siding cannot match, but only with drainage-plane detailing and an experienced installer.</td>
+</tr>
+<tr>
+<td>Statera Contracting for Calgary exteriors</td>
+<td>Statera handles exterior re-clads, substrate diagnostics, permit management, and fixed-price quotes for Calgary and nearby homeowners.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>What the jobsite actually teaches you about exterior cladding</h2>
+<p>Most homeowners approach a re-clad decision as a materials question. After working through exterior projects in Calgary and the surrounding area, the pattern that stands out is that the material choice is rarely where projects go wrong. The problems almost always trace back to the wall assembly: a missing drainage gap, flashing that stops short of a window corner, or a WRB that was not lapped correctly at a horizontal joint.</p>
+<p>The other consistent oversight is underestimating substrate repair. Tear-off reveals what the finish was hiding, and it is rarely nothing. Degraded sheathing, wet insulation, and compromised framing members are common findings, particularly on homes where the original cladding was installed without a proper drainage plane. Homeowners who budget only for the new finish material and labour are often caught off guard by the additional cost.</p>
+<p>Colour choice is a smaller but real consideration in Calgary’s climate. Dark colours absorb significantly more heat, which accelerates thermal cycling on any rigid cladding system. On a south- or west-facing wall, that matters for long-term performance.</p>
+<p>At Statera Contracting, the process starts with a site inspection and moisture diagnostic before any material is specified. That sequence, inspection first, then specification, then fixed quote, is what allows us to give homeowners a number they can actually rely on.</p>
+
+<h2>Statera Contracting handles exterior re-clads in Calgary and nearby</h2>
+<p>Choosing between stucco and siding is one decision. Getting the wall assembly, substrate condition, and installation details right is where the real work happens. Statera Contracting manages the full scope of exterior re-clad projects in Calgary and the surrounding area: site inspection, moisture diagnostics, permit handling, substrate remediation, and installation, all under a fixed-price contract so there are no billing surprises after tear-off.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>We work with fibre cement, stucco, EIFS, and steel siding systems, and we pull permits as part of the project rather than leaving that to the homeowner. If you are weighing your options or have already had quotes that feel incomplete, a site inspection is the right starting point. Contact Statera Contracting to schedule an inspection and get a written quote that includes a defined substrate repair allowance.</p>
+
+<h2>Useful Canadian sources and further reading</h2>
+<ul>
+<li><strong><a href="https://www.cmhc-schl.gc.ca" rel="nofollow noopener noreferrer" target="_blank">CMHC: About Your House — Exterior Cladding</a></strong> — Canada Mortgage and Housing Corporation publishes practical homeowner guides on cladding selection, maintenance, and moisture management. Search “exterior cladding” on the CMHC site for the most current guidance relevant to your province.</li>
+<li><strong><a href="https://natural-resources.canada.ca/energy/efficiency/housing" rel="nofollow noopener noreferrer" target="_blank">NRCan: Energy-efficient housing</a></strong> — Natural Resources Canada’s housing energy resources cover insulation requirements and continuous insulation systems like EIFS, useful when comparing the energy performance implications of different wall assemblies.</li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/adding-a-second-story-to-a-house" target="_blank" rel="noopener">Adding a second storey to your house: Canada planning guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovation-tax-credit" target="_blank" rel="noopener">Home renovation tax credit in Canada: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">Renovating an older home: what Alberta homeowners need to know | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/putting-an-addition-on-a-house-calgary-homeowners-guide" target="_blank" rel="noopener">Putting an addition on a house: Calgary homeowner’s guide | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
