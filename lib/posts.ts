@@ -7246,7 +7246,7 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
     title: "Top 3 Renovation Companies in Calgary Providers 2026",
     excerpt:
       "Explore the top 3 renovation companies in Calgary providers. Compare options easily to choose the best fit for your project needs.",
-    date: "2026-07-10",
+    date: "2026-07-07",
     author: "Industry News",
     coverImage:
       "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356366745_Contractor-consulting-with-couple-on-renovation-plans.jpeg",
@@ -7432,7 +7432,7 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
     title: "Top 4 Contractors for Home Remodeling Providers 2026",
     excerpt:
       "Explore 4 top contractors for home remodeling to decide the best provider for your project. Compare and choose the right fit for your needs.",
-    date: "2026-07-11",
+    date: "2026-07-08",
     author: "Industry News",
     coverImage:
       "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783498842265_Contractor-reviewing-remodeling-plans-with-couple.jpeg",
