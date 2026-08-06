@@ -26,7 +26,9 @@
   "661401": { "status": "published", "publishedAt": "2026-08-04" },
   "665187": { "status": "published", "publishedAt": "2026-08-01" },
   "669295": { "status": "published", "publishedAt": "2026-08-05" },
-  "672781": { "status": "queued", "reason": "Manual override 2026-08-04 (Mauricio): material-comparison title, no competitor named or linked — cleared to publish, waiting on daily cap" },
+  "672781": { "status": "published", "publishedAt": "2026-08-06" },
   "676654": { "status": "published", "publishedAt": "2026-08-03" },
-  "681677": { "status": "queued", "reason": "Manual override 2026-08-04 (Mauricio): material-comparison title, cleared to publish once the RidgeCap GC outbound link is stripped — waiting on daily cap" }
+  "681677": { "status": "queued", "reason": "Manual override 2026-08-04 (Mauricio): material-comparison title, cleared to publish once the RidgeCap GC outbound link is stripped — waiting on daily cap" },
+  "684845": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-08-06" },
+  "689705": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-08-06" }
 }

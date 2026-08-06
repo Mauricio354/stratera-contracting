@@ -6685,6 +6685,303 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "hardwood-vs-engineered-flooring",
+    title: "Hardwood vs engineered flooring: which should you choose?",
+    excerpt:
+      "Wondering about hardwood vs engineered flooring? Discover which option suits your home best based on stability, refinishing, and installation.",
+    date: "2026-08-01",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785586993008_Woman-comparing-hardwood-and-engineered-flooring-samples.jpeg",
+    coverAlt: "Hardwood vs engineered flooring: which should you choose?",
+    category: "Industry News",
+    readingTime: "16 min read",
+    metaTitle: "Hardwood vs engineered flooring: which should you choose?",
+    metaDescription:
+      "Wondering about hardwood vs engineered flooring? Discover which option suits your home best based on stability, refinishing, and installation.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Choose engineered hardwood for basements, concrete slabs, condos, and radiant in-floor heating. Choose solid hardwood where maximum refinishability matters, where you have a stable wood subfloor above grade, and where you plan to stay long enough to sand and refinish the floor multiple times over decades. Those two sentences cover most decisions Canadian homeowners face. The proof points are straightforward: <a href="https://www.nwfa.org/" rel="nofollow noopener noreferrer" target="_blank">engineered hardwood’s cross-ply core</a> provides superior dimensional stability over concrete and radiant heat where solid wood would cup and gap; a solid hardwood floor can be sanded and refinished 5–7 or more times versus 0–3 times for engineered depending on wear-layer thickness; and engineered hardwood supports glue-down, floating, and nail-down installation while solid hardwood is generally limited to nail-down on a wood subfloor.</p>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Solid hardwood</th>
+<th>Engineered hardwood</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Construction</td>
+<td>Single piece of timber, typically about three-quarters of an inch thick</td>
+<td>Real-wood veneer of varying thickness over cross-ply plywood or HDF core</td>
+</tr>
+<tr>
+<td>Dimensional stability</td>
+<td>Expands and contracts significantly with humidity</td>
+<td>Stable across humidity and temperature swings</td>
+</tr>
+<tr>
+<td>Refinishing potential</td>
+<td>5–7 or more times</td>
+<td>0–3 times depending on wear-layer thickness</td>
+</tr>
+<tr>
+<td>Typical lifespan</td>
+<td>several decades with proper care</td>
+<td>variable lifespan depending on veneer thickness</td>
+</tr>
+<tr>
+<td>Best installation</td>
+<td>Nail-down on wood subfloor, above grade</td>
+<td>Glue-down, floating, or nail-down; concrete, slab, radiant heat</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785587437498_Infographic-comparing-solid-and-engineered-hardwood-flooring.jpeg" alt="Infographic comparing solid and engineered hardwood flooring" /></p>
+<p><strong>For most Canadian homeowners</strong>, especially those finishing a basement, living in a condo, or installing over radiant heat, engineered hardwood is the practical default. Solid hardwood earns its place in above-grade main floors where humidity is controlled and the goal is a floor that outlasts the mortgage.</p>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#how-are-hardwood-and-engineered-flooring-actually-made">How are hardwood and engineered flooring actually made?</a></li>
+<li><a href="#how-durable-is-engineered-flooring-and-how-long-will-it-last">How durable is engineered flooring, and how long will it last?</a></li>
+<li><a href="#where-should-you-install-each-floor-type">Where should you install each floor type?</a></li>
+<li><a href="#what-does-installation-cost-in-canada-and-how-long-does-it-take">What does installation cost in Canada, and how long does it take?</a></li>
+<li><a href="#how-do-appearance-and-style-options-compare">How do appearance and style options compare?</a></li>
+<li><a href="#how-do-you-maintain-each-floor-type-in-a-canadian-home">How do you maintain each floor type in a Canadian home?</a></li>
+<li><a href="#what-certifications-and-environmental-factors-should-you-look-for">What certifications and environmental factors should you look for?</a></li>
+<li><a href="#how-do-you-decide-which-floor-is-right-for-your-home">How do you decide which floor is right for your home?</a></li>
+<li><a href="#why-this-decision-matters-specifically-in-calgary-and-alberta">Why this decision matters specifically in Calgary and Alberta</a></li>
+<li><a href="#key-takeaways">Key takeaways</a></li>
+<li><a href="#what-most-homeowners-get-wrong-about-choosing-wood-floors">What most homeowners get wrong about choosing wood floors</a></li>
+<li><a href="#flooring-done-right-in-calgary-how-statera-contracting-can-help">Flooring done right in Calgary: how Statera Contracting can help</a></li>
+</ul>
+<h2>How are hardwood and engineered flooring actually made?</h2>
+<p>The construction difference is what drives every other trade-off between these two products.</p>
+<p><strong>Solid hardwood</strong> is exactly what it sounds like: a single piece of timber milled to a consistent thickness, typically around three-quarters of an inch. Because the entire plank is wood, it can be sanded down and refinished repeatedly. The trade-off is that solid wood moves with moisture. It expands when humidity rises and contracts when the air dries out, which is why it reacts so strongly to Canada’s seasonal swings.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785586990477_Floor-installer-fitting-solid-hardwood-planks.jpeg" alt="Floor installer fitting solid hardwood planks" /></p>
+<p><strong>Engineered hardwood</strong> bonds a real-wood veneer to a cross-ply core, usually multiple layers of plywood or high-density fibreboard (HDF) oriented in alternating grain directions. That cross-ply structure resists the expansion and contraction that causes solid wood to gap in winter and cup in summer. The veneer on top is genuine hardwood, so the finished floor appears like solid wood once installed.</p>
+<h3>Key terms to know before you buy</h3>
+<ul>
+<li><strong>Wear layer / veneer thickness:</strong> the thickness of the real-wood layer on top of an engineered plank, measured in millimetres. This single number determines how many times the floor can be sanded.</li>
+<li><strong>Core:</strong> the substrate beneath the veneer. Plywood cores handle moisture better than HDF; HDF cores are denser and more uniform.</li>
+<li><strong>Cross-ply construction:</strong> alternating grain directions in the core layers that counteract wood movement.</li>
+<li><strong>Acclimation:</strong> the process of letting flooring sit in the installation space for several days before installation so it adjusts to the room’s temperature and humidity.</li>
+</ul>
+<h2>How durable is engineered flooring, and how long will it last?</h2>
+<p>Durability comes down to two factors: what species the veneer is, and how thick that wear layer is. Refinishing feasibility for engineered hardwood depends entirely on wear-layer thickness: a 1 mm veneer usually cannot be sanded at all, while 3 mm is a practical minimum for a professional refinish. Many homeowners assume all engineered floors can be restored like solid wood, and that assumption leads to expensive disappointment.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785586991465_Close-up-on-hands-measuring-engineered-hardwood-veneer.jpeg" alt="Close-up on hands measuring engineered hardwood veneer" /></p>
+<table>
+<thead>
+<tr>
+<th>Product type</th>
+<th>Wear-layer thickness</th>
+<th>Refinishes possible</th>
+<th>Realistic lifespan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Entry-level engineered</td>
+<td>thin veneer, minimal sanding</td>
+<td>0 times</td>
+<td>shorter lifespan</td>
+</tr>
+<tr>
+<td>Mid-range engineered</td>
+<td>moderate veneer, some sanding</td>
+<td>1–2 times</td>
+<td>moderate lifespan</td>
+</tr>
+<tr>
+<td>Premium engineered</td>
+<td>thick veneer, multiple sandings</td>
+<td>2–3 times</td>
+<td>longer lifespan</td>
+</tr>
+<tr>
+<td>Solid hardwood</td>
+<td>full thickness plank</td>
+<td>5–7 or more times</td>
+<td>longest lifespan</td>
+</tr>
+</tbody>
+</table>
+<p>Species hardness also matters. Harder species like white oak, hickory, and hard maple resist denting better than softer ones like pine or cherry. Finish type plays a role too: UV-cured aluminium oxide finishes (common on factory-finished products) are harder than site-applied oil finishes, though oil finishes are easier to spot-repair.</p>
+<p><strong>Pro Tip:</strong> <em>Ask your supplier to confirm the wear-layer thickness in millimetres, in writing, before you sign anything. Avoid relying on vague descriptions like “thick veneer.” If the product data sheet does not state a millimetre figure, request it from the manufacturer directly.</em></p>
+<h2>Where should you install each floor type?</h2>
+<p>Moisture and temperature are the deciding factors for location. Solid hardwood cannot be nailed to concrete and is too reactive to slab moisture, making it unsuitable for most Canadian basements and condos. Engineered hardwood is the standard recommendation for those spaces precisely because its cross-ply core holds stable.</p>
+<h3>Step-by-step subfloor check before installation</h3>
+<ol>
+<li>Identify your subfloor type: wood (plywood or OSB) or concrete slab.</li>
+<li>Check for visible moisture, efflorescence (white mineral deposits), or previous water damage.</li>
+<li>For concrete, conduct a calcium chloride or relative humidity (RH) probe test. Most manufacturers require slab RH below 75–80% before installation.</li>
+<li>Measure subfloor flatness: most manufacturers require no more than 3/16" variation over 10 feet.</li>
+<li>Confirm whether radiant heat is present and get the system’s maximum surface temperature from the installer.</li>
+</ol>
+<h3>Location recommendations by room</h3>
+<ul>
+<li><strong>Basement (below grade):</strong> engineered hardwood only, glue-down or floating; never solid hardwood.</li>
+<li><strong>Concrete slab (main floor condo or addition):</strong> engineered hardwood; solid hardwood is not appropriate.</li>
+<li><strong>Radiant in-floor heating:</strong> engineered hardwood is the default; confirm the manufacturer’s maximum surface temperature rating (typically 27°C).</li>
+<li><strong>Above-grade living areas (wood subfloor):</strong> both solid and engineered work; solid is preferred where long-term refinishability is the priority.</li>
+<li><strong>Kitchen:</strong> engineered hardwood handles incidental spills better; solid hardwood is acceptable with prompt cleanup and good ventilation. For a full kitchen flooring plan, see our <a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">kitchen renovation ideas for Alberta homeowners</a>.</li>
+<li><strong>Bathroom and laundry room:</strong> neither solid nor engineered hardwood is recommended. Both are vulnerable to standing water and steam. See our <a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">bathroom remodel ideas guide</a> for better alternatives.</li>
+</ul>
+<h2>What does installation cost in Canada, and how long does it take?</h2>
+<p>Installation method and subfloor condition are the two biggest cost variables. Solid hardwood is generally limited to nail-down installation on wood subfloors, while engineered hardwood supports glue-down, floating (click-lock), and nail-down methods, giving contractors more flexibility on complex renovation sites.</p>
+<h3>Common installation methods</h3>
+<ul>
+<li><strong>Nail-down (staple-down):</strong> traditional method for solid hardwood and thicker engineered planks over wood subfloors; requires a pneumatic nailer and a minimum subfloor thickness.</li>
+<li><strong>Glue-down:</strong> bonds engineered planks directly to concrete or wood; preferred for radiant heat and below-grade applications.</li>
+<li><strong>Floating (click-lock):</strong> engineered planks lock together and “float” over an underlayment without adhesive or fasteners; fastest installation and easiest for DIY, though it can feel slightly hollow underfoot.</li>
+<li><strong>Glue-floating hybrid:</strong> combines a bead of adhesive with a floating installation for added stability.</li>
+</ul>
+<h3>Typical Canadian price ranges</h3>
+<p>Material and installation costs vary by region, species, and subfloor condition. As general guidance for Calgary and Alberta:</p>
+<ul>
+<li><strong>Engineered hardwood material:</strong> roughly $4–$12 per square foot depending on veneer thickness and species.</li>
+<li><strong>Solid hardwood material:</strong> roughly $5–$15 per square foot for common species.</li>
+<li><strong>Installed cost (material + labour + basic subfloor prep):</strong> typically $8–$18 per square foot for engineered; $10–$20 per square foot for solid hardwood.</li>
+<li><strong>Subfloor levelling, moisture mitigation, or stair nosing</strong> add cost and should be itemised separately in any quote.</li>
+</ul>
+<blockquote>
+<p><strong>Timeline to expect:</strong> Allow 3–7 days of acclimation before installation begins. A typical 500–800 sq. ft. installation takes 2–4 days on site. Site-finished solid hardwood adds 2–4 days for sanding, staining, and finish coats plus drying time.</p>
+</blockquote>
+<h2>How do appearance and style options compare?</h2>
+<p>Once installed, solid and engineered hardwood are visually indistinguishable to most people. The real differences show up in what you can specify.</p>
+<ul>
+<li><strong>Plank width:</strong> engineered hardwood’s stable core allows wider planks (5"–9"+) without the cupping risk that wide solid planks carry in humid conditions. Wide-plank formats are one of the most commonly cited advantages of engineered.</li>
+<li><strong>Species availability:</strong> both products come in oak, maple, hickory, walnut, and many other species. Exotic species are more commonly available in engineered format because the veneer uses less of the raw timber.</li>
+<li><strong>Finish options:</strong> wire-brushed and hand-scraped textures hide everyday scratches better than smooth finishes, which is worth considering for busy households. UV-cured factory finishes are harder and more consistent than site-applied finishes.</li>
+<li><strong>Matching existing floors:</strong> if you are <a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">renovating an older home</a> with existing solid hardwood, ask your supplier for physical samples to compare under your home’s actual lighting. Stain batches vary, and a match that looks perfect in a showroom can read differently in a north-facing room.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Always request full-length plank samples, not just small chips. Grain variation across a plank tells you far more about how the floor will look at scale.</em></p>
+<h2>How do you maintain each floor type in a Canadian home?</h2>
+<p>Routine care is similar for both products, but humidity management separates the two in the long run.</p>
+<h3>Daily and weekly maintenance</h3>
+<ul>
+<li>Sweep or vacuum with a soft-bristle attachment daily in high-traffic areas to prevent grit from scratching the finish.</li>
+<li>Damp-mop with a pH-neutral hardwood cleaner (such as Bona or a manufacturer-approved product) weekly. Never use a soaking-wet mop.</li>
+<li>Wipe up spills immediately; standing water is the enemy of both floor types.</li>
+<li>Use felt pads under furniture legs and avoid dragging heavy items.</li>
+</ul>
+<h3>Humidity control in Canadian climates</h3>
+<p>Solid hardwood requires strict year-round humidity control, targeting 35–55% relative humidity (RH). Alberta winters regularly push indoor RH below 20% without a whole-home humidifier, causing shrinkage gaps between planks. Summers can swing the other direction, causing cupping. Failing to maintain that range can void your warranty. Engineered hardwood manages those swings better, though it still benefits from humidity control in the 35–55% RH range.</p>
+<p>Acclimate solid hardwood for a minimum of 5–7 days on site before installation, stored flat in the room where it will be installed. Engineered hardwood also benefits from acclimation, though it is less sensitive.</p>
+<h3>Pet and scratch resistance</h3>
+<p><a href="https://www.hartco.com/en-us/can-you-have-a-dog-with-hardwood-floors.html" rel="nofollow noopener noreferrer" target="_blank">Factory-finished engineered hardwoods often carry tougher aluminium oxide finishes</a> and can be slightly more scratch-resistant in practice, but species hardness and finish type remain the deciding factors. A soft-species engineered floor will dent more easily than a hard-species solid floor regardless of the factory finish.</p>
+<p><strong>Pro Tip:</strong> <em>For households with dogs, choose a wire-brushed or hand-scraped texture in a harder species (white oak or hickory). The texture hides surface scratches and the species hardness resists nail dents. Avoid high-gloss finishes, which show every mark.</em></p>
+<h2>What certifications and environmental factors should you look for?</h2>
+<p>Both solid and engineered hardwood can be responsibly sourced, but you need to ask for the right labels.</p>
+<ul>
+<li><strong>FSC (Forest Stewardship Council):</strong> certifies that wood comes from forests managed to environmental and social standards. Look for the FSC logo on the product or ask for the chain-of-custody certificate number.</li>
+<li><strong>PEFC (Programme for the Endorsement of Forest Certification):</strong> a similar international certification framework; widely used by Canadian and European suppliers.</li>
+<li><strong>VOC and formaldehyde:</strong> engineered hardwood uses adhesives in its core construction. Ask manufacturers for compliance with low-emission standards acknowledged in Canada as a benchmark for indoor air quality.</li>
+<li><strong>Reclaimed wood:</strong> solid hardwood made from reclaimed timber has a lower embodied carbon footprint than new-cut product. Reclaimed engineered hardwood exists but is less common.</li>
+</ul>
+<blockquote>
+<p><strong>A note on material use:</strong> engineered hardwood uses less old-growth timber per square foot than solid hardwood because only the veneer layer requires premium wood. For homeowners prioritising resource efficiency, <a href="https://greenbuildingcanada.ca/hardwood-flooring-vs-engineered-wood/" rel="nofollow noopener noreferrer" target="_blank">engineered hardwood’s construction</a> can be the more sustainable choice when the core uses certified plywood.</p>
+</blockquote>
+<h2>How do you decide which floor is right for your home?</h2>
+<p>Work through these questions before you request a quote.</p>
+<h3>Decision checklist</h3>
+<ol>
+<li><strong>What is your subfloor?</strong> Concrete slab or wood? Concrete means engineered hardwood.</li>
+<li><strong>Is there radiant in-floor heating?</strong> Yes means engineered hardwood.</li>
+<li><strong>Is the installation below grade?</strong> Basement or below-grade suite means engineered hardwood.</li>
+<li><strong>How long do you plan to stay?</strong> If you expect to refinish the floor two or more times over 30+ years and have a stable wood subfloor, solid hardwood may be worth the premium.</li>
+<li><strong>What is your humidity control situation?</strong> No whole-home humidifier in an Alberta climate is a strong argument for engineered hardwood even above grade.</li>
+<li><strong>What is your resale horizon?</strong> Both products add resale value in Canada; solid hardwood carries a slight premium perception in above-grade main-floor applications.</li>
+</ol>
+<h3>Questions to ask your installer or supplier</h3>
+<ul>
+<li>What is the wear-layer thickness in millimetres? (Get this in writing.)</li>
+<li>What is the core material: plywood or HDF?</li>
+<li>What installation method do you recommend for my specific subfloor, and why?</li>
+<li>What does the warranty cover, and what voids it? (Humidity-related damage is a common exclusion.)</li>
+<li>Does the quote include subfloor prep, moisture testing, acclimation time, and transitions?</li>
+</ul>
+<h3>Red flags to watch for</h3>
+<ul>
+<li>A quote that does not mention subfloor preparation or moisture testing.</li>
+<li>A supplier who cannot tell you the wear-layer thickness in millimetres.</li>
+<li>An installation timeline that skips acclimation entirely.</li>
+<li>Warranty language that excludes humidity-related damage without explaining what humidity range is required.</li>
+</ul>
+<h2>Why this decision matters specifically in Calgary and Alberta</h2>
+<p>Calgary’s climate creates conditions that punish the wrong flooring choice faster than most Canadian cities. Indoor RH in an unhumidified Calgary home can drop below 20% in January and climb past 60% in a humid August, a swing that causes solid hardwood to gap visibly in winter and potentially cup in summer. Engineered hardwood is specifically designed to handle temperature and humidity changes, making it one of the more reliable choices for Alberta’s climate.</p>
+<p>In basement finishing projects, the situation is even clearer; for advice on financing and rental income implications, consider consulting a <a href="https://dreamhousemortgage.ca/legal-basement-suite-mortgage-calgary" target="_blank" rel="nofollow noopener noreferrer">legal basement suite mortgage in Calgary</a>. Calgary homes with slab-on-grade construction or developed basements require engineered hardwood as the wood flooring option. Solid hardwood over a concrete slab is not a viable installation regardless of how dry the slab tests. For a full picture of what basement finishing involves in Calgary, our <a href="https://stateracontracting.com/blog/basement-finishing-calgary" target="_blank" rel="noopener">basement finishing guide</a> covers subfloor systems, moisture mitigation, and sequencing.</p>
+<ul>
+<li><strong>Condo and multi-family installations:</strong> floating engineered hardwood is the standard approach; glue-down is preferred where sound transmission between floors is a concern.</li>
+<li><strong>Warranty gaps we see regularly:</strong> humidity-controlled warranties that are voided because the homeowner did not install a whole-home humidifier; improper acclimation that causes gapping within the first heating season.</li>
+<li><strong>Radiant heat:</strong> always confirm the floor’s maximum surface temperature rating with the manufacturer before specifying. Most engineered products are rated to 27°C surface temperature; exceeding that voids the warranty.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask your contractor to include the required humidity range and acclimation period in the written scope of work, not just the product spec sheet. If a warranty claim arises later, a documented installation protocol is your best protection.</em></p>
+<h2>Key takeaways</h2>
+<p>Engineered hardwood is the right choice for most Canadian basement, slab, and radiant-heat installations; solid hardwood earns its place above grade with a stable wood subfloor and reliable humidity control.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wear-layer thickness is the key spec</td>
+<td>Ask for the veneer thickness in millimetres in writing; 3 mm is the practical minimum for a refinish.</td>
+</tr>
+<tr>
+<td>Location drives the decision</td>
+<td>Concrete slab, basement, or radiant heat means engineered hardwood; solid hardwood belongs above grade on a wood subfloor only.</td>
+</tr>
+<tr>
+<td>Humidity control is non-negotiable</td>
+<td>Target 35–55% RH year-round; Alberta winters without a humidifier will damage solid hardwood and may void warranties.</td>
+</tr>
+<tr>
+<td>Refinishing potential differs significantly</td>
+<td>Solid hardwood can be refinished 5–7+ times; engineered hardwood 0–3 times depending on wear layer.</td>
+</tr>
+<tr>
+<td>Statera Contracting handles the full scope</td>
+<td>For Calgary homeowners, Statera Contracting provides moisture testing, written veneer specs, and fixed-price installation from subfloor prep through finished floor.</td>
+</tr>
+</tbody>
+</table>
+<h2>What most homeowners get wrong about choosing wood floors</h2>
+<p>The conventional wisdom on this topic tends to frame solid hardwood as the premium choice and engineered as the budget compromise. That framing is wrong, and it leads homeowners to make expensive mistakes.</p>
+<p>Engineered hardwood is not a lesser product. For a large portion of Canadian homes, it is the technically correct product. Installing solid hardwood over a concrete slab or in a basement is not a premium decision; it is an installation error that will show up as gapping, cupping, or a voided warranty within the first heating season. The floor does not care about your preference for solid wood.</p>
+<p>The more common mistake, though, is buying entry-level engineered hardwood with a 1 mm veneer and expecting it to perform like a generational floor. A 1 mm wear layer cannot be refinished. When it shows wear in 15 years, the floor is done. If you want a wood floor that lasts 40 years, you need either solid hardwood in the right location or premium engineered hardwood with a veneer of 4 mm or more. The middle ground, a cheap engineered product installed everywhere because it is “easier,” is where most long-term regrets come from.</p>
+<p>The single question that changes everything: ask for the wear-layer thickness in millimetres before you agree to anything. That one number tells you more about the floor’s long-term value than the species, the brand, or the price per square foot.</p>
+<h2>Flooring done right in Calgary: how Statera Contracting can help</h2>
+<p>Choosing between solid and engineered hardwood is straightforward once you know your subfloor type, your humidity situation, and your long-term plans. Getting the installation right is where it gets technical, and that is where Statera Contracting comes in.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>We handle <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement finishing and living space renovations</a> and <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovations</a> in Calgary and surrounding areas, and flooring is part of nearly every scope we manage. Every flooring project starts with a site visit and moisture test. We confirm subfloor type and condition, specify the veneer thickness in writing, and provide a fixed-price quote that includes subfloor prep, acclimation time, and transitions. No surprises mid-project. If you are ready to move forward, contact Statera Contracting to request a free consultation and written quote.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li><a href="https://www.nwfa.org/" rel="nofollow noopener noreferrer" target="_blank">National Wood Flooring Association (NWFA)</a> — installation standards, refinishing guidance, and humidity requirements for solid and engineered hardwood.</li>
+<li><a href="https://nwfa.org/wp-content/uploads/2020/03/NWFA_NOFMA_Factory_Finished_Standards_Updated2019.pdf" rel="nofollow noopener noreferrer" target="_blank">NWFA/NOFMA International Standards for Factory Finished Solid Wood Flooring</a> — technical thickness tolerances and certification requirements for factory-finished products.</li>
+<li><a href="https://greenbuildingcanada.ca/hardwood-flooring-vs-engineered-wood/" rel="nofollow noopener noreferrer" target="_blank">Hardwood Flooring vs Engineered Wood (Green Building Canada)</a> — Canadian-focused comparison covering sustainability, appearance, and durability.</li>
+<li>Types of Hardwood Flooring for the Canadian Climate (Planchers Central) — climate-specific guidance on engineered hardwood performance in Canadian conditions.</li>
+<li>Engineered Hardwood vs. Solid Hardwood: Which Should You Choose? (Flooring Liquidators) — practical Canadian buyer’s guide covering veneer thickness and refinishing.</li>
+<li>Can You Refinish Engineered Hardwood Flooring? (Flooring Superstores Edmonton) — detailed explanation of wear-layer thickness and refinishing feasibility.</li>
+<li>How to choose hardwood floor (Home Depot Canada) — consumer-facing installation and location guidance for Canadian buyers.</li>
+</ul>
+<p><em>Request written veneer and wear-layer specifications from your manufacturer or supplier before installation. Manufacturer installation guides are the primary reference for warranty compliance and should be kept on file after your project is complete.</em></p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/sustainable-building-materials" target="_blank" rel="noopener">Sustainable building materials: your Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">Renovating an older home: what Alberta homeowners need to know | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-countertop-heights-the-complete-homeowners-guide" target="_blank" rel="noopener">Kitchen countertop heights: the complete homeowner’s guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
