@@ -3,11 +3,11 @@
   "601357": { "status": "published", "publishedAt": "2026-07-15" },
   "599310": { "status": "published", "publishedAt": "2026-07-15" },
   "596857": { "status": "published", "publishedAt": "2026-07-16" },
-  "599332": { "status": "held", "reason": "Title matches comparison/listicle trip-wire pattern (\"Top 4 ... Alternatives\")" },
+  "599332": { "status": "published", "publishedAt": "2026-08-06" },
   "603297": { "status": "published", "publishedAt": "2026-07-16" },
   "599284": { "status": "published", "publishedAt": "2026-07-16" },
-  "575333": { "status": "held", "reason": "Title matches comparison/listicle trip-wire pattern (\"Top 4 ... Providers\")" },
-  "569352": { "status": "held", "reason": "Title matches comparison/listicle trip-wire pattern (\"Top 3 ... Companies ... Providers\")" },
+  "575333": { "status": "published", "publishedAt": "2026-08-06" },
+  "569352": { "status": "published", "publishedAt": "2026-08-06" },
   "606883": { "status": "published", "publishedAt": "2026-07-19" },
   "599450": { "status": "published", "publishedAt": "2026-07-17" },
   "569349": { "status": "published", "publishedAt": "2026-07-18" },
@@ -28,7 +28,7 @@
   "669295": { "status": "published", "publishedAt": "2026-08-05" },
   "672781": { "status": "published", "publishedAt": "2026-08-06" },
   "676654": { "status": "published", "publishedAt": "2026-08-03" },
-  "681677": { "status": "queued", "reason": "Manual override 2026-08-04 (Mauricio): material-comparison title, cleared to publish once the RidgeCap GC outbound link is stripped — waiting on daily cap" },
-  "684845": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-08-06" },
-  "689705": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-08-06" }
+  "681677": { "status": "published", "publishedAt": "2026-08-06" },
+  "684845": { "status": "queued", "reason": "Scheduled for BabyLoveGrowth calendar date 2026-08-07 (confirmed via calendar screenshot, Fri). Do not publish early — publish on that date." },
+  "689705": { "status": "queued", "reason": "Scheduled for BabyLoveGrowth calendar date 2026-08-08 (confirmed via calendar screenshot, Sat). Do not publish early — publish on that date." }
 }

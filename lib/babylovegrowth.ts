@@ -17,8 +17,19 @@
 // that risk. Outbound links get rel="nofollow noopener noreferrer" and
 // target="_blank" as a partial mitigation, they still render, but aren't
 // passed as an endorsement. Do not go back to stripping them without him
-// asking. It does not touch the surrounding wording, so the fetched
-// article still needs a human read before it's added to lib/posts.ts.
+// asking.
+//
+// Narrower carve-out, decision 2026-08-06: this function can't tell a
+// competitor's site from a legitimate citation (that takes reading the
+// article), so it doesn't attempt it here. The daily-publish routine
+// (see CLAUDE.md's "Mechanical fixes" #8) identifies links to businesses
+// that compete with Statera for the same renovation/contracting work
+// while processing each article, and unlinks just those by hand before
+// the post is added to lib/posts.ts — drops the <a href> wrapper, keeps
+// the visible text. Everything else this function marks external stays
+// live as designed above. As of that same decision, comparison/listicle
+// articles (which is where competitor links mostly show up) publish with
+// no human read first, see CLAUDE.md.
 
 import sanitizeHtml from "sanitize-html";
 import type { Post } from "./posts";
