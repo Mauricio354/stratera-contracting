@@ -8032,6 +8032,313 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "vinyl-vs-fiber-cement",
+    title: "Vinyl vs fibre cement siding: Canada homeowner's guide",
+    excerpt:
+      "For most Canadian homeowners weighing long-term value, fibre cement is the stronger choice — though vinyl still wins on upfront cost and maintenance-free convenience.",
+    date: "2026-08-08",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785979415292_Side-by-side-vinyl-and-fibre-cement-siding-on-house.jpeg",
+    coverAlt: "Vinyl vs fibre cement siding: Canada homeowner's guide",
+    category: "Industry News",
+    readingTime: "16 min read",
+    metaTitle: "Vinyl vs fibre cement siding: Canada homeowner's guide",
+    metaDescription:
+      "Discover the key differences in vinyl vs fiber cement siding. Learn which option offers better value for Canadian homeowners.",
+    content: [
+      {
+        type: "html",
+        html: `<p>For most Canadian homeowners weighing long-term value, fibre cement is the stronger choice. It outlasts standard vinyl by a decade or more, resists fire, and holds a paint finish that vinyl simply cannot replicate. That said, vinyl costs significantly less upfront and requires almost no maintenance, which makes it a practical fit when budget is tight or the ownership window is short.</p>
+<p>The core trade-off is straightforward: vinyl wins on first cost and convenience; fibre cement wins on durability, fire safety, and resale appeal. Here is a quick snapshot of where they differ most:</p>
+<ul>
+<li><strong>Installed cost (Canada):</strong> Standard vinyl runs $5–$8/sq. ft. installed; fibre cement typically runs $12–$18/sq. ft., per <a href="https://renoquotes.com/en/blog/exterior-siding-cost-in-canada-2026-prices-materials-and-what-to-expect" rel="nofollow noopener noreferrer" target="_blank">Reno Quotes</a></li>
+<li><strong>Lifespan:</strong> Vinyl typically lasts 20–40 years, while fibre cement commonly reaches 30–50+ years.</li>
+<li><strong>Maintenance:</strong> Vinyl needs only occasional washing; fibre cement requires periodic repainting and end-cut sealing</li>
+<li><strong>Fire and climate performance:</strong> Fibre cement is non-combustible and performs well in freeze-thaw conditions; vinyl can crack in extreme cold and deform in high heat</li>
+</ul>
+
+<h2>Key takeaways</h2>
+<p>Fibre cement is the better long-term investment for most Canadian homeowners; vinyl is the right call when upfront cost and zero-maintenance convenience are the priority.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cost gap is significant</td>
+<td>Standard vinyl installs at $5–$8/sq. ft.; insulated vinyl $12–$15/sq. ft.; fibre cement runs $12–$18/sq. ft. in Canada.</td>
+</tr>
+<tr>
+<td>Lifespan favours fibre cement</td>
+<td>Fibre cement commonly reaches 30–50+ years; vinyl typically lasts 20–40 years depending on grade.</td>
+</tr>
+<tr>
+<td>Fire and climate performance</td>
+<td>Fibre cement is non-combustible and performs well in freeze-thaw; vinyl can crack in extreme cold and melt in heat.</td>
+</tr>
+<tr>
+<td>Maintenance differs meaningfully</td>
+<td>Vinyl needs only washing; fibre cement requires repainting every 8–15 years and end-cut sealing throughout its life.</td>
+</tr>
+<tr>
+<td>Statera Contracting</td>
+<td>Statera Contracting guides Calgary homeowners through material selection, substrate prep, and full exterior re-clads.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#how-do-vinyl-and-fibre-cement-compare-side-by-side">How do vinyl and fibre cement compare side by side?</a></li>
+<li><a href="#what-actually-determines-how-long-your-siding-will-last">What actually determines how long your siding will last?</a></li>
+<li><a href="#how-does-each-material-hold-up-in-canadian-weather">How does each material hold up in Canadian weather?</a></li>
+<li><a href="#does-fire-resistance-actually-matter-for-your-siding-choice">Does fire resistance actually matter for your siding choice?</a></li>
+<li><a href="#what-are-your-options-for-appearance-and-design">What are your options for appearance and design?</a></li>
+<li><a href="#what-are-the-environmental-and-health-trade-offs">What are the environmental and health trade-offs?</a></li>
+<li><a href="#is-fibre-cement-a-diy-job-or-do-you-need-a-professional">Is fibre cement a DIY job, or do you need a professional?</a></li>
+<li><a href="#how-to-choose-between-vinyl-and-fibre-cement-for-your-home">How to choose between vinyl and fibre cement for your home</a></li>
+<li><a href="#what-calgary-contractors-know-about-cold-climate-siding-installation">What Calgary contractors know about cold-climate siding installation</a></li>
+<li><a href="#the-case-for-getting-the-installation-right-not-just-the-material">The case for getting the installation right, not just the material</a></li>
+<li><a href="#ready-to-get-an-accurate-estimate-for-your-calgary-exterior-project">Ready to get an accurate estimate for your Calgary exterior project?</a></li>
+<li><a href="#further-reading-and-sources">Further reading and sources</a></li>
+</ul>
+<h2>How do vinyl and fibre cement compare side by side?</h2>
+<p>The table below covers the key decision dimensions for Canadian homeowners. Figures reflect installed costs and are ranges; final price shifts with house complexity, substrate condition, and regional labour rates.</p>
+<table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>Vinyl siding</th>
+<th>Fibre cement siding</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Typical installed cost (CAD/sq. ft.)</td>
+<td>$5–$8/sq. ft. for standard vinyl; insulated vinyl $12–$15/sq. ft.; fiber cement $12–$18/sq. ft.</td>
+<td>$12–$18/sq. ft.</td>
+</tr>
+<tr>
+<td>Estimated lifespan</td>
+<td>20–40 years</td>
+<td>30–50+ years</td>
+</tr>
+<tr>
+<td>Durability / impact resistance</td>
+<td>Moderate; can crack in hard impacts or extreme cold</td>
+<td>High; resists dents and impact well</td>
+</tr>
+<tr>
+<td>Freeze-thaw &amp; moisture performance</td>
+<td>Can become brittle below -20°C; insulated vinyl improves this</td>
+<td>Performs well in freeze-thaw when installed with proper rainscreen and flashing</td>
+</tr>
+<tr>
+<td>Maintenance frequency</td>
+<td>Low; annual wash, panel replacement if damaged</td>
+<td>Moderate; repaint every 8–15 years, inspect and seal end cuts</td>
+</tr>
+<tr>
+<td>Fire resistance</td>
+<td>Combustible; melts and deforms in heat</td>
+<td>Non-combustible; suitable for wildfire-interface zones</td>
+</tr>
+<tr>
+<td>Appearance / paintability</td>
+<td>Factory colour only; cannot be repainted</td>
+<td>Factory or field-painted; holds crisp paint finish</td>
+</tr>
+<tr>
+<td>Environmental &amp; health issues</td>
+<td>PVC recycling challenges; no cutting hazard</td>
+<td>Silica dust during cutting requires wet-cut methods and PPE</td>
+</tr>
+<tr>
+<td>Warranty</td>
+<td>Typically 20–50 years (manufacturer-dependent)</td>
+<td>Typically 15–30 years on substrate; separate finish warranty</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785980005714_Comparison-diagram-of-vinyl-and-fibre-cement-siding.jpeg" alt="Comparison diagram of vinyl and fibre cement siding" /></p>
+<p>Cost ranges apply across Canada, though Alberta and BC labour rates can push totals toward the higher end. Installation complexity, including trim detail and substrate repairs, is often the single biggest cost variable.</p>
+
+<h2>What actually determines how long your siding will last?</h2>
+<p>Vinyl siding is made from extruded PVC panels, typically hollow or foam-backed. Fibre cement, by contrast, is a composite of Portland cement, sand, and cellulose fibres pressed into panels and factory-primed or pre-finished. The composition difference is what drives the lifespan gap.</p>
+<p><a href="https://www.nichiha.com/blog/fiber-cement-siding-vs-vinyl-siding" rel="nofollow noopener noreferrer" target="_blank">Nichiha</a> reports fibre cement’s lifespan generally exceeds vinyl, which varies with product grade and climate. Premium insulated vinyl closes some of that gap, but standard hollow-back vinyl at the low end of the price range tends to fade, warp, and crack well before the 30-year mark in Canadian climates.</p>
+<p><strong>Common failure modes to know:</strong></p>
+<ul>
+<li><em>Vinyl:</em> UV fading (colour becomes chalky), thermal expansion cracking in extreme cold, panel warping from heat near barbecues or south-facing walls, and brittleness below -20°C</li>
+<li><em>Fibre cement:</em> Edge delamination when end cuts are left unsealed, surface chipping from hard impacts, and moisture wicking at the bottom course if clearances above grade are too tight</li>
+</ul>
+<p>Manufacturers like <strong>James Hardie</strong>, <strong>Nichiha</strong>, and <strong>Maibec CanExel</strong> each publish installation specifications that directly affect how long their products perform. Maibec’s CanExel line, for example, uses an engineered wood-fibre core with phenolic resins, giving it enhanced moisture and rot resistance compared with untreated wood alternatives, per <a href="https://maibec.com/wp-content/uploads/2026/02/76-00120-N-Maibec-CanExel_Gl-2026_Qc-Maritime-BC_EN-v4.pdf" rel="nofollow noopener noreferrer" target="_blank">Maibec product literature</a>.</p>
+
+<h2>How does each material hold up in Canadian weather?</h2>
+<p>Canada’s climate puts siding through a genuine stress test: freeze-thaw cycles, heavy snow loads, hail, and in parts of Alberta and BC, wildfire smoke and ember exposure. The two materials respond to these stressors differently.</p>
+<p><strong>Vinyl in cold climates:</strong></p>
+<ul>
+<li>Standard vinyl can become brittle in very cold temperatures common in parts of Canada such as Calgary, Edmonton, and the Prairies.</li>
+<li>Thermal expansion and contraction across a wide temperature range can cause panels to buckle if fastened too tightly; proper nailing with the right clearance is critical</li>
+<li>Insulated vinyl (foam-backed) performs better in cold because the backing reduces thermal bridging and keeps the panel surface slightly warmer</li>
+<li>Hail can crack or dent vinyl panels, particularly older or thinner profiles; replacement is straightforward but requires matching the original profile and colour</li>
+</ul>
+<p><strong>Fibre cement in cold and wet climates:</strong></p>
+<ul>
+<li>Fibre cement performs well in freeze-thaw conditions because it does not absorb significant moisture when properly sealed and installed</li>
+<li>A rainscreen gap behind the panels allows drainage and drying, which is especially valuable in high-rainfall regions like coastal BC</li>
+<li>Properly flashed and sealed fibre cement resists wind-driven rain better than vinyl, which relies on overlapping panels that can allow water infiltration if panels are damaged or improperly installed</li>
+<li>Wind resistance is generally strong; fibre cement panels are heavier and less prone to uplift than lightweight vinyl</li>
+</ul>
+<p>For choosing exterior materials in a cold climate, the installation details matter as much as the product itself. Clearances above grade, proper flashing at windows and roof intersections, and a continuous drainage plane behind the cladding are non-negotiable in any Canadian climate zone.</p>
+
+<h2>Does fire resistance actually matter for your siding choice?</h2>
+<p>For many Calgary-area homeowners, the answer is yes. Fibre cement is a non-combustible material. It will not ignite, and it does not contribute fuel to a fire, which is why it is commonly specified in wildfire-interface zones and by municipal codes that restrict combustible exterior cladding.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785979353754_Close-up-of-fibre-cement-siding-near-flame.jpeg" alt="Close-up of fibre cement siding near flame" /></p>
+<p>Vinyl behaves very differently in fire. It melts and deforms at relatively low temperatures, and burning vinyl releases toxic gases. Near a barbecue, a neighbouring structure fire, or even a heat-reflecting surface, vinyl can warp or melt without an open flame making direct contact.</p>
+<p><strong>Key fire-related considerations:</strong></p>
+<ul>
+<li>Alberta communities in or near wildfire-interface zones may have specific cladding requirements; check with your local municipality or the Alberta Building Code before selecting a material</li>
+<li>Fibre cement’s non-combustible rating can affect home insurance premiums in high-risk areas; ask your insurer</li>
+<li>Vinyl should not be installed near outdoor cooking areas, dryer vents, or other heat sources without adequate clearance</li>
+<li>Even in lower-risk areas, fibre cement provides a meaningful safety margin that vinyl cannot match</li>
+</ul>
+<p>The National Building Code of Canada and provincial codes set minimum requirements for exterior cladding in various occupancy and fire-risk categories. If your property is in a designated wildfire-interface zone, consult your local building official before finalizing your siding choice.</p>
+
+<h2>What are your options for appearance and design?</h2>
+<p>Both materials offer a range of profiles, but fibre cement gives you more design flexibility, particularly if you want a painted finish that holds colour cleanly over time.</p>
+<p><strong>Profile options for both materials:</strong></p>
+<ul>
+<li>Horizontal lap (the most common profile for both)</li>
+<li>Vertical board-and-batten</li>
+<li>Shingles and shakes (more commonly fibre cement; some vinyl options exist)</li>
+<li>Smooth, wood-grain, and stucco-texture finishes</li>
+</ul>
+<p>Vinyl’s colour is integrated into the panel, which means no painting and no peeling. The trade-off is that you are locked into the manufacturer’s colour palette, and faded or discontinued colours can make matching replacement panels difficult years later.</p>
+<p>Fibre cement accepts paint exceptionally well. The surface is dense and stable, so paint adheres without the bubbling or peeling that can occur on wood. Factory-applied baked finishes from manufacturers like James Hardie are durable and come with separate finish warranties, but field painting on site gives you access to any colour you want.</p>
+<p>Shadow lines and panel thickness also affect perceived quality. Fibre cement panels are thicker and heavier, which creates deeper shadow lines at laps and gives the exterior a more substantial, architectural look. Vinyl, especially thinner profiles, can look flat in direct light.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1785979355817_Shadow-lines-detail-on-fibre-cement-and-vinyl-siding.jpeg" alt="Shadow lines detail on fibre cement and vinyl siding" /></p>
+<p><strong>Pro Tip:</strong> <em>If you are considering Maibec CanExel for trim or accent sections, its engineered wood-fibre construction takes paint and stain well and pairs naturally with both fibre cement and vinyl field panels. It is worth specifying matching trim profiles early in the design stage so your contractor can source them together.</em></p>
+
+<h2>What are the environmental and health trade-offs?</h2>
+<p>Neither material is without environmental considerations, but the risks are different in nature.</p>
+<p><strong>Vinyl (PVC):</strong></p>
+<ul>
+<li>PVC is derived from petrochemicals and is difficult to recycle at end of life; most vinyl siding ends up in landfill</li>
+<li>Production involves chlorine chemistry, which raises concerns about dioxin emissions during manufacturing and incineration</li>
+<li><a href="https://www.greenamerica.org/four-steps-healthy-home-exterior" rel="nofollow noopener noreferrer" target="_blank">Green America</a> recommends selecting exterior materials with lower harmful additives and considering lifecycle impacts when choosing between cladding options</li>
+<li>No significant health risk during installation; cutting vinyl produces dust but not the hazardous silica exposure associated with fibre cement</li>
+</ul>
+<p><strong>Fibre cement:</strong></p>
+<ul>
+<li>Raw materials (cement, sand, cellulose) are more abundant and the product’s longer lifespan means fewer replacement cycles over a building’s life</li>
+<li>The primary health concern is crystalline silica dust generated when cutting panels. The <a href="https://www.fp-supply.com/cmss_files/imagelibrary/James%20Hardie/James%20Hardie%20Installation%20Guide.pdf" rel="nofollow noopener noreferrer" target="_blank">James Hardie installation guide</a> explicitly addresses silica hazard and requires precautions including wet-cutting methods, HEPA vacuum collection, and appropriate respiratory PPE</li>
+<li>Prolonged silica dust exposure is linked to silicosis, a serious lung disease; this is a real occupational risk for installers who do not follow proper controls</li>
+</ul>
+<p>Before hiring a contractor for fibre cement installation, ask directly how they manage silica dust. A professional crew should be using a fibre cement saw with a HEPA-filtered vacuum attachment or wet-cutting equipment. If the answer is vague, that is a red flag.</p>
+
+<h2>Is fibre cement a DIY job, or do you need a professional?</h2>
+<p>Vinyl is the more DIY-friendly material for small repairs and straightforward installations. Individual panels are light, can be cut with a utility knife or tin snips, and snap together without specialized tools. A competent homeowner can replace a damaged section in an afternoon.</p>
+<p>Fibre cement is a different story for anything beyond a small patch:</p>
+<ul>
+<li>Panels weigh significantly more than vinyl; a full re-clad typically requires a two-person crew minimum</li>
+<li>Cutting requires a fibre cement saw or shears with proper dust controls; a standard circular saw without a HEPA vacuum creates serious silica exposure</li>
+<li>End cuts must be primed before installation, which adds a step that is easy to skip and costly to fix later</li>
+<li>Proper rainscreen installation, flashing at all penetrations, and correct fastener patterns require experience to execute correctly</li>
+</ul>
+<p><strong>Typical timeline for a full re-clad on a 1,500–2,000 sq. ft. Calgary home:</strong></p>
+<ol>
+<li>Substrate inspection and repair: 1–3 days</li>
+<li>Housewrap and rainscreen installation: 1–2 days</li>
+<li>Vinyl siding installation: 3–5 days</li>
+<li>Fibre cement installation: 5–8 days (heavier panels, more precise cutting, end-cut priming)</li>
+<li>Trim, caulking, and touch-up paint (fibre cement): add 1–2 days</li>
+</ol>
+<p>Winter installations in Calgary require additional care. Vinyl becomes brittle in hard frost and should not be installed below approximately -10°C without precautions. Fibre cement can be installed in cold weather, but adhesives and caulks need temperature-appropriate products, and wet conditions require careful moisture management.</p>
+<p>For a full siding installation, the quality of the installation crew is often more important than the material itself. A well-installed vinyl job will outperform a poorly installed fibre cement job every time.</p>
+
+<h2>How to choose between vinyl and fibre cement for your home</h2>
+<p>Work through these questions before you commit to either material:</p>
+<ol>
+<li><strong>What is your budget horizon?</strong> If you need the lowest possible upfront cost, standard vinyl at $5–$8/sq. ft. installed is the practical choice. If you plan to stay in the home for 20+ years, fibre cement’s longer lifespan and lower repainting frequency can make the higher first cost worthwhile.</li>
+<li><strong>What is your climate exposure?</strong> Calgary homeowners dealing with hail, extreme cold, and wildfire risk should weight fire resistance and impact durability heavily. Fibre cement addresses all three; vinyl addresses none of them well.</li>
+<li><strong>What are your aesthetic goals?</strong> If you want a painted finish, architectural profiles, or a premium curb appeal, fibre cement gives you more options. If you want a maintenance-free exterior in a standard colour, vinyl delivers that reliably.</li>
+<li><strong>What is your resale timeline?</strong> Selling within 5–7 years? Vinyl’s lower cost and decent appearance may be sufficient. Planning a longer hold or targeting a premium buyer? Fibre cement’s curb appeal and durability story is a stronger asset.</li>
+<li><strong>Is your property in a wildfire-interface or high-hail zone?</strong> If yes, fibre cement may not just be preferable; it may be required by local code or strongly recommended by your insurer.</li>
+</ol>
+<p><strong>Questions to ask your contractor before signing an estimate:</strong></p>
+<ul>
+<li>Does the quote include substrate inspection and repair?</li>
+<li>Is a rainscreen gap and housewrap included, or are they line-item additions?</li>
+<li>How are end cuts handled for fibre cement (primed on site or pre-primed)?</li>
+<li>What is the waste allowance, and how is it calculated?</li>
+<li>For fibre cement: how does your crew manage silica dust during cutting?</li>
+<li>Is a building permit required for this project, and is permit handling included?</li>
+</ul>
+<p><strong>Quick decision prompts:</strong></p>
+<ul>
+<li><em>Lowest first cost and near-zero maintenance:</em> choose vinyl</li>
+<li><em>Long-term durability, fire resistance, and premium appearance:</em> choose fibre cement</li>
+<li><em>Rental or secondary structure with a tight budget:</em> standard vinyl is usually the right call</li>
+<li><em>High-value home or wildfire-interface zone:</em> fibre cement is the clear choice</li>
+</ul>
+
+<h2>What Calgary contractors know about cold-climate siding installation</h2>
+<p>Calgary’s climate creates specific installation challenges that matter regardless of which material you choose. Temperature swings of 40°C or more between summer and winter mean that thermal expansion and contraction are real forces acting on your siding every year.</p>
+<p><strong>Cold-climate installation notes for Calgary projects:</strong></p>
+<ul>
+<li>Vinyl must be nailed with the correct clearance at each slot; too tight and the panel buckles in summer heat, too loose and it rattles in wind</li>
+<li>Fibre cement clearance above grade should be a minimum of 15 cm (6 inches); in Calgary’s freeze-thaw environment, snow and ice sitting against the bottom course accelerates moisture damage</li>
+<li>Caulk and sealant products must be rated for the temperature range at time of application; applying standard caulk in sub-zero conditions produces a joint that fails within one or two freeze-thaw cycles</li>
+<li>Eaves and overhangs protect siding from direct weather exposure; short overhangs increase maintenance frequency for both materials</li>
+</ul>
+<p><strong>Common installer mistakes to watch for:</strong></p>
+<ul>
+<li>Vinyl nailed too tightly (does not allow thermal movement)</li>
+<li>Fibre cement end cuts left unsealed before installation</li>
+<li>Missing or improperly lapped housewrap at windows and doors</li>
+<li>No rainscreen gap behind fibre cement on north-facing or high-moisture walls</li>
+<li>Insufficient flashing at roof-to-wall intersections</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask your contractor to show you the manufacturer’s installation guide for the specific product being installed, and confirm that their fastener schedule, clearances, and end-cut priming process match those specs. A contractor who cannot produce the guide or who dismisses it is a risk.</em></p>
+
+<h2>The case for getting the installation right, not just the material</h2>
+<p>One thing most siding comparison articles understate: the material you choose matters less than how it is installed. We have seen fibre cement fail in under five years because end cuts were left unsealed and a rainscreen was skipped. We have also seen standard vinyl last 25 years because it was fastened correctly, the housewrap was continuous, and the flashing was done properly at every penetration.</p>
+<p>The vinyl vs fibre cement decision is real and worth making carefully. But the contractor decision is at least as important. Fibre cement’s advantages in fire resistance, longevity, and appearance only materialise when the installation follows the manufacturer’s specifications precisely. That means proper silica dust controls during cutting, sealed end cuts before every panel goes up, a rainscreen gap on moisture-exposed walls, and correct fastener patterns throughout.</p>
+<p>At Statera Contracting, we review the manufacturer’s installation guide for every product we install and build those specs into our scope of work. When we quote a fibre cement re-clad, the substrate inspection, housewrap, rainscreen, and end-cut priming are not optional add-ons; they are part of the job.</p>
+<p>The homeowners who get the best outcomes are the ones who ask the right questions before signing an estimate. If a contractor cannot tell you how they manage silica dust or what their clearance spec is above grade, that is your answer.</p>
+
+<h2>Ready to get an accurate estimate for your Calgary exterior project?</h2>
+<p>Statera Contracting handles full exterior re-clads, substrate repairs, permit applications, trim work, and paint finishing for Calgary homeowners and properties just outside the city. Whether you are deciding between vinyl and fibre cement or already know what you want, we can walk you through a site assessment that accounts for your substrate condition, climate exposure, and budget before you commit to anything.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>We prepare detailed, itemized estimates that break out materials, labour, substrate prep, rainscreen, and waste allowance separately, so you can compare quotes fairly. For homeowners considering a larger scope, including <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions in Calgary</a> or interior renovations alongside the exterior work, we coordinate the full project under one contract.</p>
+<p>Contact Statera Contracting to book a site visit and get a written estimate for your exterior project.</p>
+
+<h2>Further reading and sources</h2>
+<p>The following sources back the claims in this article and are worth reviewing directly if you want to go deeper on technical or regulatory points:</p>
+<ul>
+<li><a href="https://renoquotes.com/en/blog/exterior-siding-cost-in-canada-2026-prices-materials-and-what-to-expect" rel="nofollow noopener noreferrer" target="_blank">Exterior Siding Canada: Costs and Options in 2026 | Reno Quotes</a></li>
+<li><a href="https://www.nichiha.com/blog/fiber-cement-siding-vs-vinyl-siding" rel="nofollow noopener noreferrer" target="_blank">Fiber Cement Siding vs Vinyl Siding: What Are the Differences? | Nichiha</a></li>
+<li><a href="https://maibec.com/wp-content/uploads/2026/02/76-00120-N-Maibec-CanExel_Gl-2026_Qc-Maritime-BC_EN-v4.pdf" rel="nofollow noopener noreferrer" target="_blank">Maibec CanExel product literature (2026)</a></li>
+<li><a href="https://polymericexteriors.org/why-polymeric/performance/low-maintenance/" rel="nofollow noopener noreferrer" target="_blank">Why polymeric? Performance</a> — low maintenance | Polymeric Exteriors</li>
+<li><a href="https://www.greenamerica.org/four-steps-healthy-home-exterior" rel="nofollow noopener noreferrer" target="_blank">Four steps to a healthy home exterior | Green America</a></li>
+</ul>
+<p>For code questions specific to your municipality or wildfire-interface zone, consult your local building official directly. Regulations vary by community, and a five-minute call to your permit office can save significant cost and rework.</p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/adding-a-second-story-to-a-house" target="_blank" rel="noopener">Adding a second storey to your house: Canada planning guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/sustainable-building-materials" target="_blank" rel="noopener">Sustainable building materials: your Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovation-tax-credit" target="_blank" rel="noopener">Home renovation tax credit in Canada: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
