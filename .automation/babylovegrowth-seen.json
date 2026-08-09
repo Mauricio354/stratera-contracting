@@ -31,5 +31,7 @@
   "681677": { "status": "published", "publishedAt": "2026-08-06" },
   "684845": { "status": "published", "publishedAt": "2026-08-07" },
   "689705": { "status": "published", "publishedAt": "2026-08-08" },
-  "691592": { "status": "published", "publishedAt": "2026-08-09" }
+  "691592": { "status": "published", "publishedAt": "2026-08-09" },
+  "695962": { "status": "queued", "reason": "estimated calendar date 2026-08-11 (created_at 2026-08-08 + 3 days, estimated) has not arrived yet; today's daily publish slot (2026-08-09) is also already used by article 691592" },
+  "699607": { "status": "queued", "reason": "estimated calendar date 2026-08-11 (created_at 2026-08-08 + 3 days, estimated) has not arrived yet; today's daily publish slot (2026-08-09) is also already used by article 691592" }
 }
