@@ -33,7 +33,7 @@
   "689705": { "status": "published", "publishedAt": "2026-08-08" },
   "691592": { "status": "published", "publishedAt": "2026-08-09" },
   "695962": { "status": "published", "publishedAt": "2026-08-11" },
-  "699607": { "status": "queued", "reason": "calendar date 2026-08-11 CONFIRMED via Mauricio's dashboard screenshot 2026-08-11 (was already correctly estimated); has arrived, but daily publish limit (1/day) already used for 2026-08-11 (article #695962, itself one day late off its confirmed 2026-08-10 slot); next in line to publish once a slot frees" },
+  "699607": { "status": "published", "publishedAt": "2026-08-11" },
   "702785": { "status": "queued", "reason": "calendar date 2026-08-12 CONFIRMED via Mauricio's dashboard screenshot 2026-08-11 (was already correctly estimated); not yet arrived" },
   "709247": { "status": "queued", "reason": "calendar date 2026-08-13 CONFIRMED via Mauricio's dashboard screenshot 2026-08-11 (was already correctly estimated); not yet arrived" }
 }
