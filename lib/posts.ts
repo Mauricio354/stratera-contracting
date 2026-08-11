@@ -9015,6 +9015,282 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "egress-window-size-alberta",
+    title: "Egress window size in Alberta: the complete code guide",
+    excerpt:
+      "Alberta's egress window rules in one place: the 0.35 m² / 380 mm code minimum, window well clearance, permit and engineering triggers, and the sizing mistakes that fail inspection most often.",
+    date: "2026-08-11",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786226530784_Open-egress-window-in-basement-wall.jpeg",
+    coverAlt: "Egress window size in Alberta: the complete code guide",
+    category: "Industry News",
+    readingTime: "18 min read",
+    metaTitle: "Egress window size in Alberta: the complete code guide",
+    metaDescription:
+      "Discover the essential guide to egress window size requirements in Alberta, ensuring your basement bedroom meets safety standards.",
+    content: [
+      {
+        type: "html",
+        html: `<p>If you’re finishing a basement bedroom in Alberta, the minimum egress window size is <strong>0.35 m² of unobstructed clear opening</strong>, with no single dimension measuring less than a specified minimum width. When that window opens into a window well, you also need at least a clear space of sufficient width—typically around three quarters of a metre—between the open sash and the far wall of the well. These numbers come directly from the <a href="https://cnrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-canada-publications/national-building-code-2019-alberta-edition-nbcae" rel="nofollow noopener noreferrer" target="_blank">National Building Code – 2019 Alberta Edition (NBC AE)</a>, and they apply to new builds and most renovation alterations across the province.</p>
+<blockquote>
+<p><strong>Quick triage checklist — four things to verify before you buy a window:</strong></p>
+<ol>
+<li>Measure the net clear opening (not the frame size) and confirm it reaches 0.35 m².</li>
+<li>Confirm neither the height nor the width of that opening falls below 380 mm.</li>
+<li>If the window opens into a well, confirm the well provides 760 mm of clearance in front of the open sash.</li>
+<li>Verify the window opens fully without keys, tools, or special knowledge, and stays open on its own.</li>
+</ol>
+</blockquote>
+<p>Fail any one of those four checks and the window will not pass inspection, regardless of how large the frame looks from the outside.</p>
+
+<h2>Key takeaways</h2>
+<p>The two numbers that govern every egress window decision in Alberta are <strong>0.35 m²</strong> and <strong>380 mm</strong> — and neither can be measured from the window frame alone.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Minimum clear opening</td>
+<td>0.35 m² net unobstructed area, with no dimension less than 380 mm, per NBC(AE) 9.7.1.2.</td>
+</tr>
+<tr>
+<td>Window well clearance</td>
+<td>Wells must provide 760 mm of clear horizontal space in front of the fully open sash.</td>
+</tr>
+<tr>
+<td>Permit triggers</td>
+<td>Adding or enlarging any opening requires a permit; like-for-like replacements generally do not.</td>
+</tr>
+<tr>
+<td>Engineering triggers</td>
+<td>Openings wider than 1.2 m, or combined openings exceeding 25% of wall length, typically require a structural engineer’s review.</td>
+</tr>
+<tr>
+<td>Statera Contracting</td>
+<td>Manages permit drawings, engineering coordination, foundation cutting, and inspection for egress window projects in Calgary and nearby Alberta communities.</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786226800196_Diagram-of-Alberta-egress-window-size-and-clearance-requirements.jpeg" alt="Diagram of Alberta egress window size and clearance requirements" /></p>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-the-alberta-building-code-actually-says-about-egress-window-dimensions">What the Alberta building code actually says about egress window dimensions</a></li>
+<li><a href="#window-well-rules-what-you-need-beyond-the-window-itself">Window well rules: what you need beyond the window itself</a></li>
+<li><a href="#how-inspectors-measure-the-unobstructed-opening">How inspectors measure the unobstructed opening</a></li>
+<li><a href="#worked-examples-which-common-window-sizes-actually-pass-in-alberta">Worked examples: which common window sizes actually pass in Alberta</a></li>
+<li><a href="#which-window-types-work-best-for-egress-in-alberta-basements">Which window types work best for egress in Alberta basements</a></li>
+<li><a href="#window-opening-control-devices-and-child-fall-prevention">Window opening control devices and child-fall prevention</a></li>
+<li><a href="#permits-plan-review-and-when-you-need-an-engineer">Permits, plan review, and when you need an engineer</a></li>
+<li><a href="#what-to-prepare-before-you-call-a-contractor-or-apply-for-a-permit">What to prepare before you call a contractor or apply for a permit</a></li>
+<li><a href="#when-to-hire-a-licensed-contractor-and-what-they-handle-for-you">When to hire a licensed contractor and what they handle for you</a></li>
+<li><a href="#what-most-homeowners-get-wrong-about-egress-windows">What most homeowners get wrong about egress windows</a></li>
+<li><a href="#statera-contracting-handles-egress-window-installations-in-calgary">Statera Contracting handles egress window installations in Calgary</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What the Alberta building code actually says about egress window dimensions</h2>
+<p>Alberta operates under the NBC(AE) 2019, which the province declared in force and which harmonises national provisions with Alberta-specific amendments. The egress requirements sit in Division B, Section 9.7.1.2, and they apply to sleeping rooms in residential occupancies — including basement bedrooms created through renovation.</p>
+<blockquote>
+<p><em>“Every sleeping room shall have at least one outside window or exterior door openable from the inside without the use of keys, tools or special knowledge and providing an unobstructed opening with an area of not less than 0.35 m² and no dimension less than 380 mm.”</em>
+— NBC(AE) 2019, Division B, 9.7.1.2 (paraphrased from the <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/egress-window-guidelines.pdf" rel="nofollow noopener noreferrer" target="_blank">City of Calgary egress window guidelines</a>)</p>
+</blockquote>
+<p>The scope matters here. The code applies to:</p>
+<ul>
+<li><strong>New construction</strong> — any new sleeping room must meet the standard from day one.</li>
+<li><strong>Alterations</strong> — adding a bedroom to an existing basement, or enlarging a window opening, triggers the same requirement.</li>
+<li><strong>Like-for-like replacements</strong> — swapping a window of the same size and operation type in the same rough opening generally does not require a permit, but the replacement window must still meet the egress dimensions if the room is used as a sleeping room.</li>
+</ul>
+<p>Municipal plans reviewers and inspectors verify the installed clear opening against the approved drawings. The Calgary egress window guidelines state explicitly that the inspector will check the unobstructed opening on site, not just the frame dimensions on paper. Edmonton’s guidance adds a practical recommendation: keep the window sill height at a moderate height from the floor so occupants can actually reach and climb through the opening in an emergency.</p>
+<p><strong>One number that surprises many homeowners:</strong> 0.35 m² converts to roughly 3.77 ft², which is smaller than a standard 24×48 inch window frame — but the frame size is not what gets measured. The net clear opening after accounting for sash, hardware, and frame intrusion is what counts, and that number is almost always smaller than the nominal frame dimensions.</p>
+
+<h2>Window well rules: what you need beyond the window itself</h2>
+<p>A window that meets the 0.35 m²/380 mm rule can still fail inspection if the well in front of it is too shallow or too narrow. <a href="https://www.edmonton.ca/sites/default/files/public-files/assets/sleeping_room_egress_window_window_well_details.pdf" rel="nofollow noopener noreferrer" target="_blank">Edmonton’s egress window details</a> set the standard clearly: when an egress window opens into a window well, the well must provide a minimum <strong>760 mm of clear space</strong> measured horizontally from the face of the open sash to the far wall of the well.</p>
+<p><strong>What inspectors look for in a window well:</strong></p>
+<ul>
+<li>Clear horizontal depth of at least 760 mm from the open sash face to the well wall.</li>
+<li>Well width at least as wide as the window opening, with no obstructions narrowing the escape path.</li>
+<li>A permanently fixed ladder or steps when the well depth exceeds <strong>600 mm</strong> below grade, positioned so a person can climb out without assistance.</li>
+<li>Drainage at the base of the well to prevent water accumulation, which also reduces freeze-heave risk in Alberta winters.</li>
+<li>A cover, if installed, that opens easily from inside the well without tools and does not reduce the 760 mm clearance.</li>
+</ul>
+<blockquote>
+<p><strong>Snow accumulation is a real risk in Alberta.</strong> A well that meets the 760 mm clearance in September may be partially blocked by February. Design the well deeper than the minimum, or install a cover that sheds snow, so the clearance remains usable year-round.</p>
+</blockquote>
+<p><strong>Pro Tip:</strong> <em>When sizing a new well, add at least 150 mm to the minimum 760 mm depth as a buffer for frost heave and soil settlement. Wells that are tight to the minimum often fail re-inspection after the first winter.</em></p>
+<p>Hopper windows — those hinged at the bottom and opening inward — are specifically discouraged for egress applications that discharge into a well. The open sash swings into the well and reduces the usable clearance, often dropping the effective escape space below 760 mm even when the well itself is correctly sized.</p>
+
+<h2>How inspectors measure the unobstructed opening</h2>
+<p>The phrase “unobstructed opening” is the key term, and it does not mean the rough opening or the frame size. It means the clear space a person can actually pass through when the window is fully open. Here is how to measure it yourself before you apply for a permit or order a window.</p>
+<p><strong>Step-by-step measurement method:</strong></p>
+<ol>
+<li>Open the window sash to its maximum position and secure it there.</li>
+<li>Measure the <strong>clear width</strong> of the opening: the horizontal distance between the inner faces of the frame, minus any sash thickness, hardware, or screen frame that intrudes into the opening.</li>
+<li>Measure the <strong>clear height</strong>: the vertical distance from the bottom of the open sash (or the sill, whichever is higher) to the top of the opening, again subtracting any frame intrusion.</li>
+<li>Multiply clear width × clear height to get the net clear area in square metres.</li>
+<li>Confirm neither the clear width nor the clear height is less than 380 mm.</li>
+</ol>
+<p>Security bars, grilles, or fixed screens all reduce the unobstructed opening and must be openable from the inside without tools if present. Inspectors will check this on site.</p>
+<p><strong>Common metric/imperial conversions used by Alberta manufacturers and installers:</strong></p>
+<p>The Calgary egress guidelines note that inspectors focus on the net clear opening — hardware, sash thickness, or security bars that reduce the effective opening will cause failures even when the overall window appears large enough.</p>
+
+<h2>Worked examples: which common window sizes actually pass in Alberta</h2>
+<p>Nominal window sizes are measured to the outside of the frame. The net clear opening is always smaller. The table below shows common sizes and whether they typically meet Alberta egress requirements, assuming standard sash and hardware reductions of approximately 25–40 mm per dimension.</p>
+<p><strong>Key observations from these examples:</strong></p>
+<ul>
+<li>A 24×36 in casement passes; the same nominal size as a horizontal slider often fails because the slider opens only half its width.</li>
+<li>The 24×48 in window is a popular basement choice, but the 610 mm nominal width leaves little margin after sash and hardware deductions. Always measure the actual clear opening before ordering.</li>
+<li>Metric 600×900 mm windows are common in newer Alberta builds and typically pass with a casement sash.</li>
+</ul>
+<p><strong>A simple rule of thumb:</strong> for a casement window, take the nominal width and height, subtract 50 mm from each dimension to approximate the net clear opening, then multiply. If the result is above 0.40 m² and neither dimension drops below 430 mm, you likely have a comfortable margin. Treat this as a planning estimate only — always verify with an actual measurement before purchasing.</p>
+
+<h2>Which window types work best for egress in Alberta basements</h2>
+<p>Not all window types produce the same net clear opening from the same frame size. The choice of sash type is one of the most consequential decisions in an egress window installation.</p>
+<p><strong>Side-hinged casement windows</strong> are the preferred choice for egress in Alberta basements. When fully open, the entire frame area becomes the clear opening, minus only the sash thickness and hardware at the perimeter. They open with a single crank or push, stay open without a prop, and are easy to operate in an emergency. For basement bedroom egress in Alberta, casements consistently deliver the largest net clear opening relative to frame size.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786226538137_Open-side-hinged-casement-basement-window.jpeg" alt="Open side-hinged casement basement window" /></p>
+<p><strong>Horizontal sliding windows</strong> open to only half their nominal width, which cuts the available clear area roughly in half. A 36×24 in slider that looks adequate on paper typically provides only about 0.23 m² of clear opening — well below the 0.35 m² minimum. Sliders can be used for egress, but the frame must be significantly larger to compensate, which often means a larger rough opening and more structural work.</p>
+<p><strong>Hopper windows</strong> (bottom-hinged, opening inward) are specifically discouraged for egress by Edmonton’s municipal guidance. The inward-swinging sash reduces the usable clearance in a window well and can obstruct escape. They are not a reliable egress solution for below-grade installations.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786226535579_Inward-opening-hopper-basement-window.jpeg" alt="Inward opening hopper basement window" /></p>
+<p><strong>Awning windows</strong> (top-hinged, opening outward) can work in some above-grade applications, but the outward swing into a window well reduces the 760 mm clearance and creates the same problem as a hopper in reverse.</p>
+<p><strong>Installation notes to keep in mind:</strong></p>
+<ul>
+<li>Full-frame replacement (removing the existing frame entirely) gives you the largest possible rough opening and the most flexibility in window selection.</li>
+<li>Retrofit or insert installations fit a new sash into the existing frame, which reduces the net clear opening further. Confirm the resulting clear opening still meets 0.35 m² before proceeding.</li>
+<li>Sash hardware — handles, locks, and hinges — must not reduce the clear opening below the minimum. Inspectors check this specifically.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask your window supplier for the “clear opening dimensions” specification, not the rough opening or frame size. Reputable manufacturers list this separately, and it is the number that matters for code compliance.</em></p>
+
+<h2>Window opening control devices and child-fall prevention</h2>
+<p>Alberta’s 2023 building code updates introduced specific guidance on window opening control devices (WOCDs), referencing ASTM F2090 as the standard for compliant devices. A WOCD is a hardware device that limits how far a window can open — typically to 100 mm — to prevent children from falling through. The challenge is balancing that safety function with the emergency egress requirement.</p>
+<blockquote>
+<p><strong>Alberta’s approach under the NBC(AE) and the 2023 code changes:</strong> WOCDs that comply with ASTM F2090 are permitted on egress windows in many residential applications, provided the device can be released easily in an emergency without keys, tools, or special knowledge. This is an important local variation — the NBC 2020 (the national base code) did not permit WOCDs on egress windows, making Alberta’s acceptance a meaningful provincial distinction.</p>
+</blockquote>
+<p>The operational requirements are non-negotiable:</p>
+<ul>
+<li>The WOCD must release with a single, simple action that any occupant can perform under stress.</li>
+<li>No tools, keys, or two-step mechanisms are permitted.</li>
+<li>The device must be maintained so it releases reliably; homeowners have an education and maintenance obligation under the Alberta guidance.</li>
+<li>WOCDs are <strong>not permitted</strong> on egress windows in adaptable or barrier-free dwelling units.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>When installing a WOCD, measure the net clear opening with the device in its released (fully open) position, not its restricted position. The 0.35 m² requirement applies to the fully open state, and some WOCD hardware adds frame intrusion that reduces the clear opening slightly even when released.</em></p>
+
+<h2>Permits, plan review, and when you need an engineer</h2>
+<p>The permit question is straightforward for most egress window projects in Calgary. Adding a new window or enlarging an existing opening requires a building permit. Replacing a window in the same rough opening with the same operation type generally does not, as long as the room is not being converted to a sleeping room for the first time.</p>
+<p><strong>When a permit is required:</strong></p>
+<ul>
+<li>Adding a new window opening where none existed.</li>
+<li>Enlarging an existing rough opening to meet egress dimensions.</li>
+<li>Converting a non-sleeping room to a bedroom (even without changing the window).</li>
+<li>Installing a window well where none existed.</li>
+</ul>
+<p><strong>Typical permit documentation:</strong></p>
+<ul>
+<li>Dimensioned drawings showing the window location, rough opening size, and net clear opening dimensions.</li>
+<li>A site plan indicating the window’s position relative to property lines (required when the opening faces a property line).</li>
+<li>Elevation drawings for openings near lot boundaries.</li>
+<li>Confirmation that the window meets NBC(AE) 9.7.1.2 requirements.</li>
+</ul>
+<p><strong>Engineering triggers — when a structural engineer’s review is required:</strong></p>
+<ol>
+<li>The new opening width exceeds <strong>1.2 m</strong> in a concrete or masonry foundation wall.</li>
+<li>Combined openings in a single wall exceed a specified proportion of that wall’s total length.</li>
+<li>The remaining solid wall between two openings is narrower than the width of the adjacent opening.</li>
+<li>The foundation wall is thinner than standard, or the home is older with unreinforced masonry.</li>
+</ol>
+<p>These triggers are not rare. But homeowners who want to add two or three windows to the same wall, or who are working with older block foundations, frequently hit these thresholds. Engineering documentation adds time and cost to the project — typically several weeks and a few hundred to a few thousand dollars depending on the scope.</p>
+
+<h2>What to prepare before you call a contractor or apply for a permit</h2>
+<p>Arriving at a permit application or a contractor meeting with the right information cuts delays significantly. Here is what to gather first.</p>
+<p><strong>Measurements and site notes to collect:</strong></p>
+<ul>
+<li>Current rough opening dimensions (width × height) for any existing window you plan to replace or enlarge.</li>
+<li>Sill height from the finished floor to the bottom of the existing window opening.</li>
+<li>Window well dimensions if one exists: depth, width, and distance from the house wall.</li>
+<li>Foundation wall thickness and material (poured concrete, concrete block, wood frame).</li>
+<li>Distance from the proposed window to the nearest property line.</li>
+</ul>
+<p><strong>Questions to ask your municipality before applying:</strong></p>
+<ol>
+<li>Does this specific alteration require a permit, or does it qualify as a like-for-like replacement?</li>
+<li>What drawings are required for submission — dimensioned floor plan, elevation, site plan?</li>
+<li>Will the plans reviewer require engineering documentation based on the proposed opening size?</li>
+<li>How long is the current permit review timeline?</li>
+</ol>
+<p><strong>Cost factors to budget for:</strong></p>
+<ul>
+<li><strong>Permit fees</strong> in Calgary vary by project value; confirm the current fee schedule with the City of Calgary’s Development and Building Approvals office.</li>
+<li><strong>Window supply:</strong> a code-compliant casement egress window typically costs $300–$800 depending on size, glazing, and manufacturer.</li>
+<li><strong>Installation and concrete cutting:</strong> foundation cutting, framing, and window installation by a licensed contractor in Alberta generally ranges from $1,500–$4,000 for a single window, depending on wall thickness and access.</li>
+<li><strong>Window well supply and installation:</strong> add $500–$1,500 for a prefabricated steel or polyethylene well, plus excavation.</li>
+<li><strong>Engineering review:</strong> if triggered, budget $500–$2,500 depending on the engineer’s scope.</li>
+</ul>
+<p>For a fuller picture of window costs in Calgary, the <a href="https://stateracontracting.com/blog/window-replacement-cost-calgary" target="_blank" rel="noopener">window replacement cost guide</a> covers budgeting in more detail.</p>
+
+<h2>When to hire a licensed contractor and what they handle for you</h2>
+<p>Cutting a foundation wall is structural work. Even a straightforward egress window installation in a poured concrete basement involves core drilling or saw-cutting, temporary shoring, lintel installation, and waterproofing — none of which are forgiving of errors. A crack in the wrong place, or a lintel that is undersized, creates settlement problems that cost far more to fix than the original window.</p>
+<blockquote>
+<p><strong>The permit package is where most DIY projects stall.</strong> A licensed contractor who regularly works with Calgary’s Development and Building Approvals office knows what the plans reviewer expects: dimensioned drawings, the correct NBC(AE) clause references, and, when engineering is required, a stamped drawing from a registered professional engineer. Assembling that package correctly the first time avoids resubmission delays that can add weeks to a project.</p>
+</blockquote>
+<p><strong>What a professional contractor typically manages on an egress window project:</strong></p>
+<ul>
+<li>Site measurement and confirmation of the net clear opening before ordering the window.</li>
+<li>Permit application preparation, including dimensioned drawings and coordination with the plans reviewer.</li>
+<li>Engineering coordination when the opening size or wall conditions trigger a structural review.</li>
+<li>Foundation cutting, temporary shoring, lintel installation, and rough framing.</li>
+<li>Window installation, air sealing, and waterproofing at the rough opening.</li>
+<li>Window well excavation, installation, drainage, and backfill.</li>
+<li>Coordination of the inspector’s site visit and any follow-up conditions.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask your contractor to confirm the net clear opening dimensions in writing before the window is ordered. Changing a window after it has been manufactured to a non-compliant size is an expensive mistake that is entirely avoidable with one measurement check.</em></p>
+<p>For homeowners in Calgary and nearby Alberta communities, <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">Statera Contracting’s basement services</a> cover the full scope of egress window work, from permit drawings through to final inspection.</p>
+
+<h2>What most homeowners get wrong about egress windows</h2>
+<p>The most common inspection failure we see is not a window that is obviously too small. It is a window that looks compliant on paper but fails on the net clear opening measurement. Here is where the errors tend to cluster.</p>
+<p><strong>Measuring the frame instead of the opening.</strong> A 36×24 in window frame does not provide a 36×24 in clear opening. Sash thickness, frame intrusion, and hardware typically reduce each dimension by 25–50 mm. Homeowners who measure the frame and calculate the area based on those numbers are almost always overestimating the clear opening.</p>
+<p><strong>Ignoring sash hardware.</strong> A locking handle, a sash restrictor, or a poorly positioned hinge can reduce the clear opening width by 30–50 mm. That reduction can push a window that is close to the minimum below the 380 mm threshold on one dimension, which is an automatic failure regardless of the total area.</p>
+<p><strong>Underestimating window-well snow.</strong> Alberta winters are not gentle. A well that is exactly 760 mm deep in October may have 200–300 mm of packed snow in it by January. Designing to the minimum clearance leaves no buffer for seasonal conditions.</p>
+<p><strong>Skipping engineering when the opening size warrants it.</strong> Homeowners sometimes assume that because a single egress window seems small, no engineering is needed. Missing this at the permit stage means a stop-work order after excavation has already begun.</p>
+<p><strong>Simple fixes to apply early in planning:</strong></p>
+<ul>
+<li>Measure the net clear opening of any candidate window before purchasing, using the clear opening spec from the manufacturer.</li>
+<li>Add 150–200 mm to the minimum well depth when designing the well.</li>
+<li>Count all existing openings in the wall before assuming no engineering is needed.</li>
+<li>Confirm the sill height is at or below 1.5 m from the finished floor.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>When scheduling excavation for a new window well, coordinate with your contractor on frost depth and drainage at the same time. In much of Alberta, frost penetrates to 1.2–1.5 m, and a well that drains poorly will heave and shift, eventually pulling the window frame out of alignment. Getting drainage right during the initial dig costs far less than fixing it afterward.</em></p>
+
+<h2>Statera Contracting handles egress window installations in Calgary</h2>
+<p>Egress window installations in Calgary involve more moving parts than most homeowners expect: permit drawings, plans review, foundation cutting, engineering coordination when required, well construction, and a final inspection. Getting one step wrong can mean resubmission delays, stop-work orders, or a failed inspection that requires rework.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Statera Contracting manages the entire process for homeowners in Calgary and nearby Alberta communities. We take the site measurements, prepare the permit drawings, coordinate with the plans reviewer, engage a structural engineer when the opening size requires it, handle the foundation cutting and window installation, build the well, and schedule the inspector’s visit. You get a compliant, inspected egress window without having to navigate the permit office yourself.</p>
+<p>For homeowners who are also <a href="https://stateracontracting.com/blog/basement-finishing-calgary" target="_blank" rel="noopener">finishing a basement</a> or creating a legal suite, egress windows are one piece of a larger permit package we handle together. Contact Statera Contracting for a site visit and quote through our basement and living spaces services page.</p>
+
+<h2>Sources</h2>
+<p>The sources below are the primary references used in this article. Each covers a specific aspect of Alberta egress window requirements.</p>
+<ul>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/egress-window-guidelines.pdf" rel="nofollow noopener noreferrer" target="_blank">advisory-egress-window-guidelines.pdf</a></li>
+<li><a href="https://cnrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-canada-publications/national-building-code-2019-alberta-edition-nbcae" rel="nofollow noopener noreferrer" target="_blank">National Building Code 2019 Alberta Edition (CNRC/CNRCan)</a></li>
+<li><a href="https://www.edmonton.ca/sites/default/files/public-files/assets/sleeping_room_egress_window_window_well_details.pdf" rel="nofollow noopener noreferrer" target="_blank">sleeping_room_egress_window_window_well_details.pdf</a></li>
+</ul>
+<blockquote>
+<p><strong>Verify current requirements with your municipality before applying for a permit.</strong> Municipal bulletins and STANDATA clarifications are updated periodically, and the local plans reviewer is the authoritative source for how these rules apply to your specific project.</p>
+</blockquote>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/window-replacement-cost-calgary" target="_blank" rel="noopener">Window replacement cost Calgary: what homeowners should budget | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/average-kitchen-size" target="_blank" rel="noopener">Average kitchen size in Canadian homes: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/office-renovations" target="_blank" rel="noopener">Office renovations in Alberta: your contractor guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">Bathroom remodel ideas: your 2026 Alberta guide | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
