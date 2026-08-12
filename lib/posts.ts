@@ -9291,6 +9291,397 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "basement-renovation-timeline",
+    title: "Basement renovation timeline: a homeowner's planning guide",
+    excerpt:
+      "A realistic basement renovation timeline for Calgary homeowners — from an 8–12 week basic finish to a 27–50 week legal suite — plus how permits, inspections, and material lead times affect your schedule.",
+    date: "2026-08-12",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786287708611_Contractor-waterproofing-basement-wall.jpeg",
+    coverAlt: "Basement renovation timeline: a homeowner's planning guide",
+    category: "Industry News",
+    readingTime: "19 min read",
+    metaTitle: "Basement renovation timeline: a homeowner's planning guide",
+    metaDescription:
+      "Discover the essential timeline for your basement renovation, from permits to inspections. Plan your project effectively to avoid delays.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A basement renovation in Canada typically takes several weeks from permit application to final inspection for most residential projects. A basic rec room finish lands closer to 8–12 weeks total; add a bathroom and mechanical changes and you’re looking at 12–18 weeks; a legal suite or project involving underpinning can run 27–50 weeks from first design meeting to handover. The single biggest variable in any of these ranges is the permit and municipal inspection process, which alone can add 4–6 weeks before a single nail is driven.</p>
+<p>Three things you can act on today to protect your schedule:</p>
+<ul>
+<li><strong>Confirm your scope in writing.</strong> Know whether your project triggers a permit (new bedroom, bathroom, egress window, or changes to load-bearing walls) before you call a contractor.</li>
+<li><strong>Check your municipality’s permit processing window.</strong> A complete application in many Canadian cities is processed in 10–15 business days, but an incomplete submission adds 2–4 weeks instantly.</li>
+<li><strong>Reserve a 10–20% time contingency</strong> on top of your contractor’s quoted schedule. Moisture remediation, inspection scheduling gaps, and long-lead materials are the most common culprits.</li>
+</ul>
+
+<h2>Key takeaways</h2>
+<p>A realistic basement renovation timeline in Canada runs 8–12 weeks for a basic finish, 12–18 weeks for a mid-range project with a bathroom, and 27–50 weeks for a legal suite or structural remodel — with permits and inspections accounting for a significant share of that total in every scenario.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Plan for permits first</td>
+<td>Budget 4–6 weeks for permit review; a complete application can process in 10–15 business days, but gaps add weeks.</td>
+</tr>
+<tr>
+<td>Inspections create mandatory pauses</td>
+<td>Each inspection window is 3–10 business days; three stops means up to 30 business days of built-in waiting.</td>
+</tr>
+<tr>
+<td>Add a 15–20% time contingency</td>
+<td>Structural or waterproofing work can add 20–30% to baseline costs and materially extend the schedule.</td>
+</tr>
+<tr>
+<td>Order long-lead items during permit review</td>
+<td>Custom millwork and specialty windows can have 6–12 week lead times; order them the day the permit application goes in.</td>
+</tr>
+<tr>
+<td>Statera Contracting coordinates the full sequence</td>
+<td>From permit application to final inspection, Statera manages trades, inspections, and materials for Calgary homeowners.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-does-a-basement-renovation-timeline-look-like-phase-by-phase">What does a basement renovation timeline look like phase by phase?</a></li>
+<li><a href="#what-factors-push-your-basement-remodel-schedule-longer">What factors push your basement remodel schedule longer?</a></li>
+<li><a href="#a-detailed-phase-by-phase-breakdown-of-your-basement-renovation">A detailed phase-by-phase breakdown of your basement renovation</a></li>
+<li><a href="#how-long-does-a-basement-renovation-take-for-different-project-types">How long does a basement renovation take for different project types?</a></li>
+<li><a href="#how-do-canadian-permits-and-inspections-affect-your-schedule">How do Canadian permits and inspections affect your schedule?</a></li>
+<li><a href="#how-to-build-your-schedule-and-manage-delays">How to build your schedule and manage delays</a></li>
+<li><a href="#statera-contractings-real-project-timelines-and-calgary-specific-notes">Statera Contracting’s real-project timelines and Calgary-specific notes</a></li>
+<li><a href="#three-timeline-lessons-every-calgary-homeowner-should-hear">Three timeline lessons every Calgary homeowner should hear</a></li>
+<li><a href="#statera-contracting-manages-your-basement-timeline-from-permit-to-punch-list">Statera Contracting manages your basement timeline from permit to punch list</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What does a basement renovation timeline look like phase by phase?</h2>
+<p>Most homeowners want one clear picture they can reference throughout the project. The ranges below reflect realistic Canadian project durations. On-site construction alone typically runs 4–12 weeks depending on scope, and adding a bathroom pushes that to 6–10 weeks on site.</p>
+<p><strong>End-to-end planning ranges by project tier:</strong></p>
+<ul>
+<li><strong>Basic finish</strong> (rec room, no bathroom, no structural work): 8–12 weeks total</li>
+<li><strong>Mid-range with bathroom and mechanical changes</strong>: 12–18 weeks total</li>
+<li><strong>Legal suite, underpinning, or complex structural remodel</strong>: 27–50 weeks total</li>
+</ul>
+<p>Place your contingency buffer at the end of the rough-in phase, before finishes begin. That is where inspection scheduling gaps and trade availability most often cause forced pauses.</p>
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Basic finish</th>
+<th>Mid-range with bathroom</th>
+<th>Legal suite / complex</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Planning &amp; design</td>
+<td>1–2 weeks</td>
+<td>2–4 weeks</td>
+<td>4–8 weeks</td>
+</tr>
+<tr>
+<td>Permit application &amp; review</td>
+<td>2–6 weeks</td>
+<td>3–6 weeks</td>
+<td>4–8 weeks</td>
+</tr>
+<tr>
+<td>Demolition &amp; site prep</td>
+<td>a few days</td>
+<td>several days</td>
+<td>up to a couple of weeks</td>
+</tr>
+<tr>
+<td>Waterproofing &amp; slab work</td>
+<td>Not always required</td>
+<td>1–2 weeks</td>
+<td>2–6 weeks</td>
+</tr>
+<tr>
+<td>Framing, rough-in mechanicals</td>
+<td>1–2 weeks</td>
+<td>2–3 weeks</td>
+<td>3–6 weeks</td>
+</tr>
+<tr>
+<td>Rough-in inspection window</td>
+<td>3–10 business days</td>
+<td>3–10 business days</td>
+<td>3–10 business days</td>
+</tr>
+<tr>
+<td>Insulation &amp; drywall</td>
+<td>several days to a couple weeks</td>
+<td>several days to a couple weeks</td>
+<td>multiple weeks</td>
+</tr>
+<tr>
+<td>Finishes (flooring, paint, millwork)</td>
+<td>several days to a couple weeks</td>
+<td>several weeks</td>
+<td>multiple weeks</td>
+</tr>
+<tr>
+<td>Final inspection &amp; punch list</td>
+<td>several days to a couple weeks</td>
+<td>several days to a couple weeks</td>
+<td>multiple weeks</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786288064648_Basement-renovation-timeline-comparison-diagram.jpeg" alt="Basement renovation timeline comparison diagram" /></p>
+
+<h2>What factors push your basement remodel schedule longer?</h2>
+<p>Knowing what drives a project toward the long end of the range lets you take action before construction starts, not after.</p>
+<p><strong>Project scope and complexity</strong> is the most predictable variable. A basic rec room with no plumbing and no structural changes is a fundamentally different project from a legal suite. Every added bathroom, bedroom, or mechanical system adds trades, inspection stops, and coordination time.</p>
+<p><strong>Permits and municipal inspections</strong> are the most common source of surprise delays. Municipal inspections are mandatory stop points at rough-in, insulation/drywall, and final stages, and scheduling those inspections typically introduces 3–10 business day windows between critical phases. That is not contractor lag — it is a built-in pause you need to plan for.</p>
+<p><strong>Structural and moisture remediation</strong> is where timelines and budgets diverge most sharply from initial estimates. <a href="https://canadaconstructionnetwork.com/reports/the-complete-guide-to-basement-finishing-in-canada" rel="nofollow noopener noreferrer" target="_blank">Seasonal and remediation factors commonly add 20–30% to baseline costs</a> and materially extend schedules. Underpinning alone can require 4–8 weeks for structural works, and in Alberta it is often restricted by seasonal excavation windows.</p>
+<p><strong>Subcontractor availability</strong> varies significantly by season and market. In Calgary, the busiest booking windows are typically late spring through early fall. If your project requires a licensed plumber, electrician, and HVAC technician in sequence, each one needs to be scheduled independently, and a gap with one trade cascades to the next.</p>
+<p><strong>Material lead times</strong> catch homeowners off guard more often than any other single item. Custom millwork, specialty windows, and certain flooring products can have 6–12 week lead times. Ordering long-lead items during permit review is one of the most effective ways to avoid a site pause mid-project.</p>
+<p><strong>Homeowner decisions and change orders</strong> are a quieter but real schedule risk. A flooring change after framing is complete can push delivery timelines by weeks. Locking all selections before permits are submitted is the single best decision a homeowner can make.</p>
+<p><strong>Seasonality</strong> affects exterior work directly. <a href="https://www.completeconnection.ca/toronto-basement-renovation-timing/" rel="nofollow noopener noreferrer" target="_blank">Extreme winter freezes delay exterior excavation, and spring rainfall increases moisture risk during structural phases</a>. In Calgary specifically, plan any exterior waterproofing or egress window excavation for late spring or summer.</p>
+<p><strong>Pro Tip:</strong> <em>Lock your flooring, fixture, and millwork selections before your permit application goes in. This lets your contractor order long-lead items during the permit review window, which is otherwise dead time on the schedule.</em></p>
+
+<h2>A detailed phase-by-phase breakdown of your basement renovation</h2>
+<h3>Design and selections</h3>
+<p>This phase produces the drawings and decisions your contractor and the municipality need. Expect 1–4 weeks depending on project complexity. You should have your measurements, a rough budget cap, and a sense of the layout before the first design meeting. Deliverables include floor plans, reflected ceiling plans, and a finishes schedule. The decision deadline for structural elements (load-bearing wall removal, underpinning, egress sizing) is here, not later.</p>
+<p><strong>Homeowner checklist for design:</strong></p>
+<ol>
+<li>Confirm ceiling height and identify any obstructions (beams, mechanicals).</li>
+<li>Decide on the number of bedrooms, bathrooms, and whether a legal suite is the goal.</li>
+<li>Set a hard budget cap and share it with your designer or contractor.</li>
+<li>Select all long-lead items (custom cabinetry, windows, specialty flooring) so orders can be placed during permit review.</li>
+</ol>
+<h3>Permits and engineering</h3>
+<p>This is where most homeowners underestimate the schedule. A complete application in many Canadian municipalities processes in 10–15 business days, but an incomplete submission adds 2–4 weeks. Budget 4–6 weeks conservatively. Projects requiring structural letters (underpinning, load-bearing changes) or egress window sizing documentation take longer because engineering drawings must accompany the permit submission.</p>
+<p>Using a contractor experienced with your local submission portal — whether that is Calgary’s ePLAN system or another municipal platform — typically reduces back-and-forth and can save 1–3 weeks on the review cycle.</p>
+<p><strong>Homeowner checklist for permits:</strong></p>
+<ol>
+<li>Confirm who owns the permit application (you or your contractor) and who books inspections.</li>
+<li>Ask your contractor to confirm the submission is complete before it goes in.</li>
+<li>Use the permit waiting period to finalize all material selections and place long-lead orders.</li>
+</ol>
+<h3>Site prep and demolition</h3>
+<p>For a standard basement, demolition takes 1–5 days. This phase removes existing finishes, partitions, and any mechanical elements that are being relocated. Before demolition begins, <a href="https://urbantasker.com/blog/ultimate-basement-renovation-checklist-canada" rel="nofollow noopener noreferrer" target="_blank">test for asbestos and mould</a> if your home was built before 1990. Remediation for either adds time and cost that must be scheduled with a certified specialist, not a general contractor. Protect your belongings and confirm a clear access path for debris removal. Waste disposal logistics — bin placement, municipal rules for concrete disposal — should be confirmed before the crew arrives.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786287711311_Basement-demolition-and-drywall-removal.jpeg" alt="Basement demolition and drywall removal" /></p>
+<h3>Waterproofing and slab work</h3>
+<p>Not every project needs this phase, but when it does, it is the most schedule-sensitive. Interior drainage systems and sump pump installations are typically 3–7 days. Exterior waterproofing requires excavation and is weather-dependent; plan for 1–3 weeks. Underpinning to increase ceiling height is the longest single task in any basement project, often 4–8 weeks for structural works alone. If your project requires underpinning, this phase determines your critical path.</p>
+<p><strong>Homeowner checklist for waterproofing:</strong></p>
+<ol>
+<li>Get a moisture assessment before finalising your scope.</li>
+<li>Confirm whether interior or exterior waterproofing is recommended and why.</li>
+<li>If underpinning is required, confirm the structural engineer’s letter is included in the permit package.</li>
+</ol>
+<h3>Framing, mechanicals, and rough-ins</h3>
+<p>Framing typically takes 1–2 weeks. After framing, trades follow a specific sequence: rough electrical, rough plumbing, then HVAC. Each trade requires its own scheduling window, and they cannot always overlap. After rough-ins are complete, a municipal rough-in inspection is required before walls can be closed. That inspection window is typically 3–10 business days. Do not close walls before the inspection is passed and documented.</p>
+<p><strong>Homeowner checklist for rough-ins:</strong></p>
+<ol>
+<li>Walk the framed space with your contractor before trades begin and confirm room dimensions match the plan.</li>
+<li>Confirm the inspection booking is made as soon as rough-ins are complete, not after.</li>
+<li>Review the electrical and plumbing rough-in layout before walls close — changes after drywall are expensive.</li>
+</ol>
+<h3>Insulation, drywall, and finishes</h3>
+<p>Insulation goes in after the rough-in inspection is passed. Drywall follows, typically 3–5 days for hanging and 5–10 days for taping, mudding, and drying between coats. Rushing drywall drying is one of the most common causes of finish quality problems. After drywall, finishing trades work in sequence: flooring, millwork and trim, painting, then fixture installation. A municipal insulation/drywall inspection may be required before painting in some jurisdictions. The final municipal inspection and punch list typically add 1–2 weeks to close out the project.</p>
+<p><strong>Homeowner checklist for finishes:</strong></p>
+<ol>
+<li>Do a pre-paint walkthrough to catch drywall defects before they are painted over.</li>
+<li>Confirm all fixture and appliance deliveries are on site before the finishing trades are scheduled.</li>
+<li>Keep a punch list and walk through it with your contractor before signing off on the final payment milestone.</li>
+</ol>
+
+<h2>How long does a basement renovation take for different project types?</h2>
+<h3>Small rec room (basic finish)</h3>
+<p><strong>Total timeline: 8–12 weeks.</strong> This scenario covers a basic open-concept rec room with no bathroom, no structural changes, and no plumbing additions. The critical path is the permit review window (2–4 weeks) followed by framing, rough electrical, insulation, drywall, and finishes. The biggest schedule swing factor here is permit completeness. A complete application moves quickly; an incomplete one adds weeks before construction even starts.</p>
+<ul>
+<li>Permit application to approval: 2–4 weeks</li>
+<li>On-site construction: 4–6 weeks</li>
+<li>Inspections and punch list: 1–2 weeks</li>
+</ul>
+<h3>Mid-range with bathroom and mechanical changes</h3>
+<p><strong>Total timeline: 12–18 weeks.</strong> Adding a bathroom introduces a slab cut for drain rough-in, a licensed plumber, and an additional inspection stop. Adding a bathroom typically increases on-site time to about 6–10 weeks. The slab cut and concrete cure add 3–5 days before framing can begin. HVAC changes for a new bathroom exhaust fan and any in-floor heating also require coordination. The biggest schedule swing factor is the slab cut and plumbing rough-in inspection, which must be passed before the slab is poured and before walls close.</p>
+<ul>
+<li>Permit application to approval: 3–6 weeks</li>
+<li>On-site construction: 6–10 weeks</li>
+<li>Inspections and punch list: 1–2 weeks</li>
+</ul>
+<h3>Legal suite, underpinning, or major structural remodel</h3>
+<p><strong>Total timeline: 27–50 weeks from first design meeting to handover.</strong> This range reflects realistic Toronto timelines for legal apartments with underpinning and applies broadly across Canadian municipalities with similar code requirements. Calgary’s legal suite rules add egress window requirements, separate entrance specifications, and fire separation standards that each require engineering documentation and multiple inspection stops. Underpinning alone can occupy 4–8 weeks. Municipal approvals for legal suites often involve additional review steps beyond a standard building permit.</p>
+<ul>
+<li>Design and engineering: 4–8 weeks</li>
+<li>Permit application to approval: 4–8 weeks</li>
+<li>On-site construction (including underpinning): 12–20 weeks</li>
+<li>Inspections and handover: 2–4 weeks</li>
+</ul>
+<p>Cost and complexity rise together in this scenario. Structural modifications can increase both cost and time by 40–50% compared to a basic finish, which is why the contingency buffer for legal-suite projects should be at least 20% on both time and budget.</p>
+
+<h2>How do Canadian permits and inspections affect your schedule?</h2>
+<p>In Canada, a basement renovation that adds a bedroom, bathroom, egress window, sleeping room, or changes to load-bearing walls requires a building permit. This is not optional, and the consequences of skipping it are significant.</p>
+<p><strong>Common permit triggers in Canadian municipalities:</strong></p>
+<ul>
+<li>Any new bedroom or sleeping room</li>
+<li>Addition of a bathroom or wet bar with plumbing</li>
+<li>Egress window installation or enlargement</li>
+<li>Changes to load-bearing walls or structural elements</li>
+<li>Separate entrance for a legal suite</li>
+<li>New electrical panel or subpanel</li>
+</ul>
+<p><strong>Inspection milestones that create mandatory pauses:</strong></p>
+<p>Municipal inspections happen at three points: rough-in (before walls close), insulation/drywall (in some jurisdictions), and final. Each inspection requires a booking, and the scheduling window is typically 3–10 business days. That means a project with three inspection stops has a minimum of 9–30 business days of built-in waiting time, independent of how fast your trades work.</p>
+<blockquote>
+<p>Attempting to bypass permits is one of the most expensive decisions a homeowner can make. Remediation for unpermitted work in Canada can cost between $15,000 and $30,000 and often requires tearing out finished elements — walls, floors, and ceilings — so an inspector can verify the work underneath. Beyond the financial cost, unpermitted work creates real problems at resale: insurers can deny claims, and buyers’ lawyers routinely flag unpermitted basement suites during due diligence.</p>
+</blockquote>
+<p>Calgary’s permit office, like most Alberta municipalities, uses an online submission system. A complete application with accurate drawings, structural letters where required, and correct egress documentation moves through review faster than one that needs multiple rounds of corrections. Your contractor’s familiarity with the local submission process is a genuine schedule advantage.</p>
+
+<h2>How to build your schedule and manage delays</h2>
+<h3>Start with a realistic baseline</h3>
+<p>Map out your project phases in sequence before construction begins. Identify the critical-path tasks — the ones where a delay in one phase directly delays the next. For most basement projects, the critical path runs: permit approval → slab cut (if applicable) → rough-in inspection → drywall → final inspection. Everything else can flex around that spine.</p>
+<p><strong>Questions to ask your contractor before signing:</strong></p>
+<ul>
+<li>Who applies for the permit, and who books each inspection?</li>
+<li>What is your current lead time for scheduling each trade (electrician, plumber, HVAC)?</li>
+<li>How do you handle a failed inspection or a required correction?</li>
+<li>What is your process if a material is backordered or delayed?</li>
+<li>How are change orders documented, priced, and added to the schedule?</li>
+</ul>
+<p>Getting clear answers to these questions before work starts is more valuable than any contingency buffer you can add afterward.</p>
+<h3>Order long-lead items early</h3>
+<p>Custom millwork, specialty windows, and certain tile or flooring products often have 6–12 week lead times. The permit review window is the right time to place these orders. A project that waits until after permit approval to order a custom vanity or a specialty egress window will sit idle on site while those items are manufactured.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786287719283_Hands-assembling-custom-wood-cabinetry.jpeg" alt="Hands assembling custom wood cabinetry" /></p>
+<p><strong>Pro Tip:</strong> <em>Ask your contractor for a materials lead-time list at the design stage. Any item with a lead time longer than your permit review window should be ordered the day the permit application goes in, not the day it comes back approved.</em></p>
+<h3>Manage change orders carefully</h3>
+<p>A change order after framing is complete is not just a cost issue — it is a schedule issue. Moving a wall, adding a pot light circuit, or changing a bathroom layout after rough-ins are done can require re-inspection and re-sequencing of trades. Every change order should include a revised schedule impact in writing, not just a revised price. If your contractor cannot tell you how many days a change adds, that is a gap in project management you need to address directly.</p>
+
+<h2>Statera Contracting’s real-project timelines and Calgary-specific notes</h2>
+<p>Calgary’s climate adds a layer of scheduling reality that generic timelines do not capture. Exterior excavation and waterproofing are seasonally sensitive: Alberta winters make exterior work impractical from roughly November through March, and spring thaw can delay excavation starts into May depending on ground conditions. For projects requiring exterior waterproofing or egress window installation, late spring through early fall is the practical window.</p>
+<p><strong>Statera Contracting’s typical on-site durations by project tier in Calgary:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Project tier</th>
+<th>Typical on-site duration</th>
+<th>Common delay causes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Basic finish (rec room, no bathroom)</td>
+<td>4–6 weeks on site</td>
+<td>Permit completeness, inspection scheduling</td>
+</tr>
+<tr>
+<td>Mid-range with bathroom</td>
+<td>6–10 weeks on site</td>
+<td>Slab cut cure time, plumbing inspection windows</td>
+</tr>
+<tr>
+<td>Legal suite or structural remodel</td>
+<td>12–20+ weeks on site</td>
+<td>Underpinning, egress approvals, multiple inspection stops</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Anonymized Calgary project example:</strong></p>
+<p>A mid-range Calgary basement project with one bathroom, an egress window, and a new electrical subpanel. The permit application went in with complete drawings and a structural letter for the egress window. Municipal review took 18 business days. On-site construction began immediately after permit issuance. The slab cut and plumbing rough-in added five days before framing could start. The rough-in inspection was booked the same day rough-ins were complete and came back within seven business days. One correction was required on the electrical panel location, which added three days. Drywall, finishes, and the final inspection closed out in six weeks. Total project duration from permit application to final inspection: 16 weeks. The main delay was the electrical correction, which could have been avoided with a pre-rough-in walkthrough with the inspector’s checklist in hand.</p>
+<blockquote>
+<p>The most consistent lesson from Calgary basement projects is that the permit and inspection sequence is the schedule. Homeowners who treat permit approval as the start of the project, rather than as one phase within it, are the ones who end up surprised by the total timeline. Plan the permit phase as carefully as you plan construction.</p>
+</blockquote>
+<p><strong>Simple timeline template you can adapt:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Week range</th>
+<th>Phase</th>
+<th>Key homeowner action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weeks 1–3</td>
+<td>Design and selections</td>
+<td>Lock scope, budget, and all long-lead selections</td>
+</tr>
+<tr>
+<td>Weeks 2–7</td>
+<td>Permit application and review</td>
+<td>Place long-lead orders; confirm trade availability</td>
+</tr>
+<tr>
+<td>Week 7 (or on approval)</td>
+<td>Demolition and site prep</td>
+<td>Confirm asbestos/mould testing is complete</td>
+</tr>
+<tr>
+<td>Weeks 7–9</td>
+<td>Waterproofing and slab work</td>
+<td>Approve waterproofing method in writing</td>
+</tr>
+<tr>
+<td>Weeks 9–12</td>
+<td>Framing and rough-ins</td>
+<td>Walk framed space; book rough-in inspection immediately</td>
+</tr>
+<tr>
+<td>Weeks 12–13</td>
+<td>Insulation and drywall</td>
+<td>Pre-paint walkthrough for defects</td>
+</tr>
+<tr>
+<td>Weeks 14–15</td>
+<td>Finishes</td>
+<td>Confirm all deliveries are on site before trades arrive</td>
+</tr>
+<tr>
+<td>Weeks 16–18</td>
+<td>Final inspection and punch list</td>
+<td>Walk punch list before final payment</td>
+</tr>
+</tbody>
+</table>
+<p>For more on <a href="https://stateracontracting.com/blog/basement-finishing-calgary" target="_blank" rel="noopener">basement finishing in Calgary</a>, including what to expect from the local permit process, Statera’s blog covers the specifics in detail. You can also review the <a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">2026 Calgary renovation roadmap</a> for a broader look at how basement projects fit into whole-home renovation planning.</p>
+
+<h2>Three timeline lessons every Calgary homeowner should hear</h2>
+<p>Here is where they actually come from, and what to do about each one.</p>
+<p><strong>1. The permit phase is not passive waiting — use it.</strong></p>
+<p>Most homeowners submit their permit application and then wait. The ones who finish on schedule use that window to order every long-lead item, confirm every trade’s availability, and finalize every material selection. By the time the permit comes back, their contractor can start the following week. The ones who wait until permit approval to make those decisions add 2–6 weeks to their project before construction even starts.</p>
+<p><strong>2. Inspection scheduling is a skill, not a formality.</strong></p>
+<p>Booking a municipal inspection the same day rough-ins are complete — not two days later, not after the weekend — is the difference between a 5-day wait and a 12-day wait. Contractors who know their local inspection office’s booking patterns and preferred submission formats consistently get faster turnaround. Ask your contractor specifically how they handle inspection bookings and what their average wait time has been on recent projects.</p>
+<p><strong>3. Change orders are schedule killers, not just budget killers.</strong></p>
+<p>A homeowner who changes the bathroom tile after the plumbing rough-in is done does not just pay more — they push the plumber’s return visit, the inspection re-booking, and the flooring installation all back by days or weeks. The best protection is making every finish decision before the permit goes in, not before construction starts. By the time construction starts, some decisions are already too late to change cheaply.</p>
+
+<h2>Statera Contracting manages your basement timeline from permit to punch list</h2>
+<p>Coordinating permits, trades, inspections, and materials on your own is a full-time job during a renovation. The biggest timeline risks — an incomplete permit submission, a missed inspection booking, a backordered material sitting on a loading dock — are the ones a general contractor catches before they become delays.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Statera Contracting handles <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement renovations in Calgary</a> from initial design through final inspection, including permit applications, trade scheduling, and inspection coordination. We work with homeowners on basic finishes, mid-range projects with bathrooms and mechanical changes, and full legal-suite builds. An initial consultation covers your scope, your permit requirements, and a realistic schedule for your specific project. You can also explore our <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovation services</a> if your basement project includes a new bathroom. Reach out to book a consultation and get a clear picture of what your project actually involves before you commit to a timeline.</p>
+
+<h2>Sources</h2>
+<p>The sources below are worth bookmarking before you call a contractor or visit your municipal permit office.</p>
+<ul>
+<li><a href="https://canadaconstructionnetwork.com/reports/the-complete-guide-to-basement-finishing-in-canada" rel="nofollow noopener noreferrer" target="_blank">The Complete Guide to Basement Finishing in Canada | Canada Construction Network</a></li>
+<li>Basement Renovation Timeline Ontario | WDI4Y©</li>
+<li>Basement Renovation Toronto: 2026 Cost &amp; Pillar Guide</li>
+<li><a href="https://www.completeconnection.ca/toronto-basement-renovation-timing/" rel="nofollow noopener noreferrer" target="_blank">The Ultimate Guide to Timing Your Basement Renovation in Toronto’s Climate - Complete Connection</a></li>
+<li><a href="https://urbantasker.com/blog/ultimate-basement-renovation-checklist-canada" rel="nofollow noopener noreferrer" target="_blank">The Ultimate Basement Renovation Checklist Canada</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">Commercial Renovation Calgary: TI Timeline Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/basement-finishing-calgary" target="_blank" rel="noopener">Basement Finishing Calgary: Full 2026 Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">Planning a Kitchen Renovation in Calgary | Statera Tips | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
