@@ -9682,6 +9682,319 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "change-orders-renovation",
+    title: "Change orders in renovation: what you need to know",
+    excerpt:
+      "A change order is a written amendment to your renovation contract that formally adjusts the scope of work, the contract price, and the project timeline. Here's what every Calgary homeowner should know before signing one.",
+    date: "2026-08-13",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786379973855_Signed-renovation-change-order-form-with-tools.jpeg",
+    coverAlt: "Change orders in renovation: what you need to know",
+    category: "Industry News",
+    readingTime: "12 min read",
+    metaTitle: "Change orders in renovation: what you need to know",
+    metaDescription:
+      "Understand change orders in renovation to protect your budget and timeline. Learn essential steps before making any adjustments.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A change order is a written amendment to your renovation contract that formally adjusts the scope of work, the contract price, and the project timeline. Sign nothing and start no additional work without one. The <a href="https://www.chba.ca/wp-content/uploads/2024/02/a-homeowner-guide-to-renovation-contracts-chba.pdf" rel="nofollow noopener noreferrer" target="_blank">Canadian Home Builders’ Association (CHBA)</a> is clear that changes outside the original scope are extras and may carry a markup or penalty. The <a href="https://www.canada.ca/en/public-services-procurement/services/acquisitions/forms/change-order-610.html" rel="nofollow noopener noreferrer" target="_blank">PWGSC-TPSGC 610 form</a> sets the national standard for what a change order must contain, and the Ottawa Construction Association’s protocol highlights that cost is often the most disputed element of any change. Statera Contracting follows this same written-first discipline on every Calgary project.</p>
+<p>When a change comes up on site, take these steps immediately:</p>
+<ul>
+<li>Stop work on the change until a signed change order exists.</li>
+<li>Request a written cost breakdown showing labour, materials, and any schedule impact.</li>
+<li>Record who requested the change, who authorised it, and the date.</li>
+<li>Do not accept verbal approvals or informal emails as a substitute for a signed document.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Keep a dedicated change-order log from day one. A simple spreadsheet with the date, description, quoted cost, and approval status takes minutes to maintain and can save thousands in disputes.</em></p>
+
+<h2>Key takeaways</h2>
+<p>A signed, itemised change order is the single most effective tool for protecting your renovation budget and avoiding disputes with your contractor.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Require written change orders</td>
+<td>Never approve a change verbally — both parties must sign before work begins.</td>
+</tr>
+<tr>
+<td>Check the cost breakdown</td>
+<td>Confirm labour, materials, and overhead are listed separately, not as a single lump sum.</td>
+</tr>
+<tr>
+<td>Note the schedule impact</td>
+<td>Every change order should state the calendar days added or removed from your completion date.</td>
+</tr>
+<tr>
+<td>Accept reservation-of-rights language</td>
+<td>Cumulative impact costs are real; allowing the contractor to quantify them later prevents larger disputes.</td>
+</tr>
+<tr>
+<td>Statera Contracting’s process</td>
+<td>Written quotations, itemised markups, and owner sign-off before work starts on every Calgary project.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-a-change-order-must-include">What a change order must include</a></li>
+<li><a href="#why-change-orders-happen-on-renovation-projects">Why change orders happen on renovation projects</a></li>
+<li><a href="#how-change-orders-affect-your-budget-and-schedule">How change orders affect your budget and schedule</a></li>
+<li><a href="#step-by-step-process-for-managing-change-orders">Step-by-step process for managing change orders</a></li>
+<li><a href="#a-change-order-template-and-checklist-you-can-use">A change-order template and checklist you can use</a></li>
+<li><a href="#how-to-resolve-a-change-order-dispute">How to resolve a change-order dispute</a></li>
+<li><a href="#contract-clauses-that-prevent-scope-creep-before-work-starts">Contract clauses that prevent scope creep before work starts</a></li>
+<li><a href="#how-statera-contracting-handles-change-orders-in-calgary">How Statera Contracting handles change orders in Calgary</a></li>
+<li><a href="#statera-contractings-renovation-services-in-calgary">Statera Contracting’s renovation services in Calgary</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What a change order must include</h2>
+<p>A change order is more than a price adjustment. It is a formal contract amendment that protects both you and your contractor. According to the PWGSC-TPSGC 610 standard, a valid change order documents the reason for the change, the revised price, and any time adjustment.</p>
+<p>Every change order should contain these fields:</p>
+<ul>
+<li><strong>Project identification:</strong> contract number, project address, and parties involved.</li>
+<li><strong>Change description:</strong> a clear, specific description of what is being added, removed, or modified.</li>
+<li><strong>Pricing method:</strong> a fixed-price amount or a time-and-materials breakdown with rates.</li>
+<li><strong>Schedule impact:</strong> days added or removed from the completion date.</li>
+<li><strong>Notice and approval record:</strong> who requested the change and when.</li>
+<li><strong>Signatures and date:</strong> both owner and contractor must sign before work begins.</li>
+</ul>
+<p>One distinction matters here. A <strong>change directive</strong> instructs work to proceed before price is agreed. As the MCAC Change Order Protocol explains, a directive is a short-term tool to keep the project moving, but it must always be followed by a signed change order to formalise cost and schedule. Do not treat a directive as a final budget agreement.</p>
+<blockquote>
+<p>A change directive allows work to proceed before price is agreed — it does not replace the need for a final signed change order to formalise price and schedule adjustments. Supplementary instructions are not change directives and should not be treated as such.</p>
+</blockquote>
+
+<h2>Why change orders happen on renovation projects</h2>
+<p>Most change orders fall into predictable categories. Knowing them in advance helps you budget for contingencies and make faster decisions when they arise.</p>
+<p><strong>Common triggers:</strong></p>
+<ul>
+<li>Owner-initiated design changes (upgrading countertops after demolition, adding a window)</li>
+<li>Errors or omissions in original drawings or specifications</li>
+<li>Unforeseen site conditions discovered during demolition</li>
+<li>Regulatory or permit changes required by the municipality</li>
+<li>Material substitutions when specified products are unavailable</li>
+<li>Trade coordination issues that require scope adjustments</li>
+</ul>
+<p><strong>Realistic scenarios homeowners recognise:</strong></p>
+<ol>
+<li>Demolition reveals knob-and-tube wiring that must be replaced before drywall can close.</li>
+<li>You decide mid-project to upgrade from laminate to quartz countertops.</li>
+<li>The City of Calgary requires an additional inspection that delays framing.</li>
+<li>A specified tile is discontinued and a substitute requires different substrate preparation.</li>
+<li>Structural blocking is missing where a new island requires support.</li>
+</ol>
+<p>The key distinction is who bears the cost. Changes you initiate are clearly extras. Errors or omissions in the contractor’s own drawings are typically the contractor’s responsibility to correct without an extra charge. Unforeseen site conditions, such as hidden water damage or asbestos, generally allow the contractor to issue a legitimate change order because neither party could have anticipated them. Older homes in Calgary carry a higher probability of these surprises, which is why <a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">renovating an older home</a> requires a larger contingency from the start.</p>
+
+<h2>How change orders affect your budget and schedule</h2>
+<p>The <a href="https://oca.ca/app/uploads/2023/03/2023-Change-Order-Protocol.pdf" rel="nofollow noopener noreferrer" target="_blank">Ottawa Construction Association’s 2023 Change Order Protocol</a> identifies cost as the most common area of dispute and breaks change-order pricing into three categories.</p>
+<p><strong>The three cost buckets:</strong></p>
+<ul>
+<li><strong>Direct costs:</strong> labour hours, materials, subcontractor costs, and equipment directly tied to the change.</li>
+<li><strong>Overhead and profit:</strong> head-office overhead (the OCA protocol references about a guideline percentage for overhead costs) plus the contractor’s profit margin.</li>
+<li><strong>Consequential or impact costs:</strong> schedule ripple effects, re-ordering costs for already-purchased materials, increased supervision time, and potential acceleration premiums to recover lost schedule.</li>
+</ul>
+<p>Impact costs are where disputes concentrate. If a plumbing change forces the electrician to reschedule by two weeks, that delay has a real cost that does not appear in the direct material price. The OCA protocol recommends templates to quantify these factors consistently.</p>
+<p>Multiple change orders compound the problem. Research by Leonard and Ibbs, summarised in <a href="https://www.mondaq.com/canada/construction-planning/70212/change-orders-and-notice-requirements-mitigating-the-cumulative-impact-of-multiple-changes" rel="nofollow noopener noreferrer" target="_blank">Canadian construction industry commentary</a>, found a measurable correlation between the volume of change orders on a project and productivity loss across trades. A project with ten small changes does not simply cost the sum of those ten items — the cumulative disruption to scheduling, sequencing, and crew efficiency adds a layer of cost that is difficult to quantify at the time of each individual quotation.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786379977202_Paused-renovation-site-with-tools-and-materials.jpeg" alt="Paused renovation site with tools and materials" /></p>
+<p><strong>Pro Tip:</strong> <em>When a contractor quotes a change but notes that cumulative impacts are not yet measurable, accept the reservation-of-rights language. It is standard practice, not a red flag. Refusing it can leave the contractor unable to recover legitimate costs later, which creates bigger disputes.</em></p>
+
+<h2>Step-by-step process for managing change orders</h2>
+<p>Follow this sequence every time a change arises, whether you initiated it or the contractor did.</p>
+<ol>
+<li><strong>Stop work on the affected scope</strong> until the change is documented and approved.</li>
+<li><strong>Request a written quotation</strong> that separates labour, materials, subcontractor costs, and overhead.</li>
+<li><strong>Check the schedule impact.</strong> Ask specifically how many days are added and whether any trades need to be rescheduled.</li>
+<li><strong>Review the markup.</strong> Confirm the overhead percentage and profit margin are consistent with what your contract specifies.</li>
+<li><strong>Verify permit implications.</strong> Some changes require a permit amendment in Calgary — confirm this before approving.</li>
+<li><strong>Sign the change order before work starts.</strong> Both parties sign; both parties keep a copy.</li>
+<li><strong>Update your project records.</strong> Add the change to your log, attach the signed document, and note the revised completion date and contract total.</li>
+</ol>
+<p><strong>Owner checklist when reviewing a change order:</strong></p>
+<ul>
+<li>Is the scope of the change described specifically, not vaguely?</li>
+<li>Is the pricing broken down by labour, materials, and overhead separately?</li>
+<li>Are permit or inspection impacts noted?</li>
+<li>Is the schedule impact stated in calendar days?</li>
+<li>Is it clear who authorised the change and when?</li>
+<li>Have both parties signed before any work begins?</li>
+</ul>
+<p>For negotiating, time-and-materials quotations work well for changes where the scope is genuinely uncertain. Fixed-price quotations are preferable when the scope is clear. The <a href="https://canadaconstructionnetwork.com/guides/what-to-include-in-a-renovation-contract" rel="nofollow noopener noreferrer" target="_blank">Canada Construction Network</a> recommends that your original contract specify which method applies to extras, so there is no debate when a change arises.</p>
+
+<h2>A change-order template and checklist you can use</h2>
+<p>Use this template as a starting point. Adapt the language to match your contract.</p>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>What to include</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Change Order ID</td>
+<td>Sequential number</td>
+</tr>
+<tr>
+<td>Project address</td>
+<td>Full civic address</td>
+</tr>
+<tr>
+<td>Date issued</td>
+<td>Day, month, year</td>
+</tr>
+<tr>
+<td>Description of change</td>
+<td>Specific scope addition, deletion, or modification</td>
+</tr>
+<tr>
+<td>Supporting documents</td>
+<td>Attach drawings, photos, or product specs</td>
+</tr>
+<tr>
+<td>Direct cost breakdown</td>
+<td>Labour hours × rate, materials list with unit prices</td>
+</tr>
+<tr>
+<td>Overhead and profit</td>
+<td>Percentage applied to direct costs (confirm against contract)</td>
+</tr>
+<tr>
+<td>Schedule impact</td>
+<td>Calendar days added (+) or removed (−)</td>
+</tr>
+<tr>
+<td>Revised contract total</td>
+<td>Original contract sum + all approved change orders to date</td>
+</tr>
+<tr>
+<td>Owner signature</td>
+<td>Name, signature, date</td>
+</tr>
+<tr>
+<td>Contractor signature</td>
+<td>Name, signature, date</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Owner verification checklist:</strong></p>
+<ul>
+<li>Scope is specific and unambiguous.</li>
+<li>Pricing is itemised, not lump-sum only.</li>
+<li>Overhead percentage matches the contract or is disclosed and agreed.</li>
+<li>Schedule impact is stated.</li>
+<li>Permit implications are noted.</li>
+<li>Both parties sign before work proceeds.</li>
+<li>Copy filed with project records immediately.</li>
+</ul>
+<p>Keeping a running revised contract total on every change order is one of the most practical habits you can build. It prevents the end-of-project surprise of a contract sum that has drifted far from the original.</p>
+
+<h2>How to resolve a change-order dispute</h2>
+<p>When a change-order disagreement arises, work through these steps in order before escalating.</p>
+<ol>
+<li><strong>Review your contract and change-order records.</strong> Confirm whether proper notice was given and whether the disputed item was ever formally approved.</li>
+<li><strong>Request a meeting with your contractor</strong> to walk through the documentation together. Many disputes resolve at this stage when both parties see the same paper trail.</li>
+<li><strong>Engage an independent third party</strong> — a project manager or construction consultant — to review the claim and provide an objective assessment.</li>
+<li><strong>Mediation or arbitration.</strong> Most Canadian construction contracts include a dispute resolution clause. Mediation is faster and less expensive than litigation.</li>
+<li><strong>Expert quantum or delay analysis.</strong> For large cumulative impact claims, a schedule analyst or claims consultant can quantify productivity loss in a way that holds up in arbitration or court.</li>
+<li><strong>Litigation.</strong> A last resort, and rarely cost-effective for disputes under a threshold where legal fees would consume the recovery.</li>
+</ol>
+<p><strong>Signals that legal advice is warranted:</strong></p>
+<ul>
+<li>The disputed amount is significant relative to your total contract.</li>
+<li>Your contractor failed to give proper notice as required by the contract.</li>
+<li>A lien has been filed or the statutory holdback period is approaching.</li>
+<li>Cumulative impact costs are being claimed without supporting documentation.</li>
+</ul>
+<p>Construction lawyers in Alberta can advise on lien rights under the <em>Builders’ Lien Act</em> and on whether your contract’s notice provisions were properly followed. Acting quickly matters — lien deadlines are strict.</p>
+
+<h2>Contract clauses that prevent scope creep before work starts</h2>
+<p>The best time to manage change orders is before the first nail goes in. The Canada Construction Network recommends documenting change procedures, requiring written approvals, and defining authorised decision-makers from the outset.</p>
+<table>
+<thead>
+<tr>
+<th>Clause</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Detailed scope attachment</td>
+<td>Attaches drawings and specs to the contract so “the work” is unambiguous</td>
+</tr>
+<tr>
+<td>Written-change-only clause</td>
+<td>Prohibits verbal approvals; all changes must be signed documents</td>
+</tr>
+<tr>
+<td>Authorised signatory list</td>
+<td>Names who can approve changes on each side</td>
+</tr>
+<tr>
+<td>Agreed overhead and profit method</td>
+<td>Specifies the markup percentage or method upfront (OCA guideline: ~10% overhead)</td>
+</tr>
+<tr>
+<td>Notice timeline</td>
+<td>Sets how many days the contractor has to notify you of a change and its cost</td>
+</tr>
+<tr>
+<td>Reservation-of-rights language</td>
+<td>Allows pricing with a note that cumulative impacts will be quantified later</td>
+</tr>
+<tr>
+<td>Contingency and holdback</td>
+<td>Defines the owner’s contingency budget and the statutory holdback treatment</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Procurement steps before signing:</strong></p>
+<ul>
+<li>Obtain detailed plans and specifications before finalising the contract price.</li>
+<li>Tie milestone payments to completed work, not calendar dates.</li>
+<li>Establish a baseline schedule and agree on how delays are measured.</li>
+<li>Hold a pre-construction meeting to confirm who communicates what, and how.</li>
+</ul>
+<p>Attaching detailed plans and specifications to the contract, and explicitly rejecting verbal authorisations, are the two highest-impact steps you can take to refresh your space without the renovation headache. A <a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation in Calgary</a> where finishes, appliances, and layout are decided before demolition starts will generate far fewer change orders than one where decisions are made on the fly. For a broader view of what contingency to carry, the <a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Calgary renovation budget guide</a> covers typical ranges by project type.</p>
+
+<h2>How Statera Contracting handles change orders in Calgary</h2>
+<p>At Statera Contracting, every change order follows a written-first process. When a change arises on a kitchen, bathroom, basement, or commercial project, we stop the affected work, prepare a written quotation that itemises labour, materials, and overhead separately, and present it to the owner before proceeding. We note the schedule impact in calendar days and flag any permit amendment requirements with the City of Calgary.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786379974554_Contractor-calculating-change-order-costs-on-calculator.jpeg" alt="Contractor calculating change order costs on calculator" /></p>
+<p>Calgary projects carry specific considerations: permit amendments can add days to a timeline, and local inspection sequencing affects when trades can re-enter a space. We coordinate directly with our trades to contain ripple effects and keep the revised schedule realistic. Owner sign-off is required before any change-order work begins, and every signed document is filed with the project record so the revised contract total is always current.</p>
+<p>This process reflects the same standards the CHBA and OCA recommend for Canadian homeowners — transparent markup disclosure, documented authorisation, and no surprises at the final invoice.</p>
+
+<h2>Statera Contracting’s renovation services in Calgary</h2>
+<p>Transparent change-order management is built into every project Statera Contracting takes on. Whether you are planning a <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation</a>, a <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovation</a>, a <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement finishing project</a>, or a <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial fit-out</a> in Calgary, you get written quotations, itemised breakdowns, and clear sign-off at every step. No verbal approvals, no end-of-project surprises.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If you are starting a renovation and want a contractor who documents changes the right way from day one, contact Statera Contracting for a consultation. We work with homeowners and property managers across Calgary and the surrounding area, and we are happy to walk you through our process before you sign anything.</p>
+
+<h2>Sources</h2>
+<p>Keep these references with your contract documentation. Each one addresses a different layer of change-order management.</p>
+<ul>
+<li><a href="https://www.chba.ca/wp-content/uploads/2024/02/a-homeowner-guide-to-renovation-contracts-chba.pdf" rel="nofollow noopener noreferrer" target="_blank">A homeowner guide to renovation contracts - CHBA</a></li>
+<li><a href="https://oca.ca/app/uploads/2023/03/2023-Change-Order-Protocol.pdf" rel="nofollow noopener noreferrer" target="_blank">2023 Change Order Protocol - Ottawa Construction Association</a></li>
+<li><a href="https://www.canada.ca/en/public-services-procurement/services/acquisitions/forms/change-order-610.html" rel="nofollow noopener noreferrer" target="_blank">Canada</a></li>
+<li><a href="https://canadaconstructionnetwork.com/guides/what-to-include-in-a-renovation-contract" rel="nofollow noopener noreferrer" target="_blank">What to include in a renovation contract | Canada Construction Network</a></li>
+</ul>
+<p>This article is general information, not a substitute for advice from a qualified lawyer. Consult a qualified legal professional about your own circumstances before acting on anything here.</p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">Renovating an older home: what Alberta homeowners need to know | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog" target="_blank" rel="noopener">Renovation Blog | Calgary Tips &amp; Insights | Statera Contracting | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">Planning a Kitchen Renovation in Calgary | Statera Tips | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
