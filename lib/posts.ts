@@ -9995,6 +9995,355 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "commercial-kitchen-ventilation-alberta",
+    title: "Commercial kitchen ventilation in Alberta: compliance guide",
+    excerpt:
+      "Every commercial kitchen in Alberta that produces grease-laden vapours or smoke is legally required to have a mechanical exhaust system that conforms to NFPA 96, as mandated by the National Building Code — Alberta Edition (NBC(AE)) and the National Fire Code — Alberta Edition (NFC(AE)), with Alberta Municipal Affairs STANDATA interpretations providing the binding provincial guidance on how those codes are applied.",
+    date: "2026-08-14",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786469604476_Commercial-kitchen-exhaust-hood-installation-in-progress.jpeg",
+    coverAlt: "Commercial kitchen ventilation in Alberta: compliance guide",
+    category: "Industry News",
+    readingTime: "22 min read",
+    metaTitle: "Commercial kitchen ventilation in Alberta: compliance guide",
+    metaDescription:
+      "Ensure your Alberta kitchen meets commercial ventilation regulations. Learn how to assess your equipment and ensure compliance today.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Every commercial kitchen in Alberta that produces grease-laden vapours or smoke is legally required to have a mechanical exhaust system that conforms to NFPA 96, as mandated by the National Building Code — Alberta Edition (NBC(AE)) and the National Fire Code — Alberta Edition (NFC(AE)), with Alberta Municipal Affairs <a href="https://open.alberta.ca/dataset/0741f88e-bdd8-4dbb-be1f-32187a0f436f/resource/434658c1-874f-45aa-9fd4-50a5414f637a/download/ma-standata-interpretation-fire-building-23-fci-004-23-bci-009-2024-12.pdf" rel="nofollow noopener noreferrer" target="_blank">STANDATA interpretations</a> providing the binding provincial guidance on how those codes are applied. If you operate a restaurant, pub, food hall, or any commercial cooking facility in Alberta, this is not optional.</p>
+<p>Three steps to take right now:</p>
+<ul>
+<li><strong>Assess your equipment and cooking processes.</strong> Identify every appliance that produces grease or smoke, since that determines whether NFPA 96 applies or whether a simpler Type II hood is sufficient.</li>
+<li><strong>Contact your Authority Having Jurisdiction (AHJ) or a qualified mechanical designer.</strong> Your local building and fire departments set the specific permit and inspection requirements for your municipality, and a mechanical designer translates those requirements into compliant drawings.</li>
+<li><strong>Schedule a qualified cleaning and inspection.</strong> If your exhaust system has not been serviced recently, book a certified cleaning contractor and retain the maintenance certificate. Statera Contracting can help coordinate the commercial renovation scope, permit support, and contractor engagement for your project.</li>
+</ul>
+
+<h2>Key takeaways</h2>
+<p>Alberta commercial kitchens producing grease-laden vapours must comply with NFPA 96 as required by the NBC(AE) and NFC(AE), and the owner bears legal responsibility for maintaining documented compliance throughout the life of the operation.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NFPA 96 is mandatory</td>
+<td>Any Alberta kitchen producing grease-laden vapours must meet NFPA 96 under the NBC(AE) and NFC(AE).</td>
+</tr>
+<tr>
+<td>Cleaning frequency is risk-based</td>
+<td>The AHJ sets your cleaning interval; monthly or quarterly is common for high-intensity operations.</td>
+</tr>
+<tr>
+<td>Maintenance certificates are required</td>
+<td>Post and retain certificates after every cleaning; they must include cleaner name, date, and next due date.</td>
+</tr>
+<tr>
+<td>Owners bear legal responsibility</td>
+<td>You must verify contractor credentials and keep all permit, inspection, and cleaning records on file.</td>
+</tr>
+<tr>
+<td>Statera Contracting coordinates the process</td>
+<td>Statera Contracting manages design, permits, and contractor coordination for commercial kitchen ventilation projects in Calgary and Alberta.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#which-codes-govern-commercial-kitchen-ventilation-in-alberta">Which codes govern commercial kitchen ventilation in Alberta?</a></li>
+<li><a href="#when-does-nfpa-96-apply-to-your-kitchen-and-when-is-a-type-ii-hood-enough">When does NFPA 96 apply to your kitchen, and when is a Type II hood enough?</a></li>
+<li><a href="#what-design-and-installation-requirements-must-your-system-meet">What design and installation requirements must your system meet?</a></li>
+<li><a href="#what-fire-suppression-system-does-your-kitchen-need">What fire suppression system does your kitchen need?</a></li>
+<li><a href="#how-often-must-you-clean-your-exhaust-system-and-who-can-do-it">How often must you clean your exhaust system, and who can do it?</a></li>
+<li><a href="#how-do-you-get-permits-and-work-with-the-ahj">How do you get permits and work with the AHJ?</a></li>
+<li><a href="#what-will-commercial-kitchen-ventilation-cost-in-alberta">What will commercial kitchen ventilation cost in Alberta?</a></li>
+<li><a href="#how-do-you-choose-qualified-contractors-and-what-documents-must-you-keep">How do you choose qualified contractors and what documents must you keep?</a></li>
+<li><a href="#common-compliance-mistakes-alberta-kitchens-make">Common compliance mistakes Alberta kitchens make</a></li>
+<li><a href="#why-compliance-is-about-more-than-avoiding-fines">Why compliance is about more than avoiding fines</a></li>
+<li><a href="#statera-contracting-helps-alberta-kitchens-get-ventilation-right-from-the-start">Statera Contracting helps Alberta kitchens get ventilation right from the start</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Which codes govern commercial kitchen ventilation in Alberta?</h2>
+<p>Three documents form the legal backbone of commercial kitchen ventilation requirements in Alberta, and they work together rather than independently.</p>
+<p><strong>National Building Code — Alberta Edition (NBC(AE))</strong> governs the design and installation of ventilation systems. When you apply for a building permit to construct or renovate a commercial kitchen, the NBC(AE) is the standard your drawings must satisfy. It references NFPA 96 directly for any cooking equipment that has the potential to produce grease-laden vapours.</p>
+<p><strong>National Fire Code — Alberta Edition (NFC(AE))</strong> takes over once the kitchen is operational. It governs ongoing use, inspection, testing, cleaning, and maintenance of the exhaust system. Alberta Fire Code sections 2.6.1.3 and 2.6.1.9 specifically require inspection and cleaning to prevent grease accumulation, and they reference NFPA 96 as the applicable standard for those activities.</p>
+<p><strong>NFPA 96 — Standard for Ventilation Control and Fire Protection of Commercial Cooking Operations</strong> is the technical document both provincial codes point to. It covers hood types, grease removal devices, ductwork construction, air movement, suppression systems, and maintenance procedures. Owning a copy and understanding its scope is worthwhile for any kitchen manager.</p>
+<p>Beyond those three, you will encounter:</p>
+<ul>
+<li><strong>Alberta Municipal Affairs STANDATA interpretations</strong> — binding provincial interpretations that clarify how the NBC(AE) and NFC(AE) apply to specific situations, including cooking exhaust and suppression systems. These are free to download from the Alberta government’s open data portal and are frequently updated.</li>
+<li><strong>NFPA 17A</strong> — the standard for wet chemical extinguishing systems, which is the suppression technology used in most commercial hood installations today.</li>
+<li><strong>ANSI/UL 300 and ULC/ORD-C1254.6</strong> — the testing and listing standards that fire suppression equipment must meet before it can be installed in an Alberta commercial kitchen.</li>
+<li><strong>Your local AHJ</strong> — the building and fire departments in your municipality have authority to impose requirements beyond the provincial minimum. Calgary, Edmonton, and smaller Alberta municipalities can and do apply local interpretations.</li>
+</ul>
+<p>The split of responsibility is worth understanding clearly. The NBC(AE) and the building permit process cover design and installation. Once you open for business, the NFC(AE) and your fire department take over. Both phases require NFPA 96 compliance, but different authorities enforce each phase.</p>
+
+<h2>When does NFPA 96 apply to your kitchen, and when is a Type II hood enough?</h2>
+<p>The deciding factor is straightforward: does your cooking equipment have the potential to produce grease-laden vapours or significant smoke? If yes, NFPA 96 applies and you need a Type I hood with a listed fire suppression system. If no, a Type II hood with basic mechanical ventilation may be acceptable, though you still need to remove heat and odours.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786469603283_Type-I-and-Type-II-commercial-kitchen-ventilation-hoods-side-by-side.jpeg" alt="Type I and Type II commercial kitchen ventilation hoods side by side" /></p>
+<p>Alberta STANDATA is explicit that it is the appliance’s <em>potential</em> to produce grease-laden vapours — not its brand, its domestic or commercial label, or its size — that determines which standard applies. A residential-grade fryer installed in a commercial kitchen still triggers NFPA 96.</p>
+<table>
+<thead>
+<tr>
+<th>Appliance or process</th>
+<th>Typical ventilation requirement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deep fryers, woks, charbroilers</td>
+<td>Type I hood + NFPA 96 + fire suppression</td>
+</tr>
+<tr>
+<td>Open-flame grills, broilers</td>
+<td>Type I hood + NFPA 96 + fire suppression</td>
+</tr>
+<tr>
+<td>Solid fuel cooking (wood, charcoal)</td>
+<td>Type I hood + NFPA 96 + enhanced suppression provisions</td>
+</tr>
+<tr>
+<td>Ovens with grease-producing cycles</td>
+<td>Type I hood + NFPA 96 + fire suppression</td>
+</tr>
+<tr>
+<td>Steamers, kettles, combi ovens (steam-only mode)</td>
+<td>Type II hood + mechanical ventilation (no suppression required)</td>
+</tr>
+<tr>
+<td>Warming equipment, hot-holding units</td>
+<td>Type II hood + mechanical ventilation (no suppression required)</td>
+</tr>
+<tr>
+<td>Basic reheating (microwave, toaster oven)</td>
+<td>Type II hood or simple mechanical ventilation</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786469656529_Diagram-of-kitchen-appliances-and-their-ventilation-requirements.jpeg" alt="Diagram of kitchen appliances and their ventilation requirements" /></p>
+<p>Mobile and temporary cooking operations are not exempt. Alberta’s joint interpretation on mobile cooking operations confirms that any mobile or temporary kitchen producing grease-laden vapours falls within NFPA 96 scope. The AHJ may require fan interlocks and other specific provisions, and can evaluate exemption requests on a case-by-case basis.</p>
+<p><strong>Pro Tip:</strong> <em>When you are uncertain whether your appliance triggers NFPA 96, contact your AHJ before purchasing equipment or starting design work. AHJs commonly override the general table above for borderline cases — a combi oven running high-fat roasting cycles, for example, may be treated as a grease-producing appliance by your local fire department even though it is not on the obvious list.</em></p>
+
+<h2>What design and installation requirements must your system meet?</h2>
+<p>Getting the design right from the start saves significant cost and time. The NBC(AE), NFC(AE), and NFPA 96 together set out specific construction requirements that your mechanical designer must address in the permit drawings.</p>
+<p><strong>Hood and canopy construction:</strong></p>
+<ul>
+<li>Canopies must be constructed of stainless steel or other listed materials with sufficient rigidity to maintain their shape under operating conditions.</li>
+<li>The hood must overhang the cooking surface adequately on all sides to capture grease-laden vapours before they escape into the kitchen.</li>
+<li>Grease filters or listed grease removal devices must be installed at an angle that promotes drainage into a collection trough.</li>
+</ul>
+<p><strong>Ductwork:</strong></p>
+<ul>
+<li>Exhaust ducts must be welded seamless construction. STANDATA specifies minimum 0.84 mm stainless steel for certain exposed duct configurations, and required clearances to combustibles must be maintained unless specific air-space and insulation construction options approved by the AHJ are used.</li>
+<li>Access panels must be installed at regular intervals along the duct run and must be labelled to indicate their purpose. These panels allow cleaning contractors to reach the interior of the duct system.</li>
+<li>Duct runs should be as short and direct as possible. Long horizontal runs accumulate grease faster and are harder to clean thoroughly.</li>
+</ul>
+<p><strong>Exhaust termination and clearances:</strong></p>
+<ul>
+<li>Exhaust outlets must terminate outdoors, away from air intakes, operable windows, and doors. <a href="https://www.calgary.ca/development/permits/commercial-kitchens.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary guidance</a> specifies that exhaust terminations should be located at least 10 feet from property line air intakes and opening windows and doors.</li>
+<li>Roof terminations require a listed grease duct enclosure or clearances to roofing materials as specified in NFPA 96.</li>
+</ul>
+<p><strong>Make-up air and fan interlocks:</strong></p>
+<ul>
+<li>Make-up air requirements in Alberta are a critical part of the system design. The exhaust fan removes air from the kitchen, and that air must be replaced. Insufficient make-up air causes negative pressure, which pulls exhaust back into the space, creates smoke migration into dining areas, and can prevent the suppression system from operating correctly.</li>
+<li>Make-up air can be supplied through ceiling diffusers, short-circuit supply directly into the hood, or a combination. Your mechanical designer will calculate the required volumes based on the exhaust rate.</li>
+<li>Fan interlocks must be designed so that the suppression system can only discharge when the exhaust fan is operating correctly. This is a specific NFPA 96 requirement and a common inspection failure point.</li>
+</ul>
+<p><strong>Documentation your designer must provide:</strong></p>
+<ul>
+<li>Stamped shop drawings showing hood dimensions, duct routing, materials, and clearances.</li>
+<li>Airflow calculations demonstrating adequate capture velocity and make-up air balance.</li>
+<li>Suppression system specifications and listing information.</li>
+<li>Duct material specifications and access panel locations.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Engage a mechanical designer or mechanical engineer before you finalize your kitchen layout. Hood size and duct routing affect ceiling height, structural penetrations, and rooftop equipment placement. Changes after construction begins are expensive. Designers who have worked with Alberta AHJs on commercial kitchen projects will know which details local inspectors scrutinise most closely.</em></p>
+
+<h2>What fire suppression system does your kitchen need?</h2>
+<p>Any commercial cooking operation that produces grease-laden vapours requires a fixed automatic fire suppression system installed within the hood. This is not a recommendation — it is a code requirement under the NBC(AE) and NFC(AE), both of which reference NFPA 96 for the technical specifications.</p>
+<p><strong>What triggers the suppression requirement:</strong></p>
+<ul>
+<li>Any appliance under a Type I hood that has the potential to produce grease-laden vapours requires a listed suppression system covering the cooking surface, the plenum, and the grease removal devices.</li>
+<li>The suppression system must be designed to protect every appliance under the hood, not just the highest-risk one.</li>
+</ul>
+<p><strong>Accepted standards for suppression equipment:</strong></p>
+<ul>
+<li>Systems must be listed to ANSI/UL 300 or the equivalent ULC/ORD-C1254.6 standard. Older dry chemical or CO₂ systems that do not meet UL 300 are no longer acceptable for new installations and may need to be upgraded in existing kitchens.</li>
+<li>Wet chemical systems are the predominant technology in use today and must conform to NFPA 17A for design, installation, testing, and maintenance.</li>
+</ul>
+<p><strong>Operational requirements:</strong></p>
+<ul>
+<li>Manual pull stations for the suppression system must be installed in accessible locations along the path of egress from the kitchen.</li>
+<li>Instructions for manual operation must be posted conspicuously near the pull station. This is a specific NFPA 96 requirement that fire inspectors check routinely.</li>
+<li>The suppression system must be inspected and tested by a qualified technician at least every six months. The technician must provide a service tag or certificate after each visit.</li>
+<li>Fusible links and other heat-detection components must be replaced at each semi-annual service, or more frequently if the cooking process produces heavy grease deposits that could coat and insulate the links.</li>
+</ul>
+<p>Suppression system maintenance is separate from exhaust cleaning. Both are required, and both generate documentation you must retain.</p>
+
+<h2>How often must you clean your exhaust system, and who can do it?</h2>
+<p>The short answer is: as often as needed to prevent grease from accumulating to the point where it creates a fire hazard. Alberta STANDATA and Fire Code guidance set a risk-based requirement rather than a fixed calendar interval. The AHJ determines the required frequency based on your cooking processes and usage intensity, and can mandate cleaning more often than annually.</p>
+<p><strong>Typical cleaning schedules by operation type:</strong></p>
+<ul>
+<li><strong>Monthly:</strong> High-volume operations with solid fuel cooking, wok stations, or multiple high-output fryers running extended hours.</li>
+<li><strong>Quarterly:</strong> Busy restaurants with charbroilers, open-flame grills, or continuous fryer use.</li>
+<li><strong>Semi-annually:</strong> Moderate-volume operations with standard grills and fryers, or kitchens with shorter operating hours.</li>
+<li><strong>Annually:</strong> Low-risk operations such as pizza ovens with limited grease output, or facilities that primarily reheat food.</li>
+</ul>
+<p>These are general benchmarks. Your AHJ has the authority to require more frequent cleaning regardless of where your operation falls on this list. Do not assume annual cleaning is sufficient without confirming with your fire department.</p>
+<p><strong>Who may perform the cleaning:</strong></p>
+<p>Cleaning contractors must have completed approved training in kitchen exhaust cleaning procedures. Alberta guidance is clear that owners are responsible for verifying contractor credentials before work begins and for retaining the maintenance certificate after every service. Hiring an uncertified cleaner does not transfer liability away from you as the owner.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786469602927_Technician-manually-cleaning-kitchen-exhaust-duct.jpeg" alt="Technician manually cleaning kitchen exhaust duct" /></p>
+<p><strong>What the cleaning must cover:</strong></p>
+<p>The entire exhaust system must be cleaned, not just the filters. Alberta’s electrical safety bulletin on cleaning commercial cooking equipment specifies that hoods, grease removal devices, fans, ducts, and all appurtenances must be cleaned at frequent intervals so surfaces do not become heavily contaminated with grease. Flammable cleaning solvents are prohibited.</p>
+<p><strong>What the maintenance certificate must include:</strong></p>
+<ol>
+<li>Cleaning company name and contact information.</li>
+<li>Name of the individual who performed the cleaning.</li>
+<li>Date the cleaning was completed.</li>
+<li>Recommended date for the next cleaning.</li>
+<li>A note identifying any areas that were inaccessible during the cleaning and the reason.</li>
+</ol>
+<p>Post a copy of the certificate in the kitchen and keep the originals in your compliance file. Fire inspectors will ask for them.</p>
+<p><strong>Pro Tip:</strong> <em>If a cleaning contractor cannot or will not provide a maintenance certificate with all five elements listed above, do not use them. An incomplete certificate is treated the same as no certificate during a fire inspection, and the liability stays with you as the owner.</em></p>
+
+<h2>How do you get permits and work with the AHJ?</h2>
+<p>Navigating the permit process for commercial kitchen ventilation in Alberta is manageable when you know the sequence. Here is a practical step-by-step path:</p>
+<ol>
+<li><strong>Assess your equipment list.</strong> Before contacting anyone, compile a complete list of every cooking appliance you plan to install, including make, model, BTU output, and fuel type. This is the first thing a mechanical designer and the AHJ will ask for.</li>
+<li><strong>Engage a qualified mechanical designer or engineer.</strong> They will assess your equipment list, determine the hood type and size, calculate exhaust and make-up air volumes, specify ductwork routing and materials, and coordinate the suppression system design. Bring them in before you finalize your kitchen layout.</li>
+<li><strong>Prepare and submit permit drawings.</strong> Your mechanical designer produces stamped shop drawings that address all NBC(AE) requirements. Submit these to your local building department along with the building permit application. In Calgary, the City of Calgary’s commercial kitchen guidance outlines what the permit package must include.</li>
+<li><strong>Engage the fire department separately if required.</strong> In many Alberta municipalities, the fire department reviews suppression system designs independently of the building permit. Confirm with your AHJ whether a separate fire permit or review is needed.</li>
+<li><strong>Schedule inspections during and after installation.</strong> Rough-in inspections typically occur before ductwork is enclosed. Final inspections happen after the suppression system is commissioned and the exhaust fan is balanced.</li>
+<li><strong>Commission and test the system.</strong> The suppression contractor must test and certify the system before the kitchen opens. The exhaust contractor should balance airflow and confirm the fan interlock operates correctly.</li>
+<li><strong>Retain all documentation.</strong> Keep permit approvals, inspection sign-offs, suppression certification, and airflow test reports in a permanent compliance file.</li>
+</ol>
+<p><strong>What to bring when you first contact your AHJ:</strong></p>
+<ul>
+<li>Complete appliance list with fuel types and BTU ratings.</li>
+<li>Proposed hood type (Type I or Type II) and preliminary dimensions.</li>
+<li>Suppression system specification or the name of your suppression contractor.</li>
+<li>Preliminary shop drawings if available.</li>
+</ul>
+<p><strong>Common permit delays and how to avoid them:</strong></p>
+<ul>
+<li>Missing or incomplete airflow calculations. Your designer must show both exhaust volume and make-up air supply.</li>
+<li>Inadequate clearance details on duct drawings. Show dimensions from duct surfaces to combustible materials.</li>
+<li>Unspecified make-up air source. The permit package must identify where replacement air comes from and how it is delivered.</li>
+<li>Suppression system not listed to UL 300 or ULC/ORD-C1254.6. Confirm listing before specifying equipment.</li>
+</ul>
+
+<h2>What will commercial kitchen ventilation cost in Alberta?</h2>
+<p>Cost ranges for commercial kitchen ventilation projects in Alberta vary widely based on kitchen size, equipment type, duct routing complexity, and AHJ-driven scope requirements. The figures below are broad planning brackets, not fixed quotes. A detailed estimate requires a site visit and a review of your specific equipment list.</p>
+<p><strong>Broad cost categories:</strong></p>
+<ul>
+<li><strong>Mechanical design fees:</strong> Design work for a straightforward single-hood installation typically runs from a few thousand dollars upward, depending on the complexity of the system and whether structural or fire-resistance enclosure details are required.</li>
+<li><strong>Hood, fan, and duct fabrication and installation:</strong> This is usually the largest single cost item. Custom stainless steel canopies, welded duct fabrication, rooftop fan installation, and associated structural work can range from moderate to substantial depending on the number of hoods and the length of duct runs.</li>
+<li><strong>Automatic fire suppression system:</strong> A listed wet chemical suppression system for a single hood, including installation and commissioning, typically falls in the range of several thousand dollars. Multiple hoods or solid fuel applications increase this cost.</li>
+<li><strong>Make-up air unit and controls:</strong> Make-up air units range from basic untempered supply fans to fully heated and cooled units. Heated make-up air is often required in Alberta given the climate, and that adds to both equipment and operating costs.</li>
+<li><strong>Cleaning and certification:</strong> Initial cleaning after installation, plus ongoing scheduled cleaning, is a recurring operating cost. Budget for at least one cleaning per year at minimum, and more frequently for high-intensity operations.</li>
+</ul>
+<p>For context on how ventilation costs fit within a broader kitchen renovation budget, the <a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">kitchen remodel cost guide for Calgary</a> provides useful local framing.</p>
+<p><strong>Key cost drivers:</strong></p>
+<ul>
+<li>Solid fuel cooking or multiple wok stations require enhanced suppression provisions and more frequent cleaning, both of which increase cost.</li>
+<li>Long duct runs, especially those requiring fire-resistance enclosures through occupied floors, add significant fabrication and labour cost.</li>
+<li>Rooftop work in Alberta winters requires scheduling and weather protection.</li>
+<li>AHJ-required scope changes after permit submission can add cost if the initial design did not fully anticipate local requirements.</li>
+</ul>
+<p><strong>Timeline expectations:</strong></p>
+<ul>
+<li><strong>Design phase:</strong> 2–6 weeks, depending on designer availability and project complexity.</li>
+<li><strong>Permit approval:</strong> Variable. Simple projects in municipalities with efficient review processes may be approved in 2–4 weeks. Complex projects or municipalities with longer queues can take 8 weeks or more.</li>
+<li><strong>Fabrication and installation:</strong> 2–6 weeks after permit approval, depending on custom fabrication lead times.</li>
+<li><strong>Commissioning and final inspection:</strong> Allow 1–2 weeks after installation for suppression testing, airflow balancing, and scheduling the final inspection.</li>
+</ul>
+<p>Plan for a total project timeline of 2–4 months from design engagement to kitchen opening, and build in contingency for permit delays.</p>
+
+<h2>How do you choose qualified contractors and what documents must you keep?</h2>
+<p>Selecting the right team for a commercial kitchen ventilation project is as important as the design itself. The owner bears legal responsibility for compliance, which means you need to verify credentials rather than assume them.</p>
+<p><strong>Questions to ask mechanical designers and installers:</strong></p>
+<ul>
+<li>What is your specific experience with NFPA 96 installations in Alberta?</li>
+<li>Can you provide references from similar commercial kitchen projects in this province?</li>
+<li>Are you familiar with the current STANDATA interpretations from Alberta Municipal Affairs?</li>
+<li>Who will be the mechanical engineer of record on the permit drawings?</li>
+<li>Do you carry adequate liability insurance and WCB coverage?</li>
+<li>How do you coordinate with the suppression contractor and the AHJ during the permit process?</li>
+</ul>
+<p><strong>Questions to ask cleaning contractors:</strong></p>
+<ul>
+<li>What training certification do your technicians hold for kitchen exhaust cleaning?</li>
+<li>Do you provide a maintenance certificate after every service that includes all required fields?</li>
+<li>Can you confirm you do not use flammable solvents in your cleaning process?</li>
+<li>Are you familiar with the Alberta STANDATA requirements for cleaning documentation?</li>
+</ul>
+<p><strong>Documentation checklist to collect and retain:</strong></p>
+<ol>
+<li>Stamped shop drawings approved by the AHJ.</li>
+<li>Building permit and fire permit approvals.</li>
+<li>Suppression system specification, listing documentation (UL 300 / ULC), and commissioning certificate.</li>
+<li>Airflow test report confirming exhaust and make-up air volumes.</li>
+<li>All maintenance certificates from cleaning services, posted and filed.</li>
+<li>Suppression system semi-annual inspection and service tags.</li>
+<li>All AHJ correspondence, including inspection sign-offs and any deficiency notices with their resolutions.</li>
+</ol>
+<p><strong>Red flags to watch for:</strong></p>
+<ul>
+<li>A contractor who cannot produce training certificates for their technicians.</li>
+<li>A cleaning company that is unwilling to provide a fully completed maintenance certificate.</li>
+<li>A designer who submits drawings without airflow calculations or suppression specifications.</li>
+<li>Any contractor who discourages you from contacting the AHJ directly or who suggests the permit process can be skipped.</li>
+<li>Incomplete shop drawings that do not show duct clearances, access panel locations, or make-up air details.</li>
+</ul>
+<p>The legal responsibility for maintaining a compliant exhaust system rests with the owner. Qualified professionals reduce your risk, but they do not transfer it. Keep your documentation file current and accessible.</p>
+
+<h2>Common compliance mistakes Alberta kitchens make</h2>
+<p>Real projects reveal patterns. The following scenarios reflect the types of failures that come up repeatedly during permit reviews and fire inspections in Alberta commercial kitchens.</p>
+<p><strong>Improper duct clearances discovered during rough-in inspection.</strong> A kitchen renovation proceeds with a duct routed through a wall cavity without the required clearance to combustible framing. The inspector flags it at rough-in, requiring the duct to be relocated or a listed fire-resistance enclosure to be constructed around it. The corrective work adds both cost and schedule delay. The fix: confirm clearance requirements with your designer before framing begins, and submit a complete clearance detail with the permit drawings.</p>
+<p><strong>Missing make-up air causing smoke migration.</strong> A restaurant opens with an exhaust system that was installed without a properly sized make-up air unit. Negative pressure in the kitchen pulls exhaust back through gaps in the hood and into the dining room during peak service. The AHJ issues a stop-use order until a make-up air unit is installed and balanced. The fix: make-up air calculations must be part of the original permit package, not an afterthought.</p>
+<p><strong>Overdue cleaning discovered at fire inspection.</strong> A fire inspector visits a busy charbroiler operation and finds no maintenance certificate posted and no cleaning records on file. The last documented cleaning was more than 18 months prior. The inspector issues a compliance order requiring immediate cleaning and documentation, and notes the deficiency in the inspection record. The fix: set calendar reminders for cleaning intervals, post the maintenance certificate immediately after each service, and keep copies in your compliance file.</p>
+<p><strong>Immediate priorities before your next inspection:</strong></p>
+<ul>
+<li>Confirm your maintenance certificate is posted and current.</li>
+<li>Check that manual suppression pull station instructions are posted conspicuously.</li>
+<li>Verify your suppression system has been serviced within the last six months.</li>
+<li>Review your cleaning records and confirm the next scheduled cleaning date is within your AHJ-approved interval.</li>
+<li>Confirm your permit drawings and inspection sign-offs are on file and accessible.</li>
+</ul>
+
+<h2>Why compliance is about more than avoiding fines</h2>
+<p>Most kitchen operators think about ventilation compliance the way they think about a parking ticket — an inconvenience to avoid. That framing misses the actual stakes.</p>
+<p>A grease fire in a commercial kitchen is not a slow-moving problem. It escalates in seconds, and an exhaust system that has not been properly maintained or designed gives it a direct path through the building. The duct becomes the fire’s highway. Properly designed, installed, and maintained systems contain that fire at the hood and suppress it before it spreads. That is the entire point of NFPA 96.</p>
+<p>Beyond the immediate safety argument, there are two practical business reasons to take compliance seriously. First, your commercial property insurance almost certainly requires a compliant ventilation and suppression system as a condition of coverage. A fire that occurs in a kitchen with an overdue cleaning record or a non-compliant suppression system gives your insurer grounds to dispute or deny the claim. Second, staff retention and morale are affected by working conditions. A kitchen with poor ventilation, smoke migration, and excessive heat is a harder place to work, and that shows up in turnover.</p>
+<p>Routine maintenance is the least expensive part of this equation. A quarterly cleaning and a semi-annual suppression inspection cost a fraction of what a compliance order, a stop-use notice, or a denied insurance claim costs. The documentation requirement exists precisely because it creates accountability over time, not just at the moment of installation.</p>
+
+<h2>Statera Contracting helps Alberta kitchens get ventilation right from the start</h2>
+<p>Commercial kitchen ventilation projects involve multiple trades, multiple permit streams, and a regulatory framework that catches many owners off guard. Statera Contracting works with restaurant and foodservice clients in Calgary and surrounding Alberta communities to coordinate the full scope: design engagement, permit support, contractor coordination, and project management through to final inspection sign-off.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>When we visit your site, we review your existing documentation, assess the current installation against NBC(AE) and NFPA 96 requirements, and give you a clear outline of what needs to happen next. You leave the visit with a realistic scope and a path to compliance, not a list of vague recommendations. Whether you are building a new commercial kitchen, renovating an existing one, or bringing a non-compliant system up to code, our team manages the process so you can focus on running your business.</p>
+<p><a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">Book a consultation with Statera Contracting</a> to discuss your commercial kitchen ventilation project and get a follow-up scope estimate.</p>
+
+<h2>Sources</h2>
+<p>The following documents are the authoritative references for commercial kitchen ventilation compliance in Alberta. Bookmark the Alberta government’s open data portal, where most STANDATA interpretations are available as free PDF downloads.</p>
+<ul>
+<li><a href="https://open.alberta.ca/dataset/0741f88e-bdd8-4dbb-be1f-32187a0f436f/resource/434658c1-874f-45aa-9fd4-50a5414f637a/download/ma-standata-interpretation-fire-building-23-fci-004-23-bci-009-2024-12.pdf" rel="nofollow noopener noreferrer" target="_blank">23-FCI-004 - 23-BCI-009 Fixed Fire Suppression and exhaust systems for cooking, cleaning and maintenance</a></li>
+<li><a href="https://www.calgary.ca/development/permits/commercial-kitchens.html" rel="nofollow noopener noreferrer" target="_blank">Commercial kitchens in businesses or facilities</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/average-kitchen-size" target="_blank" rel="noopener">Average kitchen size in Canadian homes: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/office-renovations" target="_blank" rel="noopener">Office renovations in Alberta: your contractor guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">Kitchen renovation ideas for Alberta homeowners: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">Commercial Renovation Calgary: TI Timeline Guide | Statera | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
