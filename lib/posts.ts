@@ -10344,6 +10344,180 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "choose-a-renovation-contractor-calgary",
+    title: "How to choose a renovation contractor in Calgary",
+    excerpt:
+      "Hire a locally licensed, insured contractor who will pull permits and provide a detailed written contract before any work begins. For Calgary homeowners, that means three non-negotiable checks you can complete in under 30 minutes: confirm a valid City of Calgary business licence, request a current WCB clearance letter, and get a certificate of insurance naming you as an additional insured. Statera Contracting is a verified local option covering kitchens, bathrooms, basements, home additions, and commercial projects, and carries all three.",
+    date: "2026-08-15",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786543355702_Contractor-marking-framing-stud-during-home-renovation.jpeg",
+    coverAlt: "How to choose a renovation contractor in Calgary",
+    category: "Industry News",
+    readingTime: "9 min read",
+    metaTitle: "How to choose a renovation contractor in Calgary",
+    metaDescription:
+      "Learn how to choose a reliable renovation contractor in Calgary. Verify licenses, insurance, and contracts to protect your budget.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Hire a locally licensed, insured contractor who will pull permits and provide a detailed written contract before any work begins. For Calgary homeowners, that means three non-negotiable checks you can complete in under 30 minutes: confirm a valid City of Calgary business licence, request a current WCB clearance letter, and get a certificate of insurance naming you as an additional insured. <a href="https://www.stateracontracting.com/" target="_blank" rel="noopener">Statera Contracting</a> is a verified local option covering kitchens, bathrooms, basements, home additions, and commercial projects, and carries all three.</p>
+<p><a href="https://www.calgary.com/blog/hiring-a-calgary-contractor/" rel="nofollow noopener noreferrer" target="_blank">Many Canadian homeowners go over budget on renovation projects</a>, with scope changes, material delays, and hiring the wrong contractor as the leading causes. Doing your verification homework upfront is the single most effective way to protect your budget.</p>
+<p><strong>Before you sign anything:</strong></p>
+<ul>
+<li>Confirm the contractor holds a valid City of Calgary business licence</li>
+<li>Request a WCB clearance letter and verify the WCB number at Alberta.ca</li>
+<li>Ask for a certificate of insurance showing public liability and property damage coverage, with you named as additional insured</li>
+<li>Check whether a <a href="https://www.alberta.ca/prepaid-contracting-licence" rel="nofollow noopener noreferrer" target="_blank">prepaid contracting licence</a> is required if the contractor asks for a large upfront payment</li>
+<li>Get written quotes from at least three contractors before deciding</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Do not pay more than a small deposit before work starts unless the contractor shows a valid prepaid contracting licence. That licence is a legal requirement under Service Alberta rules, not a courtesy.</em></p>
+
+<h2>Key takeaways</h2>
+<p>Choosing the right renovation contractor in Calgary comes down to verifying licences, insurance, and WCB coverage before you sign anything, then locking in a written contract with a clear payment schedule and lien holdback.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verify licences first</td>
+<td>Confirm a valid City of Calgary business licence and trade certificates before any work begins.</td>
+</tr>
+<tr>
+<td>Require insurance and WCB proof</td>
+<td>Request a certificate of insurance naming you as additional insured and a current WCB clearance letter.</td>
+</tr>
+<tr>
+<td>Insist on permits</td>
+<td>Homeowners are ultimately responsible for permits; your contractor must pull them, not skip them.</td>
+</tr>
+<tr>
+<td>Protect your payment</td>
+<td>Use a 10% lien holdback per Alberta practice and avoid large deposits without a prepaid contracting licence.</td>
+</tr>
+<tr>
+<td>Statera Contracting</td>
+<td>A licensed, insured, WCB-compliant Calgary contractor covering kitchens, bathrooms, basements, and commercial projects.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#how-do-you-verify-a-contractors-licences-in-calgary">How do you verify a contractor’s licences in Calgary?</a></li>
+<li><a href="#what-should-you-ask-a-contractors-past-clients">What should you ask a contractor’s past clients?</a></li>
+<li><a href="#what-permits-does-your-calgary-renovation-require">What permits does your Calgary renovation require?</a></li>
+<li><a href="#what-are-the-red-flags-when-hiring-a-calgary-contractor">What are the red flags when hiring a Calgary contractor?</a></li>
+<li><a href="#how-do-you-compare-and-evaluate-calgary-contractors">How do you compare and evaluate Calgary contractors?</a></li>
+<li><a href="#what-questions-should-you-ask-during-the-contractor-interview">What questions should you ask during the contractor interview?</a></li>
+<li><a href="#how-do-warranties-and-post-renovation-support-work">How do warranties and post-renovation support work?</a></li>
+<li><a href="#what-a-reputable-calgary-contractor-actually-looks-like">What a reputable Calgary contractor actually looks like</a></li>
+<li><a href="#statera-contracting-verified-local-and-ready-to-quote">Statera Contracting: verified, local, and ready to quote</a></li>
+<li><a href="#useful-resources-for-calgary-homeowners">Useful resources for Calgary homeowners</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>How do you verify a contractor’s licences in Calgary?</h2>
+<p>The <a href="https://www.calgary.ca/development/home-building/contracting-tips.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary recommends five steps</a> when hiring a contractor: check licences, get everything in writing, ask for references, verify insurance, and check title for liens before final payment.</p>
+<p>Start with the City of Calgary business licence. You can request the licence number directly from the contractor and verify it through the City’s online registry. For regulated trades, electrical, plumbing, and gas work each require a separate trade certificate issued by the province. Ask to see those certificates before any trade work begins. Membership in local associations such as the Canadian Home Builders’ Association (CHBA) or the Canadian Roofing Contractors Association (CRCA) adds another layer of accountability, though it does not replace licence verification.</p>
+
+<h2>What should you ask a contractor’s past clients?</h2>
+<p>References are only useful if you ask the right questions. Checking references means going beyond “were you happy?” and pressing for specifics.</p>
+<p>Ask past clients:</p>
+<ul>
+<li>Did the project finish on time, and if not, what caused the delay?</li>
+<li>Did the final cost match the written quote, or were there unexpected charges?</li>
+<li>How did the contractor handle change orders and surprises behind the walls?</li>
+<li>Would you hire them again for a larger project?</li>
+</ul>
+<p>A contractor who handled a $15,000 bathroom reno well may not have the project management depth for a $150,000 addition. Match the reference’s project scope to yours.</p>
+
+<h2>What permits does your Calgary renovation require?</h2>
+<p>Homeowners are ultimately responsible for ensuring required permits are in place before work starts. Most interior renovations, basement developments, and structural changes require a building permit. Many residential ePermit applications are processed within seven calendar days, and some simple projects are approved in a single day.</p>
+<p>Your contractor should pull the permit, not you. If a contractor tells you permits aren’t necessary for a project that clearly involves structural, electrical, or plumbing work, treat that as a serious red flag.</p>
+<p>The City of Calgary’s renovation permit checklist outlines required drawings, asbestos documentation for older homes, and development permit approvals that may be needed before a building permit application is accepted. A permit application can be refused if requested information isn’t provided within 90 days, so your contractor needs to have their documentation ready from the start.</p>
+
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786543516359_What-permits-does-your-Calgary-renovation-require-overview-diagram.jpeg" alt="What permits does your Calgary renovation require? — overview diagram" /></p>
+<h2>What are the red flags when hiring a Calgary contractor?</h2>
+<p>Door-to-door solicitation, pressure to sign the same day, and requests for large cash deposits are the most common warning signs. Service Alberta requires any contractor who accepts money before work is complete, or who finalises a contract away from their regular place of business, to hold a prepaid contracting licence and post a security deposit. Ask to see that licence before handing over any significant payment.</p>
+<p>Two other red flags specific to Calgary:</p>
+<ul>
+<li><strong>Deductible cover offers:</strong> A contractor who offers to “cover your insurance deductible” in exchange for the job is describing insurance fraud. Walk away.</li>
+<li><strong>Unlicensed subcontractors:</strong> Ask who will actually perform the electrical, plumbing, and gas work. If the answer is vague, the contractor may be using unlicensed trades.</li>
+</ul>
+
+<h2>How do you compare and evaluate Calgary contractors?</h2>
+<p>Experience matters, but specialisation matters more. A contractor with 20 years of basement finishing experience may not be the right fit for a commercial restaurant build-out, and vice versa. When <a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">finding home renovators in Calgary</a>, look at:</p>
+<ul>
+<li><strong>Project type match:</strong> Does their portfolio include projects similar to yours in scope and budget?</li>
+<li><strong>Local reviews:</strong> Google, Houzz, and BBB listings for Calgary-specific feedback carry more weight than national aggregator scores.</li>
+<li><strong>Permit history:</strong> A contractor who routinely pulls permits has a verifiable track record with the City.</li>
+<li><strong>Pricing transparency:</strong> A detailed, itemised written estimate is a sign of professionalism. A single lump-sum number with no breakdown is not.</li>
+</ul>
+<p><a href="https://open.alberta.ca/dataset/d3c26c11-eefa-4742-bf5c-bfeae29c018b/resource/f11b8766-0fe6-48be-b9b8-e728aea20262/download/sa-home-improvements-what-you-need-to-know-2022-08.pdf" rel="nofollow noopener noreferrer" target="_blank">Service Alberta consumer guidance</a> recommends getting written estimates from multiple businesses and hiring qualified tradespeople with certificates of qualification for regulated trades.</p>
+
+<h2>What questions should you ask during the contractor interview?</h2>
+<p>The interview is where you separate professional contractors from those who will cause problems mid-project. Ask these directly:</p>
+<ol>
+<li>Are you licensed with the City of Calgary, and can I see your business licence number?</li>
+<li>Will you pull all required permits, and who is responsible if an inspection fails?</li>
+<li>Can you provide a current WCB clearance letter and certificate of insurance today?</li>
+<li>What is your payment schedule, and do you include a 10% lien holdback?</li>
+<li>How do you handle change orders, and will every change be documented in writing?</li>
+<li>What subcontractors will you use, and are they licensed for their trades?</li>
+<li>What warranty do you provide on labour, and how do you handle deficiencies after completion?</li>
+</ol>
+<p>For trade-specific work like painting, a checklist like the one from Sigma Painting’s contractor guide shows the level of detail you should expect from any specialist trade.</p>
+
+<h2>How do warranties and post-renovation support work?</h2>
+<p>A reputable contractor provides a written warranty on labour, typically one to two years for residential work, separate from manufacturer warranties on materials. Get both in writing before you sign the contract.</p>
+<p>Alberta.ca advises that contracts should never contain blank spaces. Strike out any unused sections, write “N/A,” and have both parties initial every change. This prevents additions after signing. Release that holdback only after the lien period has passed and you are satisfied with the work.</p>
+<p>Post-renovation, keep a copy of all permit documentation, inspection sign-offs, and warranty certificates. You will need them if you sell the home.</p>
+
+<h2>What a reputable Calgary contractor actually looks like</h2>
+<p>When we take on a project at Statera Contracting, the proposal we hand you includes itemised materials with brand names and model numbers, a clear permit responsibility section, our WCB number, our insurance certificate, and a project schedule with realistic milestones. That is not a bonus. That is the baseline.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786543359020_Renovation-workbench-with-materials-and-project-schedule.jpeg" alt="Renovation workbench with materials and project schedule" /></p>
+<p>Calgary’s climate adds real complexity to renovation timelines. Material lead times for windows, custom cabinetry, and structural components can stretch four to twelve weeks, and that needs to be built into the schedule before demolition starts. A contractor who gives you a start date without confirming material availability is setting you up for a half-finished kitchen in February.</p>
+<p>We pull all trade permits, including electrical, plumbing, and gas, and we coordinate inspections so you never have to chase the City yourself. Change orders happen on every project of any real size. We document every one in writing, with a revised cost and timeline, before any additional work proceeds. That process protects both sides.</p>
+
+<h2>Statera Contracting: verified, local, and ready to quote</h2>
+<p>Statera Contracting covers <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovations</a>, <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovations</a>, <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement developments</a>, home additions, exterior work, and <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial projects</a> including restaurants and retail build-outs across Calgary, Okotoks, Cochrane, and Airdrie. Every project comes with a written proposal that includes itemised scope, permit handling, insurance and WCB proof, a project schedule, and warranty terms.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>To get started, send us your project scope, a few photos of the space, and your rough budget range. We will arrange a site visit and provide a written estimate. You can request references at that stage, and we will provide them. Reach out through <a href="https://stateracontracting.com" target="_blank" rel="noopener">Statera Contracting</a> to book your consultation.</p>
+
+<h2>Useful resources for Calgary homeowners</h2>
+<ul>
+<li><a href="https://www.calgary.ca/development/home-building/contracting-tips.html" rel="nofollow noopener noreferrer" target="_blank">Hiring a contractor — City of Calgary</a>: Five-step hiring guide covering licences, written contracts, references, insurance, and lien checks.</li>
+<li><a href="https://www.calgary.ca/development/permits/residential-epermit.html" rel="nofollow noopener noreferrer" target="_blank">Residential ePermit — City of Calgary</a>: Apply for residential building permits online; many processed within seven calendar days.</li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/permit-checklists/home-renovation-and-basement-permit-checklist.pdf" rel="nofollow noopener noreferrer" target="_blank">Home renovation and basement permit checklist — City of Calgary</a>: Required documents and drawing standards for renovation and basement permit applications.</li>
+<li><a href="https://www.alberta.ca/hiring-contractor" rel="nofollow noopener noreferrer" target="_blank">Alberta</a>: Provincial guidance on insurance certificates, WCB verification, and contract protections.</li>
+<li><a href="https://www.alberta.ca/prepaid-contracting-licence" rel="nofollow noopener noreferrer" target="_blank">Alberta</a>: Verify whether your contractor needs a prepaid licence before accepting deposits.</li>
+<li><a href="https://stateracontracting.com" target="_blank" rel="noopener">Statera Contracting</a>: Licensed, insured Calgary renovation contractor; request a quote, verify credentials, or ask for references.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>When you receive a contractor’s WCB number, verify it directly on the WCB Alberta website before the project starts. Coverage can lapse between the time a contractor shows you a letter and the day work begins.</em></p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/development/home-building/contracting-tips.html" rel="nofollow noopener noreferrer" target="_blank">Hiring a contractor — City of Calgary</a></li>
+<li><a href="https://www.alberta.ca/hiring-contractor" rel="nofollow noopener noreferrer" target="_blank">Alberta</a></li>
+<li><a href="https://www.calgary.ca/development/permits/residential-epermit.html" rel="nofollow noopener noreferrer" target="_blank">Residential ePermit — City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/permit-checklists/home-renovation-and-basement-permit-checklist.pdf" rel="nofollow noopener noreferrer" target="_blank">Home renovation and basement permit checklist — City of Calgary</a></li>
+<li><a href="https://www.alberta.ca/prepaid-contracting-licence" rel="nofollow noopener noreferrer" target="_blank">Alberta</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog" target="_blank" rel="noopener">Renovation Blog | Calgary Tips &amp; Insights | Statera Contracting | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-to-renovate-a-small-bathroom" target="_blank" rel="noopener">Cost to renovate a small bathroom in Calgary: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">Kitchen remodel cost in Calgary: 2026 Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com" target="_blank" rel="noopener">Statera Contracting | Calgary Renovation Experts</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
