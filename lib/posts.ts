@@ -10518,6 +10518,137 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "commercial-kitchen-requirements-alberta",
+    title: "Commercial kitchen requirements in Alberta: what you need to know",
+    excerpt:
+      "A compliant Alberta commercial kitchen needs a building permit, NFPA 96-compliant ventilation and suppression, and stamped drawings once a tenant space crosses the professional-involvement threshold. Statera Contracting manages the permit documentation, drawing coordination, and multi-trade sequencing for commercial kitchen builds across Calgary, Airdrie, Okotoks, and Cochrane.",
+    date: "2026-08-16",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786631622452_Commercial-kitchen-hood-installation.jpeg",
+    coverAlt: "Commercial kitchen requirements in Alberta: what you need to know",
+    category: "Industry News",
+    readingTime: "8 min read",
+    metaTitle: "Commercial kitchen requirements in Alberta: what you need to know",
+    metaDescription:
+      "Learn essential commercial kitchen requirements in Alberta, including permits, safety standards, and design specifications to ensure compliance.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Before you sign a lease or order a single piece of equipment, you need a building permit. In Alberta, a building permit is mandatory for any new food establishment and for most change-of-ownership situations, where the space gets reviewed against the current <a href="https://www.calgary.ca/for-business/licences/commercial-building-code.html" rel="nofollow noopener noreferrer" target="_blank">National Building Code – 2023 Alberta Edition</a> (NBC(AE)). Separate trade permits for mechanical, plumbing, electrical, and gas work are applied for by your qualified trade contractors, not by you directly. If your cooking process produces grease-laden vapours, you also need an NFPA 96-compliant exhaust hood and a fixed fire suppression system certified to ANSI/UL 300 or ULC/ORD-C1254.6. Ducts must be welded, seamless, and fitted with labelled access panels. For tenant spaces that exceed the professional involvement size thresholds, stamped drawings from a registered architect and engineers are required before the permit is issued.</p>
+<p><strong>Your pre-construction checklist:</strong></p>
+<ol>
+<li>Confirm with your Authority Having Jurisdiction (AHJ) whether a building permit is required for your scope.</li>
+<li>Identify which trade permits apply (mechanical, plumbing, electrical, gas) and which contractors will pull them.</li>
+<li>Determine whether your cooking equipment produces grease-laden vapours, triggering NFPA 96 hood and suppression requirements.</li>
+<li>Check with your municipality on grease interceptor sizing and installation rules, since local bylaws vary.</li>
+<li>Confirm whether your tenant space meets the professional stamping thresholds and engage an architect or engineer early if it does.</li>
+</ol>
+
+<h2>Key takeaways</h2>
+<p>A compliant Alberta commercial kitchen build requires a building permit, coordinated trade permits, NFPA 96-compliant ventilation and suppression where grease vapours are produced, and stamped drawings for spaces at or above the NBC(AE) professional involvement thresholds.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Building permit is mandatory</td>
+<td>Required for new builds and most change-of-ownership situations; triggers a full NBC(AE) review.</td>
+</tr>
+<tr>
+<td>Trade permits are separate</td>
+<td>Mechanical, plumbing, electrical, and gas permits are pulled by qualified trade contractors, not the owner.</td>
+</tr>
+<tr>
+<td>NFPA 96 triggers suppression</td>
+<td>Any cooking that produces grease-laden vapours requires a certified hood and a suppression system that meets ANSI/UL 300 or ULC/ORD-C1254.6.</td>
+</tr>
+<tr>
+<td>Stamping thresholds matter</td>
+<td>Spaces at or above 310 m² require architect and engineer-stamped drawings.</td>
+</tr>
+<tr>
+<td>Grease interceptors vary locally</td>
+<td>Sizing and installation rules are set by municipal bylaws; confirm with local public works before finalising plumbing plans.</td>
+</tr>
+<tr>
+<td>Statera Contracting</td>
+<td>Manages permit documentation, drawing coordination, and multi-trade sequencing for commercial kitchen builds in Calgary and surrounding Alberta communities.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#does-your-commercial-kitchen-in-alberta-meet-accessibility-requirements">Does your commercial kitchen in Alberta meet accessibility requirements?</a></li>
+<li><a href="#what-health-and-sanitation-codes-apply-to-alberta-commercial-kitchens">What health and sanitation codes apply to Alberta commercial kitchens?</a></li>
+<li><a href="#energy-efficiency-standards-for-alberta-commercial-kitchen-equipment">Energy efficiency standards for Alberta commercial kitchen equipment</a></li>
+<li><a href="#grease-waste-and-kitchen-by-product-disposal-in-alberta">Grease waste and kitchen by-product disposal in Alberta</a></li>
+<li><a href="#why-early-ahj-contact-is-the-most-underrated-step-in-a-kitchen-build">Why early AHJ contact is the most underrated step in a kitchen build</a></li>
+<li><a href="#how-statera-contracting-handles-commercial-kitchen-builds-in-alberta">How Statera Contracting handles commercial kitchen builds in Alberta</a></li>
+<li><a href="#where-to-verify-code-and-permit-rules-in-alberta">Where to verify code and permit rules in Alberta</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Does your commercial kitchen in Alberta meet accessibility requirements?</h2>
+<p>Alberta does not follow the American Disabilities Act. Instead, the NBC(AE) sets the accessibility standard for commercial spaces, including kitchens. For most restaurant and foodservice builds, the relevant provisions cover accessible routes to and through the kitchen, door widths, and manoeuvring clearances at workstations where staff with mobility limitations may work.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786631617868_Accessible-kitchen-workstation-area.jpeg" alt="Accessible kitchen workstation area" /></p>
+<p>Practically, this means accessible path widths of at least 920 mm at doors, adequate turning radius in staff areas, and accessible placement of controls and switches at a reachable height. If your project involves a public-facing counter or service window connected to the kitchen, those elements carry their own accessibility requirements under the NBC(AE). Your AHJ will flag any gaps during plan review, but catching them in the drawing stage costs far less than a site revision.</p>
+
+<h2>What health and sanitation codes apply to Alberta commercial kitchens?</h2>
+<p>Alberta Health Services (AHS) governs food safety and sanitation standards for operating food businesses, covering hand-washing stations, surface materials, refrigeration temperatures, and food-handler certification. These are operating requirements, not construction code. Your contractor builds to the NBC(AE) and the National Fire Code – 2019 Alberta Edition (NFC(AE)); AHS inspects the finished space before you open.</p>
+<p>The two sets of rules overlap in one practical area: surface finishes. AHS expects walls, floors, and ceilings in food prep areas to be smooth, non-porous, and cleanable. Specifying the right materials during design, such as sealed concrete, stainless steel cladding, or commercial-grade tile, satisfies both the construction drawings and the AHS pre-opening inspection.</p>
+
+<h2>Energy efficiency standards for Alberta commercial kitchen equipment</h2>
+<p>Alberta does not currently mandate a separate provincial energy code for commercial kitchen equipment beyond what the NBC(AE) references. That said, Natural Resources Canada’s ENERGY STAR programme certifies commercial cooking and refrigeration equipment, and some Alberta municipalities offer rebate programmes for high-efficiency hood fans, LED lighting, and ENERGY STAR-rated appliances.</p>
+<p>Specify high-efficiency exhaust fans and variable-speed controls during the mechanical design phase. This reduces operating costs and can qualify your project for utility rebates through ENMAX or FortisAlberta, depending on your location.</p>
+
+<h2>Grease waste and kitchen by-product disposal in Alberta</h2>
+<p>Grease interceptors are the primary compliance point for kitchen waste. The requirement to install one, and its minimum capacity, is set by your municipality’s sewer-use bylaw, not the building code. <a href="https://www.albertahealthservices.ca/assets/wf/eph/wf-eph-start-food-business.pdf" rel="nofollow noopener noreferrer" target="_blank">Check with local public works</a> before finalising your plumbing drawings, because interceptor sizing rules differ between Calgary, Airdrie, Okotoks, and Cochrane.</p>
+<p>Used cooking oil is classified as a hazardous waste in Alberta and must be collected by a licensed hauler. Solid food waste goes through your municipality’s organics or waste programme. Neither of these is a construction code item, but your kitchen layout needs to accommodate a designated grease storage area and a waste staging zone that meets your local public works requirements.</p>
+
+<h2>Why early AHJ contact is the most underrated step in a kitchen build</h2>
+<p>Most owners treat the AHJ as the last stop before opening. We see the opposite approach work far better. Contact your AHJ before you commit to a lease or purchase equipment. A single pre-application meeting can reveal whether the space requires structural upgrades, whether the existing exhaust shaft is usable, and whether the previous tenant’s suppression system is certifiable to ANSI/UL 300 or ULC/ORD-C1254.6.</p>
+<p>The professional stamping thresholds catch owners off guard more than almost any other requirement. A tenant space that lands at 310 m² with a dining room triggers architect and engineer involvement, which adds weeks to the design phase and real dollars to the budget. Discovering that late, after you have already committed to a lease start date, is one of the most avoidable cost drivers in a commercial kitchen project.</p>
+<p><strong>Pro Tip:</strong> <em>Commission your mechanical hood and suppression design at the same time as your architectural drawings, not after. Suppression system layout affects hood placement, duct routing, and ceiling height, and getting those three disciplines coordinated from the start prevents the most common cause of permit delays and additional site visits.</em></p>
+<p>The NFPA 96 compliance question also has a legal dimension worth knowing. If you declare to the municipality that your kitchen will not produce grease-laden vapours, that declaration is legally binding in Calgary and likely in other Alberta municipalities. Cooking grease-producing foods without the required systems in place risks enforcement under the Safety Codes Act. Do not sign that declaration unless your menu genuinely supports it.</p>
+
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786631750162_Why-early-AHJ-contact-is-the-most-underrated-step-in-a-kitchen-build-overview-diagram.jpeg" alt="Why early AHJ contact is the most underrated step in a kitchen build — overview diagram" /></p>
+<h2>How Statera Contracting handles commercial kitchen builds in Alberta</h2>
+<p>Building a compliant commercial kitchen means coordinating architects, mechanical engineers, plumbing contractors, electrical contractors, and the AHJ, often at the same time. Statera Contracting manages that coordination for restaurant and foodservice owners in Calgary, Airdrie, Okotoks, and Cochrane.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>We prepare your permit documentation package, coordinate stamped drawings when your space requires them, and manage the sequencing of mechanical, plumbing, and electrical trade contractors so your permit review does not stall. We do not issue permits or conduct inspections; that is the AHJ’s role. What we do is make sure your submission is complete and your site is ready when the inspector arrives.</p>
+<p>To get started, bring your site plan or lease outline, your equipment list, any existing drawings for the space, and your menu concept to an initial consultation. From there, we scope the work, identify the permit triggers, and give you a clear picture of timeline and cost. Reach out to <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">Statera Contracting’s commercial renovation team</a> to book that first conversation.</p>
+
+<h2>Where to verify code and permit rules in Alberta</h2>
+<p>These are the primary sources to consult or bring to your AHJ meeting:</p>
+<ul>
+<li>NBC(AE) building permit requirements for food establishments — confirms when a permit is required and what triggers professional involvement.</li>
+<li>Alberta Municipal Affairs Standata 23-FCI-004 / 23-BCI-009 — the definitive Alberta interpretation on fixed fire suppression and exhaust systems under NFPA 96.</li>
+<li>Alberta Municipal Affairs Standata 19-FCI-002R1 / 19-BCI-017R1 — explains how the NBC(AE) and NFC(AE) determine NFPA 96 applicability based on grease-laden vapour production.</li>
+<li><a href="https://www-prd.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/food-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">City of Calgary building permit checklist for food establishments</a> — the most detailed public drawing and document checklist available; useful as a submission template for any Alberta municipality.</li>
+<li>NBC-2019 Alberta Edition Division B, Part 6 — the code text requiring ANSI/UL 300 or ULC/ORD-C1254.6 certification and NFPA 96 compliance for commercial cooking ventilation.</li>
+</ul>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/for-business/licences/commercial-building-code.html" rel="nofollow noopener noreferrer" target="_blank">National Building Code – 2023 Alberta Edition information for restaurants and food establishments</a></li>
+<li><a href="https://www-prd.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/food-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">Complete building permit application requirement list — renovations to restaurants and food establishments (City of Calgary)</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/average-kitchen-size" target="_blank" rel="noopener">Average kitchen size in Canadian homes: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">Kitchen renovation ideas for Alberta homeowners: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/budget-kitchen-renovations-your-2026-alberta-guide" target="_blank" rel="noopener">Budget kitchen renovations: your 2026 Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/office-renovations" target="_blank" rel="noopener">Office renovations in Alberta: your contractor guide | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
