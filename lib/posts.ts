@@ -10649,6 +10649,286 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "retail-build-out-cost-calgary",
+    title: "Retail build out cost Calgary: a budget guide for owners",
+    excerpt:
+      "Budgeting for a Calgary retail build-out means roughly $40–$65 per square foot for a basic fit-out, $65–$110 for mid-range, and $110–$175+ for high-end or restaurant work, plus 15–25% in soft costs and contingency on top. Statera Contracting handles the permit process, occupancy classification, and fixed-price contracting for Calgary retail, restaurant, and office build-outs.",
+    date: "2026-08-17",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786727567052_Retail-build-out-construction-site-with-framing.jpeg",
+    coverAlt: "Retail build out cost Calgary: a budget guide for owners",
+    category: "Industry News",
+    readingTime: "16 min read",
+    metaTitle: "Retail build out cost Calgary: a budget guide for owners",
+    metaDescription:
+      "Discover budgeting tips for retail build-out costs in Calgary. Learn how to manage expenses and plan effectively for your project.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Budgeting for a Calgary retail build-out starts at roughly low to moderate per square foot costs for a basic fit-out, moderate costs for a mid-range space, and higher costs for high-end finishes and restaurant work. Those hard-cost ranges reflect what most strip-mall and standalone retail projects in Calgary run today, before soft costs and contingency are added.</p>
+<p>The next move is simple: collect three site-specific bids from contractors familiar with Calgary permitting, and confirm your occupancy classification and permit needs with the City of Calgary before you commit to a design. Skipping that step is how budgets blow up.</p>
+<p>A few things reliably push a project past the top of these ranges. Restaurants and food-service tenants need grease traps, hood systems, and extra plumbing that basic retail never touches. Complex mechanical, electrical, and plumbing (MEP) work in an older building can double labour hours. And a full storefront glazing replacement, rather than simple infill, adds tens of thousands of dollars most owners don’t budget for until a contractor points it out.</p>
+<ul>
+<li>Basic retail fit-out: low to moderate per square foot</li>
+<li>Mid-range retail fit-out: moderate per square foot</li>
+<li>High-end or restaurant build-out: higher per square foot</li>
+<li>Recommended first step: three local bids plus a City of Calgary permit check</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask every contractor bidding your project whether their quote is a fixed price or a “budget with allowances.” Allowance-heavy quotes often look cheaper on paper but leave the real number until finishes are selected, weeks into the job.</em></p>
+<h2>Key Takeaways</h2>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Budget by finish level</td>
+<td>Plan $40–$65 psf for basic, $65–$110 for mid-range, and $110–$175+ for high-end or restaurant fit-outs.</td>
+</tr>
+<tr>
+<td>Add soft costs and contingency</td>
+<td>Budget an extra 15% to 25% for design, permits, inspections, and contingency on top of hard costs.</td>
+</tr>
+<tr>
+<td>Confirm occupancy before designing</td>
+<td>A change of use can trigger a development permit review that adds weeks to your schedule.</td>
+</tr>
+<tr>
+<td>Collect three bids minimum</td>
+<td>Compare fixed-price quotes, not just totals, to spot vague scope or heavy allowances.</td>
+</tr>
+<tr>
+<td>Statera Contracting handles Calgary retail</td>
+<td>Statera offers fixed-price commercial build-outs with permit handling for retail, restaurant, and office tenants across Calgary.</td>
+</tr>
+</tbody>
+</table>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#cost-per-square-foot-breakdown-for-calgary-retail-build-outs">Cost per square foot breakdown for Calgary retail build-outs</a></li>
+<li><a href="#what-does-hard-construction-cost-actually-cover">What does ‘hard construction’ cost actually cover?</a></li>
+<li><a href="#soft-costs-and-permit-fees-you-cant-skip">Soft costs and permit fees you can’t skip</a></li>
+<li><a href="#whats-the-typical-timeline-for-a-retail-fit-out">What’s the typical timeline for a retail fit-out?</a></li>
+<li><a href="#worked-budgeting-examples-for-common-calgary-project-sizes">Worked budgeting examples for common Calgary project sizes</a></li>
+<li><a href="#comparing-types-of-calgary-retail-contractors">Comparing types of Calgary retail contractors</a></li>
+<li><a href="#how-do-you-choose-the-right-contractor">How do you choose the right contractor?</a></li>
+<li><a href="#how-calgarys-permit-process-shapes-your-cost-and-schedule">How Calgary’s permit process shapes your cost and schedule</a></li>
+<li><a href="#how-were-these-calgary-cost-ranges-calculated">How were these Calgary cost ranges calculated?</a></li>
+<li><a href="#which-calgary-contractors-handle-retail-build-outs">Which Calgary contractors handle retail build-outs?</a></li>
+<li><a href="#what-hidden-costs-catch-calgary-retail-owners-off-guard">What hidden costs catch Calgary retail owners off guard?</a></li>
+<li><a href="#how-should-you-structure-payment-to-your-contractor">How should you structure payment to your contractor?</a></li>
+<li><a href="#how-do-you-negotiate-a-build-out-contract-to-avoid-overruns">How do you negotiate a build-out contract to avoid overruns?</a></li>
+<li><a href="#statera-contractings-view-on-calgary-retail-build-outs">Statera Contracting’s view on Calgary retail build-outs</a></li>
+<li><a href="#statera-contracting-handles-calgary-retail-build-outs-from-permit-to-punch-list">Statera Contracting handles Calgary retail build-outs from permit to punch list</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Cost per square foot breakdown for Calgary retail build-outs</h2>
+<p>Retail buildout cost in Calgary varies more by tenant type than most owners expect. A strip-plaza commercial retail unit (CRU) with simple demising walls and a basic washroom costs far less per square foot than a big-box anchor with heavy mechanical loads, and both cost less than the same square footage inside an enclosed mall with landlord design criteria to satisfy.</p>
+<table>
+<thead>
+<tr>
+<th>Finish level</th>
+<th>Typical range (per sq ft)</th>
+<th>What it usually includes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Basic</td>
+<td>low to moderate</td>
+<td>Simple demising walls, minimal electrical, basic flooring, no storefront changes</td>
+</tr>
+<tr>
+<td>Mid-range</td>
+<td>moderate</td>
+<td>Upgraded finishes, new storefront glazing, standard washroom, moderate electrical/HVAC work</td>
+</tr>
+<tr>
+<td>High-end / restaurant</td>
+<td>higher</td>
+<td>Custom millwork, full MEP overhaul, commercial kitchen equipment, premium flooring and lighting</td>
+</tr>
+</tbody>
+</table>
+<p>At the low end, a 1,000 square foot shop lands around tens of thousands of dollars in hard costs. A 2,000 square foot space at mid-range finishes runs roughly into the low hundreds of thousands before soft costs. Those are hard-cost figures only. Design fees, permits, and contingency stack on top, which the next section breaks down.</p>
+<p>Enclosed-mall spaces and food-service units routinely land above these ranges. <a href="https://www.precedentdevelopments.ca/market-insights/2026-canadian-construction-costing-guide" rel="nofollow noopener noreferrer" target="_blank">Precedent Developments’ 2026 costing guide</a> shows retail categories moving upward across the board, with enclosed-mall finishes and restaurant-grade work consistently pricier than a single-storey strip CRU. <a href="https://www.cushmanwakefield.com/en/canada/insights/office-fit-out-cost-guide" rel="nofollow noopener noreferrer" target="_blank">Cushman &amp; Wakefield’s fit-out data</a> also flags electrical costs as a specific driver behind Calgary’s recent fit-out increases, which matters most for tenants adding kitchen equipment or heavy lighting packages.</p>
+<h2>What does ‘hard construction’ cost actually cover?</h2>
+<p>Hard costs are the physical construction work itself, and they’re what the psf ranges above measure. Knowing what’s bundled in helps you spot where a low bid might be cutting corners.</p>
+<ul>
+<li><strong>Structural work</strong>: demising walls, load-bearing changes, and any structural reinforcement needed for signage or mezzanines.</li>
+<li><strong>MEP (mechanical, electrical, plumbing)</strong>: HVAC distribution, electrical panels and wiring, and plumbing rough-in for washrooms or food service.</li>
+<li><strong>Storefront</strong>: glazing, doors, and framing. Simple infill into an existing opening costs a fraction of a full storefront replacement.</li>
+<li><strong>Flooring, walls and ceilings</strong>: everything from polished concrete to commercial-grade vinyl, plus drywall, paint, and ceiling grid.</li>
+<li><strong>Fixed fixtures and millwork</strong>: counters, shelving units, and built-in casework that stay with the space.</li>
+</ul>
+<p>The item that most often surprises owners moving from a bare shell to tenant-ready space is MEP. A landlord’s shell delivery might stop at capped services, meaning you’re paying to bring power, water, and ventilation the rest of the way into a usable retail floor. That gap between “shell” and “ready to open” is where budgets quietly grow.</p>
+<h2>Soft costs and permit fees you can’t skip</h2>
+<p>Hard costs are only part of the invoice. Soft costs and municipal fees typically add <a href="https://monday.com/blog/project-management/soft-costs/" rel="nofollow noopener noreferrer" target="_blank">15%</a> to 25% on top of construction, and skipping this line item is the single most common reason a retail budget comes in short.</p>
+<ul>
+<li>Architectural and engineering drawings</li>
+<li>Building permit fees (and a development permit if use is changing)</li>
+<li>Inspections and consultant fees (fire, accessibility, mechanical)</li>
+<li>Project management</li>
+<li>Financing costs and legal fees for the lease or purchase agreement</li>
+</ul>
+<p>Calgary calculates building permit fees using prevailing market value (PMV), meaning your fee scales with the estimated construction value you declare, not a flat rate per project. The <a href="https://www.calgary.ca/development/permits/process-faq.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary’s permit process guide</a> includes a fee calculator so you can estimate this cost before applying, and it also outlines a partial-permit option that lets demolition proceed while the rest of the alteration permit is still in review.</p>
+<p>For contingency, budget <a href="https://www.maxxbuilders.com/build-out-costs-retail-space/" rel="nofollow noopener noreferrer" target="_blank">10%</a> at minimum on a straightforward retail fit-out, and closer to 15% if your project involves restaurant equipment, older buildings, or trades in short supply. <a href="https://www.altusgroup.com/featured-insights/canadian-cost-guide/" rel="nofollow noopener noreferrer" target="_blank">Altus Group’s cost guidance</a> points to regional escalation and labour availability as major cost drivers in Alberta markets right now, which is exactly the kind of pressure a healthy contingency line protects against.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786727567542_Hands-calculating-construction-budget-with-tools-nearby.jpeg" alt="Hands calculating construction budget with tools nearby" /></p>
+<h2>What’s the typical timeline for a retail fit-out?</h2>
+<p>A straightforward Calgary retail build-out generally runs 10 to 16 weeks from signed design to opening day, though permit delays or long-lead materials can stretch that considerably.</p>
+<ol>
+<li>Design and drawings finalized (2 to 3 weeks)</li>
+<li>Permit submission and approval (3 to 6 weeks, longer if a development permit is triggered)</li>
+<li>Demolition (1 week, sometimes under a partial permit)</li>
+<li>MEP rough-in (2 to 3 weeks)</li>
+<li>Finishes, millwork, and fixtures (2 to 4 weeks)</li>
+<li>Inspections (ongoing, scheduled around milestones)</li>
+<li>Punch list and final walkthrough (1 week)</li>
+</ol>
+<p>Delays tend to come from a small set of repeat offenders:</p>
+<ul>
+<li>Landlord approvals on design or storefront changes</li>
+<li>City permit processing times, especially when a development permit is needed</li>
+<li>Trade lead times, particularly for HVAC equipment and custom millwork</li>
+<li>Material shipment delays on glazing, flooring, or specialty fixtures</li>
+<li>Change-of-use or occupancy classification reviews</li>
+</ul>
+<p>Mitigating these is mostly about sequencing. Start permit applications the moment your design is <a href="https://modernnw.com/blog/commercial-construction-timeline/" rel="nofollow noopener noreferrer" target="_blank">90%</a> locked rather than waiting for final sign-off, order long-lead items (HVAC units, custom glass) as soon as specs are set, and run design approval and permit review in parallel with early demolition where a partial permit allows it.</p>
+<h2>Worked budgeting examples for common Calgary project sizes</h2>
+<p>Numbers land differently once you apply them to your own square footage. These examples show the math behind three common project sizes readers ask about.</p>
+<ul>
+<li>These figures assume a shell with capped services, not a raw slab.</li>
+<li>Soft costs and contingency are combined at 20% here for simplicity; your real split will vary by scope.</li>
+<li>A 24x24 structure is closer to accessory-building or garage-conversion territory than retail, and our <a href="https://stateracontracting.com/blog/garage-suite-calgary" target="_blank" rel="noopener">garage suite Calgary cost guide</a> walks through that scope in more detail.</li>
+<li>Confirm occupancy classification before finalizing any budget. A change in retail type can trigger a use review that adds weeks and fees before construction even starts.</li>
+</ul>
+<h2>Comparing types of Calgary retail contractors</h2>
+<p>Not every contractor fits every project. A small tenant-improvement specialist and a full design-build firm solve different problems, and matching the category to your scope avoids a lot of wasted bidding time.</p>
+<table>
+<thead>
+<tr>
+<th>Contractor category</th>
+<th>Best for</th>
+<th>Typical project size</th>
+<th>Pricing model</th>
+<th>Credentials &amp; insurance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Small TI specialist</td>
+<td>Simple CRU fit-outs, single-tenant spaces</td>
+<td>Under 2,000 sq ft</td>
+<td>Fixed-price common</td>
+<td>WCB coverage, $2M–$5M liability typical</td>
+</tr>
+<tr>
+<td>Mid-size general contractor</td>
+<td>Multi-trade projects, moderate complexity</td>
+<td>2,000 sq ft</td>
+<td>Fixed-price or fixed-price with allowances</td>
+<td>WCB, $5M liability, permit-handling experience</td>
+</tr>
+<tr>
+<td>Design-build firm</td>
+<td>Projects needing design and construction under one contract</td>
+<td>Varies widely</td>
+<td>Fixed-price after design phase</td>
+<td>Full licensing, permit-ready documentation</td>
+</tr>
+<tr>
+<td>Specialty restaurant fitter</td>
+<td>Kitchen equipment, hood systems, grease traps</td>
+<td>Under 5,000 sq ft usually</td>
+<td>Fixed-price with equipment allowances</td>
+<td>WCB, higher liability limits common due to fire/life-safety scope</td>
+</tr>
+</tbody>
+</table>
+<p>If your project is a single CRU with no kitchen and modest finishes, a small TI specialist usually gets you the fastest, most cost-effective result. If you’re opening a restaurant or dealing with a complex shell, a design-build firm or specialty fitter with commercial permit experience is worth the extra coordination.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786727568163_Contractor-installing-ventilation-duct-in-restaurant-kitchen.jpeg" alt="Contractor installing ventilation duct in restaurant kitchen" /></p>
+<p>Before you contact anyone, request proof of Workers’ Compensation Board (WCB) coverage, current liability insurance, and two or three references from projects of similar size. Ask directly whether they’ve pulled Calgary building permits before and how they structure payment schedules.</p>
+<h2>How do you choose the right contractor?</h2>
+<p>Vetting a contractor comes down to a handful of checks you can run during a single conversation.</p>
+<ul>
+<li>Confirm active WCB coverage and request a certificate directly from WCB, not just a verbal assurance.</li>
+<li>Ask for liability insurance limits in writing; $5M is a common benchmark for commercial work.</li>
+<li>Clarify whether they handle permit submission themselves or expect you to manage it.</li>
+<li>Get the contract type in writing: fixed-price, cost-plus, or fixed-price with named allowances.</li>
+<li>Review the payment schedule before signing anything.</li>
+</ul>
+<p>Questions worth asking in every interview:</p>
+<ol>
+<li>How many Calgary building permits have you pulled in the last two years?</li>
+<li>Can you walk me through a similar-sized project, start to finish?</li>
+<li>Who are your core subcontractors, and are they consistent across projects?</li>
+<li>What happens to the schedule if a permit review takes longer than expected?</li>
+<li>How do you handle change orders, and what’s the approval process?</li>
+</ol>
+<p>Red flags to watch for: vague scope language that doesn’t specify materials or quantities, allowances that make up more than 20% of the total quote, and contract clauses that let the contractor issue unlimited change orders without your written sign-off. Any of these should send you back to the shortlist.</p>
+<h2>How Calgary’s permit process shapes your cost and schedule</h2>
+<p>The permit path for a retail build-out depends heavily on whether you’re changing the use of the space. A pure cosmetic refresh with no change of use typically only needs a building permit. Swap a clothing store for a restaurant, though, and you’ll likely trigger a development permit review first, because changes to existing buildings that shift occupancy classification require that extra step before construction can begin.</p>
+<ol>
+<li>Confirm your land use designation and whether your intended retail type is permitted outright or requires approval.</li>
+<li>Confirm your occupancy classification. Most retail falls under Group D or E, and the City’s guide to a complete application for D and E occupancy alterations spells out documentation requirements in detail.</li>
+<li>Use the building permit fee calculator early so your budget reflects PMV-based fees, not a guess.</li>
+<li>Ask about the partial-permit option if demolition needs to start before full alteration approval comes through.</li>
+<li>Submit a complete application the first time. Missing documentation is the top cause of avoidable permit delays.</li>
+</ol>
+<p><strong>Pro Tip:</strong> <em>If your timeline is tight, ask your contractor about applying for a partial permit for demolition and rough-in work while the full alteration permit is still under review. It’s a legitimate way to keep trades moving without waiting on the entire approval to land.</em></p>
+<h2>How were these Calgary cost ranges calculated?</h2>
+<p>These ranges combine current industry benchmarking with Calgary-specific permit and cost data, not a single generic average.</p>
+<ul>
+<li>Primary sources: Precedent Developments’ 2026 costing guide for retail-category psf ranges, Cushman &amp; Wakefield’s fit-out cost guide for fit-out specific figures, and City of Calgary permit documentation for fee mechanics.</li>
+<li>“Per square foot” here means hard construction cost only. Soft costs, permits, and contingency are added separately, as shown earlier in this article.</li>
+<li>Contingency assumptions in the worked examples use 20% combined for soft costs and contingency, which is a reasonable planning figure but not a guarantee for every project.</li>
+<li>Altus Group’s Canadian cost guide cautions that regional escalation and labour supply can shift real costs well outside any published benchmark, which is exactly why a site-specific quote still matters more than any range in an article.</li>
+</ul>
+<h2>Which Calgary contractors handle retail build-outs?</h2>
+<p>Calgary’s retail construction market includes a range of firms working across tenant improvements, commercial general contracting, and design-build. <strong>Statera Contracting</strong> works on commercial renovation projects across Calgary, including restaurant, office, and retail build-outs, with fixed-price contracting and permit handling built into the process.</p>
+<p>Other firms active in the local retail and commercial construction space include <strong>O.A.F Construction</strong>, <strong>The Make Group Construction</strong>, <strong>Bedrock Construction Ltd.</strong>, <strong>BUILD IT</strong>, <strong>Build 360</strong>, <strong>Rusch Design Build</strong>, <strong>Rouse Projects</strong>, <strong>Basement Builders</strong>, and <strong>M.R.E. Developments Ltd.</strong> Each tends to specialize differently. Some focus on ground-up commercial work, others on smaller tenant fit-outs or renovation-adjacent scopes. When you’re building a shortlist, match the firm’s typical project size and specialty to your own scope rather than picking based on name recognition alone. A contractor who mainly builds custom homes may not be the right fit for a restaurant kitchen build-out, even if their general construction quality is excellent.</p>
+<h2>What hidden costs catch Calgary retail owners off guard?</h2>
+<p>The published psf range rarely captures everything that lands on the final invoice. A few categories consistently surprise first-time retail tenants.</p>
+<p>Utility upgrades top the list. If your unit’s electrical service or gas line wasn’t sized for your equipment, upgrading service capacity can add thousands before a single finish is installed. Landlord-required work is another. Many leases obligate the tenant to bring common-area-facing elements, like storefront signage bands or shared corridor finishes, up to a specific standard, and that cost sits outside your unit’s fit-out budget entirely.</p>
+<p>Permit-related holding costs matter too. Rent often starts accruing the moment your lease term begins, regardless of whether construction has finished, so a permit delay of even a few weeks can add real carrying cost. And demolition surprises, like unexpected asbestos abatement in an older building or hidden structural issues behind existing finishes, show up in a meaningful share of Calgary retrofit projects simply because so much of the city’s retail stock predates current building standards.</p>
+<h2>How should you structure payment to your contractor?</h2>
+<p>A fixed-price contract with a milestone-based payment schedule protects your cash flow better than a lump deposit followed by a single final payment. Calgary contractors commonly structure payments around five stages: a deposit at contract signing (often 10% to 15%), a payment at permit issuance, progress payments tied to completed phases (demolition, rough-in, finishes), and a final holdback released after the punch list is cleared.</p>
+<p>It’s a normal, expected term in Alberta commercial construction.</p>
+<h2>How do you negotiate a build-out contract to avoid overruns?</h2>
+<p>The contract clauses that matter most are the ones that decide who eats the cost when something changes. Push for a fixed-price agreement rather than time-and-materials wherever the scope is well-defined, since T&amp;M shifts schedule and cost risk onto you.</p>
+<p>Negotiate a cap on allowance overages, so a finish selection that runs over budget doesn’t automatically become an open-ended change order. Insist on written change-order approval for every scope adjustment, no exceptions, and tie any schedule-related penalty or bonus clause to milestones both sides agree on upfront, not vague “reasonable time” language. Given how often permit timing shifts a Calgary schedule, also ask for a clause that clarifies who bears the cost of delays caused specifically by City review times, versus delays caused by the contractor’s own scheduling.</p>
+<h2>Statera Contracting’s view on Calgary retail build-outs</h2>
+<p>We approach every retail build-out the same way we’d want a client to approach hiring us: start with the real numbers, not the hopeful ones. Budgeting for a Calgary retail space means pricing hard costs, soft costs, and contingency together from day one, because a quote that only covers construction and skips permits or design fees sets a client up to feel blindsided three weeks into the job.</p>
+<p>Permit handling is where we spend a disproportionate amount of early effort, because it’s where most Calgary retail timelines actually break. We confirm occupancy classification and land use before design work goes too far, because that single step decides whether you’re looking at a straightforward building permit or a longer development permit review. Our commercial work covers restaurant, office, and retail build-outs across Calgary, and every one of them runs on a fixed-price contract, so clients know their number before demolition starts, not after.</p>
+<p>If you’re weighing a retail space right now, the most useful thing you can do is request a scoped estimate before you sign a lease, not after.</p>
+<h2>Statera Contracting handles Calgary retail build-outs from permit to punch list</h2>
+<p>If you’ve read this far, you already know the real cost of a Calgary retail build-out depends on your specific shell, your occupancy classification, and how your landlord’s lease handles common-area obligations. No published range replaces a walkthrough of your actual space.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>That’s the gap Statera Contracting fills for Calgary retail and restaurant tenants. Our commercial renovation team handles the full scope, design, permit submission, construction, and final inspection, under a fixed-price contract so your budget doesn’t shift once demolition starts. We’ve worked through Calgary’s development and building permit process enough times to flag a change-of-use issue before it becomes a six-week delay, and our fixed-price structure means the number you sign is the number you pay, allowances aside.</p>
+<p>If you’re planning a retail space, restaurant, or office build-out anywhere in Calgary, the next step is a scoped estimate. Visit our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation</a> page to request a site visit, and we’ll walk your space, confirm permit requirements, and give you real numbers instead of a range.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.altusgroup.com/featured-insights/canadian-cost-guide/" rel="nofollow noopener noreferrer" target="_blank">Altus Group Canadian cost guide</a></li>
+<li><a href="https://www.precedentdevelopments.ca/market-insights/2026-canadian-construction-costing-guide" rel="nofollow noopener noreferrer" target="_blank">2026 Canadian construction costing guide | Precedent Developments</a></li>
+<li><a href="https://www.calgary.ca/development/permits/process-faq.html" rel="nofollow noopener noreferrer" target="_blank">Building permit process guideline and common questions | City of Calgary</a></li>
+<li><a href="https://www.cushmanwakefield.com/en/canada/insights/office-fit-out-cost-guide" rel="nofollow noopener noreferrer" target="_blank">Office fit-out cost guide | Cushman &amp; Wakefield</a></li>
+</ul>
+<p>Use the permit resources for confirming fees and application requirements before you submit, and use the cost guides for sanity-checking bids against current market benchmarks rather than treating either as a substitute for a site-specific quote.</p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">Kitchen remodel cost in Calgary: 2026 Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">Commercial Renovation Calgary: TI Timeline Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/window-replacement-cost-calgary" target="_blank" rel="noopener">Window replacement cost Calgary: what homeowners should budget | Statera Contracting</a></li>
+</ul>`,
+      },
+    ],
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
