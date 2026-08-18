@@ -10929,7 +10929,298 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "bar-renovation-cost-calgary",
+    title: "Bar renovation cost Calgary: budget ranges, permits, who to hire",
+    excerpt:
+      "A Calgary bar renovation typically runs $8,000–$18,000 for a dry bar, $18,000–$45,000 for a wet bar with plumbing, and $60,000–$120,000+ for a custom or commercial-grade build, plus permit fees of $150–$600+ when plumbing or electrical work is involved. Statera Contracting handles licensed, insured, WCB-compliant bar renovations across Calgary, with permit management and fixed-price contracts included.",
+    date: "2026-08-18",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786824089394_Hands-fitting-bar-cabinetry-in-Calgary-basement.jpeg",
+    coverAlt: "Bar renovation cost Calgary: budget ranges, permits, who to hire",
+    category: "Industry News",
+    readingTime: "9 min read",
+    metaTitle: "Bar renovation cost Calgary: budget ranges, permits, who to hire",
+    metaDescription:
+      "Discover bar renovation costs in Calgary, from budget-friendly dry bars to high-end custom designs. Learn about permits and contractors.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A basement dry bar in Calgary typically runs from a few thousand dollars to mid-range costs, a wet bar with plumbing lands in a moderate to higher range, and a high-end or commercial-grade custom bar can be significantly more expensive. Budget a contingency margin on top of any quote, and set aside some funds for permit fees if your project touches plumbing, electrical, or structural work.</p>
+<p>If you’re planning a wet bar or anything involving new plumbing or electrical circuits, your best move is hiring a licensed, insured, and WCB-compliant contractor who pulls permits under their own credentials rather than piecing the job together with unlicensed trades.</p>
+<ul>
+<li>Dry bar (cabinetry, shelving, lighting): $8,000 to $18,000</li>
+<li>Wet bar (adds sink, drain, new circuit): $18,000 to $45,000</li>
+<li>Custom or commercial-grade bar: $60,000 to $120,000+</li>
+<li>Contingency to budget: 10% to 15% of total project cost</li>
+<li>Typical permit fees: $150 to $600+ depending on scope</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Get at least two written, fixed-price quotes before signing anything. A verbal estimate isn’t a contract, and it won’t protect you if the scope changes mid-project.</em></p>
+<h2>Key Takeaways</h2>
+<p>A Calgary bar renovation typically costs $8,000 to $120,000+ depending on scope, and hiring a licensed, WCB-compliant contractor who manages permits directly is the safest way to control both budget and timeline.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786824260994_Key-Takeaways-overview-diagram.jpeg" alt="Key Takeaways — overview diagram" /></p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Set your budget tier early</td>
+<td>Dry bars run $8,000–$18,000, wet bars $18,000–$45,000, luxury builds $60,000–$120,000+.</td>
+</tr>
+<tr>
+<td>Budget for contingency</td>
+<td>Add 10% to 15% on top of any quote to absorb unexpected costs.</td>
+</tr>
+<tr>
+<td>Know your permit triggers</td>
+<td>New sinks, drains, or circuits almost always require <a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">building and trade permits</a>.</td>
+</tr>
+<tr>
+<td>Confirm contract type upfront</td>
+<td>Fixed-price contracts protect against cost creep better than time-and-materials billing.</td>
+</tr>
+<tr>
+<td>Choose Statera Contracting for full-service builds</td>
+<td>Statera Contracting offers licensed, insured, WCB-compliant bar renovations with free consultations and permit management included.</td>
+</tr>
+</tbody>
+</table>
+<h3>Where the numbers and permit guidance come from</h3>
+<ul>
+<li><a href="https://summit.calgary.ca/content/dam/www/pda/pd/documents/fees/building-and-trade-permit-fee-schedule.pdf" rel="nofollow noopener noreferrer" target="_blank">Building and trade permit fee schedule</a>: source for example permit fee figures.</li>
+<li><a href="https://www.calgary.ca/development/home-building/trades-permits.html" rel="nofollow noopener noreferrer" target="_blank">Trades permits page</a>: explains homeowner versus contractor permit fee differences.</li>
+<li><a href="https://nrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-canada-publications/national-building-code-2023-alberta-edition" rel="nofollow noopener noreferrer" target="_blank">National Building Code 2023 Alberta Edition</a>: sets minimum finished ceiling heights for basement spaces.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#how-much-does-bar-renovation-cost-in-calgary-compare-across-contractor-types">How much does bar renovation cost in Calgary compare across contractor types?</a></li>
+<li><a href="#what-line-items-actually-drive-bar-renovation-cost-in-calgary">What line items actually drive bar renovation cost in Calgary?</a></li>
+<li><a href="#when-do-you-need-a-permit-for-a-calgary-bar-renovation">When do you need a permit for a Calgary bar renovation?</a></li>
+<li><a href="#how-long-does-a-bar-renovation-take-from-planning-to-finish">How long does a bar renovation take from planning to finish?</a></li>
+<li><a href="#how-do-you-choose-the-right-contractor-for-your-bar-project">How do you choose the right contractor for your bar project?</a></li>
+<li><a href="#get-a-fixed-price-quote-for-your-calgary-bar-renovation">Get a fixed-price quote for your Calgary bar renovation</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>How much does bar renovation cost in Calgary compare across contractor types?</h2>
+<p>The type of contractor you hire shapes both your price and your risk. A general contractor like Statera Contracting typically manages the whole project (design, permits, trades, finishes) under one fixed-price contract, while a specialist cabinetry shop might only handle the millwork and leave plumbing and electrical coordination to you.</p>
+<table>
+<thead>
+<tr>
+<th>Provider type</th>
+<th>Typical price range</th>
+<th>Best for</th>
+<th>Licensing &amp; WCB</th>
+<th>Portfolio &amp; reviews</th>
+<th>Permits handled</th>
+<th>Free estimate</th>
+<th>Typical timeline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Statera Contracting</td>
+<td>Ranges widely depending on scope</td>
+<td>Dry, wet, luxury, basement, commercial</td>
+<td>Licensed, insured, WCB compliant</td>
+<td>Local project portfolio, Google reviews</td>
+<td>Yes, full permit management</td>
+<td>Yes</td>
+<td>Several weeks</td>
+</tr>
+<tr>
+<td>Local general contractors</td>
+<td>Variable pricing</td>
+<td>Wet bars, structural changes</td>
+<td>Varies, verify before hiring</td>
+<td>Varies by firm</td>
+<td>Usually, confirm scope</td>
+<td>Often</td>
+<td>Several weeks</td>
+</tr>
+<tr>
+<td>Specialist cabinetry/remodel shops</td>
+<td>Typically lower cost</td>
+<td>Dry bars, cosmetic upgrades only</td>
+<td>Licensing often limited to millwork trade</td>
+<td>Strong for finish work</td>
+<td>No, typically excluded</td>
+<td>Sometimes</td>
+<td>Few weeks</td>
+</tr>
+</tbody>
+</table>
+<p>Choose a general contractor when your project touches plumbing, electrical, or structural framing, since those trades need coordinated inspections. A specialist shop makes sense for a straightforward dry bar where you’re mainly buying cabinetry and finish carpentry, with no new fixtures or wiring involved.</p>
+<ul>
+<li>Prefer a general contractor for anything with a sink, drain, dishwasher, or new electrical circuit.</li>
+<li>Prefer a specialist shop only for cosmetic-only builds with no plumbing or structural scope.</li>
+<li>Always confirm whether the quoted price includes permit pulls or bills them separately.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask to see a contractor’s WCB clearance letter and trade permit history before signing. A legitimate contractor won’t hesitate to share both.</em></p>
+<h2>What line items actually drive bar renovation cost in Calgary?</h2>
+<p>Cabinetry and countertops usually eat the biggest share of a bar budget, followed by plumbing and electrical work if you’re adding a sink, ice maker, or dedicated circuits for a wine fridge or keg system. Framing and structural changes only apply if you’re reconfiguring a wall or adding load-bearing support, which adds cost fast in older Calgary homes with non-standard basement layouts.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786824089835_Hands-installing-plumbing-pipes-under-bar-sink.jpeg" alt="Hands installing plumbing pipes under bar sink" /></p>
+<table>
+<thead>
+<tr>
+<th>Line item</th>
+<th>Typical cost range</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cabinetry (custom/semi-custom)</td>
+<td>$8,000 to $18,000</td>
+<td>Biggest swing factor between tight and luxury budgets</td>
+</tr>
+<tr>
+<td>Countertops (quartz/granite)</td>
+<td>$18,000 to $45,000</td>
+<td>Price scales with material grade and edge profile</td>
+</tr>
+<tr>
+<td>Plumbing (sink, drain, supply lines)</td>
+<td>$8,000 to $18,000</td>
+<td>Triggers a plumbing trade permit in most cases</td>
+</tr>
+<tr>
+<td>Electrical (new circuits, lighting)</td>
+<td>$18,000 to $45,000</td>
+<td>Wine fridges and beer taps often need dedicated circuits</td>
+</tr>
+<tr>
+<td>Flooring</td>
+<td>$60,000 to $120,000+</td>
+<td>Varies by material and square footage</td>
+</tr>
+<tr>
+<td>Framing/structural changes</td>
+<td>$60,000 to $120,000+</td>
+<td>Only applies when reconfiguring walls or headers</td>
+</tr>
+<tr>
+<td>Permits &amp; inspections</td>
+<td>$150–$600+</td>
+<td>Depends on declared construction value</td>
+</tr>
+<tr>
+<td>Labour</td>
+<td>30%–40% of total project</td>
+<td>Varies by trade mix and project complexity</td>
+</tr>
+<tr>
+<td>Appliances (fridge, kegerator, ice maker)</td>
+<td>$150 to $600+</td>
+<td>Optional, but common in mid-range and luxury builds</td>
+</tr>
+</tbody>
+</table>
+<p>A <strong>tight budget</strong> around $10,000 covers a basic dry bar with stock cabinetry, laminate counters, and simple lighting. A <strong>mid-range budget</strong> near $30,000 adds a sink, a wine fridge, quartz counters, and a dedicated electrical circuit. A <strong>luxury budget</strong> in the $80,000 range includes custom millwork, a full wet bar with ice maker and beverage taps, premium stone counters, and upgraded flooring throughout the space.</p>
+<ul>
+<li>Fixed-price contracts can help protect against cost overruns once the scope is defined.</li>
+<li>Time-and-material contracts may suit projects with evolving scope but can introduce more budget uncertainty.</li>
+</ul>
+<h2>When do you need a permit for a Calgary bar renovation?</h2>
+<p>You need a building permit for first-time basement development or any structural change, according to the City of Calgary. Cosmetic upgrades like new cabinets or paint typically don’t require one, but adding a sink, a drain, or a new electrical circuit almost always does.</p>
+<ul>
+<li>Building permit: required for structural changes or first-time basement finishing</li>
+<li>Electrical trade permit: required for new circuits or fixture wiring</li>
+<li>Plumbing trade permit: required for new sinks, drains, or supply lines</li>
+<li>Development permit: applicable in some zoning or condo situations</li>
+<li>Safety Codes Council fee: a small levy applied to most permit types</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Fee item</th>
+<th>Example range</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Homeowner trade permit (owner-performed work)</td>
+<td>$150 to $600+</td>
+<td><a href="https://www.calgary.ca/development/home-building/trades-permits.html" rel="nofollow noopener noreferrer" target="_blank">Flat fee including levies</a></td>
+</tr>
+<tr>
+<td>Contractor-held trade permit</td>
+<td>$150 to $600+ depending on scope</td>
+<td>Based on declared value of labour and materials</td>
+</tr>
+<tr>
+<td>Building permit (basement/addition example)</td>
+<td>$150 to $600+</td>
+<td>Based on <a href="https://summit.calgary.ca/content/dam/www/pda/pd/documents/fees/building-and-trade-permit-fee-schedule.pdf" rel="nofollow noopener noreferrer" target="_blank">City fee schedule</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pro Tip:</strong> <em>Homeowner permits are only valid if you’re doing the work yourself. If you’re hiring a contractor, they need to pull the trade permits under their own credentials, which is exactly why licensed contractors handle this step for you.</em></p>
+<h2>How long does a bar renovation take from planning to finish?</h2>
+<p>Most Calgary bar renovations typically take several weeks from initial design to final inspection, though permit approval timing can extend the total duration.</p>
+<ol>
+<li>Design and quoting: 1 to 2 weeks</li>
+<li>Permit application and approval: 2 to 4 weeks, longer for structural or basement-development permits</li>
+<li>Demolition and rough-in (plumbing, electrical, framing): 1 to 3 weeks</li>
+<li>Finish work (cabinetry, countertops, flooring, fixtures): 2 to 4 weeks</li>
+<li>Final inspection and handover: a few days to a week</li>
+</ol>
+<blockquote>
+<p>Permit delays are the most common cause of a stalled bar renovation in Calgary. If your project adds a sink or new circuit and you skip the permit review, you risk failed inspections or forced rework later. Winter scheduling can also push timelines, since demand for interior trades rises when exterior work slows down.</p>
+</blockquote>
+<h2>How do you choose the right contractor for your bar project?</h2>
+<p>Prefer a licensed, insured, and WCB-compliant general contractor for any bar project involving plumbing, wiring, or structural changes. That coverage protects you if a worker is injured on your property or if a trade dispute arises mid-project.</p>
+<ul>
+<li>Verify their trade licence and WCB clearance letter</li>
+<li>Confirm they carry liability insurance</li>
+<li>Ask for a written estimate, not a verbal quote</li>
+<li>Check for a warranty or workmanship guarantee</li>
+<li>Review their portfolio for recent local Calgary projects</li>
+<li>Look at their Google review rating and total review count</li>
+<li>Request two or three references from past clients</li>
+</ul>
+<p>Before your consultation, prepare these questions:</p>
+<ol>
+<li>Who pulls the permits, you or the contractor?</li>
+<li>Is this a fixed-price contract or time-and-materials?</li>
+<li>What’s the payment schedule, and how much is the deposit?</li>
+<li>How are change orders priced and approved?</li>
+<li>What warranty applies to labour and materials?</li>
+</ol>
+<p>Red flags to walk away from: no written contract, a bid dramatically lower than every other quote, or a demand for a large cash deposit upfront. A legitimate Calgary contractor typically asks for a deposit in the <a href="https://quoteguard.ca/blog/contractor-deposits-canada/" rel="nofollow noopener noreferrer" target="_blank">10%</a> to 30% range, tied to a milestone-based payment schedule.</p>
+<h3>A local perspective on bar renovations</h3>
+<p>Calgary basements throw curveballs. Ceiling heights, drain locations, and older electrical panels surprise homeowners more often than any finish choice does. I’ve seen small “just add a sink” requests turn into a full permit review once the scope gets properly assessed.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Get a fixed-price quote for your Calgary bar renovation</h2>
+<p>Statera Contracting offers licensed, insured, and WCB-compliant renovation services across Calgary, with free consultations for homeowners planning a basement or commercial bar build.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Whether you’re weighing a DIY-adjacent dry bar kit or comparing quotes from local trades, the gap usually comes down to who manages the permits, coordinates the trades, and stands behind the finished work. Statera Contracting handles all of it under one fixed-price contract: design and detailed quotes, permit pulls for plumbing and electrical work, trade coordination from rough-in to finish, and a workmanship warranty once the project wraps. If your bar project touches <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">plumbing fixtures</a> or needs the finish-carpentry precision of a full <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen-style build-out</a>, that single point of accountability saves you from chasing three different trades for warranty claims later. For basement-specific builds, Statera’s <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement and living spaces team</a> already knows the local permit triggers covered above. Commercial property owners planning a licensed lounge or restaurant bar can also start with the <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation</a> page. Ready to see numbers specific to your space? Book a free consultation and get a written, fixed-price quote before you commit to anything.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://nrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-canada-publications/national-building-code-2023-alberta-edition" rel="nofollow noopener noreferrer" target="_blank">National Building Code: 2023 Alberta edition</a></li>
+<li><a href="https://summit.calgary.ca/content/dam/www/pda/pd/documents/fees/building-and-trade-permit-fee-schedule.pdf" rel="nofollow noopener noreferrer" target="_blank">Building and trade permit fee schedule - City of Calgary (PDF)</a></li>
+<li><a href="https://www.calgary.ca/development/home-building/trades-permits.html" rel="nofollow noopener noreferrer" target="_blank">Trades permits - City of Calgary</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-to-renovate-a-small-bathroom" target="_blank" rel="noopener">Cost to renovate a small bathroom in Calgary: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">Kitchen remodel cost in Calgary: 2026 Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/renovations-kitchen-cabinets" target="_blank" rel="noopener">Kitchen cabinet renovations in Calgary: options &amp; budgets | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
+
 
 export function getPostBySlug(slug: string): Post | undefined {
   return posts.find((p) => p.slug === slug);

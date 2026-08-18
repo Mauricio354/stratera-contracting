@@ -40,5 +40,5 @@
   "720570": { "status": "published", "publishedAt": "2026-08-15" },
   "723830": { "status": "published", "publishedAt": "2026-08-16" },
   "728198": { "status": "published", "publishedAt": "2026-08-17" },
-  "733063": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-08-16 (article #723830 published earlier today); new article, estimated calendar date 2026-08-18 (created_at 2026-08-15 + 3 days, estimated)" }
+  "733063": { "status": "published", "publishedAt": "2026-08-18" }
 }
