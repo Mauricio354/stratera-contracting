@@ -40,5 +40,6 @@
   "720570": { "status": "published", "publishedAt": "2026-08-15" },
   "723830": { "status": "published", "publishedAt": "2026-08-16" },
   "728198": { "status": "published", "publishedAt": "2026-08-17" },
-  "733063": { "status": "published", "publishedAt": "2026-08-18" }
+  "733063": { "status": "published", "publishedAt": "2026-08-18" },
+  "736845": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-08-18" }
 }
