@@ -11219,6 +11219,151 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "renovation-financing-options-canada",
+    title: "Renovation financing options in Canada: a size-based guide",
+    excerpt:
+      "Renovation financing in Canada breaks down by project size: savings or a 0% promotional card for a small cosmetic refresh, a personal loan or line of credit for a mid-sized bathroom or kitchen remodel, and a HELOC or mortgage refinance for a large whole-home renovation or addition. Statera Contracting builds itemized, lender-ready quotes that match how Canadian lenders actually disburse renovation funds.",
+    date: "2026-08-20",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786984703051_Home-renovation-documents-on-desk.jpeg",
+    coverAlt: "Renovation financing options in Canada: a size-based guide",
+    category: "Industry News",
+    readingTime: "9 min read",
+    metaTitle: "Renovation financing options in Canada: a size-based guide",
+    metaDescription:
+      "Discover tailored renovation financing options in Canada to suit your project's size. Learn how to maximize your home's value today!",
+    content: [
+      {
+        type: "html",
+        html: `<p>For a small cosmetic refresh, use savings or a low-interest promotional credit card, provided you can clear the balance before the promotion ends. For a mid-sized job like a bathroom or single-room remodel, a personal line of credit or personal loan usually strikes the right balance between speed and cost. For a large project, whole-home renovation, or addition, a secured line of credit (HELOC) or a mortgage refinance gets you the lowest rates and the longest repayment runway.</p>
+<p>That is the short version. The right answer for your project comes down to scope, timeline, and how much of your home equity you’re willing to put on the table.</p>
+<ul>
+<li><strong>Small projects:</strong> savings, a 0% promotional card, or a rewards card paid off inside the grace period.</li>
+<li><strong>Medium projects:</strong> a personal line of credit or personal loan.</li>
+<li><strong>Large projects:</strong> a HELOC or mortgage refinance.</li>
+</ul>
+<p>Before you apply anywhere, get contractor quotes and check current lender rates. Numbers move fast, and a quote that’s three months old rarely matches what you’ll actually pay.</p>
+<h2>Key Takeaways</h2>
+<p>Matching financing type to project size, savings or short-term credit for small jobs, unsecured loans for medium jobs, and secured HELOCs or refinances for large jobs, keeps borrowing costs proportional to the work.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Match size to product</td>
+<td>Small projects fit savings or promo cards; medium projects fit unsecured loans; large projects fit secured HELOCs or refinances.</td>
+</tr>
+<tr>
+<td>Greener Homes Loan is closed</td>
+<td>The federal energy retrofit loan stopped accepting new applications on October 2, 2025.</td>
+</tr>
+<tr>
+<td>MHRTC still pays out</td>
+<td>Eligible multigenerational renovations can claim 14.5% of costs up to $50,000, capped at $7,250.</td>
+</tr>
+<tr>
+<td>Secured borrowing costs time</td>
+<td>HELOCs and refinances need appraisals and legal work, adding weeks to disbursement.</td>
+</tr>
+<tr>
+<td>Statera Contracting builds lender-ready quotes</td>
+<td>Statera Contracting itemizes quotes and stages payments to match how Canadian lenders disburse renovation funds.</td>
+</tr>
+</tbody>
+</table>
+<p>This article is general information, not a substitute for advice from a qualified financial advisor. Consult a qualified financial professional about your own circumstances before acting on anything here.</p>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#renovation-financing-options-in-canada-how-each-one-works">Renovation financing options in Canada: how each one works</a></li>
+<li><a href="#what-government-programs-affect-renovation-financing-in-canada">What government programs affect renovation financing in Canada?</a></li>
+<li><a href="#how-do-you-choose-the-right-financing-option">How do you choose the right financing option?</a></li>
+<li><a href="#what-documents-do-lenders-need-for-a-renovation-loan">What documents do lenders need for a renovation loan?</a></li>
+<li><a href="#what-financing-mistakes-cost-homeowners-the-most">What financing mistakes cost homeowners the most?</a></li>
+<li><a href="#three-renovation-financing-scenarios-by-project-size">Three renovation financing scenarios by project size</a></li>
+<li><a href="#a-calgary-contractors-take-on-financing-and-timing">A Calgary contractor’s take on financing and timing</a></li>
+<li><a href="#how-statera-contracting-helps-you-plan-and-finance-your-renovation">How Statera Contracting helps you plan and finance your renovation</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Renovation financing options in Canada: how each one works</h2>
+<p><a href="https://www.cmhc-schl.gc.ca/consumers/home-buying/mortgage-loan-insurance-for-consumers/cmhc-home-renovation-financing-options" rel="nofollow noopener noreferrer" target="_blank">CMHC’s own breakdown of renovation financing</a> groups the choices into a handful of buckets, and matching the tool to the project size is the whole game.</p>
+<p><strong>Savings and credit cards.</strong> Cash is still the cheapest way to renovate. If you don’t have enough saved, a <a href="https://www.irs.gov/" rel="nofollow noopener noreferrer" target="_blank">0%</a> promotional card or a rewards card can cover small jobs, paint, fixtures, and minor repairs, but only if you clear the balance before the promotional window closes. Carry a balance past that point and interest can climb past <a href="https://www.bankrate.com/credit-cards/advice/current-interest-rates/" rel="nofollow noopener noreferrer" target="_blank">20%</a>, which turns a $3,000 refresh into a much longer bill.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786984703119_Hands-with-paint-swatches-and-credit-card.jpeg" alt="Hands with paint swatches and credit card" /></p>
+<p><strong>Unsecured personal loans and lines of credit.</strong> These don’t require home equity as collateral, so approval is faster, often within days, and the paperwork is lighter. Rates typically land in the high single digits to mid-teens depending on your credit score and lender, with terms from one to seven years. A line of credit lets you draw funds as contractor invoices come due rather than borrowing the full amount up front, which suits a phased bathroom or kitchen job.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1786984704270_Hands-measuring-countertop-with-tools.jpeg" alt="Hands measuring countertop with tools" /></p>
+<p><strong>Secured borrowing: HELOC, second mortgage, and refinance.</strong> Once you’re using home equity as collateral, rates drop meaningfully, often several points below unsecured products, because the lender’s risk is lower. A HELOC gives you a revolving credit line you draw against as needed. A mortgage refinance or purchase-plus-improvement mortgage rolls the renovation cost into your existing mortgage, stretching repayment over 15 to 25 years. Expect an appraisal, legal fees, and possibly a stress test, plus documentation proving income and existing mortgage standing. <a href="https://www.rbcroyalbank.com/mortgages/renovating-your-home.html" rel="nofollow noopener noreferrer" target="_blank">RBC’s renovation financing guidance</a> and Scotiabank’s home renovation page both point large-project borrowers toward these secured products for exactly that reason.</p>
+<p><strong>Store and project loans.</strong> Retailer-branded project loans can offer fixed APRs below what a credit card charges, but the funds are usually restricted to purchases at that retailer and rarely cover contractor labour or multi-vendor jobs. Useful for a materials-heavy DIY project, less so for a full renovation with a general contractor.</p>
+<ul>
+<li><strong>Best for small jobs:</strong> savings, promotional cards. Unsecured. No real approval wait. Fees: none, unless you miss the promo window.</li>
+<li><strong>Best for medium jobs:</strong> personal loan or line of credit. Unsecured. Days to approve. Fees: possible setup or annual fee.</li>
+<li><strong>Best for large jobs:</strong> HELOC or refinance. Secured. Weeks to fund. Fees: appraisal, legal, possible discharge penalty on your current mortgage.</li>
+</ul>
+<h2>What government programs affect renovation financing in Canada?</h2>
+<p>Check federal and provincial programs before you sign anything, because at least one major option has already changed.</p>
+<blockquote>
+<p><strong>Status check:</strong> The <a href="https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/canada-greener-homes-loan" rel="nofollow noopener noreferrer" target="_blank">Canada Greener Homes Loan portal closed to new applications on October 2, 2025</a> after funding was fully committed. It previously offered interest-free loans over a range of amounts up to $40,000 with a 10-year term for energy retrofits. If you were counting on it for insulation, windows, or heat pump upgrades, that route is gone for now, and private financing or a provincial/utility rebate is the fallback.</p>
+</blockquote>
+<p>The <a href="https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45355-mhrtc.html" rel="nofollow noopener noreferrer" target="_blank">Multigenerational home renovation tax credit (MHRTC)</a> is still very much active. It applies to renovations that create a self-contained secondary unit for a senior or an adult eligible for the disability tax credit. Claim it on line 45355 of your return, and keep every invoice, permit, and contractor contract, because CRA can ask for them. A detailed walkthrough of the MHRTC covers eligible work in more depth, and homeowners building a secondary suite for an aging parent should also read the <a href="https://stateracontracting.com/blog/senior-home-renovation-tax-credit" target="_blank" rel="noopener">senior renovation tax credit guide</a>.</p>
+<ul>
+<li>Check your province and municipality for separate rebate programs.</li>
+<li>Ask your utility provider about energy-efficiency rebates that survived the federal loan’s closure.</li>
+<li>Confirm program status directly on Canada.ca before budgeting around any incentive.</li>
+</ul>
+<h2>How do you choose the right financing option?</h2>
+<ol>
+<li><strong>Define the scope and get two contractor quotes.</strong> Ask each contractor to itemize labour, materials, permits, and disposal separately, not as one lump figure.</li>
+<li><strong>Estimate total cost plus a contingency.</strong> Add 10 to 20% on top of the quoted price, then classify the project as small, medium, or large based on that total.</li>
+<li><strong>Compare after-tax cost and monthly cash flow.</strong> Line up two or three shortlisted options, one secured, one unsecured, and calculate what each actually costs you monthly, not just the headline rate.</li>
+<li><strong>Check documentation, pre-approval timelines, and fees.</strong> Ask lenders directly about appraisal costs, legal fees, and how long disbursement takes.</li>
+<li><strong>Pick a primary source and a backup.</strong> Keep contractor deposits small until financing is actually confirmed in writing.</li>
+</ol>
+<p><strong>Pro Tip:</strong> <em>A lower rate with a longer amortization can still cost more in total interest than a higher rate paid off fast. Run both scenarios through a lender’s payment calculator before you commit, comparing total interest paid, not just the monthly number.</em></p>
+<h2>What documents do lenders need for a renovation loan?</h2>
+<p>Lenders want proof you can repay and, for secured products, proof the property supports the loan. Have these ready: government ID, recent pay stubs or proof of income, your latest Notice of Assessment, a current mortgage statement, itemized contractor quotes, and building permits where the work requires them.</p>
+<p>Secured financing adds an appraisal and legal fees, and disbursement typically takes a few weeks rather than a few days. Unlike the now-closed Greener Homes Loan, which allowed an upfront advance of up to 15% (25% in northern or off-grid areas) to help with contractor deposits, most conventional lenders release funds after work is verified. Time your contractor deposit and permit applications around that gap.</p>
+<p><strong>Pro Tip:</strong> <em>Ask your lender the disbursement schedule in writing before you pay a contractor deposit, so you’re not covering that gap out of pocket unexpectedly.</em></p>
+<h2>What financing mistakes cost homeowners the most?</h2>
+<ul>
+<li><strong>Skipping contractor quotes:</strong> get at least two itemized quotes before choosing a loan amount.</li>
+<li><strong>Ignoring secured vs. unsecured trade-offs:</strong> match the borrowing type to the project size, not just the lowest advertised rate.</li>
+<li><strong>Carrying high-rate credit card debt long-term:</strong> move any balance to a lower-rate product within the promotional window.</li>
+<li><strong>Forgetting setup fees and taxes:</strong> budget for appraisal, legal, and GST on labour before finalizing your number.</li>
+</ul>
+<h2>Three renovation financing scenarios by project size</h2>
+<ol>
+<li><strong>Small: $5,000 cosmetic kitchen refresh.</strong> New paint, hardware, and a backsplash. Savings or a 0% promotional card for six to twelve months works well here, provided the balance clears before the promotion ends.</li>
+<li><strong>Medium: $30,000 bathroom or kitchen remodel.</strong> A personal loan at roughly 8 to 15% over five years, a personal line of credit drawn as invoices arrive, or a store project loan for materials only, are all realistic. Monthly payments and total interest vary widely with credit score and term length, so get a real quote before assuming a number.</li>
+<li><strong>Large: $120,000 whole-home renovation or addition.</strong> A HELOC or mortgage refinance secured against home equity typically beats unsecured rates by several points, but factor in appraisal fees, legal costs, and a longer amortization that extends your existing mortgage. See how larger scopes get budgeted in the <a href="https://stateracontracting.com/blog/entire-home-renovations" target="_blank" rel="noopener">whole-home renovation roadmap</a>.</li>
+</ol>
+<p><strong>Pro Tip:</strong> <em>These figures are illustrative starting points, not quotes. Recalculate every scenario with your actual credit score and a current lender rate sheet before you decide.</em></p>
+<h2>A Calgary contractor’s take on financing and timing</h2>
+<p>Financing timing and construction scheduling have to line up, or homeowners end up covering deposits out of pocket while waiting on approvals. Request line-item quotes early, and keep a 10 to 20% contingency, because unforeseen work behind the drywall is common in older homes.</p>
+<h2>How Statera Contracting helps you plan and finance your renovation</h2>
+<p>Getting a mortgage refinance approved doesn’t help much if your contractor doesn’t have the paperwork a lender wants to see. Statera Contracting builds itemized quotes and staged payment schedules that line up with how Canadian lenders actually release funds, so you’re not scrambling for documentation mid-project or covering a deposit gap you didn’t plan for.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Statera Contracting handles kitchen, bathroom, and basement renovations, home additions, and legal suite builds across Calgary and nearby communities including Okotoks, Cochrane, and Airdrie. If a project involves a secondary suite for an aging parent, the <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement and legal suite team</a> can help structure the work to align with MHRTC documentation requirements. For a straightforward kitchen or bathroom job, request an estimate through the <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation</a> or <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovation</a> pages, and Statera Contracting will assemble the quote in a format your lender can actually use.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/canada-greener-homes-loan" rel="nofollow noopener noreferrer" target="_blank">Canada Greener Homes Loan - Natural Resources Canada</a></li>
+<li><a href="https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45355-mhrtc.html" rel="nofollow noopener noreferrer" target="_blank">Canada</a></li>
+<li><a href="https://www.cmhc-schl.gc.ca/consumers/home-buying/mortgage-loan-insurance-for-consumers/cmhc-home-renovation-financing-options" rel="nofollow noopener noreferrer" target="_blank">Financing options for home renovations | CMHC</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/home-renovation-tax-credit" target="_blank" rel="noopener">Home renovation tax credit in Canada: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/senior-home-renovation-tax-credit" target="_blank" rel="noopener">Senior home renovation tax credit: 2026 guide for Canadians | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">Commercial Renovation Calgary: TI Timeline Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap | Statera | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 

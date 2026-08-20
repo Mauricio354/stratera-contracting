@@ -41,7 +41,7 @@
   "723830": { "status": "published", "publishedAt": "2026-08-16" },
   "728198": { "status": "published", "publishedAt": "2026-08-17" },
   "733063": { "status": "published", "publishedAt": "2026-08-18" },
-  "736845": { "status": "queued", "reason": "not yet at calendar slot: created_at 2026-08-17, estimated slot (created_at+3d, not confirmed) is 2026-08-20; today is 2026-08-19, still not due" },
+  "736845": { "status": "published", "publishedAt": "2026-08-20" },
   "738878": { "status": "queued", "reason": "not yet at calendar slot: created_at 2026-08-18, estimated slot (created_at+3d, not confirmed) is 2026-08-21; today is 2026-08-19, still not due (previous reason text about the daily cap was stale/inaccurate — this article was never actually at its due date yet)" },
   "742213": { "status": "queued", "reason": "not yet at calendar slot: created_at 2026-08-18, estimated slot (created_at+3d, not confirmed) is 2026-08-21; today is 2026-08-19, not due. No article's calendar slot lands today, so no publish this run." }
 }
