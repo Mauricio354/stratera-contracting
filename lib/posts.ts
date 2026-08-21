@@ -11364,6 +11364,209 @@ MHRTC credit: $40,000 × 14.5% = <strong>$5,800</strong> (refundable — paid ou
       },
     ],
   },
+  {
+    slug: "hood-ventilation-requirements-calgary",
+    title: "Hood ventilation requirements in Calgary: what code demands",
+    excerpt:
+      "Calgary requires Type I hood systems built to NFPA 96 for any kitchen producing grease-laden vapours, with stainless steel canopies, welded seamless ducts, and integrated fire suppression, while lighter-duty equipment can often qualify for a Type II hood instead. Statera Contracting coordinates permit-ready mechanical drawings, fabricator scheduling, and fire suppression vendor handoffs for Calgary commercial kitchen projects.",
+    date: "2026-08-21",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787013405961_Hands-installing-commercial-kitchen-exhaust-hood.jpeg",
+    coverAlt: "Hood ventilation requirements in Calgary: what code demands",
+    category: "Industry News",
+    readingTime: "13 min read",
+    metaTitle: "Hood ventilation requirements in Calgary: what code demands",
+    metaDescription:
+      "Discover essential hood ventilation requirements in Calgary to ensure your kitchen meets code, prevents delays, and maintains safety.",
+    content: [
+      {
+        type: "html",
+        html: `<p>If your kitchen produces grease-laden vapours from frying, char-broiling, or open-flame cooking, Calgary requires a Type I hood system built to <strong>NFPA 96</strong>. Steam kettles, ovens, and other heat-or-moisture-only equipment can usually operate under a lighter Type II hood instead. Getting this classification wrong is the single most common reason mechanical permits stall.</p>
+<p>Here’s what a compliant Type I system needs, at minimum:</p>
+<ul>
+<li>Conformity with NFPA 96 for hood construction, ductwork, and fire suppression</li>
+<li>Stainless steel canopies over grease-producing equipment</li>
+<li>Welded, seamless grease ducts with labelled access panels</li>
+<li>An integrated fire suppression system tied to the exhaust fan shutdown</li>
+<li>A documented, recurring cleaning schedule with certificates on file</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Before you order equipment or call a fabricator, confirm your hood classification with a mechanical permit plan review. Reclassifying a Type II kitchen to Type I after installation almost always means tearing out ductwork.</em></p>
+<p>If you’re unsure which category your kitchen falls into, contact Calgary’s Mechanical Plans Examiner through 3-1-1 before you submit drawings. It saves a redesign later.</p>
+<h2>Key Takeaways</h2>
+<p>Meeting Calgary’s hood ventilation requirements comes down to matching your cooking process to the correct hood type, building to NFPA 96 specifications, and keeping documented maintenance records.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Classify your cooking process first</td>
+<td>Grease-producing equipment like fryers or char-broilers requires a Type I hood under NFPA 96.</td>
+</tr>
+<tr>
+<td>Build to code specifications</td>
+<td>Use stainless steel canopies, welded seamless ducts at minimum 0.84 mm thickness, and labelled access panels.</td>
+</tr>
+<tr>
+<td>Respect the 75 foot rule</td>
+<td>Hoods sharing ductwork within 22.9 m (75 ft) need simultaneous fire suppression activation.</td>
+</tr>
+<tr>
+<td>Document every cleaning</td>
+<td>Maintenance certificates need the cleaner’s name, date, next due date, and any inaccessible areas noted.</td>
+</tr>
+<tr>
+<td>Coordinate design and permits early</td>
+<td>Statera Contracting manages mechanical drawings, fabricator coordination, and permit-ready plans for Calgary commercial kitchens.</td>
+</tr>
+</tbody>
+</table>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#which-codes-and-standards-govern-hood-ventilation-requirements-in-calgary">Which codes and standards govern hood ventilation requirements in Calgary?</a></li>
+<li><a href="#when-does-a-type-i-hood-or-nfpa-96-apply-versus-type-ii">When does a Type I hood or NFPA 96 apply versus Type II?</a></li>
+<li><a href="#what-are-the-design-and-construction-requirements-for-hoods-ducts-and-suppression">What are the design and construction requirements for hoods, ducts, and suppression?</a></li>
+<li><a href="#how-often-do-hoods-need-cleaning-and-inspection-in-calgary">How often do hoods need cleaning and inspection in Calgary?</a></li>
+<li><a href="#what-belongs-on-a-calgary-mechanical-permit-submission">What belongs on a Calgary mechanical permit submission?</a></li>
+<li><a href="#which-calgary-providers-handle-hood-installation-maintenance-and-cleaning">Which Calgary providers handle hood installation, maintenance, and cleaning?</a></li>
+<li><a href="#how-long-do-permit-approval-and-inspections-take-in-calgary">How long do permit approval and inspections take in Calgary?</a></li>
+<li><a href="#what-does-hood-installation-and-fire-suppression-cost-in-calgary">What does hood installation and fire suppression cost in Calgary?</a></li>
+<li><a href="#how-statera-contracting-supports-hood-ventilation-projects">How Statera Contracting supports hood ventilation projects</a></li>
+<li><a href="#frequently-asked-questions">Frequently asked questions</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Which codes and standards govern hood ventilation requirements in Calgary?</h2>
+<p>Calgary doesn’t invent its own hood rules. It enforces a stack of provincial and national standards through the safety codes system, and knowing which document controls which decision saves a lot of back-and-forth with reviewers.</p>
+<p>The governing hierarchy looks like this:</p>
+<ul>
+<li><strong>National Building Code (Alberta Edition)</strong> sets the base construction requirements and, under Article 6.3.1.7, requires cooking exhaust systems producing grease-laden vapours to conform to NFPA 96.</li>
+<li><strong>Alberta Fire Code</strong> governs ongoing inspection, cleaning, and maintenance obligations once the system is operating.</li>
+<li><strong>NFPA 96</strong> is the technical bible for hood, duct, fan, and suppression construction and maintenance.</li>
+<li><strong>NFPA 17A</strong> governs the dry chemical fire suppression systems typically mounted above cooking equipment.</li>
+<li><strong>City of Calgary permit guidance</strong> translates all of the above into what a plans examiner actually checks on your drawings.</li>
+</ul>
+<p>A safety codes officer enforces the fire and building code side; the mechanical plans examiner reviews your submission against NBC(AE) and NFPA 96 before issuing a permit. Both groups reference the same documents, but they check different things at different stages, which is why a plan that clears design review can still fail a site inspection if construction deviates from what was drawn.</p>
+<h2>When does a Type I hood or NFPA 96 apply versus Type II?</h2>
+<p>The test Calgary applies isn’t about equipment brand or hood size. It’s about the cooking process itself. Fryers, char-broilers, griddles with open flame, and any equipment that renders grease into airborne vapour trigger Type I requirements automatically. Steam kettles, convection ovens, and dishwashing exhaust generally qualify for Type II, which uses lighter-gauge ductwork and no fire suppression.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787013406250_Deep-fryer-and-convection-oven-contrasting-cooking-types.jpeg" alt="Deep fryer and convection oven contrasting cooking types" /></p>
+<p>The City’s own guidance sets a specific threshold: Type II is only permissible when cooking doesn’t produce grease in excess of 5 mg/m3 at 236 L/s exhaust airflow. If you claim Type II eligibility, you’ll need to sign a Commercial Cooking Declaration confirming your equipment and menu won’t cross that line.</p>
+<p><strong>Pro Tip:</strong> <em>Keep a copy of your finalized menu and equipment schedule with your declaration on file. If you add a flat-top grill or deep fryer six months after opening, that declaration is no longer accurate, and operating without amending your system is a code violation, not a paperwork technicality.</em></p>
+<h2>What are the design and construction requirements for hoods, ducts, and suppression?</h2>
+<p>NFPA 96 gets specific about materials and geometry, and inspectors check these details line by line rather than taking a contractor’s word for it.</p>
+<p>Construction essentials include:</p>
+<ul>
+<li>Stainless steel canopy hoods over any grease-producing appliance</li>
+<li>Grease ducts built from welded, seamless sections, not screwed or riveted joints</li>
+<li>Minimum duct wall thickness of <strong><a href="https://open.alberta.ca/dataset/0741f88e-bdd8-4dbb-be1f-32187a0f436f/resource/434658c1-874f-45aa-9fd4-50a5414f637a/download/ma-standata-interpretation-fire-building-23-fci-004-23-bci-009-2024-12.pdf" rel="nofollow noopener noreferrer" target="_blank">0.84 mm</a></strong></li>
+<li>Labelled, accessible cleanout panels along the entire duct run</li>
+<li>Continuous commercial-duty exhaust fans rated for grease-laden airflow</li>
+</ul>
+<p>Fire suppression integration follows its own logic. Under NFPA 96 and Alberta’s joint interpretation bulletin, hoods that share common ductwork within <strong>22.9 metres (75 feet)</strong> of each other are treated as a single hazard area. That means every suppression system in that zone must activate simultaneously the moment one trips. Design a second kitchen line beyond that 75 foot boundary and you’ll typically need independent protection for it.</p>
+<p>Two things get overlooked constantly:</p>
+<ol>
+<li>Make-up air sizing, which has to roughly balance what the exhaust fan pulls out or the kitchen runs negative pressure and doors won’t close properly.</li>
+<li>Duct termination clearances from property lines and outdoor air intakes, which force expensive rooftop redesigns when nobody checks them before fabrication.</li>
+</ol>
+<h2>How often do hoods need cleaning and inspection in Calgary?</h2>
+<p>The Alberta Fire Code sets two different clocks running. Visual inspections for grease buildup can be required as often as every seven days in heavy-use kitchens where deposits accumulate fast. Professional cleaning frequency, on the other hand, is set by a qualified contractor based on your actual cooking volume, not a fixed calendar date.</p>
+<p>A maintenance certificate that will actually satisfy an inspector needs:</p>
+<ol>
+<li>Name of the cleaning company and the individual cleaner</li>
+<li>Date the cleaning was performed</li>
+<li>The next cleaning due date</li>
+<li>Any areas that were inaccessible, and why</li>
+<li>A note confirming whether the system was fully cleaned or only partially</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Kitchen type</th>
+<th>Typical cleaning interval</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>High-volume (fast food, char-broiling)</td>
+<td>Monthly</td>
+</tr>
+<tr>
+<td>Moderate-volume full-service restaurant</td>
+<td>Every 3 months</td>
+</tr>
+<tr>
+<td>Low-volume, limited grease cooking</td>
+<td>Every 6 months</td>
+</tr>
+</tbody>
+</table>
+<p>Cleaners should carry NFPA 96 training, ideally through a recognized program like IKECA, along with current WCB coverage and liability insurance. Certificates without a named, credentialed cleaner behind them tend to raise questions during inspection, not answer them.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787013441962_Diagram-of-NFPA-96-hood-cleaning-and-inspection-requirements.jpeg" alt="Diagram of NFPA 96 hood cleaning and inspection requirements" /></p>
+<h2>What belongs on a Calgary mechanical permit submission?</h2>
+<p>Plans examiners reject incomplete submissions constantly, and the fixes are almost always the same handful of omissions.</p>
+<p>Your mechanical drawing package needs:</p>
+<ul>
+<li>Drawings at 1:100 metric or 1/4" = 1’0" imperial scale</li>
+<li>A complete equipment schedule, including menu items where cooking process matters</li>
+<li>The NFPA 96 hood, fire suppression system, and make-up air unit clearly shown</li>
+<li>Duct routing and the exhaust termination point marked on the plan</li>
+</ul>
+<p>Before you submit, confirm these three things in order:</p>
+<ol>
+<li>Every grease-producing appliance is on the equipment schedule, not just the major ones</li>
+<li>Duct sizing and fan capacity are shown, not just labelled “TBD”</li>
+<li>The suppression system’s coverage matches the hood’s actual footprint</li>
+</ol>
+<p>With a complete package, mechanical permits are typically issued within about a week. Missing equipment schedules or an undeclared cooking process are the two things that reliably push that timeline out.</p>
+<p><strong>Pro Tip:</strong> <em>If you’re not sure whether your submission is complete, call the Mechanical Plans Examiner’s line before you submit, not after you get a rejection letter back three weeks later.</em></p>
+<h2>Which Calgary providers handle hood installation, maintenance, and cleaning?</h2>
+<p>Calgary has a reasonably deep bench of specialized hood service companies, and picking the right one for the job in front of you matters more than picking the biggest name. A few operate across the full spectrum, from installation coordination through ongoing cleaning; others focus narrowly on cleaning and certification.</p>
+<p><strong>Pro-Hood Solutions Exhaust Hood Cleaning Services</strong> and <strong>ALR Cleaning Services</strong> both specialize primarily in commercial kitchen exhaust hood cleaning, with NFPA 96 compliance built into their service model. <strong>Steelhood Exhaust Cleaning Services Inc.</strong> advertises NFPA 96 compliant cleaning along with WCB and liability insurance, and offers rooftop fan and duct repair as an add-on rather than a separate call. <strong>Midwest Exhaust Hood Cleaning Services</strong> and <strong>Northern Hood and Exhaust Cleaning</strong> round out the cleaning-focused segment, while <strong>AAHOO Calgary Kitchen Exhaust Hood Cleaning</strong> and <strong>Calgary Kitchen Exhaust Hood Cleaning | Professional Power Wash</strong> both position themselves around restaurant kitchen hood cleaning specifically.</p>
+<p>For installation and ongoing system design coordination, working with a contractor who manages the mechanical drawings, fabrication specs, and suppression vendor scheduling together, rather than handing each piece to a separate trade, tends to produce fewer surprises at inspection. That coordination role is where general contracting overlaps with hood system compliance, and it’s worth treating as a distinct decision from who cleans your hood every quarter.</p>
+<h2>How long do permit approval and inspections take in Calgary?</h2>
+<p>Budget roughly a week for mechanical permit review once your drawings are complete, based on the City’s typical processing guidance. That number assumes your equipment schedule, hood specifications, and suppression details are all shown correctly the first time. Submit an incomplete package and that week can stretch into three or four, because the examiner has to send it back with comments rather than approve it outright.</p>
+<p>Site inspections run on a separate but related timeline. Once construction is done and your mechanical permit is closed out, a safety codes officer inspects the installed system against the approved plans before occupancy or a business licence is finalized. Discrepancies between what was drawn and what was actually installed, a duct routed differently than shown, a suppression nozzle relocated without updating the plan, are the most common reason this stage drags on.</p>
+<p>For new restaurant build-outs, a realistic sequence looks like: permit review (about one week with complete plans), rough-in construction and duct fabrication (timeline varies by scope), then a pre-occupancy inspection once the hood, suppression, and make-up air are all commissioned together. Renovations of existing kitchens sometimes move faster if the hood system is unchanged, since the examiner can focus purely on the new equipment layout rather than re-reviewing the whole exhaust design.</p>
+<p>Kitchens changing their cooking process midway through a build, adding a fryer after plans were approved for a Type II system, almost always trigger a resubmission, which resets the clock.</p>
+<h2>What does hood installation and fire suppression cost in Calgary?</h2>
+<p>Costs for a Type I hood system vary widely depending on kitchen size, duct run length, and how many appliances need coverage, so treat any flat number with some caution. A single-hood system for a small restaurant, canopy, ductwork, and a basic wet chemical suppression system integrated together, typically runs into the tens of thousands of dollars once fabrication, installation, and commissioning are included. Larger kitchens with multiple hood sections, longer duct runs to a rooftop termination, or make-up air units sized for higher exhaust volumes push that figure up substantially.</p>
+<p>Fire suppression itself, when added as a standalone upgrade to an existing hood, tends to be a smaller slice of the overall project, but the mechanical contractor still needs to verify the suppression nozzles match the hood’s coverage area exactly. Retrofitting suppression onto a hood that wasn’t designed for it usually costs more than installing both together from the start.</p>
+<p>Ongoing costs matter too. Professional cleaning runs on the interval your qualified cleaner sets, and skipping a scheduled cleaning to save money is a false economy: a fire code violation found during a routine inspection can trigger enforcement action, and grease fires in an under-maintained duct are exactly the risk NFPA 96 exists to prevent.</p>
+<p>If financing the ventilation portion of a larger renovation is a concern, a renovation-specific mortgage product can help spread that cost across the broader project rather than treating hood compliance as an isolated expense.</p>
+<h3>A compliance-first note from Statera</h3>
+<p>Statera Contracting has coordinated mechanical drawings and hood system fabrication for Calgary commercial kitchens where code compliance, not aesthetics, drove every early decision. For plan review support, connect through Statera’s <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation service</a> page.</p>
+<h2>How Statera Contracting supports hood ventilation projects</h2>
+<p>Getting a hood system through Calgary’s permit process is less about the equipment you buy and more about how well your drawings, your fabricator, and your suppression vendor are coordinated before anyone breaks ground. Statera Contracting handles that coordination directly for restaurant, café, and commercial kitchen clients across Calgary, Okotoks, Cochrane, and Airdrie.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>That means permit-ready mechanical drawings that show your NFPA 96 hood, suppression system, and make-up air unit exactly as they’ll be built, not as a placeholder to fix later. It means managing the handoff between your hood fabricator and your fire suppression vendor so the suppression nozzles actually match the hood’s final coverage area. And it means an on-site review of duct routing and make-up air before fan sizing gets locked in, catching the clearance issues that otherwise surface during plan review.</p>
+<p>If you’re planning a new kitchen build-out or upgrading an existing exhaust system, request a plan review through Statera’s <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation services</a> page. A short site visit up front tends to save weeks of back-and-forth with the plans examiner later.</p>
+<h2>Frequently asked questions</h2>
+<p><strong>What is the code for a hood vent in Calgary?</strong>
+Commercial kitchen hoods producing grease-laden vapours must conform to NFPA 96 as required under the National Building Code (Alberta Edition), with construction, cleaning, and fire suppression details all specified in that standard.</p>
+<p><strong>Can you use a 5 inch duct for a range hood?</strong>
+Residential range hood duct sizing is governed by manufacturer specifications and the National Building Code, not NFPA 96, since that standard applies specifically to commercial grease exhaust systems. A commercial grease duct needs to meet NFPA 96’s minimum thickness and welded construction requirements regardless of diameter.</p>
+<p><strong>What is the building code requirement for dryer vents in Alberta?</strong>
+Dryer venting falls under separate National Building Code (Alberta Edition) provisions for clothes dryer exhaust, distinct from the commercial kitchen exhaust rules covered by NFPA 96. It isn’t governed by the hood ventilation standards discussed here.</p>
+<p><strong>Does a commercial kitchen have to have a vent hood?</strong>
+Any commercial kitchen with cooking equipment producing heat, steam, smoke, or grease needs some form of exhaust hood. Whether it needs the full Type I NFPA 96 system depends on whether the cooking process produces grease-laden vapours, which the City’s Commercial Cooking Declaration is designed to determine.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://open.alberta.ca/dataset/0741f88e-bdd8-4dbb-be1f-32187a0f436f/resource/434658c1-874f-45aa-9fd4-50a5414f637a/download/ma-standata-interpretation-fire-building-23-fci-004-23-bci-009-2024-12.pdf" rel="nofollow noopener noreferrer" target="_blank">MA standata: interpretation — fire &amp; building (design/installation details)</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/basement-finishing-calgary" target="_blank" rel="noopener">Basement Finishing Calgary: Full 2026 Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/smart-renovations-for-calgary-homes-2026-guide" target="_blank" rel="noopener">Smart renovations for Calgary homes: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/garage-suite-calgary" target="_blank" rel="noopener">Garage Suite Calgary: 2026 Cost Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/window-replacement-cost-calgary" target="_blank" rel="noopener">Window replacement cost Calgary: what homeowners should budget | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
