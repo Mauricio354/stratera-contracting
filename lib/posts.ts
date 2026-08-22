@@ -11567,6 +11567,187 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "garage-addition-cost-calgary",
+    title: "Garage addition cost in Calgary: what homeowners should expect",
+    excerpt:
+      "A typical garage addition cost in Calgary varies widely depending on size, finish level, and whether it's attached or detached, with many homeowners paying a moderate to high range for a solid, insulated double garage.",
+    date: "2026-08-21",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787063720094_Partially-framed-garage-under-construction-outdoors.jpeg",
+    coverAlt: "Garage addition cost in Calgary: what homeowners should expect",
+    category: "Industry News",
+    readingTime: "8 min read",
+    metaTitle: "Garage addition cost in Calgary: what homeowners should expect",
+    metaDescription:
+      "Discover what to expect for garage addition costs in Calgary, from budget-friendly options to luxurious insulated models. Get insights now!",
+    content: [
+      {
+        type: "html",
+        html: `<p>A typical garage addition cost in Calgary varies widely depending on size, finish level, and whether it’s attached or detached, with many homeowners paying a moderate to high range for a solid, insulated double garage. Two things swing that price fast: whether you’re attaching to the house (more structural work, but shared walls save on materials) and what your lot looks like before a shovel goes in the ground.</p>
+<ul>
+<li>Basic detached single, unfinished garages often represent the more affordable end of the price spectrum.</li>
+<li>Insulated double garages with standard finishes generally cost more.</li>
+<li>Oversized or finished workshop/suite shells are at the higher end of cost ranges.</li>
+</ul>
+<h2>Key Takeaways</h2>
+<p>A Calgary garage addition costs $20,000 to $140,000 depending on size and finish, and permits, labour, and site conditions decide which end of that range you land on.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Set your size and finish first</td>
+<td>Insulated double garages with standard finishes generally cost more.</td>
+</tr>
+<tr>
+<td>Budget for permits early</td>
+<td>Building and electrical permits are required for every garage, with development permits triggered by size or setback exceptions.</td>
+</tr>
+<tr>
+<td>Watch for hidden site costs</td>
+<td>Detached garages on unpaved lanes often need a lane grade assessment that isn’t in every advertised quote.</td>
+</tr>
+<tr>
+<td>Plan around real timelines</td>
+<td>Detached builds run five to seven weeks and attached additions seven to ten weeks once permits clear.</td>
+</tr>
+<tr>
+<td>Choose a permit-aware contractor</td>
+<td>Statera Contracting offers fixed-price quotes that already factor in Calgary’s permit process and site requirements.</td>
+</tr>
+</tbody>
+</table>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#how-much-does-a-garage-cost-by-size-in-calgary">How much does a garage cost by size in Calgary?</a></li>
+<li><a href="#what-drives-the-cost-of-a-garage-build-in-calgary">What drives the cost of a garage build in Calgary?</a></li>
+<li><a href="#do-you-need-a-permit-to-build-a-garage-in-calgary">Do you need a permit to build a garage in Calgary?</a></li>
+<li><a href="#how-long-does-a-garage-addition-take-from-design-to-move-in">How long does a garage addition take from design to move-in?</a></li>
+<li><a href="#does-a-garage-add-value-to-a-house-in-calgary">Does a garage add value to a house in Calgary?</a></li>
+<li><a href="#how-do-you-budget-for-a-garage-and-vet-a-contractor">How do you budget for a garage and vet a contractor?</a></li>
+<li><a href="#what-do-three-sample-garage-budgets-look-like-in-calgary">What do three sample garage budgets look like in Calgary?</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>How much does a garage cost by size in Calgary?</h2>
+<p>Cost per square foot for a garage in Calgary depends largely on foundation type, insulation package, and door specifications rather than square footage alone. Basic shells are more economical, while heated, drywalled garages with upgraded doors and electrical systems cost significantly more.</p>
+<table>
+<thead>
+<tr>
+<th>Garage size</th>
+<th>Approximate footprint</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single-car</td>
+<td>Typical small footprint</td>
+</tr>
+<tr>
+<td>Compact double</td>
+<td>Medium footprint</td>
+</tr>
+<tr>
+<td>Standard double</td>
+<td>Larger footprint</td>
+</tr>
+<tr>
+<td>Oversized double/triple</td>
+<td>Significantly larger footprint</td>
+</tr>
+</tbody>
+</table>
+<p>A few things worth flagging before you fall in love with a number:</p>
+<ul>
+<li>Attached garages often cost less per square foot because they share a wall and sometimes a roofline with the house, but they trigger more complex permitting.</li>
+<li>Detached garages give you more design freedom but need their own full foundation, roof structure, and often a <a href="https://www.calgary.ca/development/home-building/garages-sheds.html" rel="nofollow noopener noreferrer" target="_blank">lane grade assessment</a> if they access an unpaved rear lane.</li>
+<li>Bigger isn’t proportionally more expensive. Cost per square foot usually drops slightly as size increases because fixed costs (permits, door, one electrical panel tie-in) spread across more space.</li>
+</ul>
+<h2>What drives the cost of a garage build in Calgary?</h2>
+<p>Every quote breaks down into the same core line items, and knowing roughly what each one costs helps you spot a lowball bid before it becomes a headache.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787063740302_Cost-components-breakdown-of-garage-build-in-Calgary.jpeg" alt="Cost components breakdown of garage build in Calgary" /></p>
+<p>Costs for foundation, framing, roofing, garage doors, electrical work, insulation, drywall, and site prep vary depending on the lot and build specifications, with certain items scaling up due to complexity or upgrades.</p>
+<p>Labour is the line item Calgary homeowners most often underestimate. Skilled trade demand in Alberta keeps framing and electrical labour rates firm, and that pressure shows up disproportionately on smaller projects where fixed labour costs (mobilization, inspection coordination) can’t be spread across a large footprint.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787063719265_Carpenter-measuring-and-cutting-wood-for-garage-framing.jpeg" alt="Carpenter measuring and cutting wood for garage framing" /></p>
+<p><strong>Pro Tip:</strong> <em>Ask every contractor for the specific R-value on both the garage door and the wall insulation, and whether the slab quote is a simple pour or an engineered design. Two quotes that look similar on the bottom line can represent very different builds once you see the specs.</em></p>
+<h2>Do you need a permit to build a garage in Calgary?</h2>
+<p>Yes. Every new garage in Calgary needs a building permit and a separate electrical permit for any new wiring, outlets, or garage door openers. A development permit gets triggered if your proposed size, height, or setbacks exceed what the Land Use Bylaw allows for your zone, which is more common with oversized or unusually placed detached garages.</p>
+<p>The permitting process differs for attached versus detached garages, and your application package generally needs:</p>
+<ul>
+<li>A site plan showing property lines, setbacks, and existing structures</li>
+<li>Elevation drawings and construction details</li>
+<li>A Real Property Report (RPR) or equivalent, particularly for detached builds</li>
+<li>Lane grade documentation if your garage accesses an unpaved rear lane</li>
+</ul>
+<p>Standard permit review in Calgary typically takes a few weeks once your submission is complete, though the City’s accessory building guidance notes that incomplete drawing packages are the single biggest cause of delay. Check the City’s current fee schedule before budgeting, since permit costs scale with project value.</p>
+<h2>How long does a garage addition take from design to move-in?</h2>
+<p>Plan for design and drawings to take one to three weeks, followed by permit application and review, site prep, and then the build itself.</p>
+<ol>
+<li>Design, drawings, and contractor selection</li>
+<li>Permit application submission</li>
+<li>Permit review and approval</li>
+<li>Site prep, including lane grade work if needed</li>
+<li>Construction, framing through finishing</li>
+<li>Final inspections and sign-off</li>
+</ol>
+<p>Detached garage builds typically take several weeks of active construction once permits are approved, while attached additions generally require a somewhat longer timeframe due to structural tie-ins.</p>
+<ul>
+<li>Ordering your garage door and any custom electrical components while permits are under review can shave real time off your overall schedule.</li>
+</ul>
+<h2>Does a garage add value to a house in Calgary?</h2>
+<p>Local appraisers treat garages as an exception to the usual rule that renovation cost doesn’t always equal resale value. <a href="https://www.creb.com/News/CREBNow/2018/July/free_parking/" rel="nofollow noopener noreferrer" target="_blank">CREB reporting on local appraisal commentary</a> notes that a properly built garage commonly improves a home’s market desirability and recovers a meaningful share of its cost at resale. One local market estimate puts average garage ROI <a href="https://popowichrealestate.com/do-garages-really-add-value-to-your-home/" rel="nofollow noopener noreferrer" target="_blank">around 81 percent</a>, though actual recovery depends heavily on neighbourhood norms and build quality.</p>
+<ul>
+<li>A finished floor, proper insulation, and a heated interior tend to matter more to buyers than raw square footage.</li>
+<li>A quality, well-sealed <a href="https://onedaydoorsandclosets.com/blog/featured/do-interior-doors-add-value" rel="nofollow noopener noreferrer" target="_blank">door</a> reads as a maintenance signal to buyers walking the lot, not just a functional part.</li>
+<li>Double garages generally out-earn singles on contributory value, but the gap narrows once both are properly finished.</li>
+</ul>
+<h2>How do you budget for a garage and vet a contractor?</h2>
+<p>Start with a written scope, not a verbal estimate. A serious contractor should hand you drawings, a line-item quote, a realistic timeline, and clarity on who is pulling the permits before you sign anything.</p>
+<ol>
+<li>Get drawings and a detailed, itemized quote in writing</li>
+<li>Confirm who handles permit applications and fees</li>
+<li>Ask about the payment schedule tied to milestones, not just deposits</li>
+<li>Check for proof of insurance and workers’ compensation coverage</li>
+<li>Ask for local references from garage or addition projects specifically</li>
+</ol>
+<p>Specific questions worth asking every bidder: What’s included in site prep? Is a lane grade assessment already factored in? What R-value is specified for the door and insulation? Is the electrical scope a sub-panel or a simple tie-in?</p>
+<ul>
+<li><strong>Red flag:</strong> a quote with no line for permits, or one that assumes you’ll pull them yourself without saying so upfront.</li>
+<li><strong>Red flag:</strong> a bid that’s dramatically lower than every other quote with no explanation for the gap.</li>
+<li><strong>Red flag:</strong> no fixed timeline, vague scope language, or an unwillingness to provide references.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>If a quoted price feels too good to be true against three other bids, ask specifically what’s excluded. Advertised “package” prices for basic shells often leave out site prep, permits, and electrical, which can add $10,000 or more once they’re folded back in.</em></p>
+<h2>What do three sample garage budgets look like in Calgary?</h2>
+<p><strong>Scenario A, basic detached shell:</strong> slab, framing, asphalt roof, one standard door, minimal electrical. Expect roughly $22,000 to $35,000, unfinished inside and unheated.</p>
+<p><strong>Scenario B, insulated and heated double:</strong> adds insulation, drywall, a garage heater, and an upgraded insulated door with basic interior finishes. Typical range: $50,000 to $80,000.</p>
+<p><strong>Scenario C, finished workshop or garage suite shell:</strong> higher-spec insulation, HVAC, upgraded flooring, extra electrical circuits, and smart or automated doors. This tier commonly runs $95,000 to $140,000 or more, depending on how far the interior finish goes.</p>
+<h3>How Statera Contracting quotes a garage addition in Calgary</h3>
+<p>If you’re weighing whether to build now or wait, Statera Contracting gives you one advantage most quotes skip: a fixed-price number that already accounts for Calgary’s permit process, not a placeholder that gets renegotiated once the City’s requirements show up mid-project.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>As a Calgary-based renovation contractor, Statera Contracting handles <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions and permit coordination</a> directly, so you’re not the one chasing down a Real Property Report or a lane grade assessment between contractor calls. Before requesting a quote, have a few things ready: photos of the build site, your property line documents if you have them, and a sense of your preferred size and features, whether that’s a heated double or a finished workshop shell. If you’re also weighing a garage suite against a standalone garage, our <a href="https://stateracontracting.com/blog/garage-suite-calgary" target="_blank" rel="noopener">garage suite cost guide</a> breaks down that decision in more detail. Ready to see where your project lands? <a href="https://stateracontracting.com" target="_blank" rel="noopener">Request a quote from Statera Contracting</a> and get numbers built around your lot, not a generic template.</p>
+<h3>When does a garage addition actually make sense?</h3>
+<p>Building the garage alongside a larger home addition almost always beats bolting it on later. Shared site mobilization, one round of permits, and one crew on-site cut real cost compared to a standalone project a few years down the road. Patrick's caution: define your finish level before the framing starts. Scope creep on insulation and electrical is where garage budgets quietly balloon.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/development/home-building/garages-sheds.html" rel="nofollow noopener noreferrer" target="_blank">Garages and sheds — City of Calgary</a></li>
+<li><a href="https://www.creb.com/News/CREBNow/2018/July/free_parking/" rel="nofollow noopener noreferrer" target="_blank">CREB: Free parking? (garage value commentary)</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/putting-an-addition-on-a-house-calgary-homeowners-guide" target="_blank" rel="noopener">Putting an addition on a house: Calgary homeowner’s guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/garage-suite-calgary" target="_blank" rel="noopener">Garage Suite Calgary: 2026 Cost Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/window-replacement-cost-calgary" target="_blank" rel="noopener">Window replacement cost Calgary: what homeowners should budget | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">Home Additions Calgary | Room Additions &amp; Extensions | Statera | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
