@@ -44,7 +44,7 @@
   "736845": { "status": "published", "publishedAt": "2026-08-20" },
   "738878": { "status": "published", "publishedAt": "2026-08-21" },
   "742213": { "status": "published", "publishedAt": "2026-08-22" },
-  "752893": { "status": "queued", "reason": "new article discovered on daily schedule fallback run; created_at 2026-08-20, estimated calendar slot (created_at+3d, not confirmed) is 2026-08-23. daily publish cap (1/day) for 2026-08-22 used by #742213, the older queued article — picked per the oldest-by-ID tiebreak rule. Will drain on a later run." },
+  "752893": { "status": "published", "publishedAt": "2026-08-23" },
   "756307": { "status": "queued", "reason": "new article discovered on daily schedule fallback run; created_at 2026-08-21, estimated calendar slot (created_at+3d, not confirmed) is 2026-08-24. daily publish cap (1/day) for 2026-08-22 already used by #742213. Will drain on a later run." },
   "758660": { "status": "queued", "reason": "new article discovered on daily schedule fallback run; created_at 2026-08-22, estimated calendar slot (created_at+3d, not confirmed) is 2026-08-25. daily publish cap (1/day) for 2026-08-22 already used by #742213. Will drain on a later run." },
   "761066": { "status": "queued", "reason": "new article discovered on daily schedule fallback run; created_at 2026-08-22, estimated calendar slot (created_at+3d, not confirmed) is 2026-08-25. daily publish cap (1/day) for 2026-08-22 already used by #742213. Will drain on a later run." }

@@ -11748,6 +11748,191 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "restaurant-kitchen-permit-calgary",
+    title: "Restaurant kitchen permit Calgary: your complete approval roadmap",
+    excerpt:
+      "Before you sign a lease, get four things confirmed: location approval, a business licence, a building permit if you're changing the space, and your trade permits for mechanical, plumbing, gas, and electrical work.",
+    date: "2026-08-23",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787249175873_Hands-installing-kitchen-ventilation-hood.jpeg",
+    coverAlt: "Restaurant kitchen permit Calgary: your complete approval roadmap",
+    category: "Industry News",
+    readingTime: "10 min read",
+    metaTitle: "Restaurant kitchen permit Calgary: your complete approval roadmap",
+    metaDescription:
+      "Navigating restaurant kitchen permits in Calgary? Follow our step-by-step guide to ensure smooth approval and a successful opening!",
+    content: [
+      {
+        type: "html",
+        html: `<p>Before you sign a lease, get four things confirmed: location approval, a business licence, a building permit if you’re changing the space, and your trade permits for mechanical, plumbing, gas, and electrical work. Add an Alberta Health Services food handling permit and a final AHS inspection before you can serve a single plate. If your cooking produces grease-laden vapours, plan for an NFPA 96 exhaust hood and fire suppression system too. Calgary’s Planning, Safety Codes, and AHS teams review these in parallel, but nothing moves fast if you start in the wrong order.</p>
+<p>Here’s what to do this week:</p>
+<ul>
+<li>Open a myID account with the City of Calgary so you can submit applications online.</li>
+<li>Request a <strong>location approval</strong> check before you sign anything.</li>
+<li>Talk to a designer or a contractor like Statera Contracting early, so your drawings match what inspectors will actually check.</li>
+</ul>
+<p><strong>Quick fact:</strong> Grease interceptors need servicing roughly every six months under AHS guidance, and your permit drawings must show exactly where that interceptor sits.</p>
+<h2>Key Takeaways</h2>
+<p>Getting a restaurant kitchen permit in Calgary approved on schedule requires securing location approval first, coordinating trade and building reviews in parallel, and keeping drawings permit-ready from day one.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Confirm location first</td>
+<td>Get location approval before signing any lease to avoid a costly zoning mismatch.</td>
+</tr>
+<tr>
+<td>Expect a permit bundle</td>
+<td>Business licence, building permit, trade permits, and an AHS food handling permit are all separate approvals.</td>
+</tr>
+<tr>
+<td>Design for NFPA 96</td>
+<td>Hood, canopy, duct, and fire suppression details must appear on mechanical drawings for grease-laden cooking.</td>
+</tr>
+<tr>
+<td>Service the grease interceptor</td>
+<td>Plan for maintenance roughly every six months and show its exact location on plumbing sets.</td>
+</tr>
+<tr>
+<td>Coordinate early with a contractor</td>
+<td>Statera Contracting handles permit sequencing, stamped drawings, and trade scheduling for Calgary kitchen build-outs.</td>
+</tr>
+</tbody>
+</table>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#which-permits-you-need-for-a-restaurant-kitchen-permit-in-calgary">Which permits you need for a restaurant kitchen permit in Calgary</a></li>
+<li><a href="#how-the-calgary-permit-process-actually-unfolds">How the Calgary permit process actually unfolds</a></li>
+<li><a href="#technical-kitchen-requirements-permit-reviewers-check-first">Technical kitchen requirements permit reviewers check first</a></li>
+<li><a href="#what-documents-and-drawings-calgary-expects-in-your-application">What documents and drawings Calgary expects in your application</a></li>
+<li><a href="#the-mistakes-that-push-calgary-permit-approvals-back-weeks">The mistakes that push Calgary permit approvals back weeks</a></li>
+<li><a href="#what-a-permit-driven-kitchen-renovation-costs-and-how-long-it-takes">What a permit-driven kitchen renovation costs and how long it takes</a></li>
+<li><a href="#why-early-contractor-involvement-changes-the-permit-outcome">Why early contractor involvement changes the permit outcome</a></li>
+<li><a href="#get-your-calgary-kitchen-permit-ready-with-statera-contracting">Get your Calgary kitchen permit-ready with Statera Contracting</a></li>
+<li><a href="#where-to-find-official-calgary-and-ahs-permit-resources">Where to find official Calgary and AHS permit resources</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Which permits you need for a restaurant kitchen permit in Calgary</h2>
+<p>Every restaurant kitchen permit in Calgary is really a bundle of separate approvals, each issued by a different office, each checking something different. Skip one, and the whole build-out stalls.</p>
+<ol>
+<li><strong>Location approval</strong> confirms your address is zoned for food service before you commit to a lease. <a href="https://www.calgary.ca/for-business/licences/restaurants-breweries.html" rel="nofollow noopener noreferrer" target="_blank">Calgary recommends securing this first</a>, because reversing a signed lease over a zoning mismatch is expensive and slow.</li>
+<li><strong>Business licence</strong> covers the operating side, issued once location approval is in hand.</li>
+<li><strong>Development permit or change of use</strong> kicks in when the land use bylaw doesn’t already allow a restaurant at that address, or when you’re converting a retail space into a food operation.</li>
+<li><strong>Building permit</strong> is required for any physical changes, and sometimes even without construction, since the city needs to verify the space against the <a href="https://www.calgary.ca/for-business/licences/food-establishment-building-code.html" rel="nofollow noopener noreferrer" target="_blank">National Building Code – 2023 Alberta Edition</a>.</li>
+<li><strong>Trade permits</strong> (mechanical, plumbing, gas, electrical) cover the hood system, grease interceptor plumbing, gas line hookups, and emergency lighting.</li>
+<li><strong>AHS food handling permit</strong> with a final inspection closes the loop.</li>
+</ol>
+<p>Don’t assume a former tenant’s kitchen carries its compliance forward. A previous reheating operation and your planned full-service kitchen can trigger entirely different review requirements.</p>
+<h2>How the Calgary permit process actually unfolds</h2>
+<p>Most delays come from applying in the wrong order, not from any single permit being hard to get. A sequence that works:</p>
+<ol>
+<li><strong>Location approval</strong> first, before signing a lease.</li>
+<li><strong>Development permit review</strong> (if the zoning or occupancy classification needs it) alongside an early <strong>building permit</strong> submission.</li>
+<li><strong>Business licence application</strong>, which can often run in parallel with the building review once location approval clears.</li>
+<li><strong>Trade permits</strong> for mechanical, plumbing, gas, and electrical, submitted as your drawings firm up.</li>
+<li><strong>AHS pre-opening consultation</strong>, followed by the <strong>final inspection</strong> once the site is fully built and equipment is installed and running.</li>
+</ol>
+<p>Some of these move at very different speeds. <a href="https://www.calgary.ca/for-business/licences/commercial-building-code.html" rel="nofollow noopener noreferrer" target="_blank">Mechanical plan reviews for hood and suppression systems typically take about a week</a> once a safety codes officer receives complete drawings, while many other trade permits issue same day. Building permit reviews for larger spaces run longer, especially when stamped drawings are required.</p>
+<p>Use <strong>myID</strong> and <strong>apply.calgary.ca</strong> for most submissions, but if your project involves a change of use or an unusual layout, a visit to the Planning Services Centre in person saves you a round of email back-and-forth. For fire-related questions, Calgary 311 routes you to the right desk.</p>
+<p><strong>Pro Tip:</strong> <em>Submit your mechanical drawings the same week you submit your building permit application, not after. Reviewers often flag hood and suppression details as a separate bottleneck, and running them in parallel instead of sequentially can shave real time off your total schedule.</em></p>
+<h2>Technical kitchen requirements permit reviewers check first</h2>
+<p>Every drawing you submit gets checked against a short list of hard technical requirements. Miss one and you’re resubmitting.</p>
+<ul>
+<li><strong>Ventilation hood and NFPA 96</strong>: any cooking that generates grease-laden vapours needs a compliant hood, canopy, and duct run shown on your mechanical drawings. A kitchen built only for reheating food is <a href="https://www.calgary.ca/development/permits/commercial-kitchens.html" rel="nofollow noopener noreferrer" target="_blank">rarely compliant</a> for a menu that involves actual frying or grilling, so a menu change can force a ventilation redesign.</li>
+<li><strong>Fire suppression</strong>: hoods over grease-producing equipment typically need an automatic suppression system tied into your building’s fire alarm, and that integration has to show up on your plans, not just your equipment schedule.</li>
+<li><strong>Make-up air and exhaust fans</strong>: sized to match your hood’s exhaust volume, with locations noted and stainless-steel finishes specified where exposed surfaces are required near cooking equipment.</li>
+<li><strong>Plumbing detail</strong>: floor drains, hand-wash sinks separate from food prep sinks, three-compartment dishwashing sinks, and a hot-water capacity figure specific to your equipment load, all labelled on your plumbing and gas sets.</li>
+</ul>
+<p>Getting the <a href="https://stateracontracting.com/blog/commercial-kitchen-ventilation-alberta" target="_blank" rel="noopener">ventilation design right</a> the first time avoids one of the most common resubmission triggers in Calgary’s commercial kitchen reviews.</p>
+<h2>What documents and drawings Calgary expects in your application</h2>
+<p>Calgary’s building permit checklist for restaurants and food establishments spells out exactly what a complete submission looks like, and incomplete sets are the single fastest way to add weeks to your timeline.</p>
+<ul>
+<li>A kitchen equipment plan with every appliance labelled, plus your menu or a list of food items served.</li>
+<li>A mechanical set showing hood details, duct routing, fan sizing, make-up air, and canopy materials.</li>
+<li>A plumbing and gas set with floor drains, grease interceptor location, hot water capacity, and gas appliance placement.</li>
+<li>An electrical set covering emergency lighting, exit signage, protective covers, and fire alarm connections.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Submission element</th>
+<th>What reviewers check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Equipment plan</td>
+<td>Every appliance labelled, matched to menu</td>
+</tr>
+<tr>
+<td>Mechanical set</td>
+<td>Hood, duct, fan, and make-up air sizing</td>
+</tr>
+<tr>
+<td>Plumbing/gas set</td>
+<td>Grease interceptor location, hot water capacity</td>
+</tr>
+<tr>
+<td>Electrical set</td>
+<td>Emergency lighting, fire alarm tie-in</td>
+</tr>
+</tbody>
+</table>
+<p>Drawings need to be legible at an acceptable scale and properly stamped where required. A page marked “not for construction” doesn’t count as a permit-ready submission.</p>
+<h2>The mistakes that push Calgary permit approvals back weeks</h2>
+<p>Most delays trace back to a handful of avoidable habits, not to the permit system itself being slow.</p>
+<ul>
+<li><strong>Treating reviews as sequential when they don’t need to be.</strong> Planning, building, fire, and AHS often run in parallel once earlier approvals clear, but only if someone is coordinating the handoffs.</li>
+<li><strong>Assuming an existing kitchen is compliant.</strong> A space that operated as a café last year may not meet the code requirements for your restaurant this year.</li>
+<li><strong>Booking the AHS final inspection too early.</strong> Inspectors need a fully finished, functioning site before they’ll sign off, and a half-installed hood or an unconnected grease interceptor means a wasted visit and a rebooking delay.</li>
+<li><strong>Submitting illegible or incomplete drawings</strong>, especially missing grease trap locations or unlabelled equipment.</li>
+<li><strong>Skipping the landlord conversation.</strong> Get lease terms on record for who pays for code-driven upgrades before you sign, not after a safety codes officer flags something.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask your landlord for the building’s mechanical and fire records before you design anything. Knowing what’s already installed saves you from designing around equipment that doesn’t actually exist.</em></p>
+<h2>What a permit-driven kitchen renovation costs and how long it takes</h2>
+<p>Your biggest cost drivers are the hood and suppression system, any grease interceptor relocation, stamped design fees, and trade labour, plus a contingency for whatever a safety codes officer asks you to change mid-review.</p>
+<p>Professional-stamped drawings cost more upfront but cut down on resubmissions, and for larger establishments (300 square metres with seating, or 500 square metres without) they’re mandatory under the NBC-2023 AE. Skipping that investment on a project that needed it almost always costs more in delay than it saves in fees.</p>
+<p><strong>Timeline reality check:</strong> a small tenant-improvement kitchen with no ventilation changes can move from location approval to AHS sign-off in a matter of weeks. A full build-out with new hood, suppression, and grease interceptor work realistically stretches into months once you count mechanical review time and trade sequencing. Building in a <a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">contingency for permit-driven changes</a> protects your opening date more than any other single planning decision.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787249232535_What-a-permit-driven-kitchen-renovation-costs-and-how-long-it-takes-overview-diagram.jpeg" alt="What a permit-driven kitchen renovation costs and how long it takes — overview diagram" /></p>
+<h2>Why early contractor involvement changes the permit outcome</h2>
+<p>Statera Contracting works on restaurant and commercial kitchen build-outs across Calgary, and the pattern holds every time: projects that bring in a contractor before drawings are finalized move faster than ones that treat permitting as a separate, later step. Our typical workflow starts with a site assessment and location approval check, then design and stamp coordination, then trade permit submissions timed against inspection availability. Coordinating those handoffs, rather than reacting to them one at a time, is what actually shortens the calendar.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787249278895_Why-early-contractor-involvement-changes-the-permit-outcome-overview-diagram.jpeg" alt="Why early contractor involvement changes the permit outcome — overview diagram" /></p>
+<h2>Get your Calgary kitchen permit-ready with Statera Contracting</h2>
+<p>Statera Contracting is the direct alternative to hiring a designer and a contractor separately for your Calgary restaurant build-out: one team handles the permit coordination, the stamped drawings, and the trade scheduling, so nothing falls through the gap between reviewers.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>A first consultation covers your scope, a permit checklist specific to your address and menu, and a realistic timeline and cost range before you commit to anything. Statera Contracting handles the mechanical, plumbing, and electrical coordination that Calgary’s reviewers expect to see on a complete submission, and stages trade inspections so your AHS final inspection isn’t booked before the site is actually ready. If you’re planning a kitchen build-out or renovation, <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">book a consultation for your Calgary kitchen renovation</a> and get a clear picture of your permit path before you sign a lease.</p>
+<h2>Where to find official Calgary and AHS permit resources</h2>
+<p>For the exact forms and technical checklists behind everything in this guide, go straight to the source:</p>
+<ul>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/food-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">Complete building permit application requirement list</a> covers equipment plans, mechanical/plumbing/electrical sets, and NFPA 96 details.</li>
+<li><a href="https://www.calgary.ca/for-business/licences/restaurants-breweries.html" rel="nofollow noopener noreferrer" target="_blank">Open a restaurant or brewery</a> explains location approval and business licence steps.</li>
+<li><a href="https://www.calgary.ca/development/permits/commercial-kitchens.html" rel="nofollow noopener noreferrer" target="_blank">Commercial kitchens in businesses or facilities</a> breaks down ventilation and fire suppression triggers.</li>
+<li>Starting a food business (AHS) details grease interceptor maintenance and final inspection prerequisites.</li>
+</ul>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/food-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">Complete building permit application requirement list — Renovations to restaurants and food establishments</a></li>
+<li><a href="https://www.calgary.ca/for-business/licences/restaurants-breweries.html" rel="nofollow noopener noreferrer" target="_blank">Open a restaurant or brewery</a></li>
+<li><a href="https://www.calgary.ca/development/permits/commercial-kitchens.html" rel="nofollow noopener noreferrer" target="_blank">Commercial kitchens in businesses or facilities (City of Calgary)</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/commercial-kitchen-requirements-alberta" target="_blank" rel="noopener">Commercial kitchen requirements in Alberta: what you need to know | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/commercial-kitchen-ventilation-alberta" target="_blank" rel="noopener">Commercial kitchen ventilation in Alberta: compliance guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">Kitchen remodel cost in Calgary: 2026 Alberta guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">Kitchen Renovation Calgary | Licensed Contractor | Statera | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
