@@ -12125,6 +12125,175 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "second-storey-addition-cost-calgary",
+    title: "What a second storey addition actually costs in Calgary",
+    excerpt:
+      "A partial second-storey addition in Calgary typically runs $120,000 to $240,000, while a full second-storey addition commonly lands between $240,000 and $450,000 or more.",
+    date: "2026-08-25",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787359830915_Second-storey-addition-framing-on-Calgary-home.jpeg",
+    coverAlt: "What a second storey addition actually costs in Calgary",
+    category: "Industry News",
+    readingTime: "12 min read",
+    metaTitle: "What a second storey addition actually costs in Calgary",
+    metaDescription:
+      "Discover what a second storey addition costs in Calgary, including detailed project budgets and essential permit timelines for your renovation.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A partial second-storey addition in Calgary typically runs $120,000 to $240,000, while a full second-storey addition commonly lands between $240,000 and $450,000 or more. The single biggest swing factor is structural work: your existing foundation and framing have to carry real weight they were never built for, and that engineering reality drives the budget more than finishes ever will. Add permits to your planning timeline too. Building permit review in Calgary typically takes <strong>4 to 16 weeks</strong> depending on scope and site conditions, so factor that into your schedule before you fall in love with a start date.</p>
+<h2>Key Takeaways</h2>
+<p>Second storey addition costs in Calgary depend primarily on foundation capacity and structural scope, with permits and seasonal timing shaping the schedule around that number.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Partial addition budget</td>
+<td>Expect $120,000 to $240,000 for a 200 to 700 sq ft partial second storey.</td>
+</tr>
+<tr>
+<td>Full second storey budget</td>
+<td>Budget $300,000 to $450,000+ for 800 to 1,200+ sq ft, often more with foundation upgrades.</td>
+</tr>
+<tr>
+<td>Permit timeline</td>
+<td>Expect 4 to 16 weeks for building permit review, longer with heritage overlays or complex sites.</td>
+</tr>
+<tr>
+<td>Contingency planning</td>
+<td>Set aside 10 to 20% contingency, higher for older infill homes with unknown conditions.</td>
+</tr>
+<tr>
+<td>Statera Contracting’s role</td>
+<td>Statera Contracting offers design-build second storey additions across Calgary with a licensed, WCB-compliant team and 20+ years of local experience.</td>
+</tr>
+</tbody>
+</table>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#second-storey-addition-cost-calgary-detailed-ranges-by-project-size">Second storey addition cost Calgary: detailed ranges by project size</a></li>
+<li><a href="#what-drives-your-second-storey-construction-price-up-or-down">What drives your second storey construction price up or down</a></li>
+<li><a href="#how-much-do-calgary-permits-and-approvals-cost-and-take">How much do Calgary permits and approvals cost and take?</a></li>
+<li><a href="#when-does-your-foundation-force-a-bigger-budget">When does your foundation force a bigger budget?</a></li>
+<li><a href="#how-long-does-a-calgary-second-storey-addition-take">How long does a Calgary second storey addition take?</a></li>
+<li><a href="#how-should-you-budget-and-finance-a-second-storey-addition">How should you budget and finance a second storey addition?</a></li>
+<li><a href="#how-do-you-plan-a-second-floor-addition-process-step-by-step">How do you plan a second floor addition process step by step?</a></li>
+<li><a href="#how-do-we-know-this-statera-contractings-calgary-track-record">How do we know this? Statera Contracting’s Calgary track record</a></li>
+<li><a href="#should-you-hire-a-contractor-or-a-design-build-firm-in-calgary">Should you hire a contractor or a design-build firm in Calgary?</a></li>
+<li><a href="#is-a-diy-second-storey-addition-actually-cheaper-in-calgary">Is a DIY second storey addition actually cheaper in Calgary?</a></li>
+<li><a href="#what-energy-efficiency-upgrades-add-to-your-second-storey-budget">What energy efficiency upgrades add to your second storey budget?</a></li>
+<li><a href="#trade-offs-weve-seen-on-calgary-second-storey-projects">Trade-offs we’ve seen on Calgary second storey projects</a></li>
+<li><a href="#ready-to-get-a-real-quote-on-your-second-storey-addition">Ready to get a real quote on your second storey addition?</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Second storey addition cost Calgary: detailed ranges by project size</h2>
+<p>Broad brackets only help so much. What you actually need are numbers tied to square footage and scope, because a 250 square foot partial addition behaves nothing like an 1,100 square foot full second storey once you’re pricing it out.</p>
+<ul>
+<li><strong>Small partial addition (200–400 sq ft):</strong> $120,000 to $180,000. Often a bonus room or primary suite extension over an existing footprint.</li>
+<li><strong>Medium partial addition (400–700 sq ft):</strong> $180,000 to $280,000. Usually adds two bedrooms or a bedroom plus a full bathroom.</li>
+<li><strong>Full second storey (800–1,200+ sq ft):</strong> $300,000 to $450,000+, sometimes higher on larger footprints or complex rooflines.</li>
+</ul>
+<p>Local market data puts the <a href="https://www.renovateindex.ca/home-addition-cost-calgary" rel="nofollow noopener noreferrer" target="_blank">overall midpoint for Calgary home additions around $239,400</a>, with smaller bump-outs closer to $119,700 and full two-storey projects frequently pushing past $450,000. Other Calgary market trackers report a <a href="https://renoplanner.ai/renovation-cost/addition/calgary" rel="nofollow noopener noreferrer" target="_blank">2026 range between $88,000 and $385,000</a> with a midpoint near $237,000, which lines up closely once you account for the wide gap between a modest partial and a full second floor.</p>
+<p>Three quick scenarios show how this plays out. A bungalow owner adding a 300 square foot primary suite with an ensuite might land near $165,000, mostly driven by new plumbing runs and roof tie-ins. A family converting an attached garage footprint into a 550 square foot second level with two bedrooms could sit around $220,000, with cost concentrated in floor framing and stairs. A full 1,000 square foot second storey with three bedrooms and a shared bathroom, on an older infill lot, often reaches $380,000 once foundation reinforcement enters the picture.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787359836565_Cost-comparison-diagram-for-second-storey-addition-scenarios.jpeg" alt="Cost comparison diagram for second storey addition scenarios" /></p>
+<h2>What drives your second storey construction price up or down</h2>
+<p>Four categories decide where your project lands within these ranges, and structural work is almost always the biggest one.</p>
+<ul>
+<li><strong>Structural reinforcement and foundation upgrades.</strong> Older Calgary homes, especially pre-1980 builds, frequently need underpinning or new footings to support a second floor. This single item can add $20,000 to $60,000+ before you’ve chosen a single finish.</li>
+<li><strong>Roofline complexity and exterior matching.</strong> Blending new siding, brick, or stone with existing exterior finishes, particularly on character or heritage-influenced homes, adds real labour and material cost that’s easy to underestimate.</li>
+<li><strong>Mechanical extensions.</strong> Running HVAC ductwork upstairs, extending plumbing stacks, and rewiring electrical to current code are non-negotiable line items on almost every second-storey job.</li>
+<li><strong>Finish-grade choices.</strong> Economy fixtures and flooring versus mid-range versus premium can swing a 400 square foot addition by $15,000 to $40,000 on its own.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask your contractor for a rough structural allowance before you spend time picking cabinet finishes. If the foundation needs work, that number should shape your finish budget, not the other way around.</em></p>
+<p>Insulating the new second storey to current Alberta building code standards also adds cost that older single-storey homes never carried, since the whole envelope has to perform, not just the addition itself.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787359825115_Hands-installing-insulation-in-second-storey-wall-framing.jpeg" alt="Hands installing insulation in second storey wall framing" /></p>
+<h2>How much do Calgary permits and approvals cost and take?</h2>
+<p>Every second storey addition needs a building permit because it’s structural. If your project involves a height variance, changes to lot coverage, or a setback exception, you’ll also need a development permit before the building permit can move forward.</p>
+<p>The <a href="https://www.calgary.ca/development/home-building/additions.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary’s fee schedule</a> gives useful benchmarks for smaller structural work:</p>
+<p>Development permit fees vary depending on scope and whether public advertising is required, so budget separately for those if your project needs one. Processing timelines run <a href="https://canadacommons.ca/artifacts/32270900/city-of-calgary-building-permit-requirements-for-one-and-two-family-dwellings/33170689/" rel="nofollow noopener noreferrer" target="_blank">4 to 16 weeks</a>, with heritage overlays, complex site conditions, or incomplete submissions pushing toward the longer end. Interior or mezzanine-style second-floor additions carry extra documentation requirements around services and utilities, so check the City’s permit application checklist early rather than after you’ve already submitted.</p>
+<h2>When does your foundation force a bigger budget?</h2>
+<p>A structural engineer’s assessment isn’t optional before you finalize a second storey budget. It’s the one step that tells you whether your existing foundation can carry the new load, or whether you’re looking at underpinning or new footings first.</p>
+<ul>
+<li><strong>Underpinning or new footings</strong> can add tens of thousands of dollars depending on soil conditions and existing foundation depth.</li>
+<li><strong>Stair relocation</strong> often means reworking main floor joists, which touches ceilings and structural framing below.</li>
+<li><strong>Roof integration</strong> with the new second storey affects both cost and how much of the existing roof structure gets reused versus rebuilt.</li>
+</ul>
+<p>Statera Contracting’s own field experience backs this up: <a href="https://stateracontracting.com/blog/putting-an-addition-on-a-house-calgary-homeowners-guide" target="_blank" rel="noopener">contractors in Calgary consistently recommend an early engineer review</a>, since concealed rot or an undersized post-and-beam system are the discoveries that blow past initial estimates.</p>
+<h2>How long does a Calgary second storey addition take?</h2>
+<p>A partial second storey typically runs 3 to 5 months from permit approval to completion. A full second storey, especially one touching the entire roofline and foundation, often takes 5 to 9 months.</p>
+<ul>
+<li>Calgary’s weather window for major exterior and foundation work is roughly April through October.</li>
+<li>Winter builds carry a labour premium of 10 to 15% due to heating requirements and slower site conditions.</li>
+<li>Many Calgary homeowners stay in the home during a partial addition but relocate temporarily for a full second storey when the main floor ceiling is opened up.</li>
+</ul>
+<h2>How should you budget and finance a second storey addition?</h2>
+<p>Build contingency into every quote you compare, not just the winning bid.</p>
+<ul>
+<li>Set aside <strong>10 to 15%</strong> contingency for newer homes with known conditions, and <strong>15 to 20%</strong> for older infill properties where demolition often reveals surprises.</li>
+<li>Expect a standard payment schedule: deposit at signing, progress payments tied to framing and mechanical rough-in, and a final payment at completion and inspection sign-off.</li>
+<li>Common financing routes for Calgary homeowners include a home equity line of credit, a dedicated renovation loan, or a construction mortgage draw, each with different qualification and disbursement timing.</li>
+</ul>
+<h2>How do you plan a second floor addition process step by step?</h2>
+<ol>
+<li><strong>Define your scope and priorities.</strong> Decide bedroom count, bathroom additions, and whether you need to match existing exterior finishes exactly.</li>
+<li><strong>Arrange a structural review.</strong> Get an engineer’s assessment before requesting detailed quotes, not after.</li>
+<li><strong>Collect quotes on identical scope.</strong> Ask each contractor to price the same drawings so you’re comparing real numbers, not different assumptions.</li>
+<li><strong>Submit permits and confirm your schedule.</strong> Lock in your building permit and, if needed, development permit before committing to a start date.</li>
+</ol>
+<p>Ask every contractor about warranty terms, how they handle change orders, proof of insurance, and recent local references. Have your lot survey, existing floor plans, and any prior renovation permits on hand before your first permit submission.</p>
+<h2>How do we know this? Statera Contracting’s Calgary track record</h2>
+<p>Patrick and the Statera Contracting team have built <a href="https://www.stateracontracting.com/" target="_blank" rel="noopener">second-storey additions across Calgary</a> for more than two decades, working directly with the City’s permit process and Alberta’s structural code requirements.</p>
+<blockquote>
+<p>Ask to see photos of completed second-storey additions similar to yours, and ask for current insurance and warranty documentation before signing anything. A contractor with nothing to show you is telling you something.</p>
+</blockquote>
+<p>Statera’s <a href="https://stateracontracting.com/blog/adding-a-second-story-to-a-house" target="_blank" rel="noopener">planning guide for adding a second storey</a> and its <a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Calgary renovation budget guide</a> go deeper on scheduling and cost breakdowns.</p>
+<h2>Should you hire a contractor or a design-build firm in Calgary?</h2>
+<p>Both routes get you to a completed second storey, but they split responsibility differently, and that split affects your budget certainty.</p>
+<p>A traditional model has you hiring an architect or designer first, then bringing drawings to a contractor for pricing. This can work well if you already have a strong design vision, but it introduces a gap: the designer isn’t the one building it, so cost surprises often surface after drawings are finalized and bids come back higher than expected.</p>
+<p>A design-build approach, which is how Statera Contracting operates on additions, keeps design and construction under one roof. Your contractor is involved from the early scope conversations through permit drawings and construction, which means cost realities get flagged while the design is still flexible rather than after it’s locked in. For a second storey addition specifically, where foundation capacity and structural cost often reshape the plan, having one team responsible for both design and pricing tends to reduce the back-and-forth between “what you want” and “what it costs.”</p>
+<p>Neither path is inherently cheaper on paper. The practical difference shows up in change orders: separated design and construction tends to generate more of them once real structural findings hit the site.</p>
+<h2>Is a DIY second storey addition actually cheaper in Calgary?</h2>
+<p>Not in any way that survives contact with Calgary’s permit process. A second storey addition is structural work requiring a licensed building permit, and the City reviews framing, foundation connections, and load calculations regardless of who swings the hammer.</p>
+<p>Homeowners sometimes save on labour by handling demolition or finish carpentry themselves, which can trim a modest percentage off the total. But the structural work itself, framing, foundation modification, roof tie-in, needs a general contractor or qualified trades carrying proper insurance, and most municipal inspectors expect stamped engineering drawings for load-bearing changes. DIY structural work without that oversight risks a failed inspection, a stop-work order, or a foundation problem that costs far more to fix after the fact than it would have to do right initially.</p>
+<p>Where DIY genuinely helps is on non-structural scope: painting, some flooring, or landscaping cleanup after the build. Trying to DIY the framing or foundation portion of a second storey addition isn’t a cost-saving strategy in Calgary. It’s a liability that a licensed <a href="https://stateracontracting.com/blog/load-bearing-wall-removal-calgary" target="_blank" rel="noopener">load-bearing wall removal</a> process is specifically designed to catch and correct.</p>
+<h2>What energy efficiency upgrades add to your second storey budget?</h2>
+<p>Building a new second storey to current Alberta code means better insulation and air sealing than most existing main floors were built with, and that’s worth factoring in as a cost line rather than an afterthought.</p>
+<p>Upgraded wall and attic insulation, high-performance windows, and improved air barrier detailing typically add a modest premium over minimum code compliance, often in the range of a few thousand dollars depending on square footage and window count. The payoff shows up in lower heating bills in a city where winter heating load matters, and in a more comfortable second floor overall, since undersized insulation is one of the most common complaints in older Calgary additions built to previous code cycles.</p>
+<p>Triple-pane windows over standard double-pane, and higher R-value spray foam in tight roof assemblies, are the two upgrades that most often get requested and most often get cut when budgets tighten. If contingency allows, prioritizing insulation and air sealing over cosmetic upgrades tends to deliver better long-term value on a second storey specifically, since that’s the part of the house most exposed to Calgary’s temperature swings.</p>
+<h2>Trade-offs we’ve seen on Calgary second storey projects</h2>
+<p>Matching existing exterior finishes exactly always costs more than accepting a visible transition line, and most homeowners regret cutting that corner more than they regret the extra spend. For a full second storey versus a partial, lot coverage and setback rules often decide it before budget does. A young family on a standard Calgary lot usually gets more value from a full second storey with two bedrooms than from a cramped partial addition that solves today’s problem but not next year’s.</p>
+<blockquote>
+<p>“The corner I see homeowners regret cutting almost every time is exterior matching. It’s a few thousand dollars upfront, but that seam is the first thing you notice pulling into the driveway for the next twenty years.”</p>
+<p>— Patrick</p>
+</blockquote>
+<h2>Ready to get a real quote on your second storey addition?</h2>
+<p>Every range in this guide gives you a starting point, but your actual number depends on your foundation, your lot, and your exterior finish choices, and that only comes from someone standing in your basement and on your roof. Statera Contracting handles second-storey additions across Calgary and nearby communities including Okotoks, Cochrane, and Airdrie, working design and construction under one contract so you get a real number instead of a range that grows once permits are filed.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>A site visit typically covers your existing foundation condition, roof structure, and how your lot’s zoning affects height and setback limits, so you walk away with a scope that matches what the City will actually approve. Bring your lot survey and any past renovation permits if you have them; it speeds up the structural conversation considerably. If your addition includes new bathroom or kitchen space upstairs, those get scoped into the same quote rather than treated as a separate project later. Request a quote through Statera’s <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions page</a> to get a site visit booked and a real budget built around your specific house, not a citywide average.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/development/home-building/additions.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary — additions (building permits and fees)</a></li>
+<li><a href="https://www.renovateindex.ca/home-addition-cost-calgary" rel="nofollow noopener noreferrer" target="_blank">RenovateIndex — home addition cost Calgary</a></li>
+<li><a href="https://renoplanner.ai/renovation-cost/addition/calgary" rel="nofollow noopener noreferrer" target="_blank">Renoplanner</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/adding-a-second-story-to-a-house" target="_blank" rel="noopener">Adding a second storey to your house: Canada planning guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/putting-an-addition-on-a-house-calgary-homeowners-guide" target="_blank" rel="noopener">Putting an addition on a house: Calgary homeowner’s guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">Home Additions Calgary | Room Additions &amp; Extensions | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
