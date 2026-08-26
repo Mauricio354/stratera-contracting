@@ -12294,6 +12294,130 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "heated-bathroom-floor-cost-calgary",
+    title: "Heated bathroom floor cost in Calgary: what to budget for",
+    excerpt:
+      "A heated bathroom floor in Calgary typically runs $8 to $25 per square foot installed, which puts a standard 50 square foot bathroom somewhere between $400 and $1,250 for materials and labour.",
+    date: "2026-08-25",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787398883127_Hands-installing-heated-floor-mat-in-bathroom.jpeg",
+    coverAlt: "Heated bathroom floor cost in Calgary: what to budget for",
+    category: "Industry News",
+    readingTime: "7 min read",
+    metaTitle: "Heated bathroom floor cost in Calgary: what to budget for",
+    metaDescription:
+      "Discover the true costs of heated bathroom floors in Calgary, including installation and essential extras, to budget effectively for your project.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A heated bathroom floor in Calgary typically runs <strong>$8 to $25 per square foot installed</strong>, which puts a standard <a href="https://calgaryconstructionnetwork.com/construction-brain/what-is-the-average-cost-of-heated-bathroom-floor-in-calgary-e3ac3d" rel="nofollow noopener noreferrer" target="_blank">50 square foot bathroom</a> somewhere between $400 and $1,250 for materials and labour. For a single bathroom retrofit, electric mats are the practical choice for most Calgary homeowners. They cost less upfront, tie into the existing electrical panel more easily, and heat up fast on a cold January morning.</p>
+<p>That headline number doesn’t include everything. Before you commit to a budget, plan for these extras:</p>
+<ul>
+<li>A dedicated thermostat, usually $150 to $400</li>
+<li>Electrical work for a new circuit, plus a licensed electrician</li>
+<li>A City of Calgary electrical permit</li>
+<li>Floor prep and tile installation, which often costs more than the heating system itself</li>
+</ul>
+<h2>Key Takeaways</h2>
+<p>Electric radiant floors installed at typical rates per square foot are the practical choice for most Calgary bathroom renovations, with permits and panel capacity driving the biggest cost swings.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Budget by size</td>
+<td>A standard 50 sq ft bathroom typically costs a moderate amount installed for electric heating, depending on materials and labour.</td>
+</tr>
+<tr>
+<td>Choose electric for retrofits</td>
+<td>Electric mats cost less to install and heat up faster than hydronic for single-bathroom jobs.</td>
+</tr>
+<tr>
+<td>Plan for extras</td>
+<td>Budget separately for a thermostat, dedicated circuit, electrical permit, and tile prep.</td>
+</tr>
+<tr>
+<td>Check panel capacity first</td>
+<td>A full service panel may need an upgrade before a new heated floor circuit can go in.</td>
+</tr>
+<tr>
+<td>Demand a written scope</td>
+<td>A complete quote lists materials, breaker size, thermostat model, permit handling, and warranty.</td>
+</tr>
+<tr>
+<td>Hire licensed and insured</td>
+<td>Statera Contracting offers licensed, WCB-compliant installation with permit filing and trade coordination included.</td>
+</tr>
+</tbody>
+</table>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#bathroom-floor-heating-prices-calgary-cost-by-size-and-system">Bathroom floor heating prices Calgary: cost by size and system</a></li>
+<li><a href="#what-will-it-cost-to-run-a-heated-bathroom-floor-in-calgary">What will it cost to run a heated bathroom floor in Calgary?</a></li>
+<li><a href="#questions-to-ask-before-you-sign-a-heated-floor-quote">Questions to ask before you sign a heated floor quote</a></li>
+<li><a href="#why-licensed-contractors-matter-for-this-job">Why licensed contractors matter for this job</a></li>
+<li><a href="#get-a-statera-contracting-quote-for-your-heated-bathroom-floor">Get a Statera Contracting quote for your heated bathroom floor</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Bathroom floor heating prices Calgary: cost by size and system</h2>
+<p>The per-square-foot number only tells part of the story. Bathroom size, system type, and how much demolition is involved all shift your final invoice.</p>
+<ol>
+<li><strong>Small bathroom (30 to 40 sq ft).</strong> Electric mats installed run roughly $300 to $850, largely because smaller rooms mean less material but the same minimum labour charge for wiring and thermostat setup.</li>
+<li><strong>Standard bathroom (50 sq ft).</strong> This is the benchmark most Calgary cost guides use, landing between $400 and $1,250 depending on tile complexity and whether the electrical panel has spare capacity.</li>
+<li><strong>Large or ensuite bathroom (80 sq ft or more).</strong> Expect $650 to $2,000 for electric systems, and this is where hydronic starts to make financial sense if the home already has a boiler loop nearby.</li>
+</ol>
+<p>Canadian installers generally price electric radiant heating between <a href="https://www.prowavesolutions.ca/ultimate-guide-to-radiant-floor-heating-in-canada/" rel="nofollow noopener noreferrer" target="_blank">$12 and $20 per square foot</a> installed, with hydronic systems running $15 to $25 per square foot. Hydronic makes more sense for new construction or larger, connected spaces, since running a dedicated boiler line to heat one bathroom rarely pays off. Electric materials alone, before labour, cost about <a href="https://www.warmup.ca/blog/electric-vs-hydronic-radiant-floor-heating-systems" rel="nofollow noopener noreferrer" target="_blank">$7.90 to $15 per square foot</a>, which is why the labour and prep work often make up the bigger half of your quote.</p>
+<p>Retrofit jobs cost more than new builds. Pulling out existing tile, checking the subfloor, and working around a fixed layout adds <a href="https://vancouvergeneralcontractors.com/heated-bathroom-floors-vancouver/" rel="nofollow noopener noreferrer" target="_blank">demolition and access costs</a> that a from-scratch bathroom renovation doesn’t carry. If you’re already planning a bathroom overhaul, adding heated floors during that project is almost always cheaper than doing it as a standalone retrofit later.</p>
+<h2>What will it cost to run a heated bathroom floor in Calgary?</h2>
+<p>Operating cost depends more on how you use the system than which system you buy. Electric floors draw more power per hour than hydronic loops, but most Calgary homeowners only run them for a few hours a day, typically before work or school and again in the evening. That scheduling habit matters more than the wattage rating printed on the box.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787398875696_Close-up-of-bathroom-thermostat-for-heated-floors.jpeg" alt="Close-up of bathroom thermostat for heated floors" /></p>
+<p>A programmable or smart thermostat set to warm the floor for an hour before your alarm, then shut off during the workday, keeps electric systems affordable to run even at Alberta’s variable electricity rates; learn <a href="https://rareplumbing.london/services/underfloor-heating" target="_blank" rel="nofollow noopener noreferrer">practical guidance on thermostat programming and underfloor heating performance</a>. Pairing the system with insulation beneath the heating element also cuts run time significantly, since less heat escapes downward into the subfloor and joists below.</p>
+<p>Hydronic systems tend to cost less per hour to run once installed, because hot water holds heat more efficiently than electric resistance wire. But that saving rarely offsets the higher installation cost for a single bathroom. If you’re heating one room, not a whole main floor, electric almost always wins on total cost of ownership over a typical 10 to 15 year floor lifespan.</p>
+<p><strong>Pro Tip:</strong> <em>Set your thermostat’s schedule mode once during installation, not manually every day. A one-hour morning warm-up before you shower costs a fraction of what leaving the floor on all day does, and most homeowners forget to turn it off.</em></p>
+<h2>Questions to ask before you sign a heated floor quote</h2>
+<p>A vague quote is the biggest warning sign in this business. A complete written estimate should spell out the materials, the circuit and breaker size, the thermostat model, the tile or floor prep scope, who’s handling the permit, and what warranty applies. If a quote skips any of those, ask why before you sign anything.</p>
+<p>Ask these questions before hiring anyone for the job:</p>
+<ul>
+<li>Are you a licensed electrician, or will you subcontract one for the circuit work?</li>
+<li>Does the quote include the City of Calgary electrical permit, or is that on me?</li>
+<li>What’s the breaker and panel capacity, and does my home have room for a new dedicated circuit?</li>
+<li>Who coordinates the tile installer so the heating cable or mat isn’t damaged during setup?</li>
+<li>What warranty covers the heating element versus the tile work on top of it?</li>
+</ul>
+<p>Watch for a few red flags specifically. A contractor who brushes off the <a href="https://www.calgary.ca/development/home-building/trades-permits.html" rel="nofollow noopener noreferrer" target="_blank">permit question</a> is a serious problem. Skipping the permit can complicate your home insurance and create issues at resale, since buyers’ inspectors do check for unpermitted electrical work. Also be cautious of quotes that don’t mention panel capacity at all. If your existing panel is already near capacity, adding a heated floor circuit might mean a panel upgrade, which adds real cost that should show up before the work starts, not after.</p>
+<h2>Why licensed contractors matter for this job</h2>
+<p>I’ve watched enough Calgary bathroom projects go sideways to know the heating mat is rarely the hard part. Statera Contracting handles the trade coordination that trips homeowners up: tile and mat sequencing, <a href="https://www.stateracontracting.com/" target="_blank" rel="noopener">electrical panel</a> checks, and permit filing. A licensed, insured, WCB-compliant contractor protects your resale value and keeps the manufacturer’s warranty intact, something an uninsured install can quietly void.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Get a Statera Contracting quote for your heated bathroom floor</h2>
+<p>Statera Contracting is the more straightforward route to a heated bathroom floor in Calgary than piecing the job together yourself through separate electricians, tile setters, and permit runners. As a licensed, insured, and WCB-compliant Calgary renovation contractor, Statera coordinates every trade under one fixed-price contract, so you’re not the one chasing down whether the electrician talked to the tile installer.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>A quote from Statera starts with an on-site visit to check your panel capacity, room layout, and existing tile condition, followed by a written scope covering the heating system, thermostat, permit handling, and floor prep. That written scope is exactly what the red-flag section above tells you to demand from any contractor. If your bathroom project has grown into a full <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovation</a>, Statera can fold the heated floor into that larger scope so you get one quote and one schedule instead of coordinating multiple invoices. Request a site visit through Statera’s bathroom renovation page to get a written estimate before you commit to a system.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://calgaryconstructionnetwork.com/construction-brain/what-is-the-average-cost-of-heated-bathroom-floor-in-calgary-e3ac3d" rel="nofollow noopener noreferrer" target="_blank">What is the average cost of heated bathroom floor in Calgary in 2026? | Calgary Construction Network</a></li>
+<li><a href="https://www.prowavesolutions.ca/ultimate-guide-to-radiant-floor-heating-in-canada/" rel="nofollow noopener noreferrer" target="_blank">Ultimate guide to radiant floor heating in Canada</a></li>
+<li><a href="https://www.warmup.ca/blog/electric-vs-hydronic-radiant-floor-heating-systems" rel="nofollow noopener noreferrer" target="_blank">Electric vs hydronic radiant floor heating systems (Warmup Canada)</a></li>
+<li><a href="https://www.calgary.ca/development/home-building/trades-permits.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary — trades and permits for home building</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">Bathroom Renovation Calgary 2026 Cost Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-to-renovate-a-small-bathroom" target="_blank" rel="noopener">Cost to renovate a small bathroom in Calgary: 2026 guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">Bathroom remodel ideas: your 2026 Alberta guide | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
