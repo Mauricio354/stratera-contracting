@@ -12418,6 +12418,160 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "load-bearing-wall-removal-cost-calgary",
+    title: "Load-bearing wall removal cost in Calgary: 2026 price guide",
+    excerpt:
+      "Most Calgary homeowners pay a moderate to high amount for a full load-bearing wall removal, and the final total can increase significantly due to longer spans, two-storey loads, or unexpected repairs.",
+    date: "2026-08-26",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787484881943_Worker-installing-steel-support-beam-in-wall.jpeg",
+    coverAlt: "Load-bearing wall removal cost in Calgary: 2026 price guide",
+    category: "Industry News",
+    readingTime: "9 min read",
+    metaTitle: "Load-bearing wall removal cost in Calgary: 2026 price guide",
+    metaDescription:
+      "Discover the costs of removing a load-bearing wall in Calgary. Learn about essential fees, permits, and what to expect for your project.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Most Calgary homeowners pay a moderate to high amount for a full load-bearing wall removal, and the final total can increase significantly due to longer spans, two-storey loads, or unexpected repairs. That figure covers structural engineer fees, the City of Calgary permit, beam materials (steel or LVL), demolition and installation labour, temporary shoring, and finishing work like drywall, paint, and flooring repair.</p>
+<p>The City of Calgary requires <a href="https://www.permitpaths.com/permits/calgary/scenarios/load-bearing-wall-removal" rel="nofollow noopener noreferrer" target="_blank">stamped structural drawings from a licensed Professional Engineer</a> before it will approve a permit for this kind of alteration. You cannot skip this step, and pricing your project without it means guessing.</p>
+<p>What that $5,000 to $14,000+ range covers:</p>
+<ul>
+<li>Structural engineer assessment, calculations, and stamped drawings</li>
+<li>City of Calgary building permit fees</li>
+<li>Beam materials (steel or laminated veneer lumber)</li>
+<li>Demolition, temporary shoring, and beam installation labour</li>
+<li>Drywall, paint, trim, and flooring repair after the structural work</li>
+</ul>
+<p>Your first move should be booking a P.Eng. site visit or reaching out to a contractor like Statera Contracting for a free consultation, before you collect a single contractor quote.</p>
+<h2>Key Takeaways</h2>
+<p>Load-bearing wall removal in Calgary costs $5,000 to $14,000 or more, and requires a P.Eng.-stamped structural drawing before the City will issue a permit.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>All-in cost range</td>
+<td>Budget $5,000 to $14,000 or more, covering engineering, permit, beam, labour, shoring, and finishing.</td>
+</tr>
+<tr>
+<td>Engineer comes first</td>
+<td>Book a P.Eng. site visit before requesting contractor quotes to get accurate pricing.</td>
+</tr>
+<tr>
+<td>Permit is mandatory</td>
+<td>The City of Calgary requires stamped drawings for any load-bearing wall alteration.</td>
+</tr>
+<tr>
+<td>Pre-1990 homes need asbestos checks</td>
+<td>Arrange testing early to avoid permit delays or a stop-work order mid-demolition.</td>
+</tr>
+<tr>
+<td>Statera Contracting coordinates the process</td>
+<td>Statera manages engineer coordination, permit handling, and finishing scope on Calgary wall removal projects.</td>
+</tr>
+</tbody>
+</table>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#cost-of-wall-removal-in-calgary-line-item-breakdown">Cost of wall removal in Calgary: line-item breakdown</a></li>
+<li><a href="#does-removing-a-load-bearing-wall-need-a-permit-in-calgary">Does removing a load-bearing wall need a permit in Calgary?</a></li>
+<li><a href="#what-are-the-steps-to-remove-a-load-bearing-wall">What are the steps to remove a load-bearing wall?</a></li>
+<li><a href="#how-long-does-load-bearing-wall-removal-take-in-calgary">How long does load-bearing wall removal take in Calgary?</a></li>
+<li><a href="#why-local-coordination-between-engineer-permit-and-contractor-matters">Why local coordination between engineer, permit, and contractor matters</a></li>
+<li><a href="#what-the-cost-calculator-cant-tell-you">What the cost calculator can’t tell you</a></li>
+<li><a href="#ready-to-plan-your-calgary-wall-removal">Ready to plan your Calgary wall removal?</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Cost of wall removal in Calgary: line-item breakdown</h2>
+<p>Every wall removal budget is built from the same five components, but the size of each piece depends on your specific wall, your house’s age, and how far you’re pushing the span. Here’s how the money actually breaks down.</p>
+<ol>
+<li><strong>Structural engineer assessment and drawings.</strong> A <a href="https://www.calgarystructuralengineers.ca/blog/do-i-need-a-structural-engineer-to-remove-a-wall-in-my-calgary-home" rel="nofollow noopener noreferrer" target="_blank">basic wall removal assessment in Calgary typically starts around $500 to $1,500</a>, depending on complexity. Fees climb when the engineer needs multiple site visits, when the wall carries load from two storeys instead of one, or when the existing framing shows signs of prior amateur modification.</li>
+<li><strong>Permit fees.</strong> City of Calgary permit costs for interior structural alterations are modest compared to construction costs themselves, but the paperwork behind them, especially <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/permit-checklists/home-renovation-and-basement-permit-checklist.pdf" rel="nofollow noopener noreferrer" target="_blank">asbestos documentation for homes built before 1990</a>, can add real time to your timeline if you don’t sort it early.</li>
+<li><strong>Beam materials.</strong> Your engineer will spec either steel or laminated veneer lumber (LVL). Steel costs more per metre than LVL, but for longer spans it’s often structurally necessary rather than optional, and that decision belongs to the P.Eng., not your contractor’s preference.</li>
+<li><strong>Labour and temporary shoring.</strong> Demolition and beam installation labour typically runs a meaningful share of your total, and temporary shoring, the framework that holds your ceiling up while the old wall comes out and the new beam goes in, is a required safety step, not an upsell.</li>
+<li><strong>Finishing.</strong> Drywall patching, paint, trim, and flooring repair around the new beam location round out the invoice. A ceiling-height beam that needs to be boxed in and painted costs more to finish than one tucked entirely into the floor joists above.</li>
+</ol>
+<p>A short-span interior wall removal on a single storey, with a straightforward LVL beam and a same-day demolition and install, tends to land near the lower end of that $5,000 range. A longer-span or two-storey bearing wall, one carrying load from an upper floor and requiring a steel beam with additional shoring points, pushes well past $10,000 once you add engineering complexity and extended labour time. Your specific number depends entirely on what your engineer specifies once they see the wall in person.</p>
+<h2>Does removing a load-bearing wall need a permit in Calgary?</h2>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787484886021_Calgary-building-permit-office-entrance-exterior.jpeg" alt="Calgary building permit office entrance exterior" /></p>
+<p>Yes. The City of Calgary treats any load-bearing wall alteration as structural work requiring a building permit, and that permit application almost always needs stamped structural drawings from a P.Eng. attached to it. There’s no informal path around this for a genuinely load-bearing wall.</p>
+<p>Here’s what you’ll typically need on file before the City signs off:</p>
+<ul>
+<li>A permit application submitted through the City’s process (Apply.calgary.ca handles most residential permit submissions)</li>
+<li>Stamped calculations and beam sizing from your engineer</li>
+<li>Bearing detail drawings showing exactly how the new load transfers to the foundation or supporting structure below</li>
+<li>Asbestos assessment documentation if your home was built before 1990</li>
+</ul>
+<p>Your engineer’s package typically includes more than just a beam size. It documents the full load path, notes the required shoring sequence for the contractor, and flags inspection points the City will want to see before drywall goes back up.</p>
+<p><strong>Pro Tip:</strong> <em>Get your engineer’s stamped drawings finalized before you ask contractors for quotes. Without them, every bid you receive is a guess, and guesses rarely match what the job actually costs once real numbers are attached to beam size and shoring.</em></p>
+<h2>What are the steps to remove a load-bearing wall?</h2>
+<p>Removing a load-bearing wall follows a set sequence, and skipping ahead almost always costs you time later.</p>
+<ol>
+<li><strong>Book a P.Eng. site visit.</strong> The engineer inspects the wall, checks for existing sagging or prior modifications, and traces how the load actually travels down through the structure. This step tells you what you’re really dealing with.</li>
+<li><strong>Get stamped drawings and apply for the permit.</strong> With calculations in hand, you or your contractor submits the permit application to the City of Calgary. This is also the point to arrange asbestos testing if your home predates 1990.</li>
+<li><strong>Schedule shoring, demolition, and beam installation.</strong> Your contractor builds temporary shoring first, removes the wall, sets the new beam per the stamped sequence, and calls for structural inspection before anything gets closed in.</li>
+<li><strong>Finish and get final sign-off.</strong> Drywall, paint, and flooring repair happen last, followed by a final building inspection that closes out the permit.</li>
+</ol>
+<p><strong>Pro Tip:</strong> <em>If your house was built before 1990, book asbestos testing during step one, not step three. Finding out mid-demolition means a stop-work order while you scramble for a clearance report.</em></p>
+<h2>How long does load-bearing wall removal take in Calgary?</h2>
+<p>A straightforward single-wall project usually runs from initial assessment through permit approval, then a few days on-site for demolition and beam installation, followed by a couple of weeks of finishing work before completion.</p>
+<p>The delays that actually eat your timeline rarely come from the demolition itself. They come from:</p>
+<ul>
+<li>Permit processing backlogs at the City</li>
+<li>Asbestos paperwork that wasn’t arranged early</li>
+<li>Structural surprises discovered once the wall opens up (older Calgary bungalows sometimes hide double top plates or shifted bearing points that force a mid-project engineering revision)</li>
+<li>Long lead times on fabricated steel beams for longer spans</li>
+</ul>
+<p>Poor shoring or drawings that skip a detail are the two biggest risks during the physical work, and both trace back to the same fix: book the engineer first and follow the stamped sequence exactly. Budget a reasonable contingency on top of your estimate, especially in an older home where the walls behind the drywall are still an unknown quantity.</p>
+<h2>Why local coordination between engineer, permit, and contractor matters</h2>
+<p>Statera Contracting handles residential and commercial renovations across Calgary, including the kind of structural wall removals that open up a kitchen or basement floor plan, and the company is licensed, insured, and WCB compliant for that work. What actually separates a smooth project from a stressful one is coordination: getting the P.Eng., the permit application, and the contractor’s schedule lined up in the right order instead of racing them against each other.</p>
+<blockquote>
+<p>Booking the structural engineer before collecting contractor quotes <a href="https://www.stateracontracting.com/blog/load-bearing-wall-removal-calgary" target="_blank" rel="noopener">reduces scope uncertainty, shortens quoting time, and lowers the risk of permit resubmissions</a>, because the contractor is pricing a defined beam and sequence rather than a guess.</p>
+</blockquote>
+<p>Before hiring anyone for this kind of work, ask directly:</p>
+<ul>
+<li>Does the site visit include coordination with my engineer, or am I managing that handoff myself?</li>
+<li>What warranty applies to the structural work versus the finishing work?</li>
+<li>How do you sequence inspections so the permit doesn’t stall mid-project?</li>
+</ul>
+<h2>What the cost calculator can’t tell you</h2>
+<p>Every cost breakdown in this guide is honest, but it’s also incomplete on purpose, because the real variable isn’t the price of a steel beam. It’s what’s hiding inside your wall.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787484935484_What-the-cost-calculator-can-t-tell-you-overview-diagram.jpeg" alt="What the cost calculator can't tell you — overview diagram" /></p>
+<p>The conventional advice tells homeowners to collect three contractor quotes and compare. That’s backwards for this specific job. A contractor quoting a load-bearing wall removal without stamped drawings in hand is quoting a guess dressed up as a number, and guesses vary wildly because nobody has actually confirmed the beam size, the bearing points, or the shoring sequence yet. The engineer’s report isn’t a formality you check off before the “real” work starts. It’s the document that turns three wildly different contractor bids into one accurate number.</p>
+<p>What I’d prioritize first, ahead of comparing quotes or picking finishes, is getting a P.Eng. into your house. Once you have stamped calculations, pricing conversations get short and specific instead of long and speculative. Homes built before 1990 carry one more early step: arrange the asbestos check before you fall in love with a demolition date, because that paperwork stalls faster than almost anything else in this process.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Ready to plan your Calgary wall removal?</h2>
+<p>Statera Contracting is the alternative to juggling an engineer, a permit application, and a contractor as three separate relationships. For a Calgary homeowner opening up a kitchen or basement, that separation is usually where projects lose weeks: the engineer isn’t talking to the contractor, and the permit sits waiting on a document nobody chased down early.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Statera Contracting coordinates the P.Eng. site visit, the City of Calgary permit application, and the contractor schedule as one connected process, then carries the same team through demolition, beam installation, and finishing. If your renovation involves opening a wall between the kitchen and living room, that structural work often runs alongside a broader <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation</a>, and having one contractor manage both scopes means fewer handoffs and fewer surprises on your invoice.</p>
+<p>If your wall removal is part of a bigger basement or suite project, the same coordinated approach applies to <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement and living space renovations</a> as well. Book a free consultation with Statera Contracting to get a P.Eng. assessment scheduled and a real, itemized number for your specific wall.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.permitpaths.com/permits/calgary/scenarios/load-bearing-wall-removal" rel="nofollow noopener noreferrer" target="_blank">Removing a Load-Bearing Wall in Calgary - PermitPaths</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/permit-checklists/home-renovation-and-basement-permit-checklist.pdf" rel="nofollow noopener noreferrer" target="_blank">Home renovation and basement permit checklist — City of Calgary</a></li>
+<li><a href="https://www.calgarystructuralengineers.ca/blog/do-i-need-a-structural-engineer-to-remove-a-wall-in-my-calgary-home" rel="nofollow noopener noreferrer" target="_blank">Do I need a structural engineer to remove a wall in my Calgary home? — Calgary Structural Engineers</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/load-bearing-wall-removal-calgary" target="_blank" rel="noopener">Load-bearing wall removal in Calgary: permits, costs and process | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/window-replacement-cost-calgary" target="_blank" rel="noopener">Window replacement cost Calgary: what homeowners should budget | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">Kitchen remodel cost in Calgary: 2026 Alberta guide | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
