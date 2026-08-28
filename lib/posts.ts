@@ -12572,6 +12572,171 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "egress-window-cost-calgary",
+    title: "Egress window cost Calgary: real 2026 price bands",
+    excerpt:
+      "In Calgary, expect roughly $1,500–$3,000 for an above-grade window swap, $4,500–$8,000 for a standard below-grade cut-in with a new window well, and $8,000 to $15,000 or more once you hit foundation or access complications.",
+    date: "2026-08-27",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787575966008_Contractor-measuring-basement-wall-for-egress-window.jpeg",
+    coverAlt: "Egress window cost Calgary: real 2026 price bands",
+    category: "Industry News",
+    readingTime: "10 min read",
+    metaTitle: "Egress window cost Calgary: real 2026 price bands",
+    metaDescription:
+      "Discover egress window costs in Calgary for 2026, from $1,500 for above-grade swaps to $15,000 for complex below-grade installations.",
+    content: [
+      {
+        type: "html",
+        html: `<p>In Calgary, expect roughly $1,500–$3,000 for an above-grade window swap, $4,500–$8,000 for a standard below-grade cut-in with a new window well, and $8,000 to $15,000 or more once you hit <a href="https://www.homeowner.ca/a/adding-egress-windows-to-your-basement-costs-and-considerations" rel="nofollow noopener noreferrer" target="_blank">foundation or access complications</a>. A City of Calgary building permit is mandatory any time you’re creating a new opening or enlarging an existing one, with fees starting around $333.84 including the Safety Codes Council levy.</p>
+<p>Before you call a contractor, know the code minimums the finished opening must meet: a minimum clear opening area that provides sufficient space for emergency egress, minimum dimensions for width and height, adequate window well projection for clear access, and a maximum sill height to ensure ease of exit.</p>
+<p><strong>Quick reference:</strong> a below-grade retrofit with a new well is the most common project Calgary homeowners take on, and it typically lands between $4,500 and $8,000 depending on your foundation type and how deep the well has to go.</p>
+<h2>Key Takeaways</h2>
+<p>Calgary egress costs split cleanly into three project types, and code compliance depends on hitting exact minimums, not general “egress-style” windows.</p>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Price bands by project type</td>
+<td>Above-grade swaps run $1,500–$3,000; standard below-grade retrofits run $4,500–$8,000; complex jobs run $8,000–$15,000+.</td>
+</tr>
+<tr>
+<td>Permit is mandatory</td>
+<td>City of Calgary permits start around $333.84 and are required for any new or enlarged egress opening.</td>
+</tr>
+<tr>
+<td>Code minimums are strict</td>
+<td>Openings need 0.35 m² clear area, no dimension under 380 mm, and wells with 760 mm clear projection.</td>
+</tr>
+<tr>
+<td>Soil and foundation drive cost</td>
+<td>Expansive clay, block foundations, and rock or rubble push projects toward the higher end of each band.</td>
+</tr>
+<tr>
+<td>Statera manages the full process</td>
+<td>Statera Contracting handles permit filing, excavation coordination, and finishing under one fixed-price contract.</td>
+</tr>
+</tbody>
+</table>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#egress-window-cost-calgary-breakdown-by-project-type">Egress window cost Calgary breakdown by project type</a></li>
+<li><a href="#what-does-calgary-code-require-for-a-legal-egress-window">What does Calgary code require for a legal egress window?</a></li>
+<li><a href="#how-much-does-an-egress-window-permit-cost-in-calgary">How much does an egress window permit cost in Calgary?</a></li>
+<li><a href="#what-happens-on-site-during-an-egress-window-installation">What happens on-site during an egress window installation?</a></li>
+<li><a href="#what-drives-egress-window-prices-higher-in-calgary">What drives egress window prices higher in Calgary</a></li>
+<li><a href="#should-you-hire-a-licensed-contractor-for-an-egress-window">Should you hire a licensed contractor for an egress window?</a></li>
+<li><a href="#why-realistic-budgeting-beats-a-single-price-number">Why realistic budgeting beats a single price number</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Egress window cost Calgary breakdown by project type</h2>
+<p>Not every egress project is the same job wearing a different price tag. The three categories below cover almost every situation Statera Contracting sees across Calgary basements.</p>
+<ol>
+<li>
+<p><strong>Above-grade replacement.</strong> If your basement already has a window opening above grade level that’s just undersized or in rough shape, you’re swapping the unit rather than cutting new concrete. This runs <strong>$1,500 to $3,000</strong> and usually wraps in a day or two, since there’s no excavation or well construction involved.</p>
+</li>
+<li>
+<p><strong>Standard below-grade retrofit.</strong> This is the job most people picture when they think “egress window”: cutting a new opening through the foundation, excavating for a window well, installing drainage, and finishing the interior. Calgary contractor pricing puts this at <strong>$4,500 to $8,000</strong>, with the DryBuild cost breakdown citing a similar $3,500 to $8,000 range for a standard cut-in. Expect two to four days on-site plus permit lead time.</p>
+</li>
+<li>
+<p><strong>Complex retrofit.</strong> Rock, rubble fill, a block foundation instead of poured concrete, tight side-yard access, or a deep basement all push a project into this tier. Costs typically run <strong>$8,000 to $15,000+</strong>, and it’s worth budgeting an extra 10 to 15% contingency here since unknowns below grade rarely reveal themselves until excavation starts.</p>
+</li>
+</ol>
+<p>Within any of these bands, the line items break down roughly the same way: the window unit itself ($400 to $1,200 depending on material), concrete cutting ($800 to $2,000), excavation and well installation ($1,000 to $3,500), structural lintel work where needed ($500 to $1,500), drainage and waterproofing ($500 to $1,200), and interior trim and finishing ($300 to $1,000). A <a href="https://stateracontracting.com/blog/window-replacement-cost-calgary" target="_blank" rel="noopener">window replacement budget</a> built around these categories gives you a far more useful number than a single average price pulled off a national website.</p>
+<h2>What does Calgary code require for a legal egress window?</h2>
+<p>The <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/egress-window-guidelines.pdf" rel="nofollow noopener noreferrer" target="_blank">National Building Code (Alberta Edition)</a>, Division B, 9.9.10.1, sets the baseline, and the City of Calgary’s own egress guidelines apply it directly to basement renovations. The rules aren’t complicated, but they’re strict about the numbers:</p>
+<ul>
+<li>Minimum unobstructed opening: 0.35 m² (3.77 sq ft)</li>
+<li>Minimum dimension in any direction: 380 mm (about 15 inches)</li>
+<li>Maximum sill height above the finished floor: 1.5 m</li>
+<li>Minimum clear projection for a window well: 760 mm</li>
+</ul>
+<p>“Unobstructed opening” is the phrase that trips people up. It means the window has to open fully, without tools, security bars, or a stuck sash reducing the usable space. If you’re eyeing a decorative grille or a fixed security screen, check it against this standard before you buy, because <a href="https://albertahealthservices.ca/assets/wf/eph/wf-eh-emergency-egress.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta Health Services guidance</a> treats egress as a life-safety measure first and a code checkbox second. Inspectors physically measure the installed opening against your permit drawings, so a window that’s technically “egress-rated” on the box can still fail if the frame or well depth doesn’t match what was approved. Our own <a href="https://stateracontracting.com/blog/egress-window-size-alberta" target="_blank" rel="noopener">Alberta egress size guide</a> walks through the exact measurements inspectors check on-site.</p>
+<h2>How much does an egress window permit cost in Calgary?</h2>
+<p>A building permit is required for any new or enlarged egress opening, no exceptions. Fees start around <strong>$333.84</strong>, which includes the Safety Codes Council levy, though your total depends on the declared construction value of the project according to the city’s fee schedule.</p>
+<p>Your submission package typically needs:</p>
+<ul>
+<li>A scaled elevation drawing showing the window opening and well dimensions</li>
+<li>Structural notes or engineering if you’re cutting more than 25% of the foundation wall</li>
+<li>Contractor licensing information</li>
+</ul>
+<p>Processing usually takes one to three weeks depending on the season, and most delays trace back to incomplete drawings or a missing structural review on larger openings. Confirm with your contractor whether permit filing is included in their quote. Many Calgary firms bundle it into their pricing, but not all do, and finding out after the fact is an unwelcome surprise.</p>
+<h2>What happens on-site during an egress window installation?</h2>
+<p>The full sequence, from first phone call to final sign-off, usually runs two to four weeks for a standard retrofit:</p>
+<ol>
+<li><strong>Site visit and quote</strong> (day 1): a contractor assesses your foundation type, soil, and access before pricing the job.</li>
+<li><strong>Permit drawings and submission</strong> (3 to 10 days): scaled plans go to the city; approval timing varies by season.</li>
+<li><strong>Excavation and well installation</strong> (1 to 2 days): the exterior dig happens once weather and permit approval line up.</li>
+<li><strong>Concrete cutting and lintel work</strong> (1 day): the new opening is cut and structurally supported.</li>
+<li><strong>Window installation</strong> (half a day to a full day): unit goes in, sealed and secured.</li>
+<li><strong>Drainage and waterproofing</strong> (1 day): a drain tied into your weeping tile or a sump system keeps the well dry.</li>
+<li><strong>Interior finishing</strong> (1 to 3 days): trim, drywall repair, and paint around the new opening.</li>
+<li><strong>Final inspection</strong>: the city verifies the finished opening matches approved drawings.</li>
+</ol>
+<p><strong>Pro Tip:</strong> <em>Book your egress project for late spring through early fall if you can. Calgary’s frozen ground from November through March slows excavation significantly and can add days to a schedule that would otherwise take a week.</em></p>
+<h2>What drives egress window prices higher in Calgary</h2>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787575945574_Hands-shoveling-soil-during-basement-excavation.jpeg" alt="Hands shoveling soil during basement excavation" /></p>
+<p>Soil is the single biggest wildcard. Calgary sits on expansive clay in many neighbourhoods, which swells and shifts with moisture and can complicate both excavation and long-term well drainage. A poured concrete foundation cuts cleaner than a block foundation, and buried utilities or an unexpected layer of rock or old construction rubble can add real labour hours nobody quoted for.</p>
+<p>Material choices matter too:</p>
+<ul>
+<li>Vinyl window units cost less upfront than fibreglass or premium-frame options but may not match the durability you want on a below-grade opening exposed to moisture.</li>
+<li>A prefabricated polyethylene window well installs faster and cheaper than a poured concrete well, though concrete tends to hold up better over decades.</li>
+</ul>
+<p>Budget a 10 to <a href="https://en.wikipedia.org/wiki/Sales_tax_in_Alberta" rel="nofollow noopener noreferrer" target="_blank">15%</a> contingency on any below-grade project, and remember that GST applies to the full contract price in Alberta since there’s no provincial sales tax to layer on top.</p>
+<h2>Should you hire a licensed contractor for an egress window?</h2>
+<p>Cutting a foundation wall, tying drainage into your weeping system, installing a structural lintel, and filing permit drawings are not weekend DIY tasks. Get these wrong and you risk a failed inspection or a foundation problem that costs far more than the window itself. Painting trim or backfilling around a finished well is about the only piece a confident homeowner can reasonably take on themselves.</p>
+<p>When comparing quotes, ask each contractor:</p>
+<ol>
+<li>Can you show proof of licensing, liability insurance, and WCB coverage?</li>
+<li>Is permit filing included in your quoted price?</li>
+<li>Is this a fixed-price quote, and what’s explicitly excluded?</li>
+<li>What’s the realistic start-to-inspection timeline?</li>
+<li>What warranty covers the window, the well, and the waterproofing?</li>
+<li>Can I see photos or references from a similar Calgary basement project?</li>
+</ol>
+<p><strong>Pro Tip:</strong> <em>Walk away from any contractor who suggests skipping the permit to save money, asks for full payment in cash upfront, or can’t produce WCB coverage on request. Those three red flags almost always predict problems down the line.</em></p>
+<h3>Statera Contracting’s local approach to egress projects</h3>
+<p>Statera Contracting handles residential renovations across Calgary, including <a href="https://stateracontracting.com/blog/basement-finishing-calgary" target="_blank" rel="noopener">basement finishing</a> and permit coordination for egress installations. We manage the City of Calgary submission process directly.</p>
+<ul>
+<li>Free consultations to scope your specific foundation and soil conditions</li>
+<li>Fixed-price quotes that separate permit, excavation, and finishing costs</li>
+</ul>
+<h2>Why realistic budgeting beats a single price number</h2>
+<p>Most guidance online gives you one number, and that number is almost never right for your house. Calgary’s soil and foundation variety make the three-tier approach here, above-grade, standard retrofit, complex retrofit, far more useful than a generic average, because it tells you which bracket your basement actually falls into before you request a single quote.</p>
+<p>The conventional advice to “budget $5,000 for an egress window” isn’t wrong so much as incomplete. It skips the variable that matters most locally: whether you’re on clay, working with a block foundation, or dealing with a side yard too narrow for standard excavation equipment. Homeowners who ask a contractor about soil and access conditions during the first site visit, rather than waiting for the quote to explain it, tend to end up with fewer surprise change orders.</p>
+<p>What should you prioritize first? Get the permit conversation settled before you fall for a specific window model or finish. A beautiful window that doesn’t meet the 0.35 m² opening or the 760 mm well projection isn’t legal egress, it’s an expensive mistake waiting for an inspector to catch it. An egress window that turns a basement space into a legally recognized bedroom is also one of the more straightforward ways to add real, appraisable value to a Calgary property, but only if the paperwork and the opening both check out.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h3>Get a fixed-price egress quote for your Calgary basement</h3>
+<p>Statera Contracting is a licensed Calgary general contractor that handles the whole egress process end to end, from permit drawings to the finished interior trim, so you’re not coordinating an excavator, a concrete cutter, and a permit application yourself. That matters most on below-grade retrofits, where soil conditions and drainage tie-ins are exactly where unsupervised jobs go over budget.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If you’re planning an egress window as part of a larger basement finish, whether that’s a legal suite, a rec room, or an extra bedroom, our <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement and living spaces services</a> cover the full project under one fixed-price contract. Book a free consultation and we’ll assess your foundation type and soil conditions before you commit to a number.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/egress-window-guidelines.pdf" rel="nofollow noopener noreferrer" target="_blank">City of Calgary egress window guidelines (PDF)</a></li>
+<li>Calgary egress window permits (local guidance)</li>
+<li><a href="https://www.homeowner.ca/a/adding-egress-windows-to-your-basement-costs-and-considerations" rel="nofollow noopener noreferrer" target="_blank">Homeowner</a></li>
+<li><a href="https://albertahealthservices.ca/assets/wf/eph/wf-eh-emergency-egress.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta Health Services: emergency egress guidance</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/window-replacement-cost-calgary" target="_blank" rel="noopener">Window replacement cost Calgary: what homeowners should budget | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/egress-window-size-alberta" target="_blank" rel="noopener">Egress window size in Alberta: the complete code guide | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">Bathroom Renovation Calgary 2026 Cost Guide | Statera | Statera Contracting</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide | Statera Contracting</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
