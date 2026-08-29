@@ -50,7 +50,7 @@
   "761066": { "status": "published", "publishedAt": "2026-08-26" },
   "764700": { "status": "published", "publishedAt": "2026-08-27" },
   "769189": { "status": "published", "publishedAt": "2026-08-28" },
-  "771439": { "status": "queued", "reason": "new article discovered via BabyLoveGrowth webhook (fired 2026-08-28); created_at 2026-08-25, estimated calendar slot (created_at+3d, not confirmed) is 2026-08-28. Publish slot for 2026-08-28 taken by #769189 (oldest queued article, per queue-drains-before-webhook-trigger rule). Will drain on a later run." },
-  "778693": { "status": "queued", "reason": "new article discovered on daily schedule fallback run; created_at 2026-08-27, estimated calendar slot (created_at+3d, not confirmed) is 2026-08-30. daily publish cap (1/day) for 2026-08-28 already used by #769189. Will drain on a later run." },
-  "780201": { "status": "queued", "reason": "new article discovered on daily schedule fallback run; created_at 2026-08-28, estimated calendar slot (created_at+3d, not confirmed) is 2026-08-31. daily publish cap (1/day) for 2026-08-28 already used by #769189. Will drain on a later run." }
+  "771439": { "status": "published", "publishedAt": "2026-08-29" },
+  "778693": { "status": "queued", "reason": "webhook fired 2026-08-29 for this article; created_at 2026-08-27, estimated calendar slot (created_at+3d, not confirmed) is 2026-08-30 -- not yet arrived. Also, today's (2026-08-29) publish slot was used by older overdue backlog item #771439 (calendar slot 2026-08-28) per the oldest-queued-first rule. Will drain on a later run once its calendar date arrives and a slot is free." },
+  "780201": { "status": "queued", "reason": "discovered on a prior schedule fallback run; created_at 2026-08-28, estimated calendar slot (created_at+3d, not confirmed) is 2026-08-31 -- not yet arrived. Today's (2026-08-29) publish slot was used by older overdue backlog item #771439. Will drain on a later run." }
 }
