@@ -12865,6 +12865,166 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "restaurant-washroom-requirements-calgary",
+    title: "Get Calgary Restaurant Washroom Permits: 1 Washroom for 10 Seats",
+    excerpt:
+      "A restaurant with 10 seats or less needs one washroom in Calgary, and anything larger scales by occupant load under NBC-2023 AE Table 3.7.2.2.A. What barrier-free, AHS handwash, and permit-drawing requirements to plan for before you submit.",
+    date: "2026-08-30",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787864670913_Accessible-restaurant-washroom-stall-interior.jpeg",
+    coverAlt: "Get Calgary Restaurant Washroom Permits: 1 Washroom for 10 Seats",
+    category: "Industry News",
+    readingTime: "15 min read",
+    metaTitle: "Get Calgary Restaurant Washroom Permits: 1 Washroom for 10 Seats",
+    metaDescription:
+      "Calgary checklist to secure restaurant washroom permits. Learn the 10 seat one washroom rule, AHS handwash and accessibility requirements, and what your permit drawings need.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A restaurant with 10 seats or less needs one washroom, and anything larger must follow NBC-2023 AE Table 3.7.2.2.A for fixture counts by occupant load. Alberta Health Services also requires at least one dedicated staff toilet, and any new washroom must meet barrier-free design rules. Before you touch a stud wall, confirm your numbers against the City of Calgary’s building-permit checklist and put washroom details directly in your drawings.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>Any new washroom in Calgary must meet barrier-free design standards if it contains more than one fixture, with specific requirements for clearances, grab bars, and signage.</li>
+<li>Fixture counts are based on total occupant load, including staff, standing patrons, and circulation, with urinals and unisex options available to optimize space.</li>
+<li>Plumbing plans must include dedicated handwash stations in food prep areas, distinct from dishwashing sinks, and washrooms cannot open directly into food zones.</li>
+<li>Floors and walls in wet areas need to be impervious, washable, and properly sloped to drains, with sealed joints and separate plumbing for different sinks to pass inspection.</li>
+<li>Permit applications require detailed, fully coordinated drawings with fixture schedules, occupant load calculations, and a thorough pre-inspection to avoid delays and costly rework.</li>
+</ul>
+</blockquote>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#restaurant-washroom-requirements-calgary-calculating-fixtures-by-occupancy">Restaurant washroom requirements Calgary: calculating fixtures by occupancy</a></li>
+<li><a href="#which-barrier-free-rules-apply-to-new-washrooms">Which barrier-free rules apply to new washrooms?</a></li>
+<li><a href="#handwash-sinks-staff-toilets-and-washroom-placement-rules">Handwash sinks, staff toilets and washroom placement rules</a></li>
+<li><a href="#what-floor-and-wall-materials-pass-calgary-washroom-inspections">What floor and wall materials pass Calgary washroom inspections?</a></li>
+<li><a href="#building-permit-documents-your-calgary-application-needs">Building-permit documents your Calgary application needs</a></li>
+<li><a href="#pre-inspection-checklist-and-realistic-calgary-timelines">Pre-inspection checklist and realistic Calgary timelines</a></li>
+<li><a href="#regulations-for-signage-and-labeling-of-washrooms">Regulations for signage and labeling of washrooms</a></li>
+<li><a href="#requirements-for-ventilation-and-air-quality-in-washrooms">Requirements for ventilation and air quality in washrooms</a></li>
+<li><a href="#cleaning-and-maintenance-standards-for-restaurant-washrooms">Cleaning and maintenance standards for restaurant washrooms</a></li>
+<li><a href="#specific-covid-19-hygiene-protocols-applicable-to-washrooms">Specific COVID-19 hygiene protocols applicable to washrooms</a></li>
+<li><a href="#waste-disposal-and-sanitary-product-provisions-in-washrooms">Waste disposal and sanitary product provisions in washrooms</a></li>
+<li><a href="#contractor-perspective-what-actually-derails-calgary-washroom-retrofits">Contractor perspective: what actually derails Calgary washroom retrofits</a></li>
+<li><a href="#how-statera-contracting-builds-permit-ready-washrooms-for-calgary-restaurants">How Statera Contracting builds permit-ready washrooms for Calgary restaurants</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Restaurant washroom requirements Calgary: calculating fixtures by occupancy</h2>
+<p>Seating count and occupant load are not the same number, and mixing them up is where most fixture calculations go sideways. Occupant load includes staff, standing patrons at a bar, and circulation space, not just the chairs bolted to the floor. Calgary’s guidance is simple at the low end: 10 seats or less means one washroom, full stop. Cross that threshold, and you’re into <a href="https://www.calgary.ca/for-business/licences/food-establishment-building-code.html" rel="nofollow noopener noreferrer" target="_blank">Table 3.7.2.2.A</a>, which scales water closet counts by total occupant load and splits them by sex, with allowances for unisex or single-user rooms.</p>
+<p>Here’s how that plays out in practice:</p>
+<ol>
+<li><strong>A 30-seat café</strong> with two staff on shift lands around 35 total occupants. This typically clears the small-scale threshold and needs a modest step up, often satisfied with two single-user washrooms rather than a full multi-fixture layout.</li>
+<li><strong>An 80-seat neighbourhood restaurant</strong> with kitchen and floor staff might carry an occupant load near 95. At that range, the table generally calls for multiple water closets split between designations, plus consideration of a urinal to offset one male fixture.</li>
+<li><strong>A 220-seat banquet hall or brewpub</strong> pushes occupant load well past 250 once staff and bar area are counted. This tier requires a materially higher fixture count on both sides, and a safety codes officer will expect your permit drawings to show the math, not just a floor plan with washroom boxes labelled.</li>
+</ol>
+<p>Urinals matter here because the code allows one urinal to substitute for a portion of required male water closets, up to a set ratio, which can shrink your footprint in a tight tenant space. Unisex or single-user washrooms are acceptable at smaller occupant loads and are often the practical choice for compact Calgary storefronts where a split male/female layout simply won’t fit.</p>
+<h2>Which barrier-free rules apply to new washrooms?</h2>
+<p>Any new washroom in Calgary triggers barrier-free design obligations under the <a href="https://open.alberta.ca/dataset/ff01dc85-dfa7-4cee-8929-b9524e9c92ad/resource/96bb21ac-f177-481f-980a-b9b94ae55eaa/download/ma-accessibility-design-guide-2024.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta accessibility design guide</a>, and the baseline ratio is one accessible stall per 10 stalls or part thereof. That “part thereof” phrasing matters: even a two-stall washroom with just one extra fixture over the minimum can trigger the requirement for an accessible unit.</p>
+<p>Safety codes officers do have some latitude here. Under Sentence 3.8.2.1.(1), certain occupancies can be assessed for partial or full relaxation, but this is discretionary and case specific. Never assume an exemption applies; confirm it with your authority having jurisdiction before you finalize layout.</p>
+<p>Design checklist for the accessible stall itself:</p>
+<ul>
+<li>Minimum clearances for turning radius inside the stall and at the door</li>
+<li>Grab bars mounted at code height on both side and rear walls</li>
+<li>Outward-swinging or sliding door hardware operable with a closed fist</li>
+<li>Tactile and visual signage identifying the accessible washroom</li>
+<li>Lever-style faucets and a sink height that clears a wheelchair footrest</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>If you’re renovating an existing washroom without moving walls, plumbing, or the fixture count, you may not trigger a full barrier-free retrofit. The moment you add a fixture or reconfigure the room, though, the new-construction standard applies to the whole space, not just the new part.</em></p>
+<h2>Handwash sinks, staff toilets and washroom placement rules</h2>
+<p>Alberta Health Services treats handwashing as non-negotiable, and the rules are stricter than most first-time operators expect. Every food-prep area needs its own <a href="https://www.albertahealthservices.ca/assets/healthinfo/ipc/if-hp-ipc-guidelines-sink-and-faucet-selection.pdf" rel="nofollow noopener noreferrer" target="_blank">dedicated handwash station</a> with hot and cold running water, liquid soap, and single-use hand-drying, positioned within reach of where food is actually handled. A dishwashing sink or janitorial sink cannot double as that handwash station. AHS inspectors check this specifically because it’s one of the most common corners operators try to cut.</p>
+<p>A few placement rules trip up retrofit projects more than new builds:</p>
+<ul>
+<li>Staff washrooms cannot open directly into a food-prep or storage area; a vestibule or corridor buffer is required.</li>
+<li>Customer washrooms must be reachable without routing patrons through the kitchen or a storage room.</li>
+<li>At least one staff toilet is required regardless of how small the kitchen crew is.</li>
+<li>Coat hooks and washroom signage should be part of your fixture schedule, not an afterthought at final inspection.</li>
+</ul>
+<p>Keep your handwash sinks visually and physically distinct from mop sinks and dishwashing basins on the plumbing drawing. Inspectors look for that separation at a glance.</p>
+<h2>What floor and wall materials pass Calgary washroom inspections?</h2>
+<p>Public health and building inspectors care about two things in a wet area: can it be cleaned, and can water actually get to a drain. Floors and walls need to be impervious, washable, and light-coloured so grime is visible before it becomes a problem. A non-slip floor finish is expected in any washroom or food-handling wet area.</p>
+<p>Drainage detail is where a lot of otherwise solid designs fail:</p>
+<ul>
+<li>Coved floor-to-wall joints, fully sealed, no exposed seams for water to collect in</li>
+<li>A minimum 2% floor slope toward a properly installed floor drain</li>
+<li>Separate, dedicated plumbing runs for handwash, dishwash, and mop sinks</li>
+<li>Backflow prevention devices and vacuum breakers on any hose connection or mop sink</li>
+</ul>
+<p>The most common inspection failures Statera Contracting sees on commercial jobs are carpeted or laminate flooring in a wet zone, floor drains without proper slope, and unsealed wall joints where grout has already started breaking down. Every one of these is cheap to fix during framing and expensive to fix after the tile is set.</p>
+<h2>Building-permit documents your Calgary application needs</h2>
+<p>The City of Calgary reviews commercial permit applications against a specific documentation standard, and washroom details are a named requirement, not an optional add-on. Incomplete drawings are one of the most frequent causes of plan-review delays, so it’s worth getting this right the first time.</p>
+<p>Your submission package should include:</p>
+<ol>
+<li>Scaled floor plans showing washroom locations, stall counts, and occupant load calculations</li>
+<li>Plumbing schematics identifying every fixture, including handwash, dishwash, mop, and washroom sinks</li>
+<li>Mechanical drawings covering ventilation runs serving washroom and food-prep zones</li>
+<li>Electrical layout for washroom lighting, exhaust fans, and any accessible-fixture power requirements</li>
+<li>A fixture schedule cross-referenced against your occupant load math</li>
+</ol>
+<p>Trade permits for plumbing and mechanical work are typically applied for separately through apply.calgary.ca, and straightforward trade permits are often issued the same day once your building permit is approved. Submit your full package at least six weeks before your planned opening date. That window covers plan review, trade permit issuance, and a realistic buffer for one round of revisions, which is common even on clean applications.</p>
+<p>A licensed contractor earns their fee here by producing permit-ready drawings the first time, rather than the two or three resubmission cycles that stall projects trying to self-draft.</p>
+<h2>Pre-inspection checklist and realistic Calgary timelines</h2>
+<p>Before you call for inspection, walk your washrooms with the same list an inspector will use. Confirm fixture counts match your approved drawings, the accessible stall is built to spec, handwash stations are installed and clearly separate from janitorial sinks, and the mop sink has a functioning backflow device.</p>
+<p>Inspectors will verify:</p>
+<ul>
+<li>Fixture counts and accessible stall compliance against the approved permit set</li>
+<li>Floor slope, drainage, and sealed joints in every wet area</li>
+<li>Handwash station placement and equipment in each food-prep zone</li>
+<li>Signage, including accessible-washroom identification</li>
+</ul>
+<p>Re-inspections usually happen because a detail on site doesn’t match the approved drawing, not because the code itself was misunderstood. Plan review generally runs a few weeks, trade permits move faster once the building permit clears, and inspection scheduling can add another week depending on city volume.</p>
+<p><strong>Pro Tip:</strong> <em>Book your rough-in plumbing inspection as soon as your trade permit is issued, not after the work is done. Calgary’s inspection queue moves faster when you’re not waiting on a slot after the fact.</em></p>
+<h2>Regulations for signage and labeling of washrooms</h2>
+<p>Washroom signage in Calgary restaurants serves two separate purposes: code compliance and accessibility communication, and both are checked at inspection. Every washroom needs clear identification at the door, and accessible washrooms require the standard tactile and visual accessibility symbol positioned at a consistent, reachable height so it works for patrons using a cane or reading by touch.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787864675481_Accessible-washroom-signage-on-door.jpeg" alt="Accessible washroom signage on door" /></p>
+<p>Gender-neutral and single-user washroom signage is increasingly common in newer Calgary builds, particularly where a restaurant opts for two single-user rooms instead of a split male/female layout to meet its fixture count. There’s no requirement to use gendered signage specifically. What matters is that each washroom’s designation is unambiguous and visible from the dining area without patrons needing to open a door to check.</p>
+<p>Beyond wayfinding, Alberta Health Services expects handwashing signage inside the washroom itself, reminding patrons and staff to wash hands, particularly near any handwash station serving a food-prep area. This isn’t decorative; it’s part of the documented hygiene expectation inspectors look for during a routine visit. Exit signage and any fire-code-related labelling near a washroom corridor fall under separate life-safety rules but often get reviewed at the same time as your building permit drawings, so it’s worth confirming both sets of signage requirements with your contractor before final finishes go up.</p>
+<h2>Requirements for ventilation and air quality in washrooms</h2>
+<p>Every enclosed washroom in a Calgary restaurant needs mechanical exhaust ventilation, and this is one of the details reviewed on your mechanical drawings before a permit is issued. A washroom without an operable window generally requires a dedicated exhaust fan venting directly outside, not into an attic space or another interior room.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787864702290_Diagram-of-washroom-ventilation-requirements.jpeg" alt="Diagram of washroom ventilation requirements" /></p>
+<p>Ventilation rates matter more than most operators expect going in. Your mechanical drawings need to show fan capacity sized appropriately for the room volume, along with makeup air considerations if the washroom sits near a commercial kitchen exhaust system that’s already pulling significant air out of the building. Kitchens with powerful exhaust hoods can create negative pressure that fights against washroom exhaust fans if the system isn’t balanced correctly, leading to odour problems and, in cold Calgary winters, condensation issues on washroom surfaces.</p>
+<p>Humidity control ties directly back to the materials discussion: a poorly ventilated washroom accelerates grout failure, promotes mould at wall-floor joints, and shortens the life of even a well-installed impervious floor finish. Inspectors won’t necessarily flag ventilation on a cosmetic level, but a mechanical engineer or your contractor should confirm exhaust fan sizing against the room’s occupant load and square footage during the design phase, not after drywall is up. Getting this wrong after the fact usually means cutting into a finished ceiling to add ducting.</p>
+<h2>Cleaning and maintenance standards for restaurant washrooms</h2>
+<p>Alberta Health Services inspectors evaluate washroom cleanliness on every routine visit, and it’s treated with the same seriousness as kitchen sanitation. Fixtures, floors, and walls need to be visibly clean and in good repair, with no standing water, no accumulated grime in floor drains, and no damaged or peeling surfaces that could harbour bacteria.</p>
+<p>A written cleaning schedule, even a simple one posted near the washroom or kept with your food safety plan, demonstrates a proactive approach that inspectors respond well to. Most Calgary restaurants build washroom checks into the same hourly or per-shift rotation used for dining room bussing, since a washroom that looks neglected raises questions about kitchen standards even when the kitchen itself is spotless.</p>
+<p>Maintenance goes beyond cleaning products. Grout and caulking at floor-to-wall joints need periodic resealing, since deteriorated seals are one of the most common deficiencies flagged during AHS routine inspections and one of the cheapest to prevent with a regular schedule. Fixtures should be checked for leaks regularly. A slow leak at a toilet base or sink trap doesn’t just waste water; it saturates subflooring in a way that eventually shows up as a failed inspection or, worse, a costly reno down the line. Soap dispensers and hand-drying equipment need daily stock checks, since an empty soap dispenser at a customer or staff handwash station is an immediate, visible compliance gap.</p>
+<h2>Specific COVID-19 hygiene protocols applicable to washrooms</h2>
+<p>Alberta’s public health emergency measures around COVID-19 have wound down, and there is no active provincial order specifically governing restaurant washroom protocols tied to the pandemic. That said, several practices adopted during that period have stuck around in well-run Calgary kitchens because they made sense independent of any mandate.</p>
+<p>Touchless or foot-pedal-operated fixtures, once considered an upgrade, are now a common choice in new washroom builds because they reduce contact points without adding meaningful cost during construction. Increased cleaning frequency for high-touch surfaces, door handles, faucet handles, and stall latches, remains a practical standard many operators kept in place after formal requirements lapsed. Hand sanitizer stations near washroom entrances are no longer required by any specific order, but they’re common enough in Calgary restaurants that removing one can feel like a step backward to returning patrons.</p>
+<p>If you’re renovating specifically to build in touchless fixtures, sensor-activated faucets and soap dispensers, and auto-flush toilets, factor that into your plumbing schedule early. These fixtures often require different rough-in specifications and power access than standard manual fixtures, which is a detail worth flagging to your contractor before drawings are finalized rather than after fixtures are ordered.</p>
+<h2>Waste disposal and sanitary product provisions in washrooms</h2>
+<p>Every restaurant washroom in Calgary needs a covered waste receptacle, and this applies to both staff and customer facilities. For customer washrooms serving any patrons who may need sanitary product disposal, a covered, lined receptacle inside each stall, not just a shared bin in the main washroom area, is standard practice and expected by most Calgary landlords and health inspectors alike.</p>
+<p>Waste receptacles need regular emptying built into your cleaning schedule, since an overflowing bin next to a toilet is both an aesthetic problem and a genuine hygiene concern that AHS inspectors will note. Larger restaurants with higher customer volume often need a service contract for sanitary waste disposal rather than relying on staff to manage it through general garbage collection, particularly for multi-stall washrooms with heavy foot traffic.</p>
+<p>Sanitary product dispensers are not a code requirement in Alberta, but many Calgary restaurants install them as a customer service consideration, particularly in higher-volume or family-oriented establishments. If you’re planning for one, coordinate the wall-mounting location with your contractor during the finishing stage since retrofitting a dispenser into a finished tile wall after the fact means cutting into a surface that was sealed specifically to meet the impervious-finish requirement discussed earlier in your build.</p>
+<h2>Contractor perspective: what actually derails Calgary washroom retrofits</h2>
+<p>Most permit delays Statera Contracting sees in Calgary restaurant projects don’t come from the fixture-count math. They come from what’s hidden inside old walls: a plumbing stack that needs rerouting, a fire separation that gets triggered the moment you relocate a drain, or a barrier-free requirement nobody flagged until the drawings were already submitted. Each of those can add weeks and real cost if they surface mid-build instead of at the design table. The fix is sequencing: bring your trades in before you finalize layout, confirm barrier-free triggers before any plumbing moves, and book inspections early rather than reactively.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>How Statera Contracting builds permit-ready washrooms for Calgary restaurants</h2>
+<p>Statera Contracting is the direct route to a compliant washroom build for Calgary restaurant owners who don’t want to learn NBC-2023 AE Table 3.7.2.2.A by trial and error. We produce permit-ready drawings that include fixture schedules, occupant load calculations, and barrier-free design details up front, so your City of Calgary submission moves through review without a resubmission cycle.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Our commercial team coordinates plumbing, mechanical, and electrical trades on one schedule, handles trade permit applications, and implements accessible design correctly the first time, whether you’re building two single-user washrooms in a tight storefront or a multi-fixture layout for a 220-seat space. If your washroom work is part of a larger kitchen build, we scope both together so the plumbing runs make sense as one system rather than two disconnected projects. Reach out through our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation services</a> page for a plan review, and we’ll tell you exactly what your drawings need before you submit to the city.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/for-business/licences/food-establishment-building-code.html" rel="nofollow noopener noreferrer" target="_blank">National Building Code – 2023 Alberta Edition information for restaurants and food establishments</a></li>
+<li><a href="https://www.albertahealthservices.ca/assets/healthinfo/ipc/if-hp-ipc-guidelines-sink-and-faucet-selection.pdf" rel="nofollow noopener noreferrer" target="_blank">Sink and faucet selection guidance — Alberta Health Services</a></li>
+<li><a href="https://open.alberta.ca/dataset/ff01dc85-dfa7-4cee-8929-b9524e9c92ad/resource/96bb21ac-f177-481f-980a-b9b94ae55eaa/download/ma-accessibility-design-guide-2024.pdf" rel="nofollow noopener noreferrer" target="_blank">Accessibility design guide 2024 — Municipal Affairs (Alberta)</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/restaurant-kitchen-permit-calgary" target="_blank" rel="noopener">Restaurant kitchen permit Calgary: your complete approval roadmap</a></li>
+<li><a href="https://stateracontracting.com/blog/bar-renovation-cost-calgary" target="_blank" rel="noopener">Bar renovation cost Calgary: budget ranges, permits, who to hire</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">Bathroom remodel ideas: your 2026 Alberta guide</a></li>
+<li><a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">Commercial Renovation Calgary | Offices, Retail &amp; Restaurants</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
