@@ -13025,6 +13025,164 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "home-energy-rebates-alberta",
+    title: "Calgary Homeowners: CEIP Finances Energy Upgrades on Your Property Tax",
+    excerpt:
+      "CEIP financing can cover up to 100% of an Alberta home energy upgrade, repaid through your property tax bill. What Calgary homeowners need to know about eligibility, EnerGuide evaluations, and stacking it with other rebates.",
+    date: "2026-08-31",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787884559546_Workers-installing-solar-panels-on-Calgary-home-roof.jpeg",
+    coverAlt: "Calgary Homeowners: CEIP Finances Energy Upgrades on Your Property Tax",
+    category: "Industry News",
+    readingTime: "9 min read",
+    metaTitle: "Calgary Homeowners: CEIP Finances Energy Upgrades on Your Property Tax",
+    metaDescription:
+      "How CEIP finances Alberta energy upgrades: up to 100% funding repaid via your property tax, plus the EnerGuide and contractor steps to qualify.",
+    content: [
+      {
+        type: "html",
+        html: `<p>If you’re a Calgary-area homeowner planning an upgrade this year, start with two things: the <a href="https://www.alberta.ca/alberta-energy-rebate" rel="nofollow noopener noreferrer" target="_blank">Alberta Energy Rebate</a> and whether your municipality participates in the <a href="https://ceip.abmunis.ca/" rel="nofollow noopener noreferrer" target="_blank">Clean Energy Improvement Program</a> (CEIP). CEIP is the practical financing route for most Albertans right now, but it requires a qualified contractor and usually an EnerGuide evaluation before anything gets approved.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>The CEIP financing program is a loan that attaches to your property, which means it transfers to the new owner if you sell before paying it off.</li>
+<li>Many Alberta municipalities offer additional incentives or top-ups layered on top of CEIP, but approval depends on local participation and approval processes.</li>
+<li>The federal Greener Homes Grant is no longer accepting new applications in Alberta, leaving homeowners reliant on municipal financing and utility rebates.</li>
+<li>To qualify for CEIP, you need a property ownership proof, a contractor quote from a qualified contractor, and an EnerGuide evaluation if required by your municipality.</li>
+<li>The typical upgrade costs range from low thousands for insulation to higher for heat pumps and solar, with savings often offsetting some repayment costs through energy bill reductions.</li>
+</ul>
+</blockquote>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-alberta-home-energy-rebates-are-actually-available-right-now">What Alberta home energy rebates are actually available right now?</a></li>
+<li><a href="#how-does-the-clean-energy-improvement-program-actually-work">How does the Clean Energy Improvement Program actually work?</a></li>
+<li><a href="#is-the-federal-greener-homes-program-still-available-in-alberta">Is the federal Greener Homes program still available in Alberta?</a></li>
+<li><a href="#what-documents-and-steps-do-you-need-to-apply">What documents and steps do you need to apply?</a></li>
+<li><a href="#what-will-an-energy-upgrade-actually-cost-you-and-save-you">What will an energy upgrade actually cost you (and save you)?</a></li>
+<li><a href="#what-contractor-and-product-requirements-should-you-know">What contractor and product requirements should you know?</a></li>
+<li><a href="#can-you-combine-municipal-provincial-and-federal-rebates">Can you combine municipal, provincial, and federal rebates?</a></li>
+<li><a href="#how-does-statera-contracting-handle-energy-upgrade-coordination-in-calgary-and-area">How does Statera Contracting handle energy-upgrade coordination in Calgary and area?</a></li>
+<li><a href="#let-statera-contracting-handle-the-renovation-permits-and-program-paperwork">Let Statera Contracting handle the renovation, permits, and program paperwork</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What Alberta home energy rebates are actually available right now?</h2>
+<p>Alberta’s rebate landscape isn’t one big program with a single application form. It’s a patchwork of provincial payments, municipal financing, and utility-specific offers, and what you qualify for depends heavily on where you live.</p>
+<p>Here’s what’s actually active:</p>
+<ul>
+<li><strong>Alberta Energy Rebate</strong>: a one-time provincial payment with applications opening through the <a href="https://www.alberta.ca/alberta-energy-rebate" rel="nofollow noopener noreferrer" target="_blank">Alberta government portal</a> starting July 1. This isn’t tied to a renovation project. It’s a standalone relief payment, and eligibility windows are limited, so check the portal directly rather than relying on secondhand summaries.</li>
+<li><strong>Clean Energy Improvement Program (CEIP)</strong>: municipal financing that can cover up to 100% of eligible project costs, repaid through your property tax bill. Eligible upgrades typically include insulation, heat pumps, solar PV, and window and door replacements.</li>
+<li><strong>Municipal top-ups</strong>: some cities layer extra cash on top of CEIP. St. Albert, for example, has offered a <a href="https://stalbert.ca/city/environment/energy-conservation/programs/ceip/" rel="nofollow noopener noreferrer" target="_blank">$1,400 incentive</a> applied directly to qualifying CEIP projects, on top of the financing itself.</li>
+<li><strong>Utility-specific offers</strong>: Calgary-area utilities occasionally run their own rebates for specific equipment, and these change often. Check with your provider directly rather than assuming last year’s offer still stands.</li>
+<li><strong>Federal programs</strong>: the Canada Greener Homes Grant is closed to new applicants. Its replacement, the <a href="https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/canada-greener-homes-initiative" rel="nofollow noopener noreferrer" target="_blank">Canada Greener Homes Affordability Program</a> (CGHAP), rolls out province by province, and Alberta had not fully launched delivery as of the most recent updates.</li>
+</ul>
+<p>That last point matters more than most homeowners realize. CGHAP isn’t a program you can apply for with a federal form. It gets delivered through provincial partners, and until Alberta signs and activates that agreement, there’s nothing to apply to locally.</p>
+<h2>How does the Clean Energy Improvement Program actually work?</h2>
+<p>CEIP isn’t a grant. It’s a loan structure disguised as a rebate program, and understanding that distinction changes how you should think about it.</p>
+<p>You don’t get a cheque. Instead, your municipality fronts the cost of an eligible upgrade, and you repay it through a voluntary special assessment added to your property tax bill. Repayment terms commonly run several years, depending on the municipality, and the interest rate is set locally rather than through a bank.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787884522071_Hand-holding-property-tax-statement-envelope.jpeg" alt="Hand holding property tax statement envelope" /></p>
+<p>Here’s the part that catches people off guard: the debt is attached to the property, not to you personally. If you sell your home before the balance is paid off, that <a href="https://www.abmunis.ca/products-services/clean-energy-improvement-program" rel="nofollow noopener noreferrer" target="_blank">obligation can transfer to the new owner</a>, or you can settle the remaining balance at closing. Either way, it needs to be disclosed and negotiated during the sale.</p>
+<p>The typical process runs like this:</p>
+<ul>
+<li>Your municipality passes a bylaw enabling CEIP participation (not every city has done this).</li>
+<li>You pre-qualify with the program administrator.</li>
+<li>You complete an <a href="https://www.nrcan.gc.ca/energy-efficiency/energuide/energuide-energy-efficiency-home-evaluations/20552" rel="nofollow noopener noreferrer" target="_blank">EnerGuide home energy evaluation</a>.</li>
+<li>A CEIP Qualified Contractor installs the upgrade.</li>
+<li>A final inspection confirms the work, and the financing gets registered against your property tax account.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Some municipalities stack their own cash incentives on top of CEIP financing, similar to St. Albert’s approach. Ask your municipal program administrator directly whether local top-ups exist. This information rarely shows up in generic program summaries.</em></p>
+<h2>Is the federal Greener Homes program still available in Alberta?</h2>
+<p>No, not in its original form. The Canada Greener Homes Grant stopped accepting new applications, and its replacement is still being rolled out gradually across the country.</p>
+<p>CGHAP depends on province-by-province agreements between Ottawa and each provincial government. Manitoba has moved forward with delivery, but Alberta had not launched a full CGHAP rollout as of the latest reporting. That leaves a real gap for homeowners who were counting on federal grant money to offset upgrade costs.</p>
+<p>While you wait for that to change, your realistic options are:</p>
+<ul>
+<li>CEIP financing through your municipality, if it participates.</li>
+<li>Any active municipal top-up incentives layered on CEIP projects.</li>
+<li>Utility-specific rebates, which change seasonally and by provider.</li>
+</ul>
+<p>Keep an eye on <a href="https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/canada-greener-homes-initiative" rel="nofollow noopener noreferrer" target="_blank">Natural Resources Canada’s program pages</a> for updates. CGHAP availability in Alberta is a moving target, not a fixed date.</p>
+<h2>What documents and steps do you need to apply?</h2>
+<p>Eligibility requirements vary by municipality, but most programs share a common backbone: you need to prove ownership, meet a minimum project cost threshold, and work with an approved contractor.</p>
+<p>Typical documentation includes:</p>
+<ol>
+<li>Proof of property ownership and government-issued ID.</li>
+<li>A contractor quote from a <strong>CEIP Qualified Contractor</strong>.</li>
+<li>Your EnerGuide evaluation report, if your municipality requires one before approval.</li>
+<li>Proof of contractor qualification or certification numbers.</li>
+<li>Final invoices and permit confirmations once work is complete.</li>
+</ol>
+<p>The application sequence generally looks like this:</p>
+<ol>
+<li>Confirm your municipality actually participates in CEIP. Not all Alberta cities do.</li>
+<li>Book your EnerGuide evaluation early. This step is the most common bottleneck, and treating it as step one (not step three) speeds everything else up, according to Calgary’s own CEIP program page.</li>
+<li>Get quotes from CEIP Qualified Contractors for the specific upgrade.</li>
+<li>Submit your pre-qualification or full application through the municipal portal.</li>
+<li>Complete the installation and final inspection.</li>
+<li>Confirm payment and financing registration on your property tax account.</li>
+</ol>
+<p>Application windows can close on short notice, particularly for popular municipal top-ups. Keep copies of every document, quote, and confirmation email. You’ll need them again if you sell the property before the financing term ends.</p>
+<h2>What will an energy upgrade actually cost you (and save you)?</h2>
+<p>CEIP can front the full cost of an eligible upgrade. But “financed” doesn’t mean “free.” It means the cost gets spread across your property tax bill for years, not decades, at a rate your municipality sets.</p>
+<p>Rough directional examples, before financing:</p>
+<ul>
+<li>Attic insulation upgrades often run in the low thousands of dollars, depending on square footage and existing R-value.</li>
+<li>Heat pump replacements typically cost more, and vary widely based on home size and existing ductwork.</li>
+<li>A small residential solar PV install represents a larger upfront investment, with a longer payback horizon.</li>
+</ul>
+<blockquote>
+<p><strong>Why the EnerGuide numbers matter:</strong> the evaluation generates a personalized estimate of expected energy savings for your specific home, not a generic average. Homeowners who match financing terms to those numbers often find that monthly energy savings largely offset the property tax repayment, based on how CEIP amortizes financing against the expected useful life of the upgrade.</p>
+</blockquote>
+<p>Watch for two catches: minimum project size thresholds (small jobs may not qualify), and first-come, first-served incentive pools that run out before the fiscal year ends.</p>
+<h2>What contractor and product requirements should you know?</h2>
+<p>CEIP only pays for work done by a <strong>CEIP Qualified Contractor</strong>. Confirm that status directly with your municipal program administrator before signing anything. A contractor who “does this kind of work all the time” isn’t automatically on the qualified list.</p>
+<ul>
+<li>Book your EnerGuide evaluation early. It’s the baseline every savings estimate depends on.</li>
+<li>Solar PV and battery equipment generally need CSA or UL certification for use in Canada, plus minimum warranty coverage.</li>
+<li>Battery storage often has to be installed alongside a new solar PV system unless your municipality allows exceptions.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>If a contractor pressures you to sign before confirming CEIP eligibility, or gives you a quote that quietly excludes permits or required testing, treat that as a red flag. Reputable contractors expect you to verify qualification status independently.</em></p>
+<h2>Can you combine municipal, provincial, and federal rebates?</h2>
+<p>Yes, but sequencing matters more than most homeowners expect. Always confirm stacking rules with each program administrator before signing a contract, because rules differ by municipality and can change year to year.</p>
+<p>A workable sequence looks like this:</p>
+<ul>
+<li>Book the EnerGuide evaluation first, since most financing and rebate approvals depend on its data.</li>
+<li>Apply for municipal CEIP pre-qualification before committing to a contractor.</li>
+<li>Time your installation so it satisfies whichever program (municipal, provincial, or eventually federal) has the strictest documentation requirement.</li>
+</ul>
+<p>Before you sign anything, confirm minimum project sizes, whether incentives apply before or after financing is calculated, and exactly what paperwork proves you’re claiming multiple offers correctly.</p>
+<h2>How does Statera Contracting handle energy-upgrade coordination in Calgary and area?</h2>
+<p>We coordinate EnerGuide scheduling, work directly with municipal program administrators, and manage permits and contractor compliance so paperwork doesn’t stall your project. Serving Calgary, Okotoks, Cochrane, and Airdrie, we handle the details CEIP applications actually require.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Let Statera Contracting handle the renovation, permits, and program paperwork</h2>
+<p>Statera Contracting gives Calgary-area homeowners something CEIP applications quietly demand but rarely spell out: a contractor who already understands how EnerGuide timing, permit sequencing, and municipal paperwork fit together, so your project doesn’t stall between approval stages.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>We coordinate insulation upgrades, window and door replacements, and heat pump installs with EnerGuide evaluators and municipal administrators directly, which matters most on larger projects like <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement finishing</a> or a full <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation</a> where several eligible upgrades might qualify at once. If you’re weighing an older home’s constraints against what CEIP will actually finance, our guide on <a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">renovating an older home</a> is worth reading alongside this one, and our partners at Better Quality Builders cover the thermal and air-sealing issues that often make insulation the highest-value upgrade to start with.</p>
+<p>Book an eligibility consultation with Statera Contracting and find out which upgrades on your property are ready to qualify.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1787884668727_Let-Statera-Contracting-handle-the-renovation-permits-and-program-paperwork-overview-diagram.jpeg" alt="Let Statera Contracting handle the renovation, permits, and program paperwork — overview diagram" /></p>
+<p>This article is general information, not a substitute for advice from a qualified financial advisor. Consult a qualified financial professional about your own circumstances before acting on anything here.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.alberta.ca/alberta-energy-rebate" rel="nofollow noopener noreferrer" target="_blank">Alberta Energy Rebate</a></li>
+<li><a href="https://ceip.abmunis.ca/" rel="nofollow noopener noreferrer" target="_blank">Clean Energy Improvement Program</a></li>
+<li><a href="https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/canada-greener-homes-initiative" rel="nofollow noopener noreferrer" target="_blank">Canada Greener Homes initiative (NRCan)</a></li>
+<li><a href="https://stalbert.ca/city/environment/energy-conservation/programs/ceip/" rel="nofollow noopener noreferrer" target="_blank">Clean Energy Improvement Program (City of St. Albert)</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/smart-renovations-for-calgary-homes-2026-guide" target="_blank" rel="noopener">Smart renovations for Calgary homes: 2026 guide</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovation-tax-credit" target="_blank" rel="noopener">Home renovation tax credit in Canada: 2026 guide</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap</a></li>
+<li><a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">Renovating an older home: what Alberta homeowners need to know</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
