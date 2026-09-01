@@ -53,7 +53,7 @@
   "771439": { "status": "published", "publishedAt": "2026-08-29" },
   "778693": { "status": "published", "publishedAt": "2026-08-30" },
   "780201": { "status": "published", "publishedAt": "2026-08-31" },
-  "786842": { "status": "queued", "reason": "discovered on schedule fallback run 2026-08-30; created_at 2026-08-29, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-01 -- not yet arrived. Today's (2026-08-30) publish slot was already used by #778693." },
-  "789962": { "status": "queued", "reason": "discovered on schedule fallback run 2026-08-30; created_at 2026-08-30, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-02 -- not yet arrived. Today's (2026-08-30) publish slot was already used by #778693." },
+  "786842": { "status": "published", "publishedAt": "2026-09-01" },
+  "789962": { "status": "queued", "reason": "webhook fired 2026-09-01 for this article, but daily-cap backlog rule takes priority over the triggering ID: oldest queued article (#786842, estimated slot 2026-09-01) was processed instead. created_at 2026-08-30, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-02 -- still not yet arrived anyway. Today's (2026-09-01) publish slot is now used by #786842." },
   "794297": { "status": "queued", "reason": "discovered on schedule fallback run 2026-08-31; created_at 2026-08-31, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-03 -- not yet arrived. Today's (2026-08-31) publish slot was already used by #780201." }
 }
