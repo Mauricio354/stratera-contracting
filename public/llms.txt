@@ -1,0 +1,57 @@
+# Statera Contracting | Calgary Renovation Experts
+
+> This site provides comprehensive information on residential and commercial renovation services in Calgary, including detailed descriptions of various renovation types, company values, project portfolios, and contact details. It offers authoritative and evergreen content suitable for training language models on renovation processes, project management, and industry standards.
+
+Statera Contracting is a top-tier renovation contractor in Calgary with over 20 years of experience. The website details their service offerings, company philosophy, project examples, client testimonials, and service areas, making it a valuable resource for understanding local renovation standards and practices.
+
+## Core Content
+
+### About Statera
+
+- Company philosophy: Client-first approach emphasizing transparency, craftsmanship, and collaboration
+- Values: Balance (from the Latin "Statera"), quality, timeliness, communication
+- Certifications and insurance: Licensed, insured, WCB compliant
+
+### Renovation Services
+
+- Kitchen Renovation: Custom cabinetry, countertops, layouts
+- Bathroom Renovation: Spa-style designs, plumbing, tile work, vanities
+- Basement & Living Spaces: Legal suites, recreation rooms, home offices
+- Commercial Renovation: Office, restaurant, retail, tenant improvements
+- Home Additions: Room extensions, second-story additions, sunrooms
+
+### Project Portfolio
+
+- Recent projects: Kitchens, bathrooms, living rooms, commercial spaces
+- Example projects: Modern kitchens, custom bars, restaurant interiors
+
+### Client Testimonials
+
+- Feedback emphasizing quality, communication, professionalism
+- Examples include satisfaction with project management, craftsmanship, adherence to timelines and budgets
+
+### Service Areas
+
+- Calgary neighborhoods: Kensington, Beltline, Inglewood, Bridgeland, Mount Royal, Altadore, Marda Loop, Ramsay, Hillhurst, Sunnyside
+- Surrounding communities: Airdrie, Cochrane, Chestermere, Heritage Pointe, Okotoks
+
+### Contact & Consultation
+
+- Contact details: Phone, email
+- Inquiry form for project quotes
+- Location: Calgary, Alberta
+
+## Resources
+
+- Service pages for specific renovation types:
+  - [Kitchen Renovation](https://stateracontracting.com/services/kitchen-renovation-calgary)
+  - [Bathroom Renovation](https://stateracontracting.com/services/bathroom-renovation-calgary)
+  - [Basement & Living Spaces](https://stateracontracting.com/services/basement-living-spaces-calgary)
+  - [Commercial Renovation](https://stateracontracting.com/services/commercial-renovation-calgary)
+  - [Home Additions](https://stateracontracting.com/services/home-additions-calgary)
+
+### Optional
+
+- Blog or news updates related to renovation tips and industry insights (not included on this site but common secondary resources)
+- Project gallery and detailed case studies (see Portfolio section)
+- Frequently Asked Questions about renovation processes and permits (not explicitly listed but valuable secondary content)
