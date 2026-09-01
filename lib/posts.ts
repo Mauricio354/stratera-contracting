@@ -13183,6 +13183,142 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "siding-replacement-cost-calgary",
+    title: "$9–$18 per sq ft: Calgary siding replacement, budget for hidden repairs",
+    excerpt:
+      "Most Calgary homeowners land somewhere between $9 and $18 per square foot installed, and a typical detached home runs $14,000 to $32,000 depending on size and material.",
+    date: "2026-09-01",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1788015849069_Siding-removed-to-reveal-house-sheathing.jpeg",
+    coverAlt: "$9–$18 per sq ft: Calgary siding replacement, budget for hidden repairs",
+    category: "Industry News",
+    readingTime: "10 min read",
+    metaTitle: "$9–$18 per sq ft: Calgary siding replacement, budget for hidden repairs",
+    metaDescription:
+      "Expect $9–$18 per sq ft (about $14,000–$32,000). Learn which materials resist Calgary hail, how hidden sheathing repairs raise totals, and where to get...",
+    content: [
+      {
+        type: "html",
+        html: `<p>Most Calgary homeowners land somewhere between $9 and $18 per square foot installed, and a typical detached home runs $14,000 to $32,000 depending on size and material. Build in room for sheathing repair before you commit to a number, and get at least two written local estimates before signing anything. Statera Contracting is one capable local option worth calling for that quote.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>Siding replacement costs in Calgary typically range from $9,000 to $32,000 depending on the home’s size and material used, with vinyl being the most budget-friendly.</li>
+<li>Quotes can vary significantly based on underlying issues like rot, sheathing damage, and repair requirements, which should be explicitly itemized in the estimate.</li>
+<li>Calgary’s climate demands durable materials such as fibre cement or metal siding for better resistance against hail, UV, and freeze-thaw cycles, though they cost more upfront.</li>
+<li>Repair is only cost-effective for minor damage; full replacement is advisable if rot, recurring stains, or extensive damage are present, especially in older homes over two decades.</li>
+<li>Obtaining at least three detailed, comparable quotes and scheduling work during late spring or summer can reduce the risk of surprises and higher seasonal premiums.</li>
+</ul>
+</blockquote>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#how-much-does-siding-replacement-cost-in-calgary">How much does siding replacement cost in Calgary?</a></li>
+<li><a href="#why-quotes-vary-tear-off-sheathing-and-hidden-repair-costs">Why quotes vary: tear-off, sheathing, and hidden repair costs</a></li>
+<li><a href="#which-siding-material-holds-up-best-in-calgarys-climate">Which siding material holds up best in Calgary’s climate?</a></li>
+<li><a href="#should-you-repair-or-fully-replace-your-siding">Should you repair or fully replace your siding?</a></li>
+<li><a href="#when-to-schedule-siding-work-and-what-permits-to-expect">When to schedule siding work and what permits to expect</a></li>
+<li><a href="#what-calgary-siding-jobs-actually-reveal-once-the-panels-come-off">What Calgary siding jobs actually reveal once the panels come off</a></li>
+<li><a href="#how-to-get-comparable-siding-quotes-in-calgary">How to get comparable siding quotes in Calgary</a></li>
+<li><a href="#why-waiting-on-siding-almost-always-costs-more">Why waiting on siding almost always costs more</a></li>
+<li><a href="#get-a-written-siding-estimate-from-statera-contracting">Get a written siding estimate from Statera Contracting</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>How much does siding replacement cost in Calgary?</h2>
+<p>Vinyl remains the budget anchor, with installed pricing commonly landing between $5 and $10 per square foot, according to local Calgary siding guides. Fibre cement, steel, and wood run higher once you factor in labour, fasteners, and the extra care Calgary’s climate demands. The City of Calgary’s own resilience guidance notes that more durable systems carry <a href="https://www.calgary.ca/environment/resources/climate-ready-measures--exterior-walls-and-siding.html" rel="nofollow noopener noreferrer" target="_blank">installed cost multipliers 35% to 160% higher</a> than basic vinyl, which explains why two quotes for the same house can differ by thousands.</p>
+<p>Here’s roughly what that translates to by material, per square foot installed:</p>
+<ul>
+<li><strong>Vinyl:</strong> a lower-cost range</li>
+<li><strong>Fibre cement (Hardie-style):</strong> moderately higher</li>
+<li><strong>Steel or metal siding:</strong> higher</li>
+<li><strong>Wood or engineered wood:</strong> higher</li>
+<li><strong>Stucco or cellular composite systems:</strong> moderately higher</li>
+</ul>
+<p>Translate that into wall area and you get a clearer full-home picture. A small bungalow or townhome, roughly 1,200 to 1,800 square feet of livable space, usually needs 1,400 to 2,000 square feet of siding once you account for wall height and gables, putting the job around $9,000 to $20,000 in vinyl or $14,000 to $28,000 in fibre cement. A medium two-storey (1,800 to 2,400 square feet) often needs 2,000 to 2,600 square feet of siding, landing between $12,000 and $26,000 for vinyl and $18,000 to $35,000 for fibre cement. Larger homes over 2,400 square feet frequently push past $32,000 once you add dormers, bay windows, and multiple gables.</p>
+<p>“Installed” typically covers materials, fasteners, standard house wrap, and basic trim work. It usually does not include sheathing repair, upgraded insulation, permit fees, or disposal of old material unless your contractor states those separately in writing.</p>
+<h2>Why quotes vary: tear-off, sheathing, and hidden repair costs</h2>
+<p>The gap between a $14,000 quote and a $28,000 quote rarely comes down to sales markup. It comes down to what’s underneath the old siding.</p>
+<ol>
+<li><strong>Tear-off versus overlay.</strong> Overlaying new siding over old panels is cheaper upfront but traps moisture and hides problems. Full tear-off costs more in labour but lets your contractor actually see the sheathing.</li>
+<li><strong>Sheathing and rot remediation.</strong> Calgary’s freeze-thaw cycles push moisture behind panels through failed caulking and cracked seams. Soft or rotted sheathing shows up often enough that it deserves a line item, not a surprise.</li>
+<li><strong>Insulation and air barrier upgrades.</strong> Replacing siding is the cheapest time to add continuous insulation, since the wall is already open.</li>
+<li><strong>New house wrap, flashing, and window trim.</strong> These small components prevent the next round of water damage and add up fast if they’re all replaced at once.</li>
+<li><strong>Scaffolding, access, and disposal.</strong> Two-storey homes with limited yard access cost more to scaffold and haul debris from.</li>
+<li><strong>Seasonal labour premiums.</strong> Late-fall and early-spring bookings sometimes carry a premium simply because crews are stretched thin before winter.</li>
+</ol>
+<p><strong>Pro Tip:</strong> <em>Ask your contractor to quote a per-square-foot rate for sheathing replacement separately, in advance. That way, if they open a wall and find rot, you already know the number instead of negotiating on the spot.</em></p>
+<h2>Which siding material holds up best in Calgary’s climate?</h2>
+<p>Calgary throws a lot at exterior walls: frequent hail, intense UV at altitude, dozens of freeze-thaw cycles each winter, and chinook winds that swing temperatures 20 degrees in an afternoon. Material choice matters more here than in milder climates.</p>
+<ul>
+<li><strong>Vinyl</strong> costs the least and installs quickly, but hailstones can crack or dent panels, and UV exposure fades colour over 10 to 15 years. It still makes sense for rental properties, secondary structures, or budget-driven projects where a repaint isn’t an option anyway.</li>
+<li><strong>Fibre cement</strong> (Hardie-style products) resists hail impact and doesn’t fade the way vinyl does, but it costs more installed and needs repainting every 10 to 15 years. The City of Calgary’s climate-ready guidance points to fibre cement and metal as stronger long-term performers against hail and freeze-thaw specifically because of this resilience.</li>
+<li><strong>Steel and metal siding</strong> shrugs off hail almost entirely and handles wind well, though it can transmit more sound and heat without added backing insulation. Finish options have expanded well beyond the corrugated look most people picture.</li>
+<li><strong>Wood and engineered wood</strong> deliver the best natural aesthetic but demand the most upkeep. In freeze-thaw country, that means more frequent sealing and repair than most homeowners plan for.</li>
+<li><strong>Stucco and cellular composite systems</strong> offer a different lifecycle profile entirely, with strong thermal performance but their own maintenance schedule around cracking and resealing.</li>
+</ul>
+<p>Read more on how <a href="https://stateracontracting.com/blog/vinyl-vs-fiber-cement" target="_blank" rel="noopener">vinyl and fibre cement compare for Canadian homes</a> or check <a href="https://stateracontracting.com/blog/siding-vs-stucco" target="_blank" rel="noopener">siding against stucco</a> if you’re weighing a completely different exterior system.</p>
+<h2>Should you repair or fully replace your siding?</h2>
+<p>Small, isolated damage rarely justifies tearing off an entire home’s siding. But there are thresholds where repair stops making financial sense.</p>
+<ul>
+<li><strong>Damaged area.</strong> If a significant portion of one wall shows cracking, warping, or hail dents, patch repairs can cost nearly as much as replacement once labour and material minimums are factored in.</li>
+<li><strong>Age.</strong> Older siding, typically more than two decades old, often outlives its protective elements like house wrap and flashing, even if the panels look fine.</li>
+<li><strong>Recurring staining or moisture marks.</strong> A stain that reappears after cleaning almost always signals a leak path behind the panel, not a surface problem.</li>
+<li><strong>Hidden sheathing rot or failed flashing.</strong> Local siding guides note that repair costs range widely, from a few hundred dollars for a single panel swap to several thousand for wider damage, but once rot or flashing failure is confirmed, full replacement almost always wins on long-term cost.</li>
+</ul>
+<p>Insurance can shift this calculation too. A hail claim that covers one elevation sometimes makes it worth self-funding the remaining walls to match material and colour, rather than living with mismatched siding for another decade.</p>
+<h2>When to schedule siding work and what permits to expect</h2>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1788015899118_When-to-schedule-siding-work-and-what-permits-to-expect-overview-diagram.jpeg" alt="When to schedule siding work and what permits to expect — overview diagram" /></p>
+<p>Calgary contractors generally recommend booking siding work in late spring through early fall. Cold-weather installation risks brittle vinyl cracking during handling and caulking that won’t cure properly, issues that tend to surface the following winter, not on install day.</p>
+<p>A realistic timeline runs:</p>
+<ul>
+<li><strong>Estimate to signed contract:</strong> 1 to 2 weeks</li>
+<li><strong>Material ordering:</strong> 2 to 6 weeks depending on product and colour</li>
+<li><strong>Installation:</strong> 3 to 10 days for most detached homes, longer with sheathing repair</li>
+</ul>
+<p>Permits are commonly required for full siding replacement in Calgary, particularly when sheathing or insulation changes affect the building envelope. If your project follows hail or storm damage, your insurer will typically want photos, a contractor estimate, and a claim number before work starts. Confirm permit requirements with your contractor before signing.</p>
+<h2>What Calgary siding jobs actually reveal once the panels come off</h2>
+<p>Every Calgary siding crew has stories about what’s hiding behind intact-looking panels. Soft sheathing near ground-level splash zones, flashing that was never properly sealed above windows, and hail damage patterns concentrated on north and west-facing walls all show up more often than homeowners expect.</p>
+<blockquote>
+<p>The panels can look perfectly fine from the driveway while the sheathing behind them has been absorbing moisture for years. That’s the gap between a cosmetic siding job and one that actually protects the house.</p>
+</blockquote>
+<p>Set aside a contingency for sheathing and insulation repairs discovered after tear-off rather than treating it as an unlikely scenario. A professional quote from a firm like <a href="https://www.stateracontracting.com/" target="_blank" rel="noopener">Statera Contracting</a> should separate materials, labour, tear-off, and that contingency into distinct line items. If a quote bundles everything into one number with no breakdown, treat that as a red flag, not a convenience.</p>
+<h2>How to get comparable siding quotes in Calgary</h2>
+<p>Get at least three written quotes, and insist they’re structured the same way so you’re comparing apples to apples, not just bottom-line totals.</p>
+<ol>
+<li>Confirm each quote itemizes tear-off, sheathing repair rate, materials, labour, and disposal separately.</li>
+<li>Ask what warranty applies to both materials and workmanship, and whether it transfers if you sell the home.</li>
+<li>Verify the contractor’s business licence, WCB coverage, and liability insurance directly, not just by taking their word for it.</li>
+<li>Request two recent local references you can actually call.</li>
+<li>Ask how they handle unexpected sheathing rot discovered mid-project, before work starts, not after.</li>
+</ol>
+<p>For a broader look at vetting contractors, see <a href="https://stateracontracting.com/blog/choose-a-renovation-contractor-calgary" target="_blank" rel="noopener">how to choose a renovation contractor in Calgary</a>.</p>
+<h2>Why waiting on siding almost always costs more</h2>
+<p>The biggest mistake I see isn’t picking the wrong material. It’s delaying replacement while cosmetic damage quietly becomes structural. A cracked panel is cheap today and expensive in three years once moisture reaches the sheathing. Spend the extra dollars per square foot on a material built for Calgary’s hail and freeze-thaw cycles. It costs less than doing this twice.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Get a written siding estimate from Statera Contracting</h2>
+<p>Statera Contracting handles exterior renovations across Calgary, Okotoks, Cochrane, and Airdrie, alongside kitchen, bathroom, basement, and full home renovation work, backed by proper licensing and a straightforward approach to quoting. Where this article outlined line-item costs, sheathing risk, and material trade-offs, Statera Contracting builds every one of those into a written estimate before a single panel comes off your house, so you’re never negotiating a surprise mid-project.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If your siding is showing hail damage, fading, or you’re just tired of guessing what’s behind those panels, request a written estimate through <a href="https://stateracontracting.com" target="_blank" rel="noopener">Statera Contracting’s site</a> and get a real number instead of a range. And if siding work uncovers bigger renovation plans, from a <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement finish</a> to a full exterior overhaul, that same team can scope it while they’re already there. For homeowners coordinating insulation upgrades alongside exterior work, <a href="https://theatticgenius.com/attic-insulation-full-replacement-guide" target="_blank" rel="nofollow noopener noreferrer">The Attic Genius</a> has a useful breakdown on full insulation replacement worth reading before you finalize your siding contract.</p>
+<h2>Sources</h2>
+<ul>
+<li>Siding Replacement in Calgary: Costs, Types and Hiring Tips</li>
+<li><a href="https://www.calgary.ca/environment/resources/climate-ready-measures--exterior-walls-and-siding.html" rel="nofollow noopener noreferrer" target="_blank">Climate-ready measures — exterior walls and siding | City of Calgary</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide</a></li>
+<li><a href="https://stateracontracting.com/blog/vinyl-vs-fiber-cement" target="_blank" rel="noopener">Vinyl vs fibre cement siding: Canada homeowner’s guide</a></li>
+<li><a href="https://stateracontracting.com/blog/siding-vs-stucco" target="_blank" rel="noopener">Siding vs stucco for Canadian homes: which should you choose?</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
