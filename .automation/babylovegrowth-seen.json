@@ -56,5 +56,7 @@
   "786842": { "status": "published", "publishedAt": "2026-09-01" },
   "789962": { "status": "published", "publishedAt": "2026-09-02" },
   "794297": { "status": "published", "publishedAt": "2026-09-03" },
-  "798003": { "status": "queued", "reason": "discovered on schedule fallback run 2026-09-01; created_at 2026-09-01, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-04 -- not yet arrived anyway. Webhook fired 2026-09-03 confirming finalization, but it stays behind #794297 in the queue and today's slot was used by #794297 (daily publish limit 1/day). Will drain on a future run." }
+  "798003": { "status": "queued", "reason": "discovered on schedule fallback run 2026-09-01; created_at 2026-09-01, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-04 -- not yet arrived anyway. Webhook fired 2026-09-03 confirming finalization, but it stays behind #794297 in the queue and today's slot was used by #794297 (daily publish limit 1/day). Will drain on a future run." },
+  "804560": { "status": "queued", "reason": "discovered on schedule fallback run 2026-09-03; created_at 2026-09-02, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-05 -- not yet arrived. Today's slot already used by #794297 (published 2026-09-03), and #798003 is ahead of it in the queue anyway." },
+  "807863": { "status": "queued", "reason": "discovered on schedule fallback run 2026-09-03; created_at 2026-09-03, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-06 -- not yet arrived. Today's slot already used by #794297 (published 2026-09-03), and #798003/#804560 are ahead of it in the queue anyway." }
 }
