@@ -55,6 +55,6 @@
   "780201": { "status": "published", "publishedAt": "2026-08-31" },
   "786842": { "status": "published", "publishedAt": "2026-09-01" },
   "789962": { "status": "published", "publishedAt": "2026-09-02" },
-  "794297": { "status": "queued", "reason": "discovered on schedule fallback run 2026-08-31; created_at 2026-08-31, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-03 -- not yet arrived. Today's (2026-08-31) publish slot was already used by #780201." },
-  "798003": { "status": "queued", "reason": "discovered on schedule fallback run 2026-09-01; created_at 2026-09-01, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-04 -- not yet arrived anyway. Today's (2026-09-01) publish slot was already used by #786842 (daily publish limit 1/day)." }
+  "794297": { "status": "published", "publishedAt": "2026-09-03" },
+  "798003": { "status": "queued", "reason": "discovered on schedule fallback run 2026-09-01; created_at 2026-09-01, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-04 -- not yet arrived anyway. Webhook fired 2026-09-03 confirming finalization, but it stays behind #794297 in the queue and today's slot was used by #794297 (daily publish limit 1/day). Will drain on a future run." }
 }

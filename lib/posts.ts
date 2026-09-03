@@ -13498,6 +13498,172 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "renovating-while-open",
+    title: "Renovating While Open: How Homeowners and Businesses Stay Operational",
+    excerpt:
+      "Renovating while occupied is realistic for most contained projects, provided your heat, water, electrical, and exits keep working throughout. The single deciding factor is scope: a kitchen refresh rarely forces you out, while a full-home rebuild often does.",
+    date: "2026-09-03",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1788156566117_Occupied-home-beside-a-contained-renovation-zone.jpeg",
+    coverAlt: "Renovating While Open: How Homeowners and Businesses Stay Operational",
+    category: "Industry News",
+    readingTime: "11 min read",
+    metaTitle: "Renovating While Open: How Homeowners and Businesses Stay Operational",
+    metaDescription:
+      "Actionable, decision-focused steps to phase work, set containment, manage permits and insurance, and keep your home or business running safely during a...",
+    content: [
+      {
+        type: "html",
+        html: `<p>Renovating while occupied is realistic for most contained projects, provided your heat, water, electrical, and exits keep working throughout. The single deciding factor is scope: a kitchen refresh rarely forces you out, while a full-home rebuild often does. Start with a phasing plan, set up containment before the first hammer swings, and check whether your building department or insurer needs a heads up, sometimes including a <a href="https://legalclarity.org/can-i-live-in-my-house-during-construction-rules-risks/" rel="nofollow noopener noreferrer" target="_blank">temporary certificate of occupancy</a>. Statera Contracting builds this decision into every proposal before demolition begins.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>Phasing strategies depend on project scope, with micro-phasing suitable for small changes and zone-by-zone for larger, connected renovations.</li>
+<li>Effective containment involves rigid barriers and continuous dust control measures, with daily inspections to ensure emergency exits remain accessible.</li>
+<li>Dust and fume management relies on HEPA filtration and scheduling heavy tasks off-hours, especially for vulnerable populations.</li>
+<li>Clear communication through signage, online updates, and staff briefings reduces renovation-related friction and maintains business or household operations.</li>
+<li>Most occupied renovations are manageable with proper planning, but homeowners and business owners must confirm habitability, insurance, and contingency plans beforehand.</li>
+</ul>
+</blockquote>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#how-do-you-phase-renovations-to-keep-the-space-usable">How do you phase renovations to keep the space usable?</a></li>
+<li><a href="#how-do-you-protect-people-and-preserve-emergency-exits-during-construction">How do you protect people and preserve emergency exits during construction?</a></li>
+<li><a href="#what-controls-dust-and-fumes-when-people-are-present">What controls dust and fumes when people are present?</a></li>
+<li><a href="#how-do-you-keep-customers-staff-and-household-members-informed">How do you keep customers, staff, and household members informed?</a></li>
+<li><a href="#when-do-you-need-a-temporary-certificate-of-occupancy">When do you need a temporary certificate of occupancy?</a></li>
+<li><a href="#how-does-staying-during-construction-affect-your-insurance">How does staying during construction affect your insurance?</a></li>
+<li><a href="#should-you-stay-partially-relocate-or-move-out-entirely">Should you stay, partially relocate, or move out entirely?</a></li>
+<li><a href="#what-temporary-setups-make-daily-life-easier-during-construction">What temporary setups make daily life easier during construction?</a></li>
+<li><a href="#what-does-statera-contractings-occupied-project-playbook-look-like">What does Statera Contracting’s occupied-project playbook look like?</a></li>
+<li><a href="#is-it-actually-worth-staying-during-a-renovation">Is it actually worth staying during a renovation?</a></li>
+<li><a href="#how-can-statera-contracting-help-you-renovate-without-shutting-down">How can Statera Contracting help you renovate without shutting down?</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>How do you phase renovations to keep the space usable?</h2>
+<p>Two approaches dominate occupied renovation work, and picking the right one depends on how much of the building needs to change.</p>
+<p><strong>Micro-phasing</strong> breaks a single room or system into small, sequential steps. Renovate one bathroom while the other stays fully functional. Rewire one electrical panel section at a time so lights and outlets never all go dark at once. <strong>Zone-by-zone sequencing</strong> works better for larger, connected projects: build the addition first, then switch occupancy into the new space while the old rooms get gutted.</p>
+<p>A typical residential sequence looks like this:</p>
+<ol>
+<li>Complete the least disruptive room first (often a powder room or laundry area) to prove out the crew’s containment routine.</li>
+<li>Move to higher-impact spaces, such as the kitchen, once the household has adjusted to noise and access changes.</li>
+<li>Save structural or mechanical work, which tends to force temporary relocation, for last.</li>
+<li>Finish with cosmetic items (trim, paint, fixtures) that need minimal containment.</li>
+</ol>
+<p>Occupied timelines rarely match vacant-site schedules. Crews spend real time each day setting up and tearing down containment, coordinating around your routines, which stretches the calendar compared to an empty building. Zone isolation and phased scheduling are the backbone of keeping operations running, whether that’s a household or a storefront.</p>
+<h2>How do you protect people and preserve emergency exits during construction?</h2>
+<p>Containment is not optional plastic sheeting taped to a doorway. A properly built work zone uses rigid barriers, self-closing partitions, and, on larger jobs, negative-pressure enclosures that pull dust-laden air through a filtered exhaust rather than letting it drift into living or shop space.</p>
+<p>Daily upkeep matters as much as the initial setup:</p>
+<ul>
+<li>Contractors should sweep and vacuum work zones at the end of every shift, not just at project milestones.</li>
+<li>Finished surfaces near the work area need floor protection and corner guards, checked daily.</li>
+<li>Homeowners or staff should confirm nightly that hallways and exits are clear, not just once at kickoff.</li>
+<li>Ramps or temporary routing must be re-evaluated any time a hallway or stairwell narrows.</li>
+</ul>
+<p>Emergency egress cannot be treated as an afterthought. If a hallway gets partially blocked by materials or a containment wall, someone needs to map an alternate path immediately, and everyone in the building needs to know it.</p>
+<p><strong>Pro Tip:</strong> <em>Walk your own containment zone at night with the lights off you’d use in an actual emergency. If you can’t find the exit route by feel, neither can anyone else.</em></p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1788156565355_Clear-emergency-route-beside-renovation-containment.jpeg" alt="Clear emergency route beside renovation containment" /></p>
+<h2>What controls dust and fumes when people are present?</h2>
+<p>Airborne particles are the biggest daily hazard in an occupied renovation, and they travel farther than most people expect. Standard practice pairs HEPA filtration with negative-air machines positioned at the containment boundary, pulling contaminated air out before it reaches shared hallways or dining rooms.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1788156565291_HEPA-filtration-unit-at-renovation-containment-boundary.jpeg" alt="HEPA filtration unit at renovation containment boundary" /></p>
+<p>Sanding, demolition, and spray finishing generate the heaviest particulate loads, so schedule those tasks for off-hours when possible, and isolate the HVAC system serving the work zone so dust doesn’t recirculate through the whole building.</p>
+<p>Some practical rules worth following:</p>
+<ul>
+<li>Run HEPA units continuously during active work, not just during dusty tasks.</li>
+<li>Seal or temporarily cap return-air vents inside the containment area.</li>
+<li>Keep at least one air purifier running in adjacent occupied rooms as a second line of defence.</li>
+<li>Reassess ventilation any time containment is opened for material deliveries.</li>
+</ul>
+<p><strong>Health context:</strong> young children, seniors, and anyone with a respiratory condition face a meaningfully higher risk from construction dust, and that risk should weigh more heavily than schedule convenience when deciding who stays and who relocates during heavy-demolition phases.</p>
+<h2>How do you keep customers, staff, and household members informed?</h2>
+<p>Communication failures cause more renovation friction than the construction itself. People tolerate noise and dust reasonably well when they know what’s coming; they get frustrated fast when they don’t.</p>
+<p>For customer-facing businesses, three tactics do most of the work:</p>
+<ol>
+<li>Post clear signage at every entrance explaining what’s happening and pointing to alternate access if the main entrance is affected.</li>
+<li>Publish updates online (social media, website banner, email list) before major disruptive phases, not after complaints start.</li>
+<li>Consider a modest promotion during the roughest week to soften the inconvenience and keep foot traffic coming.</li>
+</ol>
+<p>Staff need a different kind of clarity. Give crews and employees one single point of contact for renovation questions, hold a short safety briefing before each new phase starts, and post a plain-language code of conduct so everyone knows the rules around tools, noise hours, and restricted areas. Business continuity planning and micro-phasing work best when paired with a look-ahead schedule that staff can actually see.</p>
+<p>Don’t overlook IT and point-of-sale continuity. A backup internet connection and a plan for temporary power during electrical work prevent a renovation delay from becoming a lost sales day.</p>
+<h2>When do you need a temporary certificate of occupancy?</h2>
+<p>Building departments care about habitability, not aesthetics. The core minimums are consistent across most jurisdictions: working heat, at least one functional toilet and shower, adequate electrical lighting, and a clear emergency escape route. Threaten any one of those during construction, and you may need formal sign-off to legally stay.</p>
+<p>That sign-off often takes the form of a temporary certificate of occupancy, which allows continued use of a space while work continues elsewhere in the building. These are frequently time-limited, sometimes 30 to 60 days, and need renewal if the project runs past that window.</p>
+<p>Before demolition starts, it’s worth confirming with your local building department:</p>
+<ul>
+<li>Whether your specific scope of work triggers a habitability review.</li>
+<li>What documentation they need to issue a TCO, and how long it typically takes.</li>
+<li>Whether phased inspections are required as each zone comes back online.</li>
+</ul>
+<p>The International Residential Code sets the baseline many jurisdictions build local rules from, but enforcement and timelines vary by municipality, so a direct call to your building department beats guessing.</p>
+<h2>How does staying during construction affect your insurance?</h2>
+<p>Most homeowners policies are written for a finished, stable home. Active construction changes the risk profile enough that insurers describe it as an increased hazard, and <a href="https://www.surex.com/blog/home-renovation-insurance-canada-your-complete-guide" rel="nofollow noopener noreferrer" target="_blank">failing to notify your insurer</a> can put coverage at risk right when you need it most.</p>
+<p>Before work begins, contact your insurer and ask about:</p>
+<ul>
+<li>A <strong>renovation endorsement</strong> that keeps your existing policy valid during the project.</li>
+<li>Whether your contractor’s <strong>builder’s risk policy</strong> covers the occupied portions of the building, since many builder’s risk policies have gaps around partial occupancy.</li>
+<li>What documentation they’ll want if a claim happens mid-project.</li>
+</ul>
+<p>Your contract with the contractor should also spell out sequencing commitments, daily cleanup obligations, site access rules, and indemnity language covering damage to unrenovated areas. A vague contract is where occupied-renovation disputes usually start.</p>
+<h2>Should you stay, partially relocate, or move out entirely?</h2>
+<p>Run through this short list before committing to any plan:</p>
+<ol>
+<li>Which rooms absolutely must stay functional (a working kitchen, a bathroom, a bedroom with heat)?</li>
+<li>Who is actually living or working in the space, and does anyone fall into a higher health-risk group?</li>
+<li>Does the project involve severe dust, structural work, or a full utility shutdown at any point?</li>
+</ol>
+<p>Cost matters here too. A longer phased timeline with containment usually costs less overall than short-term housing or a temporary retail location, but that math changes fast if the phased schedule stretches into months.</p>
+<p>Set conservative relocation triggers ahead of time: no working kitchen for more than a defined stretch, loss of all primary egress, or a major HVAC outage during extreme weather. Decide the trigger before you’re in the middle of the mess, not during it.</p>
+<p><strong>Pro Tip:</strong> <em>Write your relocation triggers down and share them with your contractor before signing the contract. It removes the guesswork exactly when you’re too stressed to think clearly.</em></p>
+<h2>What temporary setups make daily life easier during construction?</h2>
+<p>A functioning temporary kitchen keeps a household or small operation sane during a full kitchen renovation. The basics: an induction cooktop, a toaster oven, a small fridge, and access to a sink somewhere in the house, even if it’s the laundry room.</p>
+<ul>
+<li>Stage materials and tools well away from doorways, hallways, and exits, never in front of them.</li>
+<li>Set a nightly lockdown routine: tools secured, exits clear, containment checked before the crew leaves.</li>
+<li>Agree on delivery windows and crew arrival times in advance so the household or staff aren’t surprised every morning.</li>
+<li>Keep a small stock of cleaning supplies on hand for the dust that inevitably escapes containment anyway.</li>
+</ul>
+<h2>What does Statera Contracting’s occupied-project playbook look like?</h2>
+<p>The decisions that determine whether you can stay get made during design week, not on demolition day. Where the temporary kitchen goes, where containment walls land, and which paths crews use to move materials all need to be locked in before anyone picks up a tool.</p>
+<p>Day to day, Statera Contracting runs occupied jobs on a few fixed controls:</p>
+<ul>
+<li>A single project supervisor as the one point of contact for schedule and safety questions.</li>
+<li>Daily cleanup logged as part of the crew’s routine, not an afterthought.</li>
+<li>A posted code of conduct covering noise hours, restricted zones, and tool storage.</li>
+</ul>
+<p>For readers planning a longer-term project, Statera Contracting’s <a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">tenant improvement timeline guide</a> and <a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">owner’s roadmap</a> go deeper on permitting and sequencing specifics.</p>
+<h2>Is it actually worth staying during a renovation?</h2>
+<p>My honest read: most homeowners overestimate how disruptive a well-phased renovation will be, and most business owners underestimate it. A household can absorb a lot of noise and inconvenience if the kitchen and a bathroom keep working. A restaurant loses customers the moment foot traffic feels unsafe or confused, no matter how good the food is. The gap between those two realities is where most bad decisions happen.</p>
+<p>Before you commit to staying, take three concrete steps: call your local building department to ask about habitability rules for your specific scope, contact your insurer about a renovation endorsement, and ask your contractor for a written phasing and containment plan before you sign anything.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>How can Statera Contracting help you renovate without shutting down?</h2>
+<p>Statera Contracting is the contractor built for occupied projects specifically, sequencing work so your household or business keeps running instead of packing up and disappearing for months. That’s the practical difference for a Calgary-area homeowner or business owner: a phasing plan and containment strategy built into the proposal from day one, not bolted on after problems start.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Statera Contracting handles <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovations</a>, <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovations</a>, <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement conversions</a>, and <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial tenant improvements</a> for restaurants, offices, and retail spaces across Calgary and nearby communities. Every occupied-work proposal spells out the phasing sequence, the containment method, and a single point of contact you can reach throughout the project. If you’re weighing whether to stay put during your next renovation, reach out through any of the service pages above to get a proposal built around staying open.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://legalclarity.org/can-i-live-in-my-house-during-construction-rules-risks/" rel="nofollow noopener noreferrer" target="_blank">Can I Live in My House During Construction: Rules &amp; Risks - LegalClarity</a></li>
+<li><a href="https://www.surex.com/blog/home-renovation-insurance-canada-your-complete-guide" rel="nofollow noopener noreferrer" target="_blank">Home renovation insurance: Canada guide - Surex</a></li>
+<li>Occupied space construction: working around occupants - Pro Commercial</li>
+<li>How to plan a commercial renovation without hurting business - Senso Design</li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">Commercial Renovation Calgary: TI Timeline Guide</a></li>
+<li><a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">Renovating an older home: what Alberta homeowners need to know</a></li>
+<li><a href="https://stateracontracting.com/blog/renovation-financing-options-canada" target="_blank" rel="noopener">Renovation financing options in Canada: a size-based guide</a></li>
+<li><a href="https://stateracontracting.com/blog/office-renovations" target="_blank" rel="noopener">Office renovations in Alberta: your contractor guide</a></li>
+</ul>
+
+`,
+      },
+    ],
+  },
 ];
 
 
