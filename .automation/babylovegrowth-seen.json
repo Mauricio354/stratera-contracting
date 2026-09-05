@@ -58,5 +58,7 @@
   "794297": { "status": "published", "publishedAt": "2026-09-03" },
   "798003": { "status": "published", "publishedAt": "2026-09-04" },
   "804560": { "status": "published", "publishedAt": "2026-09-05" },
-  "807863": { "status": "queued", "reason": "webhook fired for this article on 2026-09-05, but queue backlog took priority: #804560 (lower ID, estimated calendar slot 2026-09-05) was picked instead per the oldest-queued-first rule. created_at 2026-09-03, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-06 -- today's slot used by #804560 (published 2026-09-05)." }
+  "807863": { "status": "queued", "reason": "webhook fired for this article on 2026-09-05, but queue backlog took priority: #804560 (lower ID, estimated calendar slot 2026-09-05) was picked instead per the oldest-queued-first rule. created_at 2026-09-03, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-06 -- today's slot used by #804560 (published 2026-09-05)." },
+  "815095": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-09-05 (#804560 published today). New article found on schedule-fallback list. created_at 2026-09-05T05:41:12Z, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-08." },
+  "815914": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-09-05 (#804560 published today). New article found on schedule-fallback list. created_at 2026-09-05T10:07:45Z, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-08." }
 }
