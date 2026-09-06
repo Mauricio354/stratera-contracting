@@ -60,5 +60,6 @@
   "804560": { "status": "published", "publishedAt": "2026-09-05" },
   "807863": { "status": "published", "publishedAt": "2026-09-06" },
   "815095": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-09-05 (#804560 published today). New article found on schedule-fallback list. created_at 2026-09-05T05:41:12Z, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-08." },
-  "815914": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-09-05 (#804560 published today). New article found on schedule-fallback list. created_at 2026-09-05T10:07:45Z, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-08." }
+  "815914": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-09-05 (#804560 published today). New article found on schedule-fallback list. created_at 2026-09-05T10:07:45Z, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-08." },
+  "820654": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-09-06 (#807863 published today). New article found on schedule-fallback list. created_at 2026-09-06T11:05:32Z, estimated calendar slot (created_at+3d, not confirmed) is 2026-09-09." }
 }
