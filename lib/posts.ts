@@ -47,7 +47,7 @@ export const posts: Post[] = [
       "Calgary garage suite with a home office, dual monitors, exercise bike, weight bench and wide plank flooring.",
     category: "Home Additions",
     readingTime: "5 min read",
-    metaTitle: "Garage Suite Calgary: 2026 Cost Guide",
+    metaTitle: "Garage Suite Costs in Calgary: 2026 Conversion Guide",
     metaDescription:
       "What a garage suite conversion actually costs in Calgary in 2026, permit requirements, and whether it beats a full addition. From a licensed Calgary contractor.",
     content: [
