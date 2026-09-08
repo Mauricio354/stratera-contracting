@@ -62,7 +62,7 @@ export default function GalleryGrid({ images, columns = 4 }: GalleryGridProps) {
             onClick={() => { setLoaded(false); setLightboxIndex(i); }}
             className="relative aspect-[4/3] md:aspect-[3/2] rounded-card overflow-hidden group cursor-pointer"
           >
-            <Image src={img.src} alt={img.alt} fill className="object-cover transition-transform duration-500 group-hover:scale-105" sizes={columns === 3 ? "(max-width:768px) 50vw, 33vw" : "(max-width:768px) 50vw, 25vw"} />
+            <Image src={img.src} alt={img.alt} fill className="object-cover transition-transform duration-500 group-hover:scale-105" sizes={columns === 3 ? "(max-width:768px) 50vw, (max-width:1200px) 33vw, 384px" : "(max-width:768px) 50vw, (max-width:1200px) 25vw, 288px"} />
             <div className="absolute inset-0 bg-gradient-to-t from-primary/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             <p className="absolute bottom-4 left-4 right-4 text-white text-sm font-semibold opacity-0 group-hover:opacity-100 translate-y-2 group-hover:translate-y-0 transition-all duration-300 z-10">{img.label}</p>
           </button>

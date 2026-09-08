@@ -25,7 +25,7 @@ export async function generateMetadata({
   if (!post) return {};
   const url = `https://stateracontracting.com/blog/${post.slug}`;
   return {
-    title: post.metaTitle ?? post.title,
+    title: { absolute: post.metaTitle ?? post.title },
     description: post.metaDescription,
     alternates: { canonical: url },
     openGraph: {
@@ -64,7 +64,7 @@ export default async function BlogPostPage({
     "@type": "BlogPosting",
     headline: post.title,
     description: post.metaDescription,
-    image: `https://stateracontracting.com${post.coverImage}`,
+    image: new URL(post.coverImage, "https://stateracontracting.com").href,
     datePublished: post.date,
     dateModified: post.date,
     author: { "@type": "Person", name: post.author },
@@ -185,7 +185,7 @@ export default async function BlogPostPage({
                       src={p.coverImage}
                       alt={p.coverAlt}
                       fill
-                      sizes="(max-width: 768px) 100vw, 33vw"
+                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 33vw, 384px"
                       className="object-cover group-hover:scale-[1.02] transition-transform duration-500"
                     />
                   </div>

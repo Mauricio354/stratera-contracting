@@ -5,12 +5,11 @@ import SchemaMarkup, { localBusinessSchema } from "@/components/SchemaMarkup";
 import { getAllPosts, formatPostDate } from "@/lib/posts";
 
 export const metadata: Metadata = {
-  title: "Renovation Blog | Calgary Tips & Insights",
-  description:
-    "Calgary renovation tips, guides, and insights from Statera Contracting. Kitchen, bathroom, basement, and commercial renovation advice from 20+ years of experience.",
+  title: { absolute: "Renovation Blog: Calgary & Alberta Tips and Insights" },
+  description: "Explore Calgary renovation tips, cost guides and project insights for kitchens, bathrooms, basements and commercial spaces from Statera Contracting experts.",
   alternates: { canonical: "https://stateracontracting.com/blog" },
   openGraph: {
-    title: "Renovation Blog | Calgary Tips & Insights",
+    title: "Renovation Blog: Calgary & Alberta Tips and Insights",
     description:
       "Calgary renovation tips, guides, and insights from Statera Contracting.",
     url: "https://stateracontracting.com/blog",
@@ -92,7 +91,7 @@ export default function BlogIndexPage() {
                       src={featured.coverImage}
                       alt={featured.coverAlt}
                       fill
-                      sizes="(max-width: 768px) 100vw, 50vw"
+                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 576px"
                       className="object-cover group-hover:scale-[1.02] transition-transform duration-500"
                       priority
                     />
@@ -131,7 +130,7 @@ export default function BlogIndexPage() {
                           src={post.coverImage}
                           alt={post.coverAlt}
                           fill
-                          sizes="(max-width: 768px) 100vw, 33vw"
+                          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 33vw, 384px"
                           className="object-cover group-hover:scale-[1.02] transition-transform duration-500"
                         />
                       </div>
@@ -171,7 +170,7 @@ export default function BlogIndexPage() {
                       src={post.coverImage}
                       alt={post.coverAlt}
                       fill
-                      sizes="(max-width: 768px) 100vw, 50vw"
+                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 576px"
                       className="object-cover group-hover:scale-[1.02] transition-transform duration-500"
                       priority={idx === 0}
                     />

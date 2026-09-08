@@ -5,7 +5,7 @@ import ServicePageTemplate from "@/components/ServicePageTemplate";
 const service = getServiceBySlug("bathroom-renovation-calgary")!;
 
 export const metadata: Metadata = {
-  title: service.metaTitle,
+  title: { absolute: service.metaTitle },
   description: service.metaDescription,
   alternates: { canonical: `https://stateracontracting.com/services/${service.slug}` },
   openGraph: {

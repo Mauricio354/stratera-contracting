@@ -4,12 +4,11 @@ import Image from "next/image";
 import SchemaMarkup, { localBusinessSchema } from "@/components/SchemaMarkup";
 
 export const metadata: Metadata = {
-  title: "About Statera Contracting | 20+ Years in Calgary",
-  description:
-    "Statera Contracting is a Calgary renovation contractor with 20+ years of experience. Learn about our client-first approach, our team, and why Calgarians trust us with their homes and businesses.",
+  title: { absolute: "About Statera Contracting | Calgary Renovation Experts" },
+  description: "Meet Statera Contracting, a Calgary renovation contractor with 20+ years of experience. Learn about our team, craftsmanship and approach to managing projects.",
   alternates: { canonical: "https://stateracontracting.com/about" },
   openGraph: {
-    title: "About Statera Contracting | 20+ Years in Calgary",
+    title: "About Statera Contracting | Calgary Renovation Experts",
     description:
       "Statera Contracting is a Calgary renovation contractor with 20+ years of experience. Learn about our client-first approach and values.",
     url: "https://stateracontracting.com/about",
@@ -111,7 +110,7 @@ export default function AboutPage() {
         <div className="container grid grid-cols-1 lg:grid-cols-5 gap-16 items-center">
           <div className="relative w-full aspect-[4/3] rounded-card overflow-hidden lg:col-span-3">
             <Image
-              src="/images/couple fav.jpg"
+              src="/images/optimized/couple-fav.webp"
               alt="Jozee and Patrick, owners of Statera Contracting"
               fill
               className="object-cover"

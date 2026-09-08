@@ -42,9 +42,9 @@ export const posts: Post[] = [
       "What a garage suite conversion actually costs in Calgary, the parking and permit questions the City will ask, and whether it beats a full addition.",
     date: "2026-07-03",
     author: "Patrick Ballard",
-    coverImage: "/images/home-additions/garage-suite-calgary-office-gym.png",
+    coverImage: "/images/optimized/garage-suite-calgary-office-gym.webp",
     coverAlt:
-      "Converted Calgary garage suite with a home office on one side featuring a wood desk and dual monitors, and a home gym on the other with a bike, bench, and free weights, wide plank flooring throughout.",
+      "Calgary garage suite with a home office, dual monitors, exercise bike, weight bench and wide plank flooring.",
     category: "Home Additions",
     readingTime: "5 min read",
     metaTitle: "Garage Suite Calgary: 2026 Cost Guide",
@@ -126,9 +126,8 @@ export const posts: Post[] = [
       "Renovated Bearspaw bathroom with a white double vanity, grey quartz countertops, copper faucets, and a freestanding tub beneath a window.",
     category: "Bathroom Renovation",
     readingTime: "6 min read",
-    metaTitle: "Bathroom Renovation Bearspaw: Homeowner Guide",
-    metaDescription:
-      "Planning a bathroom renovation in Bearspaw? Practical guidance on permits, well water, septic, timelines, and costs for acreage and estate homes from a Calgary-area contractor.",
+    metaTitle: "Bathroom Renovation Bearspaw, Alberta | Homeowner Guide",
+    metaDescription: "Planning a Bearspaw bathroom renovation? Explore Rocky View County permits, well water, septic systems, timelines and costs for acreage and estate homes.",
     content: [
       {
         type: "paragraph",
@@ -306,7 +305,7 @@ export const posts: Post[] = [
       "Finished Calgary basement living space with open-concept layout, pot lighting, and modern finishes.",
     category: "Basement Renovation",
     readingTime: "5 min read",
-    metaTitle: "Basement Finishing Calgary: Full 2026 Guide",
+    metaTitle: "Basement Finishing Calgary: Costs, Permits & 2026 Guide",
     metaDescription:
       "Basement finishing Calgary guide for 2026. Layout ideas, permits, budget ranges, and how to pick a contractor you can trust.",
     content: [
@@ -405,7 +404,7 @@ export const posts: Post[] = [
       "Renovated Calgary living room at Hidden Spring Mews with double-height windows, vaulted ceiling, wide-plank wood floors, and a bright open-concept layout.",
     category: "Home Renovations",
     readingTime: "5 min read",
-    metaTitle: "Home Renovations Calgary 2026 Owner’s Roadmap",
+    metaTitle: "Calgary Home Renovation Planning Guide: 2026 Roadmap",
     metaDescription:
       "How to plan home renovations in Calgary in 2026: budgets, permits, trade sequencing, and avoiding the common mistakes. Statera Contracting.",
     content: [
@@ -473,12 +472,12 @@ export const posts: Post[] = [
       "Real Calgary bathroom renovation pricing for 2026, from refresh to full gut, plus what drives the number up or down and where to spend or save.",
     date: "2026-05-11",
     author: "Patrick Ballard",
-    coverImage: "/images/bathrooms/31_140_Cannington_Pl_SW_31_mls (1) (1).jpg",
+    coverImage: "/images/optimized/31_140_Cannington_Pl_SW_31_mls--1---1-.webp",
     coverAlt:
-      "Calgary bathroom renovation in Cannington Place with white subway tile shower, black-framed glass enclosure, hexagonal mosaic floor, navy vanity, brass fixtures, and wood floating shelves.",
+      "Cannington Place bathroom with subway tile shower, black glass enclosure, hexagonal floor tile, navy vanity and brass fixtures.",
     category: "Bathroom Renovation",
     readingTime: "5 min read",
-    metaTitle: "Bathroom Renovation Calgary 2026 Cost Guide",
+    metaTitle: "Calgary Bathroom Renovation Costs 2026 | Alberta Guide",
     metaDescription:
       "What a bathroom renovation in Calgary really costs in 2026, from refresh to full gut, with timelines and where to spend or save. Statera Contracting.",
     content: [
@@ -541,12 +540,12 @@ export const posts: Post[] = [
       "How a Calgary kitchen reno really starts: layout before finishes, real cost tiers, a realistic timeline, and walking into construction with zero surprises.",
     date: "2026-07-03",
     author: "Patrick Ballard",
-    coverImage: "/images/kitchens/14-web-or-mls-_MG_0029_1.jpg",
+    coverImage: "/images/optimized/14-web-or-mls-_MG_0029_1.webp",
     coverAlt:
-      "Bright white Calgary kitchen renovation with herringbone backsplash, calacatta quartz countertops, brushed brass hardware, double wall oven, and floating wood shelves.",
+      "White Calgary kitchen with herringbone backsplash, quartz countertops, brass hardware, double wall oven and wood shelves.",
     category: "Kitchen Renovation",
     readingTime: "6 min read",
-    metaTitle: "Planning a Kitchen Renovation in Calgary | Statera Tips",
+    metaTitle: "Calgary Kitchen Renovation Costs, Timeline & Planning Tips",
     metaDescription:
       "How to plan a kitchen renovation in Calgary in 2026: layout decisions, real cost tiers, timelines, permits, and what to know before you sign anything.",
     content: [
@@ -666,7 +665,7 @@ export const posts: Post[] = [
       "Bright white Calgary kitchen renovation with navy island, quartz countertops, glass pendant lights, and stainless appliances.",
     category: "Renovation Planning",
     readingTime: "5 min read",
-    metaTitle: "The Many Ways to Skin a Reno | Calgary Renovation Tips",
+    metaTitle: "Calgary Renovation Tips: Budget-Friendly Planning & Design",
     metaDescription:
       "Patrick Ballard on budget vs. vision, smart trade-offs, and a homeowner prep checklist for getting the renovation you want at any budget in Calgary.",
     content: [
@@ -767,12 +766,12 @@ export const posts: Post[] = [
       "What Calgary business owners need to know about tenant improvement timelines, the permit stack, and what actually drives commercial renovation costs before signing a lease.",
     date: "2026-07-08",
     author: "Patrick Ballard",
-    coverImage: "/images/commercial/DSC_8407.jpg",
+    coverImage: "/images/optimized/DSC_8407.webp",
     coverAlt:
       "Finished commercial tenant improvement in Calgary — a reception area build-out with a custom quartz reception desk, wood-slat paneling, and backlit signage.",
     category: "Commercial Renovation",
     readingTime: "4 min read",
-    metaTitle: "Commercial Renovation Calgary: TI Timeline Guide | Statera",
+    metaTitle: "Commercial Renovation Calgary: Tenant Improvement Timelines",
     metaDescription:
       "What Calgary business owners need to know about tenant improvement timelines, permits, and costs before signing a lease or starting a build-out.",
     content: [

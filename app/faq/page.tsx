@@ -3,12 +3,12 @@ import Link from "next/link";
 import SchemaMarkup, { localBusinessSchema } from "@/components/SchemaMarkup";
 
 export const metadata: Metadata = {
-  title: "Renovation FAQs | Calgary Homeowners & Business Owners | Statera",
+  title: { absolute: "Renovation FAQs for Calgary Homeowners | Statera" },
   description:
     "Answers to the most common questions about renovation costs, timelines, permits, and what to expect when working with a Calgary renovation contractor.",
   alternates: { canonical: "https://stateracontracting.com/faq" },
   openGraph: {
-    title: "Renovation FAQs | Calgary Homeowners & Business Owners | Statera",
+    title: "Renovation FAQs for Calgary Homeowners | Statera",
     description:
       "Answers to the most common questions about renovation costs, timelines, permits, and what to expect when working with a Calgary renovation contractor.",
     url: "https://stateracontracting.com/faq",

@@ -3,12 +3,11 @@ import ContactForm from "@/components/ContactForm";
 import SchemaMarkup, { localBusinessSchema } from "@/components/SchemaMarkup";
 
 export const metadata: Metadata = {
-  title: "Get a Free Renovation Quote in Calgary | Statera Contracting",
-  description:
-    "Contact Statera Contracting for a free renovation consultation in Calgary. Kitchen, bathroom, basement & commercial renovations. Call 403-512-8755 or request a quote online.",
+  title: { absolute: "Free Calgary Renovation Quote | Statera Contracting" },
+  description: "Get a free renovation quote in Calgary from Statera Contracting. Kitchen, bathroom, basement, home additions and commercial renovations. Book a consultation.",
   alternates: { canonical: "https://stateracontracting.com/contact" },
   openGraph: {
-    title: "Get a Free Renovation Quote in Calgary | Statera Contracting",
+    title: "Free Calgary Renovation Quote | Statera Contracting",
     description:
       "Contact Statera Contracting for a free renovation consultation in Calgary. Call 403-512-8755 or request a quote online.",
     url: "https://stateracontracting.com/contact",

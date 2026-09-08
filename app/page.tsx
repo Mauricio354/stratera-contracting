@@ -7,9 +7,8 @@ import GalleryGrid from "@/components/GalleryGrid";
 import SchemaMarkup, { localBusinessSchema } from "@/components/SchemaMarkup";
 
 export const metadata: Metadata = {
-  title: "Statera Contracting | Calgary Renovation Experts",
-  description:
-    "Calgary's trusted renovation contractor with 20+ years of experience. Kitchen, bathroom, basement & commercial renovations. Licensed, insured & WCB compliant. Free consultation.",
+  title: { absolute: "Statera Contracting | Calgary Renovation Experts" },
+  description: "Calgary renovation contractor with 20+ years of experience. Kitchen, bathroom, basement and commercial renovations by Statera Contracting. Get a free quote.",
   alternates: { canonical: "https://stateracontracting.com" },
   openGraph: {
     title: "Statera Contracting | Calgary Renovation Experts",
@@ -120,9 +119,9 @@ const galleryItems = [
   { src: "/images/kitchens/DSC_9938 (1).jpg", alt: "Kitchen renovation Calgary — modern finishes", label: "Modern Kitchen — Complete Renovation" },
   { src: "/images/bathrooms/DSC_6625.jpg", alt: "Bathroom renovation Calgary — contemporary design", label: "Contemporary Bathroom — Full Remodel" },
   { src: "/images/living-spaces/04_127_Hidden_Spring_Mews_NW4 - Copy.jpg", alt: "Modern living room renovation Calgary — fireplace and windows", label: "Modern Living Room — Fireplace & Windows" },
-  { src: "/images/kitchens/14-web-or-mls-_MG_0029_1.jpg", alt: "Peninsula kitchen renovation Calgary", label: "Peninsula Kitchen" },
+  { src: "/images/optimized/14-web-or-mls-_MG_0029_1.webp", alt: "Peninsula kitchen renovation Calgary", label: "Peninsula Kitchen" },
   { src: "/images/living-spaces/DSC_5276 - Copy.jpg", alt: "Entertainment area renovation Calgary — custom cabinets and woodwork", label: "Entertainment Area — Custom Cabinets and Woodwork" },
-  { src: "/images/commercial/TheStill_Mar8_MichaelTrudeauPhotography_-6.jpg", alt: "Downtown restaurant renovation Calgary — bar and dining area", label: "Downtown Restaurant — Bar & Dining Area" },
+  { src: "/images/optimized/TheStill_Mar8_MichaelTrudeauPhotography_-6.webp", alt: "Downtown restaurant renovation Calgary — bar and dining area", label: "Downtown Restaurant — Bar & Dining Area" },
 ];
 
 export default function HomePage() {
@@ -135,7 +134,7 @@ export default function HomePage() {
         <div className="absolute inset-0 bg-gradient-to-br from-[#111] via-[#1a1a1a] to-[#222]" />
         <div className="hidden lg:block absolute inset-0">
           <Image
-            src="/images/hero.png"
+            src="/images/optimized/hero.webp"
             alt=""
             fill
             className="object-cover object-right"
