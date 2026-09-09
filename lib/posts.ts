@@ -14272,6 +14272,178 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "kitchen-lighting-plan",
+    title: "Contractor Ready Kitchen Lighting Plan: 70–100 lm/sq ft, Three Layer System",
+    excerpt:
+      "Use a three layer lighting plan, ambient, task, and accent, and size the whole system to about 70 to 100 lumens per square foot.",
+    date: "2026-09-08",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1788602796252_Layered-lighting-in-renovated-kitchen.jpeg",
+    coverAlt: "Contractor Ready Kitchen Lighting Plan: 70–100 lm/sq ft, Three Layer System",
+    category: "Industry News",
+    readingTime: "18 min read",
+    metaTitle: "Contractor Ready Kitchen Lighting Plan: 70–100 lm/sq ft, Three Layer System",
+    metaDescription:
+      "Contractor ready kitchen lighting plan: three layer system sized to 70–100 lm/sq ft, placement and dimmer zones, plus an install checklist you can hand to...",
+    content: [
+      {
+        type: "html",
+        html: `<p>Use a three layer lighting plan, ambient, task, and accent, and size the whole system to about 70 to 100 lumens per square foot. Start by mapping your work zones (sink, stove, island, counters), then pick one colour temperature between 2700K and 3000K with a CRI of 90 or higher, and split every layer onto its own dimmer. The rest of this guide walks through the math, the placement rules, and the checklist a contractor will actually use on site.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>Ensure the kitchen lighting plan includes separate dimmer controls for ambient, task, and accent layers to maximize flexibility and functionality.</li>
+<li>Plan fixture placement carefully, spacing recessed downlights 4 to 6 feet apart, and position island pendants and under-cabinet strips accurately to avoid shadows and hotspots.</li>
+<li>Use LED fixtures with a CRI of 90 or higher and a color temperature between 2700K and 3000K to maintain color harmony and energy efficiency.</li>
+<li>Verify sufficient circuits and proper driver placement with a licensed electrician before installation to meet safety standards and avoid future issues.</li>
+<li>Prioritize task lighting over aesthetic features, and align fixture specifications and controls early in the planning process for a cohesive, cost-effective kitchen remodel.</li>
+</ul>
+</blockquote>
+
+<p><strong>Statera Contracting — Plan Your Kitchen Renovation With Confidence.</strong> Statera Contracting renovates kitchens in Calgary and surrounding areas, along with bathrooms, basements, additions, exteriors, and commercial spaces. <a href="https://stateracontracting.com" target="_blank" rel="noopener">Explore renovation services</a></p>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-is-a-kitchen-lighting-plan-and-how-many-lumens-do-you-need">What is a kitchen lighting plan, and how many lumens do you need?</a></li>
+<li><a href="#how-should-you-place-and-space-kitchen-light-fixtures">How should you place and space kitchen light fixtures?</a></li>
+<li><a href="#what-colour-temperature-and-controls-does-a-kitchen-lighting-plan-need">What colour temperature and controls does a kitchen lighting plan need?</a></li>
+<li><a href="#what-kitchen-lighting-mistakes-should-you-check-for">What kitchen lighting mistakes should you check for?</a></li>
+<li><a href="#how-much-should-you-budget-for-kitchen-lighting">How much should you budget for kitchen lighting?</a></li>
+<li><a href="#how-does-a-contractor-turn-a-lighting-plan-into-a-finished-kitchen">How does a contractor turn a lighting plan into a finished kitchen?</a></li>
+<li><a href="#how-do-you-balance-natural-light-with-your-artificial-lighting-plan">How do you balance natural light with your artificial lighting plan?</a></li>
+<li><a href="#which-fixture-types-actually-work-well-in-a-kitchen">Which fixture types actually work well in a kitchen?</a></li>
+<li><a href="#what-makes-a-kitchen-lighting-plan-energy-efficient">What makes a kitchen lighting plan energy efficient?</a></li>
+<li><a href="#what-safety-factors-matter-for-kitchen-light-fixtures">What safety factors matter for kitchen light fixtures?</a></li>
+<li><a href="#the-tradeoffs-nobody-puts-in-the-brochure">The tradeoffs nobody puts in the brochure</a></li>
+<li><a href="#ready-to-install-your-kitchen-lighting-plan">Ready to install your kitchen lighting plan?</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What is a kitchen lighting plan, and how many lumens do you need?</h2>
+<p>A kitchen lighting plan is a layout that assigns light output, fixture type, and control to three distinct jobs: general room brightness, focused work light, and visual highlights. Most kitchens fail not because the fixtures are ugly, but because only one of these three layers ever got designed. You end up with a ceiling full of downlights and a countertop covered in your own shadow.</p>
+<p><strong>Ambient lighting</strong> fills the whole room evenly, usually from recessed downlights, flush mounts, or a central fixture. <strong>Task lighting</strong> targets the surfaces you actually work on, mainly under-cabinet strips and pendants over the island. <strong>Accent lighting</strong> is the layer that does nothing functional at all, toe-kick strips, glass-cabinet lighting, a statement pendant, and exists purely to add depth once the sun goes down. One design resource compares this to a stereo system: <a href="https://www.philips-hue.com/en-ca/explore-hue/blog/kitchen-lighting-ideas" rel="nofollow noopener noreferrer" target="_blank">ambient is the bass, task is the mid-range, and accent is the treble</a>. Skip the treble and the room still works. Skip the bass or mid-range and something feels wrong even if you can’t say why.</p>
+<p>The lumen target ties all three layers together. A well-planned kitchen should land <a href="https://www.multilighting.ca/blog/post/kitchen-lighting" rel="nofollow noopener noreferrer" target="_blank">between 70 and 100 lumens per square foot</a>, measured across the whole room, not per fixture. Here’s the math for a kitchen that’s a common size in newer builds:</p>
+<ol>
+<li>Measure the room: a mid-size kitchen is typical in many homes, with an approximate moderate size. (check your own <a href="https://stateracontracting.com/blog/average-kitchen-size" target="_blank" rel="noopener">average kitchen size</a> for comparison).</li>
+<li>Multiply by your target to estimate total lumens needed.</li>
+<li>Split that across layers: ideally divided into ambient, task, and accent portions to balance brightness and function.</li>
+</ol>
+<p>Once you know each layer’s lumen budget, you can shop by fixture output instead of guessing at wattage.</p>
+<p>If your ambient budget is 6,375 lumens and you’re using 700 lumen downlights, you need roughly nine of them, spaced to cover the room evenly rather than clustered near the sink. That’s a very different starting point than picking a fixture because it looked nice in a showroom.</p>
+<h2>How should you place and space kitchen light fixtures?</h2>
+<p>Placement matters more than fixture choice. A ceiling full of the right lights in the wrong spots still leaves you chopping onions in your own shadow.</p>
+<p><strong>Recessed downlights</strong> should be spaced on a grid, but the real rule that separates a good layout from a mediocre one is where that grid sits relative to your cabinets. Designers centre recessed fixtures in the walking aisle and align them with cabinet ends, rather than centring them over the cabinet face, which throws your shadow across the counter as you work. Placing lights slightly forward of the counter edge, centred in the aisle keeps the light falling on the countertop instead of on the back of your head. As a general spacing rule, keep recessed fixtures 4 to 6 feet apart on centre, tightening that spacing in smaller kitchens so you don’t end up with dark corners between cans.</p>
+<p><strong>Island pendants</strong> follow their own logic. For an island longer than 6 feet, plan two or three pendants; under that, two is usually enough. Space them evenly along the island’s length and hang them so the bottom of the fixture sits 30 to 36 inches above the counter surface, low enough to feel intentional, high enough that a six-foot guest doesn’t clip it with their forehead.</p>
+<p><strong>Under-cabinet lighting</strong> is where a lot of kitchens leave money on the table. A continuous LED strip mounted toward the front rail of the cabinet, behind a diffuser channel, throws even light across the counter without leaving visible dots of individual LEDs. Locating the strip near the front edge rather than the back also keeps the beam off the wall and onto the surface you’re actually cutting on. Pucks work in a pinch, but they create hot spots and dark gaps that a continuous strip avoids entirely. Drivers for these strips need to live somewhere accessible, not sealed inside a soffit, because a driver failure five years from now shouldn’t mean tearing open your ceiling.</p>
+<p>Range and sink zones each benefit from a dedicated fixture in addition to ambient lighting to ensure sufficient illumination. A single downlight or a small pendant over the sink, and either a hood light or a nearby recessed can over the range, closes the gap that ambient lighting alone leaves behind.</p>
+<ul>
+<li>Recessed spacing: 4 to 6 feet on centre, tighter in small kitchens</li>
+<li>Island pendants: two for islands under 6 feet, two or three beyond that</li>
+<li>Pendant height: 30 to 36 inches above the counter</li>
+<li>Under-cabinet strips: mounted at the front rail, behind a diffuser</li>
+<li>Sink and range: each gets a dedicated fixture, not ambient spillover</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Plan your switch and dimmer zones before your electrician runs a single wire. Ambient, task, and accent should each land on a separate switch or dimmer, ideally on separate circuits, so you can dim the ceiling lights for a dinner party while keeping full task light over the stove.</em></p>
+<h2>What colour temperature and controls does a kitchen lighting plan need?</h2>
+<p>Choosing a single colour temperature for the kitchen and applying it consistently across all fixtures helps maintain visual harmony. A room lit by 2700K pendants and 4000K recessed cans looks visibly off, even to someone who couldn’t tell you why, because the human eye is remarkably good at spotting mismatched white light in the same field of view. Designers generally <a href="https://amicolight.com/blogs/news/whats-the-best-color-temperature-for-a-kitchen-2700k-5000k-guide" rel="nofollow noopener noreferrer" target="_blank">standardise on a single colour temperature per kitchen</a> rather than mixing warm and cool fixtures, and reserve adjustable CCT fixtures for households whose taste is genuinely still evolving.</p>
+<p>For most homes, <a href="https://artika.com/blogs/inspiration/colour-temperature-complete-guide?shpxid=a0eda1d8-8682-475a-9fa9-9a384abef4e5" rel="nofollow noopener noreferrer" target="_blank">2700K to 3000K is the recommended range</a>: 3000K reads a little brighter and more neutral, 2700K feels warmer and closer to old incandescent bulbs. Anything past 3500K starts to feel clinical in a residential kitchen, more like a hospital hallway than a place you’d want to cook dinner.</p>
+<p>CRI, or colour rendering index, matters just as much as temperature and gets ignored far more often. A bulb with low CRI can technically be the “right” colour temperature and still make your tomatoes look grey and your countertop look dull. Specify <strong>CRI 90 or higher</strong> for every kitchen fixture, so food, skin tones, and cabinet finishes read the way they’re actually meant to.</p>
+<p>Controls tie the whole system together:</p>
+<ul>
+<li>Put ambient, task, and accent on separate dimmers, never a single switch for the whole room</li>
+<li>Confirm your LED strips and drivers are dimmer-compatible before you buy, since not every driver plays nicely with every dimmer</li>
+<li>A basic scene setup (bright for cooking, dimmed ambient plus accent for dinner) needs nothing more than standard dimmers wired to separate zones, though a smart switch system makes recalling those scenes a one-tap job</li>
+</ul>
+<h2>What kitchen lighting mistakes should you check for?</h2>
+<p>Most kitchen lighting problems trace back to five repeat offenders, and every one of them is fixable without tearing out drywall.</p>
+<ol>
+<li><strong>Downlights centred over cabinet faces instead of the aisle.</strong> This throws your shadow onto the counter every time you lean in to work. Fix: reposition new fixtures toward the aisle centre, or add a task light layer to compensate if the cans are already set.</li>
+<li><strong>Mixed colour temperatures across fixtures.</strong> A 2700K pendant next to 4000K recessed cans looks unfinished no matter how expensive the fixtures were. Fix: replace bulbs or retrofit trim kits to match one CCT throughout.</li>
+<li><strong>No under-cabinet task lighting at all.</strong> Ambient light alone leaves counters dimmer than the rest of the room, exactly where you need the most light. Fix: retrofit a plug-in LED strip kit; it’s one of the cheapest upgrades in the whole plan.</li>
+<li><strong>A single switch for the entire kitchen.</strong> No dimming zones means no flexibility between cooking and hosting. Fix: swap in a smart dimmer module at the switch, no new wiring required in most cases.</li>
+<li><strong>Too few circuits for the number of fixtures planned.</strong> This shows up mid-renovation when the electrical panel can’t support what the lighting plan calls for. Fix: this one needs an electrician early, before fixtures are ordered, not after.</li>
+</ol>
+<p>On-site checklist to walk through with your contractor or electrician:</p>
+<ul>
+<li>Confirm ceiling depth and joist locations before ordering recessed housings</li>
+<li>Verify every fixture shares the same colour temperature spec</li>
+<li>Confirm under-cabinet strips are on the order, not an afterthought</li>
+<li>Confirm each layer (ambient/task/accent) has its own switch or dimmer</li>
+<li>Confirm circuit capacity matches total fixture count before rough-in</li>
+</ul>
+<h2>How much should you budget for kitchen lighting?</h2>
+<p>Lighting rarely gets its own line item in a renovation budget, which is exactly why it’s so often underfunded. It usually gets folded into “electrical” and treated as an afterthought behind cabinets and countertops. That’s backwards, because lighting is one of the cheapest ways to change how a finished kitchen actually feels to use.</p>
+<p>At the <strong>budget tier</strong>, expect standard recessed downlights on one or two circuits, a single colour temperature, and maybe one dimmer for the whole room. It works, but it skips the layering that makes a kitchen feel finished. At the <strong>mid tier</strong>, you’re adding under-cabinet LED strips, separate dimmer zones for ambient and task, and pendant lighting over the island, generally the point where a kitchen starts to feel deliberately lit rather than just illuminated. At the <strong>custom tier</strong>, expect CRI 90+ specification across every fixture, layered accent lighting in glass cabinets or toe-kicks, and smart scene control, alongside dedicated circuits planned around the full lighting design rather than retrofitted to it. Contractor project data shows lighting line items scaling clearly across these tiers, with the biggest jump coming from adding dedicated circuits and driver infrastructure rather than the fixtures themselves.</p>
+<p>If you’re working with a tighter budget, prioritise in this order: under-cabinet LED strips first, since they’re inexpensive and consistently rated as the highest-return upgrade in a kitchen; dimmers second, because they cost little and add flexibility to every other fixture already in place; correct recessed layout third; and CRI upgrades last, since they matter most once the rest of the system is already in place. For a full breakdown of what fits into different renovation budgets, our <a href="https://stateracontracting.com/blog/budget-kitchen-renovations-your-2026-alberta-guide" target="_blank" rel="noopener">budget kitchen renovation guide</a> walks through the numbers by category.</p>
+<p>One rule that doesn’t bend regardless of budget: new circuits, driver placement, and anything touching your electrical panel needs a licensed electrician, both for safety and because most jurisdictions require it for code compliance.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1788602856492_How-much-should-you-budget-for-kitchen-lighting-overview-diagram.jpeg" alt="How much should you budget for kitchen lighting? — overview diagram" /></p>
+<h2>How does a contractor turn a lighting plan into a finished kitchen?</h2>
+<p>A proper lighting plan isn’t a mood board, it’s a document your electrician can build from without asking you twenty questions mid-install. On a kitchen renovation, that plan comes out of a site visit before anything gets ordered.</p>
+<p>The workflow runs in a fixed order: a site check to confirm ceiling depth, joist spacing, and existing wiring; a zoning pass to map which fixtures land on which switch or dimmer; driver and transformer placement, decided before rough-in so nothing ends up sealed behind drywall; fixture specification with colour temperature and CRI locked in across the whole kitchen; and a final aiming and scene setup once fixtures are live.</p>
+<p>What you should walk away with:</p>
+<ul>
+<li>A plan drawing showing every fixture location</li>
+<li>A lumen summary confirming the room hits its brightness target</li>
+<li>A switch map showing which fixtures are on which switch or dimmer</li>
+<li>Dimmer labels for the electrical panel</li>
+<li>Notes on driver access points for future maintenance</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask for the lumen summary in writing before fixtures are ordered. It’s the one document that lets you catch a lighting plan that’s short on task light before it’s too late to fix cheaply.</em></p>
+<p>For more on how planning fits into the broader renovation timeline, our <a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation planning guide</a> covers the sequence from permits through to final walkthrough.</p>
+<h2>How do you balance natural light with your artificial lighting plan?</h2>
+<p>Design your kitchen lighting as if the sun isn’t going to help you, then let daylight be a bonus rather than a dependency. Professional guidance recommends planning the full three-layer system as though there’s no daylight at all, because relying on windows leaves you with a kitchen that only works well for a few hours a day.</p>
+<p>That doesn’t mean ignoring your windows. A north-facing kitchen with limited direct sun needs its ambient layer sized closer to the top of the 70 to 100 lumens per square foot range, since there’s less natural fill to lean on. A kitchen with a large south-facing window can sometimes trim ambient fixture count slightly during daylight hours, but the task and accent layers still need full sizing, because direct sun rarely lines up with exactly where you’re chopping vegetables at 5 p.m. in January.</p>
+<p>Dimmers solve most of the daylight mismatch on their own. A kitchen wired with separate ambient and task zones lets you drop ambient output on a bright afternoon and bring it back up at dusk, without touching the task lighting over your counters at all. If your kitchen has a skylight or a large window wall, consider adding a photocell or simple daylight sensor to your ambient circuit, so the lights fade in gradually as the sun goes down instead of snapping on at full brightness the moment dusk hits.</p>
+<h2>Which fixture types actually work well in a kitchen?</h2>
+<p>Not every fixture style suits every layer, and picking the wrong one for the job is a common source of disappointment after installation.</p>
+<p><strong>Recessed downlights</strong> remain the default for ambient lighting because they disappear into the ceiling and don’t compete visually with cabinetry or a pendant over the island. They’re a poor choice as a stand-alone solution, though, since they can’t be aimed low enough to eliminate task shadows on their own.</p>
+<p><strong>Pendants</strong> do double duty as task light and personality. Over an island, a well-chosen pendant <a href="https://craneisland.com/designbuild" target="_blank" rel="nofollow noopener noreferrer">adds both function and visual character to the room</a>, which is why so many kitchen photos centre on island pendants rather than the ceiling grid around them. Choose glass or open-bottom shades if you want more light spread, and solid shades if you want a more directional pool of light on the counter below.</p>
+<p><strong>LED strips</strong> are the workhorse of the task layer. Continuous strips beat individual puck lights for under-cabinet use because they eliminate the dark gaps between fixtures, and a diffuser channel keeps the light even rather than dotted. Strips also show up in toe-kicks and glass cabinet interiors as accent lighting, where their low profile matters more than their brightness.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1788602799459_Continuous-under-cabinet-LED-strip.jpeg" alt="Continuous under-cabinet LED strip" /></p>
+<p><strong>Surface-mount fixtures</strong> fill the gap in kitchens with limited ceiling depth, where recessed housings simply won’t fit above the drywall. They’re less common in new builds but a practical fallback in older homes with shallow joist bays.</p>
+<h2>What makes a kitchen lighting plan energy efficient?</h2>
+<p>LED is the only technology worth specifying in a kitchen renovation today, and the reasoning goes beyond the electricity bill. Kitchen lights run more hours per day than almost any other fixture in the house, so <a href="https://natural-resources.canada.ca/energy-efficiency/energy-star/home-lighting-design-guide-pocket-book" rel="nofollow noopener noreferrer" target="_blank">efficiency and durability compound over the life of the fixture</a> in a way that doesn’t show up in other rooms.</p>
+<p>LEDs also run cooler than the incandescent and halogen bulbs they replaced, which matters directly in a kitchen where fixtures sit near a range, an oven, or a hardworking exhaust fan. Less heat output means less strain on driver components and a lower fire-risk profile near cooking surfaces.</p>
+<p>Look for fixtures and bulbs carrying an ENERGY STAR rating, since that designation ties directly to verified efficiency and lifespan claims rather than marketing copy on a box. Dimmable LED fixtures paired with compatible dimmers add a second layer of savings, letting you run ambient light at 40% output during a quiet weeknight dinner instead of full brightness by default.</p>
+<p>One detail worth checking before you buy strip lighting in bulk: confirm the driver’s rated wattage against your total strip length. Undersized drivers run hot and fail early, which defeats the efficiency gain you were trying to capture in the first place.</p>
+<h2>What safety factors matter for kitchen light fixtures?</h2>
+<p>Kitchens are one of the harshest environments in a home for electrical fixtures, and lighting choices need to reflect that. Grease, steam, and heat from cooking surfaces all shorten the life of a fixture that wasn’t built to handle them.</p>
+<p>Fixtures installed near the range or sink should carry a moisture and heat resistance rating appropriate to that location, not the general-purpose fixture rated for a dry living room ceiling. Electrical systems and lighting equipment installed in Canadian homes need to meet applicable CSA standards, which cover both the fixture’s construction and how it’s wired into the system, and this is a genuine reason to have a licensed electrician handle installation rather than a DIY swap.</p>
+<p>Driver placement is a safety issue as much as a maintenance one. A driver sealed inside a soffit above the range runs hotter than one in open air, and heat buildup shortens its life while making a failed unit far harder to access. Locate drivers behind an accessible panel, away from direct heat sources, and confirm your electrician has planned for that access before drywall goes up.</p>
+<p>Durable, easy-to-clean fixtures matter for kitchens specifically because grease film accumulates on any surface near cooking, including light lenses and trim rings. A sealed trim on recessed fixtures near the range makes a real difference in how easy the fixture is to keep clean over the years, and it keeps grease out of the housing where it can eventually affect the LED module itself.</p>
+<h2>The tradeoffs nobody puts in the brochure</h2>
+<p>Task light comes first, always. I’ve watched homeowners fall for a striking pendant before they’ve settled on under-cabinet lighting, and it’s backwards. A gorgeous fixture over an island doesn’t help you at all when you’re squinting at a cutting board three feet away in your own shadow.</p>
+<p>The real tension on most projects isn’t ambient versus task, it’s budget versus completeness. A homeowner with a fixed number will often cut the accent layer entirely to afford proper task lighting, and that’s the right call almost every time. Accent lighting is the layer you can add in year two. A missing task layer is the layer you notice every single night while making dinner.</p>
+<p>Where I’d stop a homeowner from making a decision alone is anything touching circuits, dimmer compatibility, or driver placement. That’s not a DIY judgment call, it’s a licensed electrician’s call, and getting it wrong costs more to fix later than it would have cost to plan correctly the first time.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Ready to install your kitchen lighting plan?</h2>
+<p>A lighting plan on paper is only useful once someone wires it correctly, and that’s the part homeowners underestimate most. The lighting plan is built into every kitchen renovation, starting with a site survey and zoning process, so the electrical work and the cabinetry get planned together instead of one fighting the other mid-project.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>When you bring a kitchen renovation project to a contractor, you get a plan drawing showing every fixture, a switch map for the electrical panel, dimmer zone labels, and installation coordinated directly with the licensed electrician on your project, no juggling separate trades yourself. It’s the difference between handing a contractor a Pinterest board and handing them a document they can actually build from.</p>
+<p>If you’re ready to move from planning to installing, start with a look at our <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation services in Calgary</a> and request a quote for your project.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.multilighting.ca/blog/post/kitchen-lighting" rel="nofollow noopener noreferrer" target="_blank">Kitchen Lighting: Complete Guide to Lumens &amp; Fixtures | Multi Lighting</a></li>
+<li><a href="https://artika.com/blogs/inspiration/colour-temperature-complete-guide?shpxid=a0eda1d8-8682-475a-9fa9-9a384abef4e5" rel="nofollow noopener noreferrer" target="_blank">Colour temperature complete guide | Artika</a></li>
+<li><a href="https://natural-resources.canada.ca/energy-efficiency/energy-star/home-lighting-design-guide-pocket-book" rel="nofollow noopener noreferrer" target="_blank">Home lighting design guide pocket book | Natural Resources Canada / ENERGY STAR</a></li>
+<li>Kitchen Lighting Design Vancouver 2026: 3-Layer System | Reno Stars</li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/contractors-for-home-remodeling-4-providers" target="_blank" rel="noopener">Top 4 Contractors for Home Remodeling Providers 2026</a></li>
+<li><a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">Kitchen Renovation Calgary</a></li>
+<li><a href="https://stateracontracting.com/blog/many-ways-to-skin-a-reno" target="_blank" rel="noopener">The Many Ways to Skin a Reno</a></li>
+<li><a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">Planning a Kitchen Renovation in Calgary</a></li>
+</ul>
+`,
+      },
+    ],
+  },
+
 ];
 
 
