@@ -14443,6 +14443,200 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "questions-to-ask-a-contractor",
+    title: "15 Contractor Questions Canadian Homeowners Can Verify",
+    excerpt:
+      "Before you hire anyone, verify six things in the first meeting: a valid licence number, proof of liability insurance and WCB/WorkSafe/WSIB coverage, a written contract with the estimate attached, at least two contactable references, a realistic project timeline, and a payment schedule that doesn't front-load your money.",
+    date: "2026-09-09",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1788692692807_Contractor-inspecting-basement-renovation-workmanship.jpeg",
+    coverAlt: "15 Contractor Questions Canadian Homeowners Can Verify",
+    category: "Industry News",
+    readingTime: "14 min read",
+    metaTitle: "15 Contractor Questions Canadian Homeowners Can Verify",
+    metaDescription:
+      "Canadian homeowners: 15 contractor questions paired with what good answers look like and simple steps to verify licenses, insurance, permits, and WCB.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Before you hire anyone, verify six things in the first meeting: a valid licence number, proof of liability insurance and WCB/WorkSafe/WSIB coverage, a written contract with the estimate attached, at least two contactable references, a realistic project timeline, and a payment schedule that doesn’t front-load your money. These six checks protect you from liability, code violations, budget blowouts, and shoddy workmanship long before a hammer touches drywall.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>Verify the contractor’s license number through the provincial registry and ensure it covers the specific trade before signing any agreements.</li>
+<li>Confirm liability insurance by calling the insurer listed on the certificate and verify that WCB or WorkSafe coverage is current and active.</li>
+<li>Request recent project references, visit active job sites, and specify similar work to assess actual experience and project quality control.</li>
+<li>Ensure the project scope, timeline, and payment schedule are clearly documented in writing, with attached estimates and milestone-based payments.</li>
+<li>Avoid contractors demanding large deposits, refusing to provide written contracts, or asking to skip permits, as these are major red flags for potential scams.</li>
+</ul>
+</blockquote>
+
+<p><strong>Statera Contracting — Plan Your Calgary Renovation With Confidence.</strong> Statera Contracting handles kitchens, bathrooms, basements, additions, exterior work, and commercial renovations in Calgary and nearby areas. <a href="https://stateracontracting.com" target="_blank" rel="noopener">Explore renovation services</a></p>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#interview-checklist-15-questions-to-ask-a-contractor">Interview checklist: 15 questions to ask a contractor</a></li>
+<li><a href="#how-do-you-verify-a-contractors-licence-and-legal-standing">How do you verify a contractor’s licence and legal standing?</a></li>
+<li><a href="#what-insurance-and-wcb-proof-should-a-contractor-provide">What insurance and WCB proof should a contractor provide?</a></li>
+<li><a href="#how-do-you-assess-a-contractors-experience-and-quality-control">How do you assess a contractor’s experience and quality control?</a></li>
+<li><a href="#what-should-you-ask-about-the-project-timeline-and-communication">What should you ask about the project timeline and communication?</a></li>
+<li><a href="#what-are-safe-payment-terms-and-how-do-change-orders-work">What are safe payment terms and how do change orders work?</a></li>
+<li><a href="#who-is-responsible-for-permits-and-code-compliance">Who is responsible for permits and code compliance?</a></li>
+<li><a href="#what-warranty-coverage-should-you-get-in-writing">What warranty coverage should you get in writing?</a></li>
+<li><a href="#what-red-flags-mean-you-should-walk-away">What red flags mean you should walk away?</a></li>
+<li><a href="#how-many-contractors-should-you-interview-before-deciding">How many contractors should you interview before deciding?</a></li>
+<li><a href="#how-statera-contracting-approaches-contracts-and-verification">How Statera Contracting approaches contracts and verification</a></li>
+<li><a href="#what-ive-learned-watching-homeowners-interview-contractors">What I’ve learned watching homeowners interview contractors</a></li>
+<li><a href="#ready-to-hire-a-contractor-you-dont-need-a-checklist-to-trust">Ready to hire a contractor you don’t need a checklist to trust?</a></li>
+<li><a href="#where-to-verify-what-a-contractor-tells-you">Where to verify what a contractor tells you</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Interview checklist: 15 questions to ask a contractor</h2>
+<p>Bring this list to every meeting and take notes on the spot.</p>
+<ol>
+<li><strong>What’s your licence number, and which trade subclasses does it cover?</strong> A real number checks out in seconds on a provincial registry.</li>
+<li><strong>Can I see your certificate of insurance?</strong> Look for liability coverage at a commonly recommended minimum level.</li>
+<li><strong>What’s your WCB or WorkSafe account number?</strong> No number is a hard stop.</li>
+<li><strong>Can you give me three references from the last two years?</strong> Vague or reluctant answers are a warning sign.</li>
+<li><strong>What’s the realistic start-to-finish timeline?</strong> Compare it against similar projects, not just their optimism.</li>
+<li><strong>Who pulls the permits?</strong> It should be them, not you.</li>
+<li><strong>Which specific materials and models are quoted?</strong> Generic descriptions invite substitutions.</li>
+<li><strong>Do you use subcontractors, and who supervises them?</strong></li>
+<li><strong>What’s the payment schedule?</strong> A small deposit followed by milestone payments is normal.</li>
+<li><strong>What warranty do you provide on workmanship?</strong></li>
+<li><strong>How are change orders priced and approved?</strong></li>
+<li><strong>Who cleans the site daily?</strong></li>
+<li><strong>Who’s my main point of contact, and how fast do you respond?</strong></li>
+<li><strong>How do you handle unexpected issues, like rot behind old drywall?</strong></li>
+<li><strong>What happens if we disagree on the final work?</strong></li>
+</ol>
+<h2>How do you verify a contractor’s licence and legal standing?</h2>
+<p>A licence number means nothing until you check it against a real registry. In Alberta, that means confirming certification through the <a href="https://www.rbq.gouv.qc.ca/en/you-are/citizen/renovation-work/choosing-a-contractor/" rel="nofollow noopener noreferrer" target="_blank">Safety Codes Council</a> equivalent bodies or your municipal permit office, depending on the trade. Quebec homeowners have the Régie du bâtiment du Québec registry; Ontario has ESA and TSSA for electrical and gas work specifically. Every province has some version of this lookup, and it takes less time than a coffee break.</p>
+<p>Beyond the licence, ask for the business’s GST/HST number and a permanent business address. A contractor operating out of a personal cell phone with no fixed office isn’t automatically a scam, but it does mean you have less recourse if something goes sideways.</p>
+<ul>
+<li>Ask directly: “What’s your licence number and can I look it up while we’re talking?”</li>
+<li>Request the business’s legal name as registered, not just a trade name.</li>
+<li>Confirm a physical business address, not a P.O. box.</li>
+<li>Ask how long they’ve held their current licence classification.</li>
+</ul>
+<p>Red flags cluster together. A contractor who can’t produce a licence number, dodges questions about their registered business name, or only accepts contact through a personal number rather than a business line is telling you something.</p>
+<p><strong>Pro Tip:</strong> <em>Write the licence number down and check it against the registry before the meeting ends. A legitimate contractor won’t mind waiting thirty seconds while you type it into your phone.</em></p>
+<h2>What insurance and WCB proof should a contractor provide?</h2>
+<p>Ask for a certificate of insurance showing liability coverage at a commonly recommended minimum level, and don’t stop at the paper. Call the insurer using the phone number printed on the certificate itself, never a number the contractor hands you separately, and confirm the policy dates are current and the contractor’s name matches. This single step catches most forged or lapsed certificates that a quick glance would miss.</p>
+<p>Then ask for their WCB, WorkSafe, or WSIB account number and whether they can produce a current letter of good standing. This isn’t a formality. If a worker gets hurt on your property and the contractor lacks active coverage, you as the <a href="https://www.kswlawyers.ca/blog/homeowner-employer-liability-under-wca" rel="nofollow noopener noreferrer" target="_blank">homeowner can be held liable</a> for the claim, which is a liability few homeowners realize they’re exposed to until it’s too late.</p>
+<ul>
+<li>Request the certificate of insurance and confirm dates directly with the insurer.</li>
+<li>Ask for the WCB/WorkSafe/WSIB account number and a letter of good standing.</li>
+<li>Watch for mismatched company names, expired dates, or a phone number that only reaches the contractor.</li>
+</ul>
+<p>A <a href="https://canadaconstructionnetwork.com/guides/how-to-hire-a-contractor-in-canada-a-complete-guide" rel="nofollow noopener noreferrer" target="_blank">comprehensive Canadian hiring guide</a> recommends treating $2 million in liability coverage and active WCB status as baseline, non-negotiable protections, not upgrades you ask for after signing.</p>
+<h2>How do you assess a contractor’s experience and quality control?</h2>
+<p>Ask to see recent, similar projects, not a generic portfolio of unrelated work. If you’re renovating a kitchen, ask specifically about kitchens they’ve completed in the past two years, and request the actual product model numbers they’re quoting for cabinets, countertops, and flooring rather than vague category names.</p>
+<p>Then ask who actually does the work. Many general contractors manage a network of subcontractors rather than swinging hammers themselves, which isn’t a problem on its own, but you need to know who supervises the electrician, who checks the tile setter’s work, and whether subcontracted trades carry their own warranty or fall under the general contractor’s coverage.</p>
+<ul>
+<li>Ask for project photos or addresses from the last two to three years, ideally similar in scope.</li>
+<li>Ask who supervises subcontractors day to day and how quality gets checked before you see it.</li>
+<li>Insist on visiting at least one active job site, not just finished photos.</li>
+<li>Ask whether subcontractor work carries a separate warranty or rolls into the main contract.</li>
+</ul>
+<p>The Canadian Home Builders’ Association notes that a strong interview runs both directions. A contractor who asks thoughtful questions about how you actually use your kitchen or how many people share your bathroom is paying attention to fit, not just measurements.</p>
+<h2>What should you ask about the project timeline and communication?</h2>
+<p>Get a start date, a milestone-by-milestone schedule, and a realistic completion window in writing, then ask how progress gets reported along the way. Weekly check-ins, photo updates, or a shared project app all work, but “I’ll call you when something changes” does not.</p>
+<p>Clarify daily logistics too: what hours crews work, whether tools and materials get locked up overnight, and how they’ll handle noise or driveway access if you have neighbours to consider.</p>
+<ul>
+<li>Ask for a written schedule with milestone dates, not just a total duration.</li>
+<li>Ask how and how often you’ll get progress updates.</li>
+<li>Confirm site hours, daily cleanup routine, and material storage/security.</li>
+<li>Identify your single point of contact and their typical response time for decisions.</li>
+</ul>
+<h2>What are safe payment terms and how do change orders work?</h2>
+<p>Ask whether the quote is fixed price or cost-plus, because the two carry very different risk profiles, and insist the written estimate be attached to the contract itself rather than treated as a separate, non-binding document. In several provinces, attaching the estimate this way legally <a href="https://www.ontario.ca/page/your-rights-when-starting-home-renovations-or-repairs" rel="nofollow noopener noreferrer" target="_blank">caps unexpected increases at roughly 10%</a> above the quoted price unless you sign off on a change order.</p>
+<p>Deposits should stay modest, generally 10% or less, with the balance tied to completed milestones rather than the calendar. Ask directly how change orders get priced, who has to approve them before work starts, and whether suppliers get paid directly by you or funnelled through the contractor. If you want to understand the pricing structure itself before you get quotes, our breakdown of <a href="https://stateracontracting.com/blog/fixed-price-vs-cost-plus" target="_blank" rel="noopener">fixed price versus cost-plus contracts</a> walks through which model suits which project type.</p>
+<ul>
+<li>Confirm whether the quote is fixed price or cost-plus before comparing bids.</li>
+<li>Ask for a deposit of 10% or less, with the rest tied to milestones.</li>
+<li>Get the change order process in writing: pricing, approval steps, and who signs off.</li>
+<li>Ask whether major suppliers are paid directly or through the contractor.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask the contractor to staple the written estimate directly to the signed contract. If they resist, ask why. A legitimate operator has no reason to keep pricing loose.</em></p>
+<h2>Who is responsible for permits and code compliance?</h2>
+<p>Ask outright whether the contractor pulls permits, and require proof those permits are filed before any demolition starts. This should be spelled out in the contract, not assumed. Ask which codes and inspecting authorities apply to your specific project, and for anything touching load-bearing walls or structural framing, ask who’s bringing in a registered engineer to stamp the design.</p>
+<p>If a contractor suggests you can “skip the permit to save time,” treat that as a serious warning sign, not a helpful shortcut. Unpermitted work can void your home insurance and become a costly problem at resale. This matters even more in older properties, where our guide to <a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">renovating an older home</a> covers the structural surprises that make permits and engineer sign-off non-negotiable.</p>
+<ul>
+<li>Ask directly: “Will you obtain the permits, and can I see proof before work starts?”</li>
+<li>Ask which codes and inspection authorities govern your specific project.</li>
+<li>For structural work, ask who’s engaging a registered engineer.</li>
+<li>Treat any suggestion to skip permits as a reason to walk away.</li>
+</ul>
+<h2>What warranty coverage should you get in writing?</h2>
+<p>Ask what workmanship warranty the contractor provides on their own labour, separate from whatever warranty comes with the materials themselves. Manufacturer warranties on appliances, windows, or roofing should transfer to you in writing, and the contractor should confirm that in the contract rather than verbally.</p>
+<p>Get a named point of contact for warranty claims and an expected response time, because “call us if something goes wrong” isn’t a warranty, it’s a hope.</p>
+<ul>
+<li>Ask for the workmanship warranty length and exactly what it covers.</li>
+<li>Confirm manufacturer warranties transfer to you in writing.</li>
+<li>Get a named contact and expected response time for warranty claims.</li>
+<li>Ask how disputes over warranty work get resolved if you disagree on scope.</li>
+</ul>
+<h2>What red flags mean you should walk away?</h2>
+<p>Some answers should end the conversation immediately, no matter how good the price sounds.</p>
+<ul>
+<li>Cash-only payment with no invoice or paper trail.</li>
+<li>A deposit demand well above 10% before any work begins.</li>
+<li>No written contract, or reluctance to put anything in writing.</li>
+<li>Pressure to sign the same day the quote is presented.</li>
+<li>Refusal to let you verify insurance or WCB status directly.</li>
+</ul>
+<p>If you hit any of these, negotiate from a position of leverage: insist on milestone-based payments, call the insurer yourself before signing, and require lien waivers with every payment stage. If the contractor doesn’t agree to basic verification, that’s your answer.</p>
+<h2>How many contractors should you interview before deciding?</h2>
+<p>Meet at least three contractors and request written quotes against identical specifications; for larger additions or full home renovations, meet four or five.</p>
+<ol>
+<li>Request written quotes based on the same materials and scope from every contractor.</li>
+<li>Score each on licence status, insurance/WCB verification, references, communication clarity, and price.</li>
+<li>Photograph existing conditions before work starts, for your own record.</li>
+<li>Sign only once the contract fully reflects everything discussed, including the estimate as an attachment.</li>
+</ol>
+<p>The <a href="https://ised-isde.canada.ca/site/office-consumer-affairs/en/buying-and-leasing-big-ticket-items/home-renovations" rel="nofollow noopener noreferrer" target="_blank">Office of Consumer Affairs</a> recommends this side-by-side comparison specifically because verbal promises fade fast once a contract is signed, but a written scoring matrix doesn’t.</p>
+<h2>How Statera Contracting approaches contracts and verification</h2>
+<p>Statera Contracting is a licensed general contractor that handles kitchen, bathroom, and basement renovations, home additions, exterior work, and commercial build-outs in Calgary and nearby communities. Every project runs on a written contract with the estimate attached, clear permit responsibility, and documented warranty terms, the same standards this checklist walks you through.</p>
+<p>For more on choosing between contractors before you commit, read our guide on <a href="https://stateracontracting.com/blog/choose-a-renovation-contractor-calgary" target="_blank" rel="noopener">how to choose a renovation contractor in Calgary</a>, or explore our <a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">owner’s roadmap</a> for planning a full project timeline.</p>
+<h2>What I’ve learned watching homeowners interview contractors</h2>
+<p>The costliest mistake I’ve seen isn’t hiring a bad contractor. It’s hiring a decent one with a vague contract. I’ve reviewed agreements where the “estimate” lived in an email thread instead of the signed contract, and when the final invoice came in 22% over quote, the homeowner had no legal footing to push back. Attach the estimate to the contract. Always.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1788692693370_Estimate-attached-to-written-renovation-contract.jpeg" alt="Estimate attached to written renovation contract" /></p>
+<p>My shortcut for the first meeting: call the insurer and check WCB status while the contractor is still standing in your kitchen. Watching how someone reacts to that request tells you more than their pitch does.</p>
+<p>Don’t be shy about pushing back on vague answers either. A homeowner who asks pointed questions and writes down the responses ends up with far more leverage than one who nods along and hopes for the best. Document every verbal promise before it becomes a dispute nobody can prove.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Ready to hire a contractor you don’t need a checklist to trust?</h2>
+<p>Managing five separate trades and chasing down insurance certificates yourself is exhausting when you’d rather just get your renovation done. Statera Contracting works as a single licensed general contractor for your entire project, handling verification work such as licensing, insurance, and WCB status.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>We put the estimate directly into the contract, spell out warranty terms in writing, and assign a single point of contact, so you’re never chasing five different subcontractors for updates. If you’re planning a <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation</a>, a <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom remodel</a>, or finishing a <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement</a>, and you’d rather compare material costs before locking in a scope, this breakdown of kitchen remodel budgeting is worth a look first. Reach out to a renovation contractor for a consultation to walk through your project scope, timeline, and a written estimate you can hold them to.</p>
+<h2>Where to verify what a contractor tells you</h2>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1788692704353_Four-sources-for-verifying-contractor-claims.jpeg" alt="Four sources for verifying contractor claims" /></p>
+<p>Check licences through your provincial registry, such as the RBQ in Quebec, and confirm your legal protections through the Office of Consumer Affairs renovation guidance. Review your own liability exposure around uninsured workers through this homeowner-employer liability explainer, and use the CHBA’s interview guidance to judge whether a contractor is asking you the right questions too.</p>
+<h2>Sources</h2>
+<p>Call every reference and ask specific questions: Did the project finish on the promised date? Did the final invoice match the estimate? How was the crew’s daily cleanup? Would they hire this contractor again for a different project?</p>
+<p>Then ask to visit a current, active job site, not just a finished one. A finished project hides daily habits. An active site shows you how materials are stored, whether tools sit around unsecured, and how the crew treats a client’s home while work is underway. A comprehensive Canadian hiring guide recommends at least three references, ideally from projects completed within the last two to three years.</p>
+<ul>
+<li><a href="https://canadaconstructionnetwork.com/guides/how-to-hire-a-contractor-in-canada-a-complete-guide" rel="nofollow noopener noreferrer" target="_blank">How to hire a contractor in Canada: a complete guide</a></li>
+<li><a href="https://ised-isde.canada.ca/site/office-consumer-affairs/en/buying-and-leasing-big-ticket-items/home-renovations" rel="nofollow noopener noreferrer" target="_blank">Home renovations - Office of Consumer Affairs</a></li>
+<li><a href="https://www.kswlawyers.ca/blog/homeowner-employer-liability-under-wca" rel="nofollow noopener noreferrer" target="_blank">Homeowner-employer liability under the WCA</a></li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>At the active site, ask a crew member (not the owner) how long they’ve worked with this contractor. Long tenure among trades is one of the more honest signals you’ll get.</em></p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/choose-a-renovation-contractor-calgary" target="_blank" rel="noopener">How to choose a renovation contractor in Calgary</a></li>
+<li><a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">Renovating an older home: what Alberta homeowners need to know</a></li>
+<li><a href="https://stateracontracting.com/blog/legal-basement-suite-calgary" target="_blank" rel="noopener">Legal basement suite Calgary: what homeowners need to know</a></li>
+<li><a href="https://stateracontracting.com/blog/siding-vs-stucco" target="_blank" rel="noopener">Siding vs stucco for Canadian homes: which should you choose?</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 
 ];
 
