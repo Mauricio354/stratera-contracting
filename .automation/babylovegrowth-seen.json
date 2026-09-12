@@ -65,5 +65,6 @@
   "825738": { "status": "published", "publishedAt": "2026-09-11" },
   "830096": { "status": "published", "publishedAt": "2026-09-12" },
   "834358": { "status": "queued", "reason": "webhook-delivered on 2026-09-11, but estimated calendar slot (created_at+3d, not confirmed) is 2026-09-12, not yet arrived. created_at 2026-09-09T23:39:55Z. Today's publish slot went to #825738 instead, the oldest overdue backlog article (estimated slot 2026-09-10)." },
-  "838396": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-09-11 (published article #825738). estimated calendar slot (created_at+3d, not confirmed) is 2026-09-13. created_at 2026-09-10T17:38:47Z." }
+  "838396": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-09-11 (published article #825738). estimated calendar slot (created_at+3d, not confirmed) is 2026-09-13. created_at 2026-09-10T17:38:47Z." },
+  "844837": { "status": "queued", "reason": "new article found by schedule fallback run on 2026-09-12; daily publish limit (1/day) already used for 2026-09-12 (published article #830096). estimated calendar slot (created_at+3d, not confirmed) is 2026-09-15. created_at 2026-09-12T02:39:40Z." }
 }
