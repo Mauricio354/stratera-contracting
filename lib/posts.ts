@@ -15172,6 +15172,145 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "commercial-renovation-timeline-calgary",
+    title: "6–10, 10–20 or 20+ Weeks: Calgary Commercial Renovation Timeline",
+    excerpt:
+      "6–10, 10–20 or 20+ Weeks: Calgary Commercial Renovation Timeline\n\n! Calgary commercial renovation site under construction\n\nA small commercial fit-up in Calgary usually runs several weeks, a medium office or retail buildout takes a few months, and a large restaurant or complex tenant improvement often requires an extended period.",
+    date: "2026-09-13",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1789061860442_Calgary-commercial-renovation-site-under-construction.jpeg",
+    coverAlt: "6–10, 10–20 or 20+ Weeks: Calgary Commercial Renovation Timeline",
+    category: "Industry News",
+    readingTime: "9 min read",
+    metaTitle: "6–10, 10–20 or 20+ Weeks: Calgary Commercial Renovation Timeline",
+    metaDescription:
+      "Get realistic Calgary renovation schedules: small fit-ups 6–10 weeks, medium 10–20, large 20+; learn which City permit windows matter and how to avoid...",
+    content: [
+      {
+        type: "html",
+        html: `<p>A small commercial fit-up in Calgary usually runs several weeks, a medium office or retail buildout takes a few months, and a large restaurant or complex tenant improvement often requires an extended period. Permit approvals and scope complexity drive most of that spread, not construction speed. If you’re targeting an opening date, start your design work and permit application several months ahead of it.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>Permit approval timelines vary widely, with simple building permits taking around 21 days and discretionary development applications potentially exceeding 12 weeks.</li>
+<li>Structural changes, incomplete drawings, and delayed specialist reports are primary causes of schedule delays that owners can control or anticipate.</li>
+<li>Planning and design phases often cause the most time loss, especially if owners rush permit submissions before finalizing drawings and approvals.</li>
+<li>Construction timelines for small projects can be completed in 6 to 10 weeks, while large tenant improvements may extend beyond 20 weeks, depending on complexity.</li>
+<li>Using a contractor to manage permits, design, and construction as a single process can reduce delays and improve schedule accuracy.</li>
+</ul>
+</blockquote>
+
+<p><strong>Statera Contracting — Plan Your Calgary Commercial Renovation.</strong> Statera Contracting handles commercial renovations for restaurants, pubs, bars, and other businesses in Calgary and surrounding areas. <a href="https://stateracontracting.com" target="_blank" rel="noopener">Visit Statera Contracting</a></p>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-makes-a-calgary-commercial-renovation-timeline-vary-so-much">What makes a Calgary commercial renovation timeline vary so much?</a></li>
+<li><a href="#phase-1-planning-and-design-before-you-touch-a-permit">Phase 1: planning and design, before you touch a permit</a></li>
+<li><a href="#how-do-calgary-permits-affect-your-renovation-timeline">How do Calgary permits affect your renovation timeline?</a></li>
+<li><a href="#how-long-does-construction-actually-take-by-project-type">How long does construction actually take by project type?</a></li>
+<li><a href="#what-happens-during-inspections-and-final-occupancy-approval">What happens during inspections and final occupancy approval?</a></li>
+<li><a href="#how-can-you-speed-up-your-renovation-and-avoid-delays">How can you speed up your renovation and avoid delays?</a></li>
+<li><a href="#how-does-statera-contracting-manage-commercial-timelines-in-calgary">How does Statera Contracting manage commercial timelines in Calgary?</a></li>
+<li><a href="#the-single-decision-that-keeps-a-calgary-renovation-on-schedule">The single decision that keeps a Calgary renovation on schedule</a></li>
+<li><a href="#ready-to-plan-your-calgary-commercial-renovation">Ready to plan your Calgary commercial renovation?</a></li>
+<li><a href="#sources">Sources</a></li>
+<li><a href="#faq">FAQ</a></li>
+</ul>
+<h2>What makes a Calgary commercial renovation timeline vary so much?</h2>
+<p>Two projects with identical square footage can finish weeks apart, and the gap almost always traces back to a handful of variables you can either manage or get blindsided by.</p>
+<p>Structural work adds review layers that a cosmetic refresh never touches. Permit type matters just as much: a business licence and change-of-use review moves faster than a discretionary development permit tied to zoning relaxations. Here’s what typically stretches a schedule in Calgary:</p>
+<ul>
+<li>Structural changes (load-bearing walls, mezzanines, new exits) trigger engineering review and extra inspections</li>
+<li>Incomplete drawings or unanswered City queries reset the review clock rather than just pausing it</li>
+<li>Specialized trades (grease-duct fabricators, commercial refrigeration techs) book out weeks in advance</li>
+<li>Operating while renovating (a restaurant staying open during phase one) forces slower, sequenced work</li>
+<li>Landlord approval chains add internal review time before the City ever sees your application</li>
+</ul>
+<h2>Phase 1: planning and design, before you touch a permit</h2>
+<p>This phase is where most Calgary business owners lose time they never get back, usually by rushing to permit before the design is actually finished.</p>
+<ol>
+<li>Define the brief, scope, and budget with your landlord or ownership group, including any lease clauses tied to renovation approval.</li>
+<li>Commission permit-ready drawings from an architect or engineer, including any specialist reports the City will require (structural, mechanical, or food-service equipment layouts for a restaurant).</li>
+<li>Build in at least one full review cycle for stakeholder and landlord sign-off before drawings go anywhere near the City.</li>
+<li>Run landlord approvals and specialist report requests in parallel with drawing production instead of sequencing them, which is where a lot of calendar time gets recovered.</li>
+</ol>
+<p>Expect this phase to run 3 to 6 weeks for a straightforward tenant improvement, longer if you’re waiting on a landlord committee or a specialized engineering report.</p>
+<p><strong>Pro Tip:</strong> <em>Order your mechanical and equipment specs before the drawings are finalized. Waiting until permit submission to confirm hood sizes or refrigeration layouts is one of the most common reasons a “final” drawing set needs a second round.</em></p>
+<h2>How do Calgary permits affect your renovation timeline?</h2>
+<p>This is the phase owners underestimate most, because it’s the one they control the least directly.</p>
+<p>Most commercial renovations in Calgary need some combination of a development permit, a building permit, trade permits (electrical, plumbing, gas), and possibly a new business licence or change-of-use approval if the space’s use is shifting, say from retail to food service. Each one runs on its own clock, and they don’t always run concurrently.</p>
+<p>The City of Calgary’s own <a href="https://www.calgary.ca/development/approval-timelines.html" rel="nofollow noopener noreferrer" target="_blank">approval timelines</a> show some development decisions can be issued in as little as 5 business days. Discretionary applications, the kind requiring public notice or a relaxation, can take 10 to 12 weeks before advertising and appeal periods are even factored in. On the building permit side, building safety approvals for minor tenant improvements can move in as little as 21 calendar days when the file is complete, but larger or more complex reviews stretch to 56 days. For straightforward interior alterations, the City’s commercial alterations guidance puts typical building permit timelines at 21 to 49 days.</p>
+<blockquote>
+<p><strong>The 80% target that matters:</strong> the City’s stated timelines are performance goals, not guarantees, and they only start once your application is deemed complete. Budget for the high end of the range, not the best case.</p>
+</blockquote>
+<p>A few practical notes worth building into your schedule:</p>
+<ul>
+<li>Building permits typically expire 180 days after issuance if work hasn’t started</li>
+<li>Development permits generally allow 1 to 3 years to commence construction</li>
+<li>Applicants usually get a 30-day window to respond to City requests for more information before a file risks refusal</li>
+</ul>
+<h2>How long does construction actually take by project type?</h2>
+<p>Once permits are in hand, the construction phase follows a fairly predictable rhythm, though the milestones stretch differently depending on what you’re building.</p>
+<ol>
+<li><strong>Small office refresh (6 to 10 weeks):</strong> demolition and minor partition changes, updated electrical and data cabling, flooring and paint, then final finishes. Mechanical scope is usually light, so this phase moves quickly once permits clear.</li>
+<li><strong>Medium retail or clinic fit-up (10 to 20 weeks):</strong> more substantial mechanical, electrical, and plumbing (MEP) work, plus specialized equipment installs like exam room fixtures or point-of-sale infrastructure. Coordinating trade sequencing becomes the main scheduling challenge here.</li>
+<li><strong>Large restaurant or major tenant improvement (20+ weeks):</strong> complex MEP coordination, commercial kitchen hood and grease-duct installation, health authority approvals layered on top of standard building inspections, and often a longer finishes phase for custom millwork or bar builds. A <a href="https://stateracontracting.com/blog/restaurant-kitchen-permit-calgary" target="_blank" rel="noopener">restaurant kitchen permit</a> alone can add weeks if the hood and suppression system specs aren’t locked early.</li>
+</ol>
+<p>Across all three, the milestone sequence stays the same: demolition, then MEP rough-in, then rough-in inspections, then finishes, then commissioning and final inspection. Projects that track each milestone against a calendar date, rather than just tracking “percent complete,” tend to catch slippage before it compounds.</p>
+<h2>What happens during inspections and final occupancy approval?</h2>
+<p>Inspections are where a well-run schedule can still lose a week or two, usually because nobody booked the re-inspection until after a fail.</p>
+<p>Your contractor typically books rough-in inspections (electrical, plumbing, mechanical) as each trade finishes its phase, followed by a final building inspection before occupancy. A failed inspection doesn’t just cost the repair time. It costs the wait for the next available inspector slot, which can add several business days depending on volume.</p>
+<p>Before final sign-off, have these ready:</p>
+<ul>
+<li>As-built drawings reflecting any changes made during construction</li>
+<li>Equipment warranties and manufacturer compliance certificates</li>
+<li>Fire and life-safety system documentation, if applicable</li>
+<li>Confirmation your building permit hasn’t lapsed past its 180-day window mid-project</li>
+</ul>
+<h2>How can you speed up your renovation and avoid delays?</h2>
+<p>Most delay risk is preventable, and it almost always traces back to incomplete information rather than bad luck.</p>
+<ul>
+<li>Submit fully coordinated drawings and specialist reports with your first application, not a partial set you plan to supplement later</li>
+<li>Nominate one person as the single point of contact for City queries and contractor change orders, so nothing sits unanswered</li>
+<li>Order long-lead items (kitchen hoods, custom refrigeration, specialized fixtures) the moment your design is locked, and get firm delivery windows in writing</li>
+<li>If your business needs to stay operational, plan phased occupancy or interim operations rather than a single hard cutover</li>
+<li>Set contingency thresholds upfront, both time and budget, so a two-week permit delay doesn’t derail the whole project</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>A <a href="https://www.stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">contractor-managed permit pre-check</a> before formal submission catches missing specialist reports before the City does, which avoids the resubmission cycle that adds the most unplanned time to a schedule.</em></p>
+<h2>How does Statera Contracting manage commercial timelines in Calgary?</h2>
+<p>Some contractors build contingency directly into project schedules rather than treating permit review as a fixed number, because the City’s own targets are goals, not guarantees. A common local trap is applicants submitting drawings before mechanical specs are locked, which triggers a resubmission and resets the clock. Ordering long-lead equipment at the design stage, not after permit issuance, can shorten the calendar. Owners planning a <a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">tenant improvement in Calgary</a> or comparing frameworks like this <a href="https://blog.mlawrealestate.com/blog/gta-tenant-fit-out-planning-step-by-step-guide" target="_blank" rel="nofollow noopener noreferrer">step-by-step tenant fit-out planning guide</a> will find the same principle holds: completeness beats speed.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1789061919982_How-does-Statera-Contracting-manage-commercial-timelines-in-Calgary-overview-diagram.jpeg" alt="How does Statera Contracting manage commercial timelines in Calgary? — overview diagram" /></p>
+<h2>The single decision that keeps a Calgary renovation on schedule</h2>
+<p>Permit-first planning, backed by one designated decision-maker who owns every City response, consistently beats projects run by committee. If you want a realistic timeline reviewed against your actual scope, a consult is the fastest way to find out where your project really sits.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Ready to plan your Calgary commercial renovation?</h2>
+<p>Some business owners prefer hiring one contractor to own the whole timeline, tenant improvements, permit handling, and scheduling, instead of juggling an architect, a permit expediter, and a builder separately. That’s the real gap between a smooth 10 week retail fit-up and one that drags to 16 weeks: fewer handoffs means fewer resubmissions.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>A first consultation typically covers a timeline review against your actual scope, a permit pre-check to flag anything likely to trigger a resubmission, and high-level cost guidance before you commit to drawings. If you’re planning an office, retail, or restaurant renovation anywhere in Calgary or the surrounding area, <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">book a consult through Statera’s commercial renovation page</a> and get a realistic schedule before you set an opening date.</p>
+<h2>FAQ</h2>
+<h3>How long does a commercial renovation take in Calgary?</h3>
+<p>Small fit-ups typically run 6 to 10 weeks, medium projects 10 to 20 weeks, and large or complex builds 20 weeks or more, with permit approvals as the main variable.</p>
+<h3>How long does a Calgary building permit take?</h3>
+<p>Minor tenant improvements can clear building safety approval in as little as 21 calendar days, while larger or more complex projects can take up to 56 days depending on completeness.</p>
+<h3>Does a development permit take longer than a building permit?</h3>
+<p>Yes. Some development decisions are issued in 5 business days, but discretionary applications requiring public notice can take 10 to 12 weeks before advertising and appeal periods.</p>
+<h3>What causes the most delays in a Calgary commercial renovation?</h3>
+<p>Incomplete drawings or missing specialist reports are the top cause, since they force a resubmission that resets the City’s review clock rather than just pausing it.</p>
+<h3>Can a contractor manage permits and construction together?</h3>
+<p>Yes. Some contractors handle tenant improvements, permit applications, and construction scheduling as one coordinated process for commercial renovations.</p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">Commercial Renovation Calgary: TI Timeline Guide</a></li>
+<li><a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">Commercial Renovation Calgary | Offices, Retail &amp; Restaurants</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
