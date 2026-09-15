@@ -15311,6 +15311,173 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "fiber-cement-siding-cost-calgary",
+    title: "$10–$18/sq ft: Calgary Fiber Cement Siding Costs & Contractor Red Flags",
+    excerpt:
+      "$10–$18/sq ft: Calgary Fiber Cement Siding Costs & Contractor Red Flags\n\n! Installer fitting fibre cement siding panel\n\nFiber cement siding installed in Calgary typically runs between $10 and $18 per square foot, so a 2,000 square foot home's total cost can vary widely within that range depending on trim, height, and finish.",
+    date: "2026-09-15",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1789180715979_Installer-fitting-fibre-cement-siding-panel.jpeg",
+    coverAlt: "$10–$18/sq ft: Calgary Fiber Cement Siding Costs & Contractor Red Flags",
+    category: "Industry News",
+    readingTime: "13 min read",
+    metaTitle: "$10–$18/sq ft: Calgary Fiber Cement Siding Costs & Contractor Red Flags",
+    metaDescription:
+      "Calgary fiber cement siding budgets: $10–$18/sq ft and sample totals. Learn hidden costs, permit issues, and contractor red flags before you sign.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Fiber cement siding installed in Calgary typically runs between $10 and $18 per square foot, so a 2,000 square foot home's total cost can vary widely within that range depending on trim, height, and finish. That range covers materials and labour, but not every extra your home might need. Before you sign anything, get an itemized quote from a local installer who can walk your property and price the specifics, not just the square footage.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>Fiber cement siding in Calgary costs between $10 and $18 per square foot installed, depending on product type, finish, and home complexity.</li>
+<li>Costs for a full project range from approximately $10,000 to $36,000, with two-storey homes generally at the higher end due to scaffolding and extra labour.</li>
+<li>Extra charges such as scaffolding, asbestos testing, substrate repair, and permit fees are often separate line items that significantly influence the final price.</li>
+<li>Proper installation, following manufacturer guidelines and obtaining permits, is essential for warranty coverage and long-term durability.</li>
+<li>Homeowners should request detailed, itemized bids and consider potential hidden costs before choosing a contractor.</li>
+</ul>
+</blockquote>
+
+<p><strong>Statera Contracting — Planning Exterior Renovations in Calgary.</strong> Statera Contracting handles exterior work and home renovations for homeowners in Calgary and surrounding areas. <a href="https://stateracontracting.com" target="_blank" rel="noopener">Explore renovation services</a></p>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#fiber-cement-siding-cost-calgary-quick-summary-and-whats-included">Fiber cement siding cost Calgary: quick summary and what’s included</a></li>
+<li><a href="#what-actually-goes-into-your-quote-materials-labour-and-the-extras">What actually goes into your quote: materials, labour, and the extras</a></li>
+<li><a href="#what-a-full-siding-job-costs-by-home-size">What a full siding job costs by home size</a></li>
+<li><a href="#what-drives-your-price-up-or-down-in-calgary">What drives your price up or down in Calgary</a></li>
+<li><a href="#warranty-lifespan-and-resale-what-calgary-homeowners-should-know">Warranty, lifespan, and resale: what Calgary homeowners should know</a></li>
+<li><a href="#what-a-siding-project-timeline-actually-looks-like">What a siding project timeline actually looks like</a></li>
+<li><a href="#hidden-costs-and-how-to-spot-a-low-ball-bid">Hidden costs and how to spot a low-ball bid</a></li>
+<li><a href="#how-to-compare-contractor-bids-without-getting-burned">How to compare contractor bids without getting burned</a></li>
+<li><a href="#financing-and-rebate-options-for-calgary-siding-projects">Financing and rebate options for Calgary siding projects</a></li>
+<li><a href="#how-calgarys-building-codes-affect-your-siding-project">How Calgary’s building codes affect your siding project</a></li>
+<li><a href="#a-local-contractors-take-on-siding-costs">A local contractor’s take on siding costs</a></li>
+<li><a href="#get-a-real-siding-quote-from-a-calgary-based-crew">Get a real siding quote from a Calgary-based crew</a></li>
+<li><a href="#sources">Sources</a></li>
+<li><a href="#faq">FAQ</a></li>
+</ul>
+<h2>Fiber cement siding cost Calgary: quick summary and what’s included</h2>
+<p>The $10 to $18 per square foot installed range you’ll see quoted across Calgary reflects three variables: the fibre cement product line you choose, the finish (factory-primed versus ColorPlus prefinished panels), and how much labour your home’s shape demands. A simple bungalow with straight walls sits at the lower end. A two-storey with dormers, multiple trim details, and a steep roofline pushes toward the top.</p>
+<p>That per-square-foot figure usually includes:</p>
+<ul>
+<li>Fibre cement panels or planks and standard trim</li>
+<li>Fasteners, house wrap, and basic flashing</li>
+<li>Standard labour for removal of old siding and installation</li>
+<li>Basic disposal of old siding waste</li>
+</ul>
+<p>What it often does <em>not</em> include automatically: scaffolding for multi-storey work, asbestos testing and abatement on older homes, sheathing or substrate repair, specialty architectural trim, and permit fees. Labour rates and material availability shift year to year, so a quote from last spring won’t necessarily match this year’s pricing.</p>
+<h2>What actually goes into your quote: materials, labour, and the extras</h2>
+<p>Materials typically account for roughly 40 to 50 percent of your total installed cost, with labour making up the rest, though that split moves depending on how much custom trim work is involved. A straightforward re-side leans more toward materials cost; a home with lots of corners, soffits, and window trim shifts more of the bill toward labour hours.</p>
+<p>Items that frequently show up as separate line items rather than being baked into the per-square-foot price:</p>
+<ul>
+<li><strong>Insulation upgrades or rigid foam board</strong>, often added during a re-side to improve energy performance</li>
+<li><strong>Substrate or sheathing repair</strong>, priced per section once old siding comes off and rot or damage is found</li>
+<li><strong>Specialty trim</strong> (window casings, corner boards, frieze boards) at a premium over standard trim</li>
+<li><strong>ColorPlus prefinished panels</strong>, which cost more upfront than field-painted panels but reduce future repainting</li>
+<li><strong>Disposal fees, permit fees, and scaffolding</strong>, which should appear as their own line rather than folded silently into “labour”</li>
+</ul>
+<p>Ask directly whether teardown, haul-away, and permit costs are itemized. A quote that lumps everything into one number makes it nearly impossible to compare bids fairly.</p>
+<h2>What a full siding job costs by home size</h2>
+<p>Here’s how the per-square-foot range translates into real project totals, assuming a typical single-family layout with moderate trim and no major substrate surprises:</p>
+<ol>
+<li><strong>1,000 sq ft home</strong> (small bungalow or townhouse): roughly $10,000 to $18,000 installed. This assumes a single storey, minimal scaffolding needs, and standard trim.</li>
+<li><strong>1,500 sq ft home</strong> (mid-size bungalow or split-level): roughly $15,000 to $27,000 installed. A split-level with mixed roof heights tends to land closer to the top of that band.</li>
+<li><strong>2,000 sq ft home</strong> (larger two-storey): roughly $20,000 to $36,000 installed. Two-storey homes add scaffolding costs and more cutting around windows, which pushes labour hours up.</li>
+</ol>
+<p>Two-storey homes generally cost more per square foot than one-storey homes of the same total area because scaffolding, safety setup, and cutting around a second row of windows all add labour time. Detached garages or accessory structures get priced separately, usually at a similar per-square-foot rate.</p>
+<p>To rough out your own number, measure your home’s exterior wall area (length times height of each wall, minus large window and door openings), then multiply by the low and high end of the range for a realistic budget bracket.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1789180701682_Siding-area-multiplied-by-cost-range.jpeg" alt="Siding area multiplied by cost range" /></p>
+<h2>What drives your price up or down in Calgary</h2>
+<p>Calgary’s climate is a big part of why fibre cement gets specified so often here. Freeze-thaw cycles crack and warp lower-grade materials over a decade or two, and hail is a recurring risk along the foothills and northeast communities. Fibre cement is engineered to hold up against <a href="https://www.jameshardie.com/faq/" rel="nofollow noopener noreferrer" target="_blank">temperature swings and moisture cycles better than vinyl or untreated wood</a>, which is part of why it shows up so often on Calgary re-side jobs despite a higher sticker price than vinyl.</p>
+<p>Beyond climate, several project-specific factors move your quote:</p>
+<ul>
+<li><strong>Home height</strong>: two-storey and split-level homes need scaffolding, which adds real cost, not just inconvenience</li>
+<li><strong>Trim and architectural detail</strong>: gables, dormers, and decorative trim multiply labour hours fast</li>
+<li><strong>Sheathing condition</strong>: older homes sometimes need substrate repair once old siding comes off</li>
+<li><strong>Permit and inspection timing</strong>: delays here can stretch your schedule and, in some cases, your labour cost</li>
+<li><strong>Season</strong>: spring and summer are peak demand in Calgary, and contractors book up, which can push prices and wait times higher</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask your contractor to do a quick exterior walk-around before quoting, not just a square-footage estimate from a photo. A five-minute look at your soffits and lower wall sections can catch rot or moisture damage that would otherwise show up as a surprise change order once the old siding comes off.</em></p>
+<h2>Warranty, lifespan, and resale: what Calgary homeowners should know</h2>
+<p>James Hardie backs most of its fibre cement products with a 30-year product warranty, and ColorPlus prefinished panels carry a 15-year limited finish warranty on top of that. Both depend on the installer following the manufacturer’s specified fastening pattern, clearances, and moisture management, so warranty coverage is only as good as the installation behind it.</p>
+<p>Properly installed fibre cement typically lasts several decades with minimal upkeep, holding up better against Calgary’s freeze-thaw cycles than vinyl (which can crack in extreme cold) or wood (which needs repainting and is more vulnerable to moisture). Industry cost-versus-value reporting generally points to fibre cement recovering a strong share of its cost at resale compared with cheaper claddings, though you should confirm expectations with your own real estate agent and check with your insurer about any premium adjustments tied to your new siding.</p>
+<h2>What a siding project timeline actually looks like</h2>
+<p>A single-storey re-side typically runs one to two weeks from tear-off to finished trim; a two-storey home with more scaffolding and cutting often takes two to three weeks. Here’s the general sequence:</p>
+<ol>
+<li><strong>Prep and material delivery</strong> (1 to 3 days): permits confirmed, scaffolding set up if needed, materials staged on site.</li>
+<li><strong>Tear-off of old siding</strong> (1 to 3 days): this is when substrate damage, if any, gets discovered.</li>
+<li><strong>Installation of fibre cement panels and trim</strong> (5 to 10 days): the bulk of the project timeline.</li>
+<li><strong>Finish work and clean-up</strong> (1 to 2 days): caulking, touch-ups, and site cleanup.</li>
+</ol>
+<p>Weather delays and unexpected substrate repairs are the most common causes of schedule slippage. Expect some noise and yard disruption during tear-off and installation, and confirm in writing who’s responsible for daily site clean-up before work starts.</p>
+<h2>Hidden costs and how to spot a low-ball bid</h2>
+<p>Homeowners often under-budget for the items that only surface once the old siding comes off. <a href="https://calgaryconstructionnetwork.com/construction-brain/how-much-do-contractors-charge-for-fiber-cement-siding-full--2c400b" rel="nofollow noopener noreferrer" target="_blank">Scaffolding on multi-storey projects typically runs $2,000 to $4,000</a>, and if your home was built before the 1990s, asbestos testing matters. Where asbestos is found in old siding or insulation, abatement commonly adds $3 to $5 per square foot on top of your installed cost.</p>
+<p>Watch for these red flags in a bid that seems too good:</p>
+<ul>
+<li>Vague scope language with no line-item breakdown</li>
+<li>No mention of disposal, teardown, or scaffolding costs</li>
+<li>No stated start or completion date</li>
+<li>No proof of insurance or WCB coverage offered upfront</li>
+<li>No reference to following the manufacturer’s installation guide, which is important for warranty coverage.</li>
+</ul>
+<p>An early site inspection by the contractor, rather than a phone or photo estimate, produces a far more reliable number and catches these issues before they become change orders. Insist on an itemized quote, and confirm your installer can show adherence to the James Hardie installation guide so your warranty stays intact.</p>
+<h2>How to compare contractor bids without getting burned</h2>
+<p>A lower number on paper isn’t automatically the better deal once you factor in what’s missing from it. Before signing, ask each contractor:</p>
+<ul>
+<li>How do you handle warranty registration, and are you a certified or preferred installer?</li>
+<li>If asbestos is present, how is testing and abatement handled?</li>
+<li>Is scaffolding included, and who supplies it?</li>
+<li>Can you show references or photos from other Calgary siding projects?</li>
+</ul>
+<p>Your contract should include itemized pricing by category, a stated start and completion date, a defined process for change orders, proof of current insurance and WCB coverage, and a lien waiver on final payment. If substrate repairs are found once tear-off starts, <a href="https://www.precision-concretecoating.com/concrete-moisture-testing-explained" target="_blank" rel="nofollow noopener noreferrer">testing for moisture damage</a> before covering it back up protects you from paying twice.</p>
+<p>A bid that’s several thousand dollars higher than the rest is worth a second look, but so is one that’s noticeably lower. The extra cost of a properly insured, warranty-compliant installer is usually smaller than the cost of redoing a botched job two years later.</p>
+<h2>Financing and rebate options for Calgary siding projects</h2>
+<p>Siding upgrades qualify for some of the same financing paths as other exterior renovation work. Home equity lines of credit and renovation-specific loans through Canadian banks and credit unions remain the most common way homeowners fund a re-side, since siding isn’t usually eligible for standard unsecured personal loan rates as favourably as it is through a secured line.</p>
+<p>On the incentive side, energy efficiency upgrades bundled into a siding project, such as adding rigid foam insulation underneath your new fibre cement panels, can sometimes qualify for federal or provincial home energy programs, though eligibility and program availability change from year to year. It’s worth checking current program status directly with the relevant government energy office before you finalize your scope, since siding alone rarely qualifies but an insulation upgrade paired with it sometimes does.</p>
+<p>Local utility providers occasionally run seasonal rebate programs tied to home envelope improvements as well. These programs come and go, so confirm active offers at the time you’re planning your project rather than assuming last year’s rebate still applies. If financing or rebates are a factor in your decision, ask your contractor to separate the insulation-upgrade cost from the base siding cost in your quote. That separation makes it much easier to apply for any program that specifically covers the insulation portion of the work.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1789180767394_Financing-and-rebate-options-for-Calgary-siding-projects-overview-diagram.jpeg" alt="Financing and rebate options for Calgary siding projects — overview diagram" /></p>
+<h2>How Calgary’s building codes affect your siding project</h2>
+<p>Calgary follows the Alberta Building Code, and exterior cladding replacement on an existing home generally requires a permit through the City of Calgary when the scope goes beyond a like-for-like repair. Full re-siding projects, especially ones that touch sheathing, insulation, or vapour barriers, typically fall into permit territory.</p>
+<p>The permit process adds a modest cost and a short waiting period to your timeline, but it also protects you. Permitted work gets inspected, which confirms your new siding meets moisture-management and fastening requirements. That inspection matters for two practical reasons: it helps preserve your James Hardie warranty coverage, and it protects your resale value, since unpermitted exterior work can complicate a future sale or insurance claim.</p>
+<p>Local code requirements around moisture barriers and ventilation gaps behind the siding are part of why installation quality matters as much as material choice. A contractor unfamiliar with Calgary’s specific inspection expectations may skip details that a code-compliant installer would build in as standard practice. When you’re comparing bids, ask whether the contractor pulls permits themselves and handles inspection scheduling, or whether that responsibility falls on you. A contractor who handles the permit process end to end is generally a sign of a more established, code-familiar operation.</p>
+<h2>A local contractor’s take on siding costs</h2>
+<p>Homeowners get burned less often by the material they choose than by the contractor who installs it. The pattern we see across years’ worth of Calgary exterior projects: the lowest bid almost always turns into the most expensive one once hidden costs surface mid-project. If you want a straight answer on what your home will actually cost, <a href="https://www.stateracontracting.com/" target="_blank" rel="noopener">request a free consult</a> and get the number in writing before you commit to anything.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Get a real siding quote from a Calgary-based crew</h2>
+<p>Statera Contracting prices siding projects the way this guide breaks them down: one itemized number covering materials, labour, tear-off, and disposal, with scaffolding and any substrate repairs called out separately rather than buried in a lump sum.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>A renovation contractor working across Calgary and the surrounding areas offers consultations for exterior projects, including fibre cement re-sides. Before your consult, have your home’s approximate age, a few photos of your current siding, and any known issues (moisture stains, cracked boards, past repairs) ready. That gets you a faster, more accurate number on your first visit instead of a rough guess that changes later. Beyond siding, Statera also handles the interior side of a renovation, from a <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation</a> to a full <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement finish</a>, if your exterior refresh turns into a bigger project. Book a free consult through Statera Contracting to get an itemized quote for your home.</p>
+<h2>Sources</h2>
+<p>For warranty terms, see James Hardie’s FAQ and the <a href="http://www.jameshardie.ca/alberta/warranties" rel="nofollow noopener noreferrer" target="_blank">Alberta-specific warranty page</a>. For local cost breakdowns, see Calgary Construction Network’s cost guide and <a href="https://stateracontracting.com/blog/siding-replacement-cost-calgary" target="_blank" rel="noopener">Statera’s Calgary siding cost study</a>.</p>
+<ul>
+<li><a href="https://www.jameshardie.com/faq/" rel="nofollow noopener noreferrer" target="_blank">Frequently asked questions | James Hardie</a></li>
+<li><a href="https://calgaryconstructionnetwork.com/construction-brain/how-much-do-contractors-charge-for-fiber-cement-siding-full--2c400b" rel="nofollow noopener noreferrer" target="_blank">How much do contractors charge for fibre cement siding (Calgary Construction Network)</a></li>
+</ul>
+<h2>FAQ</h2>
+<h3>How much does fiber cement siding cost for a 2,000 sq ft house?</h3>
+<p>A 2,000 square foot home typically costs $20,000 to $36,000 for fully installed fibre cement siding in Calgary, depending on trim complexity, home height, and finish choice.</p>
+<h3>What are the downsides of fiber cement siding?</h3>
+<p>Fibre cement costs more upfront than vinyl, is heavier and requires more skilled labour to install correctly, and improper installation can void the manufacturer’s warranty; it also needs periodic caulking and repainting if not using a prefinished ColorPlus product.</p>
+<h3>How much does 1,000 square feet of siding cost?</h3>
+<p>Expect roughly $10,000 to $18,000 installed for 1,000 square feet of fibre cement siding in Calgary, assuming a single storey with standard trim and no major substrate repairs.</p>
+<h3>How much does it cost to put a Hardie Board on a 1,500 square foot house?</h3>
+<p>A 1,500 square foot home typically runs $15,000 to $27,000 installed, with split-level or multi-height homes landing closer to the top of that range due to added scaffolding and cutting.</p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/siding-replacement-cost-calgary" target="_blank" rel="noopener">$9–$18 per sq ft: Calgary siding replacement, budget for hidden repairs</a></li>
+<li><a href="https://stateracontracting.com/blog/vinyl-vs-fiber-cement" target="_blank" rel="noopener">Vinyl vs fibre cement siding: Canada homeowner’s guide</a></li>
+<li><a href="https://stateracontracting.com/blog/siding-vs-stucco" target="_blank" rel="noopener">Siding vs stucco for Canadian homes: which should you choose?</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
