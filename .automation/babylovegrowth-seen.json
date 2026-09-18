@@ -69,6 +69,6 @@
   "844837": { "status": "published", "publishedAt": "2026-09-15" },
   "848843": { "status": "published", "publishedAt": "2026-09-16" },
   "853109": { "status": "published", "publishedAt": "2026-09-17" },
-  "859580": { "status": "queued", "reason": "new article found by schedule fallback run on 2026-09-15; daily publish limit (1/day) already used for 2026-09-15 (published article #844837). estimated calendar slot (created_at+3d, not confirmed) is 2026-09-18. created_at 2026-09-15T13:42:03Z." },
-  "862636": { "status": "queued", "reason": "new article found by schedule fallback run on 2026-09-16; daily publish limit (1/day) already used for 2026-09-16 (published article #848843). estimated calendar slot (created_at+3d, not confirmed) is 2026-09-19. created_at 2026-09-16T11:43:17.099Z." }
+  "859580": { "status": "published", "publishedAt": "2026-09-18" },
+  "862636": { "status": "queued", "reason": "webhook fired 2026-09-18 for this article, but a lower-ID article (#859580) was already queued with an earlier-due calendar slot (2026-09-18) and today's slot went to it instead per the oldest-by-ID rule. estimated calendar slot (created_at+3d, not confirmed) is 2026-09-19. created_at 2026-09-16T11:43:17.099Z." }
 }
