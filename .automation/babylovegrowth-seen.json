@@ -72,7 +72,7 @@
   "859580": { "status": "published", "publishedAt": "2026-09-18" },
   "862636": { "status": "published", "publishedAt": "2026-09-19" },
   "873956": { "status": "published", "publishedAt": "2026-09-22" },
-  "876427": { "status": "queued", "reason": "calendar-scheduled date not yet arrived: estimated slot (created_at+3d, not confirmed) is 2026-09-23; today is 2026-09-22. Webhook fired for this article today, but it is not due until tomorrow, so the free 2026-09-22 slot went to #873956 (oldest due backlog entry) instead, per the never-publish-ahead-of-calendar-date policy. created_at 2026-09-20T01:37:34.074Z." },
-  "880073": { "status": "queued", "reason": "calendar-scheduled date not yet arrived: estimated slot (created_at+3d, not confirmed) is 2026-09-24; today is 2026-09-21, and daily slot for 2026-09-21 is otherwise free (no article's estimated/confirmed calendar date falls on or before today; backlog #873956 est. 2026-09-22 and #876427 est. 2026-09-23 also not yet due). created_at 2026-09-21T01:44:30.950Z." },
-  "884135": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-09-22 (#873956 published today). Also not yet due on its own estimated slot: created_at+3d (not confirmed) is 2026-09-25. created_at 2026-09-22T01:42:58.759Z." }
+  "876427": { "status": "published", "publishedAt": "2026-09-23" },
+  "880073": { "status": "queued", "reason": "calendar-scheduled date not yet arrived: estimated slot (created_at+3d, not confirmed) is 2026-09-24; today is 2026-09-23. Webhook fired for this article today, but it is not due until tomorrow, so the free 2026-09-23 slot went to #876427 (oldest due backlog entry, estimated slot 2026-09-23) instead, per the never-publish-ahead-of-calendar-date policy. created_at 2026-09-21T01:44:30.950Z." },
+  "884135": { "status": "queued", "reason": "calendar-scheduled date not yet arrived: estimated slot (created_at+3d, not confirmed) is 2026-09-25; today is 2026-09-23. Also, today's slot went to #876427. created_at 2026-09-22T01:42:58.759Z." }
 }
