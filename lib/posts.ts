@@ -16324,6 +16324,167 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "tenant-improvement-cost-calgary",
+    title: "Budget $40–$150/Sq Ft: Calgary Tenant Improvements, Lease & Permits",
+    excerpt:
+      "Most tenant improvement projects in Calgary land between $40 and $150 per square foot, though bare-bones second-generation space can dip below that and full restaurant builds can climb past $200.",
+    date: "2026-09-24",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1789954985759_Calgary-commercial-space-under-tenant-improvement-construction.jpeg",
+    coverAlt: "Budget $40–$150/Sq Ft: Calgary Tenant Improvements, Lease & Permits",
+    category: "Industry News",
+    readingTime: "17 min read",
+    metaTitle: "Budget $40–$150/Sq Ft: Calgary Tenant Improvements, Lease & Permits",
+    metaDescription:
+      "Plan tenant improvement budgets in Calgary with $40–$150/Sq Ft ranges, 21–56 day permit timelines, a lease checklist, and Statera Contracting's tips.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Most tenant improvement projects in Calgary land between $40 and $150 per square foot, though bare-bones second-generation space can dip below that and full restaurant builds can climb past $200. The single biggest swing factor is your use type and its mechanical demands: a quiet office fit-out and a commercial kitchen with grease traps and make-up air units are not the same project, even at identical square footage. The scenarios below will help you place your own space on that scale.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>Tenant improvement costs in Calgary range from $40 to over $250 per square foot, depending on the project’s scope and mechanical demands.</li>
+<li>Major cost drivers include layout changes, HVAC and mechanical work, plumbing for food service, and fire safety modifications.</li>
+<li>Permits generally take 21 to 56 days, with complex change-of-use applications requiring additional time and fees.</li>
+<li>Landlord allowances typically cover base building systems, while expenses beyond that fall on the tenant, emphasizing the need for clear agreements before signing a lease.</li>
+<li>Sequencing orders and reusing existing infrastructure can significantly reduce costs, especially by ordering long-lead items early and locking scope before requesting quotes.</li>
+</ul>
+</blockquote>
+
+<p><strong>Statera Contracting — Plan Your Calgary Commercial Renovation.</strong> Statera Contracting handles commercial projects, including restaurants and pubs or bars, in Calgary and surrounding areas. <a href="https://stateracontracting.com">Visit Statera Contracting</a></p>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-does-a-tenant-improvement-cost-per-square-foot-in-calgary">What does a tenant improvement cost per square foot in Calgary?</a></li>
+<li><a href="#what-drives-tenant-improvement-costs-the-most">What drives tenant improvement costs the most?</a></li>
+<li><a href="#how-long-do-calgary-permits-take-for-tenant-improvements">How long do Calgary permits take for tenant improvements?</a></li>
+<li><a href="#who-pays-for-tenant-improvements-in-a-calgary-lease">Who pays for tenant improvements in a Calgary lease?</a></li>
+<li><a href="#how-do-you-build-a-realistic-ti-budget-in-calgary">How do you build a realistic TI budget in Calgary?</a></li>
+<li><a href="#local-expertise-how-statera-contracting-approaches-ti-projects-in-calgary">Local expertise: how Statera Contracting approaches TI projects in Calgary</a></li>
+<li><a href="#does-the-age-or-type-of-building-change-your-ti-cost">Does the age or type of building change your TI cost?</a></li>
+<li><a href="#what-hidden-costs-catch-tenants-off-guard">What hidden costs catch tenants off guard?</a></li>
+<li><a href="#do-owner-occupied-spaces-cost-less-than-leased-tenant-improvements">Do owner-occupied spaces cost less than leased tenant improvements?</a></li>
+<li><a href="#what-should-calgary-businesses-know-about-local-contractor-and-labour-costs">What should Calgary businesses know about local contractor and labour costs?</a></li>
+<li><a href="#how-do-you-save-on-a-tenant-improvement-without-cutting-corners">How do you save on a tenant improvement without cutting corners?</a></li>
+<li><a href="#a-contractors-take-on-getting-the-lease-right-before-the-drawings">A contractor’s take on getting the lease right before the drawings</a></li>
+<li><a href="#how-statera-contracting-supports-your-tenant-improvement-budget">How Statera Contracting supports your tenant improvement budget</a></li>
+<li><a href="#sources">Sources</a></li>
+<li><a href="#faq">FAQ</a></li>
+</ul>
+<h2>What does a tenant improvement cost per square foot in Calgary?</h2>
+<p>Calgary’s tenant improvement market breaks into three rough tiers, and knowing which one your project falls into changes everything about how you plan the lease negotiation.</p>
+<ul>
+<li><strong>Light refresh ($40 to $70 per sq ft):</strong> paint, flooring, minor partition changes, existing HVAC left largely alone. Common in second-generation office space that already has ceiling grid, lighting, and washrooms in place.</li>
+<li><strong>Standard build-out ($70 to $150 per sq ft):</strong> new demising walls, some mechanical rework, upgraded finishes, new millwork. This is where most Calgary offices and retail spaces actually land.</li>
+<li><strong>Heavy build ($150 to $250+ per sq ft):</strong> full commercial kitchens, restaurants with grease interceptors and enhanced ventilation, medical or dental spaces with plumbing and radiation shielding, or any project starting from raw shell space.</li>
+</ul>
+<p>A few illustrative scenarios make the ranges concrete. An 800 square foot retail unit doing a light refresh might total $35,000 to $55,000. A 2,000 square foot professional office with new offices, a boardroom, and a small kitchenette often runs $150,000 to $280,000 at the standard tier. A 3,500 square foot restaurant, with a full commercial kitchen, grease trap installation, and fire suppression upgrades, frequently exceeds $500,000 once mechanical and life safety systems are priced in.</p>
+<p>All figures here are in Canadian dollars and reflect general Calgary market conditions rather than any single contractor’s quote. Your actual number depends heavily on the base building condition, which is the subject of the next section.</p>
+<h2>What drives tenant improvement costs the most?</h2>
+<p>Three or four line items usually account for most of the swing between a modest quote and an expensive one. Knowing them lets you ask sharper questions before signing a lease.</p>
+<ol>
+<li><strong>Demising walls and layout changes.</strong> Splitting or reshaping a unit means new framing, drywall, taping, and often relocated electrical.</li>
+<li><strong>HVAC and mechanical work.</strong> Adding zones, increasing tonnage for a kitchen, or rerouting ductwork for a new layout is consistently one of the most expensive categories in a Calgary build.</li>
+<li><strong>Plumbing and grease traps.</strong> Any food service space needs grease interceptors sized to the health authority’s requirements, plus new supply and drain lines.</li>
+<li><strong>Sprinkler and fire alarm modifications.</strong> Moving walls often means moving sprinkler heads and alarm devices, which triggers a fire permit review.</li>
+<li><strong>Accessibility and code upgrades.</strong> Older buildings sometimes need washroom or door width upgrades to meet current code, and these are rarely optional once triggered.</li>
+<li><strong>Finishes and millwork.</strong> Flooring, ceiling tile, custom counters, and cabinetry are where budgets often creep past the original estimate.</li>
+<li><strong>Long lead items.</strong> Custom glass, specialty light fixtures, and imported equipment can add weeks to a schedule if not ordered early.</li>
+</ol>
+<p>Existing condition matters as much as the wish list. A space with an intact ceiling grid, working HVAC, and code-compliant washrooms costs far less to renovate than a raw shell, even if the finished layout looks identical on paper.</p>
+<p><strong>Pro Tip:</strong> <em>Order your long-lead fixtures and mechanical equipment the week you sign your permit application, not the week construction starts. A four-week equipment delay can push your entire opening date back by a month, even if the actual construction work only takes two.</em></p>
+<h2>How long do Calgary permits take for tenant improvements?</h2>
+<p>Several permits commonly apply to a tenant improvement, and stacking them without planning is the most common cause of a blown timeline. A building permit covers the construction itself. A change of use permit applies if the new tenant’s use differs from the previous occupant’s (retail becoming a restaurant, for example). Fire alarm and sprinkler modifications usually need a separate life safety permit, and any food service operation also needs health authority sign-off before opening.</p>
+<blockquote>
+<p>Simple, code-compliant tenant improvement applications can be issued in <a href="https://www.calgary.ca/development/permits/process-faq.html" rel="nofollow noopener noreferrer" target="_blank">as little as 21 calendar days</a>, while more complex or discretionary applications, including many change-of-use requests, often take 49 to 56 days or longer.</p>
+</blockquote>
+<p>Planning fees vary by application type. The City of Calgary lists examples such as $190 for a straightforward permitted change of use and $624 for a change of use requiring a discretionary relaxation, which includes the cost of public advertising for that application.</p>
+<p>A few habits keep your application in the faster lane:</p>
+<ul>
+<li>Submit stamped drawings that already reflect the National Building Code’s 2023 Alberta edition rather than a generic layout.</li>
+<li>Confirm your intended use matches the zoning and business licence category before you apply.</li>
+<li>Loop in your landlord early, since some applications need property owner sign-off before the City will review them.</li>
+</ul>
+<h2>Who pays for tenant improvements in a Calgary lease?</h2>
+<p>A tenant improvement allowance is the dollar amount, usually quoted per square foot, that a landlord contributes toward build-out costs. Landlords typically present it as a credit applied against construction invoices rather than cash handed to the tenant directly, and any cost above that allowance falls to the tenant.</p>
+<p>The split isn’t always obvious. Landlord-responsible items often include base building systems, structural elements, and life safety infrastructure already required by code. Tenant-supplied items usually include specialty equipment, branded fixtures, and finishes tied specifically to that business’s operation. Before you sign anything, work through this checklist:</p>
+<ol>
+<li>Confirm the exact allowance amount and whether it’s a flat sum or a rate per square foot.</li>
+<li>Ask whether the allowance is paid up front, in draws, or amortized into the rent over the lease term.</li>
+<li>Get clarity on who pays for permit fees and who is named as applicant of record.</li>
+<li>Nail down the approval and sign-off process for the finished space, including who inspects before occupancy.</li>
+<li>Confirm in writing who absorbs the cost of any code-triggered upgrades discovered after demolition begins.</li>
+</ol>
+<p>Skipping any one of these five items is how tenants end up paying for something they assumed was covered.</p>
+<h2>How do you build a realistic TI budget in Calgary?</h2>
+<p>A workable tenant improvement budget breaks into five categories, and treating them separately from day one avoids the common mistake of lumping everything into a single “construction” number.</p>
+<ul>
+<li><strong>Base build cost:</strong> demolition, framing, mechanical, electrical, plumbing, and finishes.</li>
+<li><strong>Professional fees:</strong> architectural drawings, engineering stamps, and any interior design work.</li>
+<li><strong>Permit and utility fees:</strong> City permit fees, utility connection charges, and any development-related deposits.</li>
+<li><strong>FF&amp;E and specialty systems:</strong> furniture, kitchen equipment, security systems, and signage.</li>
+<li><strong>Contingency:</strong> a working reserve, commonly set at 10% to 20% of the base build cost, held specifically for surprises discovered once demolition opens up the walls.</li>
+</ul>
+<p>For a 2,000 square foot standard office fit-out at roughly $200,000 in construction, a rough breakdown might look like $150,000 for base build, $15,000 for professional fees, $5,000 for permits and utilities, $20,000 for furniture and equipment, and $20,000 held in contingency.</p>
+<p>Staging your selections matters as much as the numbers themselves. Lock in long-lead items like custom millwork or specialty lighting during design, order flooring and paint closer to the construction start date, and hold FF&amp;E decisions until the space is framed so you can confirm actual dimensions.</p>
+<p><strong>Pro Tip:</strong> <em>Never treat your contingency line as optional padding to cut when the quote comes in high. Calgary’s older commercial stock frequently hides outdated wiring or undersized mechanical behind a finished ceiling, and that’s exactly what the contingency exists to absorb.</em></p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1789955058740_How-do-you-build-a-realistic-TI-budget-in-Calgary-overview-diagram.jpeg" alt="How do you build a realistic TI budget in Calgary? — overview diagram" /></p>
+<h2>Local expertise: how Statera Contracting approaches TI projects in Calgary</h2>
+<p><a href="https://www.stateracontracting.com/" target="_blank" rel="noopener">Statera Contracting</a> is a licensed and insured Calgary renovation company with direct experience on commercial tenant improvement projects across offices, restaurants, and retail spaces. The team prepares permit-ready drawings before submission, coordinates directly with landlords on approval requirements, and stages construction to reduce downtime for businesses trying to open on schedule. For a deeper look at how timelines typically unfold, the <a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">tenant improvement timeline guide</a> and the <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation page</a> walk through the process in more detail.</p>
+<h2>Does the age or type of building change your TI cost?</h2>
+<p>Building vintage changes your budget more than most tenants expect going into a lease negotiation. A space built in the 1980s or earlier often has undersized electrical service, aging boilers, or ceiling heights that don’t accommodate modern ductwork without costly rework. Second-generation space in a newer tower, by contrast, frequently already has the ceiling grid, sprinkler layout, and washroom count you need, cutting thousands off the base build.</p>
+<p>Building type matters just as much as age. A ground-floor retail unit built for a specific former use, a shoe store converting to a nail salon, for instance, can trigger a change of use review even if no walls move, because plumbing fixture counts and occupancy load calculations differ by use category under the National Building Code’s 2023 Alberta edition. Industrial and flex space, common in Calgary’s northeast, often comes with fewer finishes but also fewer existing systems to work around, which can cut both ways on price depending on scope.</p>
+<p>Strip malls and standalone buildings tend to have simpler mechanical systems but weaker existing infrastructure, meaning more of your budget goes toward bringing basics up to standard rather than finishes. High-rise office towers usually have stronger base building systems already in place, but tighter rules around after-hours construction access and freight elevator scheduling that can add time, and occasionally cost, to a project. Matching your expected scope to the building’s actual vintage before you sign a lease saves a lot of budget surprises later.</p>
+<h2>What hidden costs catch tenants off guard?</h2>
+<p>The line items that blow up a tenant improvement budget are rarely the ones on the original quote. Demolition almost always uncovers something: outdated wiring that doesn’t meet current code, water damage behind a wall that looked fine from the tenant side, or mechanical ductwork that was patched rather than properly installed by a previous occupant.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1789954990295_Exposed-wiring-and-ductwork-behind-commercial-wall.jpeg" alt="Exposed wiring and ductwork behind commercial wall" /></p>
+<p>Utility upgrades are another common surprise. A restaurant tenant might discover the existing electrical service can’t support new kitchen equipment without a costly panel upgrade, a cost that rarely shows up until an electrician actually opens the panel. Structural surprises follow a similar pattern: a wall assumed to be non-load-bearing sometimes turns out to carry weight, which means an engineer, a permit revision, and a delay.</p>
+<p>Beyond construction itself, several soft costs get missed at the estimating stage. Landlord coordination fees, sometimes charged for after-hours access or elevator booking in a multi-tenant building, rarely appear on a contractor’s quote. Insurance requirements during construction, including builder’s risk coverage, add another line that tenants sometimes discover only when the landlord’s property manager asks for a certificate. If your project touches an existing insurance claim or involves damage repair alongside the improvement work, resources like <a href="https://vectorclaimsolutions.com/how-commercial-property-claims-differ-a-2026-guide" target="_blank" rel="nofollow noopener noreferrer">Vector Claim Solutions’ guide to commercial property claims</a> explain how adjusters typically calculate those separate repair estimates.</p>
+<p>Finally, holding costs during construction, rent, utilities, and staff wages if you’re relocating an existing operation, are easy to forget because they don’t appear on any contractor invoice at all.</p>
+<h2>Do owner-occupied spaces cost less than leased tenant improvements?</h2>
+<p>Owner-occupied renovations and leased tenant improvements can use identical materials and trades, yet they rarely cost the same amount for equivalent scope. Owning the building removes the landlord approval layer entirely: no lease clause dictating hours of construction, no requirement to restore the space to base building condition at lease end, and no negotiation over who owns the finished improvements.</p>
+<p>Leased space carries costs that owner-occupied projects simply don’t have. Many commercial leases require tenants to remove leasehold improvements and restore the space to its original condition when the lease ends, a cost that owners never face. Tenants also frequently pay a landlord-side coordination or supervision fee that doesn’t apply when you own the building outright. On the other hand, owner-occupied projects sometimes take on scope a landlord would never approve, structural changes, exterior modifications, or major mechanical relocations, which can push owner-occupied costs higher on a per-square-foot basis even without any lease-related fees.</p>
+<p>The other real difference is financing. A landlord’s tenant improvement allowance functions like a partial subsidy that reduces the tenant’s out-of-pocket cost, something an owner renovating their own building doesn’t have access to unless they’re financing through a separate loan. That allowance is often the deciding factor in whether a leased tenant improvement actually costs less in cash terms than an equivalent owner-occupied project, even when the raw construction pricing is identical.</p>
+<h2>What should Calgary businesses know about local contractor and labour costs?</h2>
+<p>Calgary’s construction labour market runs tighter during peak building seasons, typically spring through fall, and that seasonality shows up directly in commercial tenant improvement quotes. Trades booked out several weeks in advance during a busy stretch will often quote higher than the same crew would in a slower winter month, simply because demand outpaces available capacity.</p>
+<p>Specialty trades add another layer of cost variation specific to commercial work. Licensed mechanical contractors qualified to work on commercial-grade HVAC and kitchen ventilation systems are a smaller pool than residential trades, and that scarcity shows up in their rates. The same applies to fire suppression contractors certified to modify sprinkler systems, a requirement whenever demising walls move.</p>
+<p>Working with contractors who already carry Workers’ Compensation Board coverage and proper liability insurance matters more on commercial sites than most tenants realize, since a landlord’s property manager will frequently ask for proof of both before granting construction access. Contractors without an established local track record in commercial work sometimes underprice mechanical and life safety scope because they’re less familiar with Calgary’s specific permit requirements, which tends to surface as change orders partway through the job rather than as savings.</p>
+<h2>How do you save on a tenant improvement without cutting corners?</h2>
+<p>The biggest cost-saving lever most tenants overlook is sequencing. Ordering long-lead mechanical equipment and custom millwork the day your permit is submitted, rather than the day construction starts, avoids the rush fees and expedited shipping charges that pad a budget when a project falls behind schedule.</p>
+<p>Reusing existing infrastructure is the next biggest lever. A layout that keeps washrooms, kitchen plumbing, or major electrical runs roughly where they already sit avoids triggering expensive relocations. Where your business use allows flexibility in layout, working around what’s already in the ceiling and floor rather than against it can shave a meaningful percentage off the mechanical and plumbing line alone.</p>
+<p>Standard finishes deserve more credit than they get. Custom millwork and imported fixtures look sharp, but stock materials from established suppliers install faster and cost less without necessarily looking cheaper, particularly in areas like back-of-house space that customers never see. Save the custom budget for the surfaces customers actually touch and look at.</p>
+<p>Finally, get your scope locked before requesting quotes rather than after. Contractors price uncertainty into every estimate, and a design that changes mid-quote, or mid-construction, forces re-pricing that almost always costs more than getting the drawings right the first time. Locking mechanical and structural decisions early, even if finish selections come later, keeps your base build number stable while leaving room to adjust the details that matter less to your final cost.</p>
+<h2>A contractor’s take on getting the lease right before the drawings</h2>
+<p>If you take one thing from this guide, confirm your tenant improvement allowance in writing and get a contractor to pre-price your specific scope before you sign the lease, not after. Too many tenants negotiate rent and term first, then discover the allowance doesn’t cover half of what their business actually needs. Build in your contingency and expect permits to take real time. Space to react is worth more than a slightly better rent number.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>How Statera Contracting supports your tenant improvement budget</h2>
+<p>Some contractors offer Calgary businesses fixed-price clarity instead of a construction estimate that shifts every few weeks. Managing estimating, permit-ready drawings, and staged construction under one team can help tenants compare their allowance and actual build cost honestly before signing anything.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>That means fewer surprises once demolition starts and a realistic sense of timeline before your landlord clock starts ticking. If you’re planning an office, restaurant, or retail build-out anywhere in Calgary, request a free consultation through the commercial renovation page and get a scope-specific estimate before your lease negotiation locks in numbers you can’t change later.</p>
+<h2>FAQ</h2>
+<h3>What is a typical tenant improvement allowance?</h3>
+<p>A tenant improvement allowance is a dollar amount, usually quoted per square foot, that a landlord credits toward a tenant’s build-out costs. The exact amount varies by landlord, building class, and lease term, so confirm it in writing before budgeting your project rather than assuming a standard rate.</p>
+<h3>How much does it cost to renovate a house in Calgary?</h3>
+<p>Residential renovation costs run on a different scale than commercial tenant improvements and depend heavily on scope, from a single bathroom to a full home addition. For detailed residential pricing, the <a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Calgary house renovation budget guide</a> breaks down costs by project type.</p>
+<h3>What is tenant improvement reimbursement?</h3>
+<p>Tenant improvement reimbursement describes a landlord paying the tenant back for build-out costs after construction is complete and inspected, rather than fronting the allowance during the work. It’s a less common structure than an up-front allowance credit, and tenants should confirm which model their lease uses before financing construction out of pocket.</p>
+<h3>What is the typical cost to renovate a basement in Calgary?</h3>
+<p>Basement renovation costs are a residential category separate from commercial tenant improvements and depend on finishing level, plumbing additions, and whether the space needs a secondary suite build-out. Statera Contracting’s <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement and living spaces</a> service page covers current options for that project type.</p>
+<h3>How much does a tenant improvement typically cost per square foot in Calgary?</h3>
+<p>Most Calgary tenant improvements fall between $40 and $150 per square foot, with light office refreshes at the low end and full restaurant or medical build-outs often exceeding $150 to $250 per square foot. Your specific number depends on existing building condition and how much mechanical and plumbing work your use requires.</p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">Commercial Renovation Calgary: TI Timeline Guide</a></li>
+<li><a href="https://stateracontracting.com/blog/retail-build-out-cost-calgary" target="_blank" rel="noopener">Retail build out cost Calgary: a budget guide for owners</a></li>
+</ul>`,
+      },
+    ],
+  },
 ];
 
 
