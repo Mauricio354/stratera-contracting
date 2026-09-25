@@ -16485,6 +16485,151 @@ Any commercial kitchen with cooking equipment producing heat, steam, smoke, or g
       },
     ],
   },
+  {
+    slug: "restaurant-renovation-cost-calgary",
+    title: "Calgary Restaurant Renovation: Contractor Budgeting, 150–700 per sq ft",
+    excerpt:
+      "Hard construction for a Calgary restaurant renovation typically runs from $150 to over $700 per square foot depending on concept and finish level, before kitchen equipment, furniture, design fees, permits, and HST are added in.",
+    date: "2026-09-25",
+    author: "Industry News",
+    coverImage:
+      "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1790041315505_Calgary-restaurant-kitchen-under-renovation.jpeg",
+    coverAlt: "Calgary Restaurant Renovation: Contractor Budgeting, 150–700 per sq ft",
+    category: "Industry News",
+    readingTime: "16 min read",
+    metaTitle: "Calgary Restaurant Renovation: Contractor Budgeting, 150–700 per sq ft",
+    metaDescription:
+      "Contractor-led budgeting for Calgary restaurant renovations: $150–700 per sq ft, permit and health authority timelines, base-building risk checks, and realistic project timelines.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Hard construction for a Calgary restaurant renovation typically runs from the lower to upper hundreds of dollars per square foot depending on concept and finish level, which puts a medium-sized space into a substantial cost range. That band excludes kitchen equipment, furniture, design fees, permit fees, and HST. Before you sign a lease or a contract, get a measured site inspection of the hood, grease interceptor, make up air unit, electrical service, and gas capacity. That inspection determines which end of the range you’re actually looking at.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>Calgary restaurant renovation costs range from $150 to over $700 per square foot, depending on concept and finish, excluding equipment, furniture, and permits.</li>
+<li>Significant budget risks come from hood exhaust, grease interceptors, make-up air units, and electrical or gas service upgrades, especially if existing infrastructure is inadequate.</li>
+<li>Permit approval involves both building permits and health authority reviews, which typically take around 15 business days and must be coordinated early.</li>
+<li>Infrastructure upgrades in older spaces, such as hood routing and electrical service, can drastically inflate costs if overlooked before signing a lease or starting work.</li>
+<li>Contractors should provide fixed-scope, detailed proposals that clarify inclusions and exclusions, with a thorough site inspection and proper sequencing of trades to control costs.</li>
+</ul>
+</blockquote>
+
+<p><strong>Statera Contracting — Plan Your Calgary Restaurant Renovation.</strong> Statera Contracting handles commercial renovation projects for restaurants, pubs, and bars in Calgary and surrounding areas. <a href="https://stateracontracting.com">Visit Statera Contracting</a></p>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#restaurant-renovation-cost-calgary-ranges-by-concept-and-finish">Restaurant renovation cost Calgary ranges by concept and finish</a></li>
+<li><a href="#what-calgary-permits-and-health-rules-apply-to-your-renovation">What Calgary permits and health rules apply to your renovation?</a></li>
+<li><a href="#what-drives-up-restaurant-renovation-costs-in-calgary">What drives up restaurant renovation costs in Calgary?</a></li>
+<li><a href="#a-step-by-step-budgeting-checklist-for-calgary-restaurant-operators">A step-by-step budgeting checklist for Calgary restaurant operators</a></li>
+<li><a href="#how-long-does-it-take-and-how-much-contingency-should-you-keep">How long does it take and how much contingency should you keep?</a></li>
+<li><a href="#what-should-a-calgary-contractors-proposal-actually-include">What should a Calgary contractor’s proposal actually include?</a></li>
+<li><a href="#soft-costs-design-fees-permits-and-consulting-you-shouldnt-skip">Soft costs: design fees, permits, and consulting you shouldn’t skip</a></li>
+<li><a href="#do-renovation-costs-differ-across-calgary-neighbourhoods">Do renovation costs differ across Calgary neighbourhoods?</a></li>
+<li><a href="#does-going-green-add-to-your-renovation-budget">Does going green add to your renovation budget?</a></li>
+<li><a href="#how-do-you-control-costs-without-cutting-corners">How do you control costs without cutting corners?</a></li>
+<li><a href="#what-costs-come-after-the-renovation-is-done">What costs come after the renovation is done?</a></li>
+<li><a href="#a-contractors-honest-take-on-what-actually-surprises-calgary-operators">A contractor’s honest take on what actually surprises Calgary operators</a></li>
+<li><a href="#how-statera-contracting-helps-you-budget-and-build-your-renovation">How Statera Contracting helps you budget and build your renovation</a></li>
+<li><a href="#sources">Sources</a></li>
+<li><a href="#faq">FAQ</a></li>
+</ul>
+<h2>Restaurant renovation cost Calgary ranges by concept and finish</h2>
+<p>The per-square-foot number changes fast depending on what you’re building and what you’re building it on top of. Canadian industry benchmarks put basic quick-service builds around $150 per square foot on the low end, with higher-end, full-service concepts climbing to $500 to $700 or more per square foot, according to Leedway Group’s construction cost guide. For a Calgary operator, that translates roughly like this:</p>
+<ul>
+<li><strong>Quick-service / counter concept, 1,200 sq ft:</strong> $180,000 to $300,000 in hard construction, assuming a second-generation restaurant space with existing grease trap and hood infrastructure.</li>
+<li><strong>Casual dining, 1,600 sq ft:</strong> $320,000 to $560,000, depending on kitchen line complexity and whether the dining room needs structural or mechanical work.</li>
+<li><strong>Fine dining or high-design concept, 2,000 sq ft:</strong> $500,000 to $1,000,000 or more, once custom millwork, specialty lighting, and upgraded HVAC enter the scope.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask any bidder whether their per-square-foot number assumes a “vanilla shell” or your actual existing conditions. A number quoted against a clean shell almost never survives contact with a 30-year-old strip mall unit.</em></p>
+<p>Hard construction covers demolition, framing, drywall, flooring, plumbing rough-in and finish, electrical, mechanical, and finish carpentry. It does not cover kitchen equipment, loose furniture and fixtures, signage, design and engineering fees, permit fees, or taxes. Existing conditions matter more in Calgary than the raw per-square-foot number does: a cold shell in a new build in the <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">Beltline</a> can cost dramatically more to service with hood exhaust and rooftop gas than a second-generation restaurant space in an older strip plaza, according to Leedway Group’s analysis.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1790041362553_Restaurant-renovation-cost-Calgary-ranges-by-concept-and-finish-overview-diagram.jpeg" alt="Restaurant renovation cost Calgary ranges by concept and finish — overview diagram" /></p>
+<h2>What Calgary permits and health rules apply to your renovation?</h2>
+<p>Calgary requires building permits for most restaurant alterations, and the City enforces the National Building Code, 2023 Alberta Edition. Permit applications need accurate architectural, mechanical, plumbing, and electrical drawings before the City will issue anything, according to <a href="https://www.calgary.ca/for-business/licences/food-establishment-building-code.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary guidance</a>. There’s a narrow $5,000 exception for minor work, but don’t assume your project qualifies just because it feels small. Hood modifications, plumbing changes, and new electrical circuits almost always trigger a full permit review regardless of overall project cost.</p>
+<p>On top of the building permit, Alberta’s Food Retail and Foodservices Code requires construction plans and specifications to go through the regional health authority. Plans for regulated alterations are typically reviewed within 15 business days, per the <a href="https://open.alberta.ca/dataset/0ea69179-2f90-4776-a64d-c903299b2ca6/resource/3354d461-6834-4744-b185-18dfa401960d/download/health-food-retail-and-foodservices-code-2020.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta Food Retail and Foodservices Code</a>. That review runs parallel to the building permit process, not instead of it, so build both timelines into your schedule from day one. A step-by-step <a href="https://stateracontracting.com/blog/restaurant-kitchen-permit-calgary" target="_blank" rel="noopener">restaurant kitchen permit roadmap</a> is worth reading in full if this is your first Calgary build-out, since sequencing these two approvals wrong is one of the most common ways owners lose weeks.</p>
+<h2>What drives up restaurant renovation costs in Calgary?</h2>
+<p>Four systems often cause the most budget surprises for operators: hood exhaust and rooftop routing, grease interceptors, make-up air units, and electrical or gas service upgrades. Each can significantly increase a scope that initially seemed simple on a floor plan.</p>
+<p>Hood exhaust is the single biggest risk. If the building doesn’t already have a rooftop route with available capacity, adding one can push tens of thousands of dollars into structural and mechanical costs, a risk the City of Calgary flags directly for anyone shopping for a location. Grease interceptors follow a similar pattern: a unit that’s undersized for your projected volume, or one that doesn’t exist at all in a former retail space, means trenching the slab and tying into the municipal sewer line, which is disruptive and expensive work.</p>
+<p>Make-up air units matter because Alberta code requires replacement air for whatever your hood exhausts, and older buildings frequently don’t have the rooftop mechanical capacity to support a new unit without an upgrade. Electrical service is the fourth pressure point: commercial kitchen equipment draws far more power than retail space, and if the existing panel is undersized, you’re looking at a service upgrade from the utility, not just an electrician’s afternoon. A <a href="https://stateracontracting.com/blog/hood-ventilation-requirements-calgary" target="_blank" rel="noopener">hood ventilation requirements guide</a> breaks down what code actually demands here in more technical detail.</p>
+<h2>A step-by-step budgeting checklist for Calgary restaurant operators</h2>
+<p>Work through these steps in order, before you sign anything binding on the space:</p>
+<ol>
+<li><strong>Verify the lease permits your use.</strong> Confirm the zoning and lease language explicitly allow a food service business, not just “retail” or “commercial” generically.</li>
+<li><strong>Inspect the base building systems.</strong> Walk the hood, grease interceptor, make-up air, electrical panel, and gas meter with a contractor or mechanical consultant before you commit financially, per City of Calgary guidance.</li>
+<li><strong>Get a measured survey and concept layout.</strong> A rough sketch won’t get you an accurate quote or a permit set.</li>
+<li><strong>Identify every required approval.</strong> That means the building permit, the health authority plan review, and any trade permits for electrical, plumbing, and gas work.</li>
+<li><strong>Price the job by trade and by equipment line.</strong> Bundled lump-sum numbers make it hard to spot where the risk actually sits.</li>
+<li><strong>Add contingency before you finalize a budget</strong>, not after you’re already over.</li>
+<li><strong>Lock a fixed-scope contract</strong> with explicit inclusions and exclusions in writing.</li>
+</ol>
+<p>That sequence, recommended by the City of Calgary’s own food establishment guidance, exists because skipping step two is what turns a $300,000 project into a $450,000 one.</p>
+<h2>How long does it take and how much contingency should you keep?</h2>
+<p>A Calgary restaurant renovation typically runs 3 to 6 months from signed lease to opening day, though that window stretches considerably if your space needs hood or electrical upgrades that trigger a fuller permit review. Design and permit drawings usually take 4 to 8 weeks, the health authority plan review adds up to 15 business days on its own, per Alberta’s Food Retail and Foodservices Code, and construction itself generally takes 8 to 16 weeks depending on scope.</p>
+<p>Contingency is where a lot of first-time operators underbudget. That reserve exists specifically for the base-building surprises covered above: a grease interceptor that fails inspection, an electrical panel that needs a full service upgrade, or a hood route that requires structural work nobody could see until the ceiling came down. A <a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">tenant improvement timeline guide</a> covers how these phases typically stack against each other for commercial tenants generally, which is useful context even outside food service specifically.</p>
+<h2>What should a Calgary contractor’s proposal actually include?</h2>
+<p>A vague quote is the most expensive document you’ll ever sign. Require every bidder to state explicitly, line by line, whether their number includes or excludes kitchen equipment, loose furniture and fixtures, signage, design and engineering fees, permit fees, trade permits, demolition, hazardous material handling, testing and commissioning, and taxes, a level of specificity the City’s own permit fee guidance implicitly assumes owners will demand.</p>
+<p>Without that breakdown, comparing three quotes is close to meaningless, since one contractor’s “$400,000” might include a walk-in cooler and another’s might not. Ask for the proposal in writing with a fixed scope, not a rough budget number that gets adjusted as the project goes. A fixed-scope contract should name the specific brands and models of major equipment where relevant, specify the finish schedule for flooring and millwork, and state the payment schedule tied to construction milestones rather than calendar dates. If a contractor resists putting exclusions in writing, that’s worth treating as a signal on its own.</p>
+<p>Confirm who holds responsibility for permit fees, who pulls the permits, and who’s accountable if an inspection fails and rework is required. Those three questions catch more disputes before they start than almost anything else in the contract.</p>
+<h2>Soft costs: design fees, permits, and consulting you shouldn’t skip</h2>
+<p>Soft costs sit outside hard construction, and owners routinely underbudget them by treating them as an afterthought rather than a line item.</p>
+<p>Permit fees are their own separate line. Calgary’s building permit fee schedule calculates fees as a function of declared construction value, with minimum fees applied regardless of project size, according to the City’s fee schedule. Budget for that fee separately from your construction contingency, since it’s paid to the City directly and isn’t something a contractor absorbs into their number.</p>
+<p>Consulting fees round out the soft cost picture: a mechanical engineer for hood and make-up air calculations, an electrical engineer if you’re upgrading service, and potentially a food safety consultant to review your kitchen layout against the Alberta Food Retail and Foodservices Code before you finalize drawings. Early coordination between these consultants and your permit drawings reduces redesign and rework later, which is usually cheaper than fixing a layout after the health authority flags it.</p>
+<h2>Do renovation costs differ across Calgary neighbourhoods?</h2>
+<p>They do, and not always in the direction owners expect. Downtown and Beltline spaces often carry higher base rents but sometimes come with more recent base-building infrastructure, since many were built or renovated within the last two decades to commercial code. That can mean lower mechanical upgrade costs even if the finish budget climbs to match the neighbourhood’s design expectations.</p>
+<p>Older commercial strips in communities like Bridgeland, Inglewood, or parts of Kensington often have character and foot traffic operators want, but the buildings themselves can be 40 or 50 years old, with hood routes, electrical services, and grease interceptors that were never designed for modern commercial kitchen loads. That gap between what a space looks like and what its mechanical systems can actually support is exactly the risk the City of Calgary warns about when it tells prospective tenants to check base-building systems before signing.</p>
+<p>Suburban strip malls in newer communities on Calgary’s outskirts, and nearby municipalities like Airdrie or Cochrane, frequently offer lower rent per square foot and simpler zoning approvals, but the trade off can be a longer buildout if the unit has never had a food service tenant. There’s no universally cheaper zone. The real variable is what’s already installed in the specific unit, not the neighbourhood’s reputation.</p>
+<h2>Does going green add to your renovation budget?</h2>
+<p>Energy efficiency upgrades add cost upfront but shift your operating budget in the other direction over the life of the restaurant. High-efficiency kitchen exhaust fans, LED lighting throughout, and better-insulated walk-in coolers typically add a modest premium to construction cost, often in the range of a few percentage points of the overall project, though the exact number depends heavily on your baseline equipment choices.</p>
+<p>Where it pays off fastest is in commercial kitchen equipment. ENERGY STAR certified refrigeration and cooking equipment often costs more at purchase but uses less power and gas over years of daily 12 hour service, which matters in a kitchen running two shifts. Efficient hood and make-up air systems also reduce ongoing utility costs, since these are among the largest energy draws in any restaurant.</p>
+<p>The smartest sequencing is to build efficiency into the mechanical scope from the start rather than retrofitting later. Swapping in a more efficient exhaust fan during initial hood installation costs far less than replacing one after the ductwork and rooftop connections are already finished. If sustainability matters to your brand positioning, it’s also worth factoring into your soft cost design fees, since your designer can spec efficient fixtures and finishes without a separate consulting engagement.</p>
+<h2>How do you control costs without cutting corners?</h2>
+<p>Value engineering in a restaurant renovation means finding where a dollar has the least visible impact and spending less there, while protecting the systems guests never see but always feel the absence of. Kitchen mechanical systems are the worst place to cut. A cheaper hood or undersized make-up air unit creates operational problems for years and can trigger a failed health inspection.</p>
+<p>Front-of-house finishes are where value engineering actually works. A polished concrete floor instead of imported tile, a simpler lighting package with a few statement fixtures rather than custom millwork throughout, and phased seating buildouts can all cut cost without cutting the guest experience that matters most. Reusing existing plumbing and electrical rough-in locations, rather than relocating them, is one of the highest-leverage savings available, since moving a drain line or a 200 amp panel is disproportionately expensive relative to almost anything else in the scope.</p>
+<p><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1790041321861_Polished-concrete-restaurant-interior-with-simple-lighting.jpeg" alt="Polished concrete restaurant interior with simple lighting" /></p>
+<p>Sequencing trades properly also saves real money. A contractor who coordinates the mechanical, electrical, and plumbing trades so they aren’t tripping over each other on site avoids the rework and delay costs that inflate a lot of Calgary renovation budgets. Locking a fixed-scope contract early, with a clear change order process for anything discovered mid-project, protects you from the single biggest cost overrun risk: undocumented scope creep.</p>
+<h2>What costs come after the renovation is done?</h2>
+<p>The invoice from your contractor is not the last cost you’ll pay. Closure during construction means lost revenue for the length of the build, and that gap needs its own line in your financial plan, separate from the construction budget itself. Operators who don’t account for this often find themselves short on operating cash exactly when they need it most, right before opening.</p>
+<p>Relaunch marketing is the other expense that catches new operators off guard. A grand reopening typically needs a paid social push, updated signage and photography, and often a soft-launch period with reduced hours to work out kitchen kinks before the marketing push actually hits. Budget a few thousand dollars minimum for this, more if you’re targeting a full rebrand alongside the physical renovation.</p>
+<p>It’s also worth remembering that renovation is only one slice of what it costs to reopen. Equipment, initial inventory, staffing and training before opening day, and an operating cash reserve for the first few slow months all sit outside the construction number entirely, a distinction <a href="https://squareup.com/ca/en/the-bottom-line/starting-your-business/restaurant-start-up-costs" rel="nofollow noopener noreferrer" target="_blank">Square’s Canadian restaurant cost guidance</a> makes clearly for anyone building a full opening budget rather than just a renovation budget.</p>
+<h2>A contractor’s honest take on what actually surprises Calgary operators</h2>
+<p>The gap between what a restaurant space looks like and what it can actually support is where budgets break. Renovation clients consistently underestimate hood exhaust and grease interceptor capacity, then get blindsided when a “simple refresh” turns into structural and mechanical work. Some renovation contractors build budgets around base-building systems first, then layer finishes on top, handling permit coordination and communication to avoid surprises during demolition. Before you sign a lease, negotiate who pays for base-building upgrades, landlord or tenant, in writing.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>How Statera Contracting helps you budget and build your renovation</h2>
+<p>Getting a real number for a Calgary restaurant renovation means someone measures the actual space, checks the actual mechanical systems, and prices the actual scope, not a generic per-square-foot guess pulled from a national average. A qualified contractor can handle measured site inspections, coordinate building permits and health authority plan reviews in parallel, and deliver a fixed-scope contract with inclusions and exclusions spelled out before signing.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If you’re evaluating a space or already holding a lease and need a real budget instead of a guess, Statera Contracting’s commercial renovation team can walk the site with you and price the scope trade by trade. Request a site visit and estimate through the commercial renovation page to get a number you can actually plan around.</p>
+<h2>Sources</h2>
+<p>City of Calgary food establishment guidance, the Alberta Food Retail and Foodservices Code, and the City’s permit fee schedule confirm current permit and fee rules directly. Compliance context is also covered in <a href="https://prozoneltd.ca/role-of-compliance-in-construction-albertas-2026-guide" target="_blank" rel="nofollow noopener noreferrer">Prozone’s Alberta construction compliance guide</a>.</p>
+<ul>
+<li><a href="https://www.calgary.ca/for-business/licences/food-establishment-building-code.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary — Food establishment building code guidance</a></li>
+<li><a href="https://open.alberta.ca/dataset/0ea69179-2f90-4776-a64d-c903299b2ca6/resource/3354d461-6834-4744-b185-18dfa401960d/download/health-food-retail-and-foodservices-code-2020.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta Food Retail and Foodservices Code</a></li>
+<li>Leedway Group — Complete guide to restaurant construction costs</li>
+</ul>
+<h2>FAQ</h2>
+<h3>How much does a restaurant renovation cost in Calgary?</h3>
+<p>Hard construction typically runs $150 to $700+ per square foot depending on concept and finish level, according to Leedway Group’s cost guide. That range excludes kitchen equipment, furniture, design fees, permit fees, and taxes, so a full budget needs those added separately.</p>
+<h3>Do I need a permit for a small restaurant renovation in Calgary?</h3>
+<p>Almost certainly yes. Calgary requires building permits for most alterations, with only a narrow exception around $5,000 in work, and hood, plumbing, or electrical changes typically trigger full review regardless of project size, per City of Calgary guidance.</p>
+<h3>How long does the health authority plan review take in Alberta?</h3>
+<p>Regulated alterations under the Alberta Food Retail and Foodservices Code are typically reviewed within 15 business days, running parallel to your building permit process rather than after it.</p>
+<h3>What’s the biggest hidden cost in a Calgary restaurant renovation?</h3>
+<p>Hood exhaust and rooftop routing capacity is the most common surprise. If a building lacks an available route or rooftop capacity, adding one can add tens of thousands of dollars to the mechanical and structural scope, a risk the City of Calgary flags directly for prospective tenants.</p>
+<h3>How much does Statera Contracting charge for a restaurant renovation?</h3>
+<p>Pricing depends on the space, scope, and existing conditions, so Statera Contracting provides quotes after a measured site visit rather than a flat published rate. Details on the services offered are available on the commercial renovation page.</p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/bar-renovation-cost-calgary" target="_blank" rel="noopener">Bar renovation cost Calgary: budget ranges, permits, who to hire</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">Kitchen remodel cost in Calgary: 2026 Alberta guide</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-renovation-roi-calgary" target="_blank" rel="noopener">Calgary Bathroom ROI: Contractor Guidance to Recoup 60–70%</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
