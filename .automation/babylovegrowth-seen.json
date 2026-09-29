@@ -76,7 +76,7 @@
   "880073": { "status": "published", "publishedAt": "2026-09-24" },
   "884135": { "status": "published", "publishedAt": "2026-09-25" },
   "888174": { "status": "published", "publishedAt": "2026-09-26" },
-  "899987": { "status": "queued", "reason": "estimated calendar date (created_at 2026-09-26 + 3 days) is 2026-09-29; not yet due (today is 2026-09-28)" },
+  "899987": { "status": "published", "publishedAt": "2026-09-29" },
   "903222": { "status": "queued", "reason": "estimated calendar date (created_at 2026-09-27 + 3 days) is 2026-09-30; not yet due (today is 2026-09-28)" },
   "906674": { "status": "queued", "reason": "estimated calendar date (created_at 2026-09-28 + 3 days) is 2026-10-01; not yet due (today is 2026-09-28)" }
 }
