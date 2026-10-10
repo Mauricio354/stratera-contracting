@@ -86,7 +86,7 @@
   "931220": { "status": "published", "publishedAt": "2026-10-07" },
   "935123": { "status": "published", "publishedAt": "2026-10-08" },
   "939187": { "status": "published", "publishedAt": "2026-10-09" },
-  "943265": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-10-07; estimated calendar date created_at 2026-10-07 + 3 days = 2026-10-10, estimated, not screenshot-confirmed" },
+  "943265": { "status": "published", "publishedAt": "2026-10-10" },
   "947336": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-10-08; estimated calendar date created_at 2026-10-08 + 3 days = 2026-10-11, estimated, not screenshot-confirmed" },
   "951160": { "status": "queued", "reason": "daily publish limit (1/day) already used for 2026-10-09; estimated calendar date created_at 2026-10-09 + 3 days = 2026-10-12, estimated, not screenshot-confirmed" }
 }
