@@ -18516,6 +18516,154 @@ A free consultation covers your scope, a realistic budget range, and a permit pl
       },
     ],
   },
+  {
+    slug: "load-bearing-wall-permit-calgary",
+    title: "Load Bearing Wall Permits: Calgary's Contractor Checklist Cuts Delays",
+    excerpt: "Yes: in Calgary, altering or removing a load-bearing wall requires a building permit, full stop.",
+    date: "2026-10-11",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1791423751136_Contractor-checks-an-exposed-structural-beam.jpeg",
+    coverAlt: "Load Bearing Wall Permits: Calgary's Contractor Checklist Cuts Delays",
+    category: "Industry News",
+    readingTime: "16 min read",
+    metaTitle: "Load Bearing Wall Permits: Calgary's Contractor Checklist Cuts Delays",
+    metaDescription: "Calgary requires permits before load bearing wall removal. See the required beam calculations and joist layouts, plus contractor tips for avoiding delays.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Yes: in Calgary, altering or removing a <a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">load-bearing wall requires a building permit</a>, full stop. The requirement comes from the Alberta Building Code, enforced locally by Safety Codes Officers who confirm the structure stays sound once the wall is gone. Your first move should be checking with the City or a contractor experienced in permit management, like us at Statera Contracting, before you touch a stud.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>Submit a written scope, beam calculations, and manufacturer floor joist layouts together; wider openings, multistory loads, or roof trusses may require stamped engineering drawings.</li>
+<li>A complete residential application typically receives safety approval in about 7 calendar days; missing information pauses review and can reset its place in line.</li>
+<li>Confirm with Planning Services whether a development permit applies before commissioning structural drawings; straightforward interior removals without exterior changes usually do not need one.</li>
+<li>Do not close the wall until an inspector checks the beam against approved plans; send any field changes to the City for approval first.</li>
+<li>Permit fees vary by project scope and value; Calgary adds a 4% Safety Codes Council charge on the permit fee, and engineering costs extra.</li>
+</ul>
+</blockquote>
+
+<p><strong>Statera Contracting — Plan Your Structural Renovation.</strong> Statera Contracting handles home renovations in Calgary and surrounding areas, including projects that change your home's layout. <a href="https://stateracontracting.com/">Explore renovation services</a></p>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-calgary-considers-structural-work-and-why-load-bearing-walls-always-trigger-permits">What Calgary considers structural work and why load-bearing walls always trigger permits</a></li>
+<li><a href="#what-documents-do-you-need-to-apply-for-a-wall-permit">What documents do you need to apply for a wall permit?</a></li>
+<li><a href="#how-long-does-permit-review-actually-take-in-calgary">How long does permit review actually take in Calgary?</a></li>
+<li><a href="#what-does-a-load-bearing-wall-permit-cost-in-calgary">What does a load-bearing wall permit cost in Calgary?</a></li>
+<li><a href="#what-do-inspectors-check-once-work-is-underway">What do inspectors check once work is underway?</a></li>
+<li><a href="#do-you-need-a-development-permit-before-your-building-permit">Do you need a development permit before your building permit?</a></li>
+<li><a href="#how-do-you-tell-if-a-wall-is-actually-load-bearing">How do you tell if a wall is actually load-bearing?</a></li>
+<li><a href="#when-and-how-do-you-bring-in-a-structural-engineer">When and how do you bring in a structural engineer?</a></li>
+<li><a href="#where-and-how-do-you-actually-submit-your-permit-application">Where and how do you actually submit your permit application?</a></li>
+<li><a href="#why-do-permit-applications-get-delayed-or-rejected">Why do permit applications get delayed or rejected?</a></li>
+<li><a href="#what-happens-if-you-skip-the-permit-altogether">What happens if you skip the permit altogether?</a></li>
+<li><a href="#what-are-contractors-required-to-do-after-permit-approval">What are contractors required to do after permit approval?</a></li>
+<li><a href="#why-we-think-calgary-homeowners-underestimate-the-permit-step">Why we think Calgary homeowners underestimate the permit step</a></li>
+<li><a href="#let-us-manage-your-load-bearing-wall-permit-and-renovation">Let us manage your load-bearing wall permit and renovation</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What Calgary considers structural work and why load-bearing walls always trigger permits</h2>
+<p>The City of Calgary draws a clear line around structural changes. Moving or removing a wall, adding a new beam, or cutting a fresh opening into an existing wall all fall under work that requires a building permit, regardless of how small the renovation looks on paper.</p>
+<p>That line exists because a Safety Codes Officer has to verify the load path still works once you’ve changed it. The Alberta Building Code sets the technical standard, and the officer’s job is confirming your plans meet it before anyone starts cutting into drywall or framing.</p>
+<p>A few things homeowners often get wrong about when permits apply:</p>
+<ul>
+<li>Project cost doesn’t matter: a $2,000 wall removal needs the same permit as a $20,000 one.</li>
+<li>“It’s just an interior wall” isn’t a safety determination: only a Safety Codes Officer or a structural engineer can confirm that.</li>
+<li>Doing the work yourself doesn’t exempt you from permitting; owner-builders still need approval for structural changes.</li>
+</ul>
+<p>If your renovation touches a wall that carries any load from above, the permit conversation starts before the demolition does.</p>
+<h2>What documents do you need to apply for a wall permit?</h2>
+<p>Calgary’s own permit checklist for home renovations spells out the minimum package for structural work, and missing a piece is the fastest way to stall your application.</p>
+<p>At a minimum, expect to submit a clear written description of the changes you’re making, including which wall comes out and what replaces it. For most load-bearing removals, that means a new beam, and the single-family dwelling permit checklist requires beam loading calculations and manufacturer floor joist layouts to back up the design.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1791423711983_Four-documents-for-a-structural-wall-permit.jpeg" alt="Four documents for a structural wall permit" /></p>
+<p>Depending on the span and the load above it, the City may also ask for engineer-stamped drawings rather than a standard beam table. This usually applies to wider openings, multi-storey loads, or anything carrying roof trusses.</p>
+<p>Submitting all of this together, rather than piecemeal, is one of the simplest ways to avoid delays. Reviewers who have to come back and request missing beam calculations or layouts push your file to the back of the queue while they wait for a response, and that single gap can add weeks to an otherwise straightforward approval.</p>
+<h2>How long does permit review actually take in Calgary?</h2>
+<p>For most residential renovation projects, building safety approval typically takes about 7 calendar days once a complete application lands with the City. That timeline assumes your structural documentation, beam calculations, and drawings are all in order on the first submission.</p>
+<p>Incomplete files don’t just sit quietly in a queue. A reviewer who needs more information has to pause your file and request it, and your spot in line resets once you respond. This is why contractors who handle permits regularly tend to front-load the paperwork: a complete package the first time is the single biggest lever you control over your own timeline.</p>
+<p>Inspections add their own schedule on top of review time. Once your permit is issued, you’ll typically need at least one inspection focused on the beam and connection details before the wall gets closed up, plus any further inspections tied to electrical or mechanical work disturbed during the renovation.</p>
+<p>If your project also needs a development permit, add that review period before the building permit clock even starts. Planning approval and building safety approval are two different processes with two different timelines, and treating them as one step is a common source of surprise delays.</p>
+<h2>What does a load-bearing wall permit cost in Calgary?</h2>
+<p>Calgary’s permit fee schedule sets building permit fees based on project scope, and every building permit also carries a Safety Codes Council fee equal to 4% of the permit fee itself. That fee funds the provincial safety codes system and applies on top of whatever your specific building permit costs.</p>
+<p>If your project also needs planning approval, a separate development permit fee applies, and that’s assessed independently of the building permit fee. Because fees scale with project value and scope rather than sitting at a flat rate, the City’s own fee schedule is the only reliable place to confirm what your specific project will cost before you apply.</p>
+<p>Budgeting for permits alongside the renovation itself, rather than treating them as an afterthought, keeps your overall project cost realistic from the start. Engineering fees for stamped drawings, where required, sit outside the City’s permit fee and are negotiated directly with the engineer you hire.</p>
+<h2>What do inspectors check once work is underway?</h2>
+<p>Once your permit is approved, a Safety Codes Officer will schedule at least one inspection focused specifically on the beam and connection details for your wall alteration. This is the point where the City confirms the installed beam matches the approved calculations, that it’s properly supported at both ends, and that the load path down to the foundation is intact.</p>
+<p>Officers are checking the physical installation against the stamped or approved drawings, not re-approving the design itself. That means any field changes, like swapping a beam size or relocating a support post because of an unexpected plumbing line, need to go back through the City before you close up the wall. Closing drywall over an uninspected beam is one of the most common reasons a project gets flagged later.</p>
+<p>Depending on what else your renovation touches, electrical and mechanical inspections may run alongside the structural one, especially in basement developments where a wall removal often coincides with rewiring or new ductwork. Scheduling all your required inspections together, rather than one at a time, tends to keep a project moving instead of stalling between visits.</p>
+<h2>Do you need a development permit before your building permit?</h2>
+<p>Some load-bearing wall projects need both a development permit and a building permit, and the sequencing matters. The City’s home renovation checklist recommends confirming with a Planning Services Technician whether a development permit applies before you prepare structural drawings for the building permit.</p>
+<p>The reason this order matters is cost. Development permits deal with planning rules such as land use and setbacks, while building permits deal with structural and life safety requirements under the Alberta Building Code. If you commission engineered structural drawings before confirming your development approval, and the development permit later requires design changes, you may end up paying for a second round of engineering.</p>
+<p>Getting the development question answered first, even with a quick call to the City, protects the time and money you put into structural drawings. For most straightforward interior wall removals with no exterior changes, a development permit usually isn’t triggered, but it’s worth confirming for your specific scope rather than assuming.</p>
+<h2>How do you tell if a wall is actually load-bearing?</h2>
+<p>A few rough indicators can point you in the right direction before you call anyone. Walls that run perpendicular to floor joists above, walls stacked directly above one another between floors, and any wall running along the centre line of your home are common candidates for carrying structural load.</p>
+<p>That said, these are starting points for a conversation, not a final answer. Basement layouts in particular can be deceiving: a wall that looks purely decorative might be supporting a beam hidden above a dropped ceiling, and houses built or renovated over different decades sometimes have framing that doesn’t follow the usual patterns.</p>
+<p>The only determination that actually counts for your permit application is the one made by a structural engineer or confirmed through the City’s review process. If there’s any doubt, and there usually is in older Calgary homes, getting a professional to look at your framing before you apply saves you from submitting an application based on a guess. It’s a small cost up front against the risk of a rejected application or, worse, a wall that comes down without the support it needed.</p>
+<h2>When and how do you bring in a structural engineer?</h2>
+<p>Once you’ve identified a wall as load-bearing, or you’re not sure and want certainty, the next step is hiring a structural engineer licensed to practise in Alberta. They’ll assess the span, the load coming down from above, and the foundation below to size an appropriate beam and specify how it needs to be supported at each end.</p>
+<p>For straightforward spans, the engineer may simply confirm beam sizing against standard tables, keeping documentation relatively simple. For wider openings, multi-storey loads, or anything unusual in the framing, you’ll need full stamped drawings showing the beam, the connections, and the new support posts down to the foundation.</p>
+<p>Bringing an engineer in before you finalize your renovation design, rather than after, tends to save money. If the engineering reveals you need a support post in a spot your design didn’t account for, catching that early means adjusting a drawing instead of reworking a finished space. Most contractors managing structural renovations in Calgary coordinate directly with an engineer as part of the project, which keeps the structural drawings and the construction schedule moving together instead of as two separate tracks.</p>
+<h2>Where and how do you actually submit your permit application?</h2>
+<p>Calgary processes residential building permits through its ePermit system, which is the primary channel for submitting your application, structural documentation, and drawings online. You’ll need your written description of changes, your beam calculations or stamped engineering drawings, and any manufacturer layouts ready to upload together.</p>
+<p>If your project also requires development approval, that application goes through the same general permit framework, but as a distinct submission with its own review path. The City’s permit overview page outlines which residential projects, including renovations, additions, and basement developments, fall under building permit requirements.</p>
+<p>One detail worth knowing: the City offers a partial permit process for interior demolition, which can let you remove non-load-bearing partitions while your main structural alteration permit is still under review. This doesn’t apply to the load-bearing wall itself, but it can keep a renovation moving on the non-structural side while the structural approval works through the queue.</p>
+<p>Submitting a complete, organized application the first time remains the single biggest factor in how smoothly this process goes, whether you’re filing it yourself or working with a contractor who files it on your behalf.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1791423804659_Where-and-how-do-you-actually-submit-your-permit-application-overview-diagram.jpeg" alt="Where and how do you actually submit your permit application? — overview diagram" /></p>
+<h2>Why do permit applications get delayed or rejected?</h2>
+<p>The most common hold-up is incomplete structural documentation: missing beam calculations, no manufacturer floor joist layout, or a written description that doesn’t clearly state what’s being removed and what’s replacing it. Each of these triggers a request for more information, which pauses your file until you respond.</p>
+<p>A second frequent issue shows up when a development permit was required but the building permit drawings don’t match what was approved in planning. The City’s addition and porch permit checklist warns that a mismatch between approved development plans and building permit plans can lead to refusal, and unresponded requests can sit for up to 90 days before the file closes altogether.</p>
+<p>A few practical habits avoid most of this:</p>
+<ul>
+<li>Confirm development permit requirements before finalizing structural drawings, not after.</li>
+<li>Submit beam calculations and layouts with your first application, not as a follow-up.</li>
+<li>Keep one consistent set of drawings across both development and building permit submissions.</li>
+</ul>
+<p>Coordinating closely with your engineer and your contractor on plan consistency from the outset is usually what separates a 7-day approval from a months-long back-and-forth.</p>
+<h2>What happens if you skip the permit altogether?</h2>
+<p>Removing a load-bearing wall without a permit carries real risk beyond the paperwork. If the City discovers unpermitted structural work, whether through a complaint, a future inspection, or a home sale, you can be required to open the wall back up so a Safety Codes Officer can inspect what’s actually holding up your home.</p>
+<p>That’s an expensive and invasive process compared to getting the inspection done at the right time during construction. Beyond the City’s enforcement, unpermitted structural work can also affect your home insurance and create complications when you eventually sell, since buyers and their lawyers often ask for permit records on any structural changes.</p>
+<p>There’s a safety dimension too that goes beyond paperwork. A beam that’s undersized or improperly supported can sag, crack finishes, or in more serious cases compromise the structure above it. The permit and inspection process exists specifically to catch that before it becomes a problem you live with, or one the next owner inherits.</p>
+<p>Skipping the permit doesn’t save you the engineering or construction cost of doing the work correctly. It just removes the safety check that confirms it was done correctly in the first place.</p>
+<h2>What are contractors required to do after permit approval?</h2>
+<p>Once your building permit is issued, the structural work has to follow the approved drawings exactly, including beam size, connection details, and post locations. Any field change, even a minor one prompted by an unexpected obstruction, needs to go back through the City rather than being decided on site.</p>
+<p>Contractors also need to schedule and pass the required inspections before closing up the wall, which means sequencing drywall, insulation, and finishing work around the Safety Codes Officer’s visit rather than ahead of it. If other trades, like electrical or plumbing, are disturbed by the wall removal, those systems typically need their own inspections before everything gets closed in.</p>
+<p>Keeping copies of the approved permit, stamped drawings, and inspection records on site throughout the renovation isn’t just good practice. It’s what you’ll want on hand if a future inspection, insurance claim, or home sale ever asks for proof the work was done to code. A contractor who manages this documentation as part of the renovation, rather than leaving it to the homeowner to track down later, makes that record a lot easier to produce when it matters.</p>
+<h2>Why we think Calgary homeowners underestimate the permit step</h2>
+<p>Most homeowners we talk to assume the permit is a formality that slows down a renovation they’ve already decided on. We’d push back on that. The permit process, done properly, is the only independent check that the beam going in can actually carry what the wall used to carry, and that check happens before drywall hides the evidence either way.</p>
+<p>Where we see projects go sideways isn’t the City being slow. It’s homeowners submitting incomplete structural documentation, then waiting weeks for a request for more information to cycle through. We manage permits end-to-end on our renovation projects because a complete, well-organized application the first time is what keeps a 7-day review a 7-day review.</p>
+<p>Use the City’s checklists, ask questions early, and don’t treat the structural determination as a guess. When the work involves a wall that’s genuinely carrying load, professional permit management pays for itself in avoided delays.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Let us manage your load-bearing wall permit and renovation</h2>
+<p>We handle structural renovations across Calgary from the first wall assessment through to final inspection, which means permit applications, engineering coordination, and inspection scheduling all move under one roof instead of landing back on you. If your renovation involves a wall that might be load-bearing, our team can confirm it, bring in the right engineering, and prepare a complete application built to move through City review without back-and-forth.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>This kind of coordination comes up most often in <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement finishing projects</a>, where a wall removal is just one piece of a bigger renovation, and in <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions</a>, where new structural openings are part of the plan from day one. If you’re weighing a wall removal as part of a larger renovation, reach out through <a href="https://stateracontracting.com/" target="_blank" rel="noopener">Statera Contracting</a> for a permit review and quote tailored to your home.</p>
+<h2>FAQ</h2>
+<h3>Do you need a permit to replace windows in Alberta?</h3>
+<p>Window replacements that don’t change the size or structural opening typically fall outside building permit requirements, but enlarging an opening or altering a header above it brings the work back under permit rules. Check with the City of Calgary directly for your specific scope before starting, since the line between a straight swap and a structural change can be narrow.</p>
+<h3>What is the maximum fence height allowed in Calgary?</h3>
+<p>Calgary measures fence height from grade, allowing up to 1.2 metres in front yards and up to 2.0 metres in rear and side yards, with gateways permitted up to 2.5 metres. Retaining walls of 1.2 metres or taller generally require a separate development permit.</p>
+<h3>What is the legal height for a backyard fence?</h3>
+<p>Backyard, or rear yard, fences in Calgary can reach up to 2.0 metres measured from grade. Front yard fences are held to a lower maximum of 1.2 metres, so the allowable height depends on which part of the property the fence sits on.</p>
+<h3>What is the biggest structure you can build without a permit?</h3>
+<p>Permit thresholds in Calgary depend on the type of structure rather than a single size rule, and this varies by project, so the City’s permit overview is the accurate reference for your specific build. Structural changes to a home, including load-bearing wall work, always require a building permit regardless of the size or cost of the project.</p>
+<h3>Does a load-bearing wall removal always need an engineer?</h3>
+<p>Not every removal requires a fully stamped engineering drawing, since straightforward spans can sometimes rely on standard beam tables accepted by the City. Wider openings, multi-storey loads, or unusual framing typically call for a licensed structural engineer to confirm the beam sizing and connection details before you apply.</p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/load-bearing-wall-removal-calgary" target="_blank" rel="noopener">Load-bearing wall removal in Calgary: permits, costs and process</a></li>
+<li><a href="https://stateracontracting.com/blog/load-bearing-wall-removal-cost-calgary" target="_blank" rel="noopener">Load-bearing wall removal cost in Calgary: 2026 price guide</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-renovation-permit-calgary" target="_blank" rel="noopener">Get Your Calgary Bathroom Permit in 7 Days, Avoid Costly Rejections</a></li>
+<li><a href="https://stateracontracting.com/blog/bump-out-addition-cost-calgary" target="_blank" rel="noopener">Avoid Permit Delays on Calgary Bump-Outs: Budget for 7-Day Reviews</a></li>
+</ul>
+
+`,
+      },
+    ],
+  },
 ];
 
 
