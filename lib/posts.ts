@@ -18664,6 +18664,134 @@ A free consultation covers your scope, a realistic budget range, and a permit pl
       },
     ],
   },
+  {
+    slug: "occupancy-load-calculation-calgary",
+    title: "Calgary Electrical Load Calculation: 5 Steps From CEC to ENMAX",
+    excerpt: "Yes, complete the City of Calgary secondary-suite electrical load calculation using CEC Rule 8-200(2), email it to electrical.inspection@calgary.ca, and contact ENMAX at getconnected@enmax.com if the result requires a service increase.",
+    date: "2026-10-12",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1791510083027_Electrician-inspecting-a-home-s-electrical-panel.jpeg",
+    coverAlt: "Calgary Electrical Load Calculation: 5 Steps From CEC to ENMAX",
+    category: "Industry News",
+    readingTime: "9 min read",
+    metaTitle: "Calgary Electrical Load Calculation: 5 Steps From CEC to ENMAX",
+    metaDescription: "Follow five steps to calculate a Calgary secondary suite’s electrical load, apply CEC rules, submit the City form, and coordinate an ENMAX service increase.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Yes, complete the City of Calgary secondary-suite electrical load calculation using <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/secondary-suite%20-load-calulation-2016.pdf" rel="nofollow noopener noreferrer" target="_blank">CEC Rule 8-200(2)</a>, email it to electrical.inspection@calgary.ca, and contact ENMAX at getconnected@enmax.com if the result requires a service increase. Electric heating, EV chargers and electric ranges are the usual triggers for an upgrade, so gather equipment nameplate data before you start.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>The City assigns 5,000 watts to the first 90 square metres, then adds 1,000 watts per additional 90; electric heating counts fully.</li>
+<li>Have a licensed electrician record floor area and appliance nameplate loads, then submit the City form with equipment sheets and your permit number, if issued.</li>
+<li>If demand exceeds the typical capacity of a service rated at 60 amps, ask ENMAX to confirm distribution capacity and lead times before finalizing drawings.</li>
+<li>An accepted energy management system for EV charging or heat pumps can avoid a full load calculation; an unlisted model requires standard review.</li>
+<li>Alberta sets the legal occupant maximum at the lower design or operational load, while one exit limits occupancy to 60 people.</li>
+</ul>
+</blockquote>
+
+<p><strong>Statera Contracting — Plan Your Calgary Renovation.</strong> Statera Contracting renovates Calgary homes and commercial spaces, including kitchens, bathrooms, basements, additions and exteriors. <a href="https://stateracontracting.com" target="_blank" rel="noopener">Explore renovation services</a></p>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-the-city-of-calgary-load-calculation-covers-and-the-cec-rules-behind-it">What the City of Calgary load calculation covers and the CEC rules behind it</a></li>
+<li><a href="#completing-and-submitting-the-city-template-step-by-step">Completing and submitting the City template, step by step</a></li>
+<li><a href="#occupant-load-basics-under-the-alberta-codes">Occupant load basics under the 2023 Alberta codes</a></li>
+<li><a href="#permits-timelines-and-what-enmax-coordination-actually-involves">Permits, timelines and what ENMAX coordination actually involves</a></li>
+<li><a href="#how-statera-contracting-supports-load-calculations-and-permit-coordination">How Statera Contracting supports load calculations and permit coordination</a></li>
+<li><a href="#what-actually-matters-when-you-tackle-this-process">What actually matters when you tackle this process</a></li>
+<li><a href="#let-us-manage-the-calculation-and-the-paperwork-for-you">Let us manage the calculation and the paperwork for you</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What the City of Calgary load calculation covers and the CEC rules behind it</h2>
+<p>The City’s secondary-suite load calculation starts with a basic load tied to floor area, then layers on allowances for the big energy users in a home. The City’s load calculation template sets the basic load at 5,000 watts for the first 90 square metres of floor area, adding 1,000 watts for every additional 90 square metres beyond that.</p>
+<p>From there, the form asks for a full accounting of fixed equipment, following CEC Rule 8-200(2):</p>
+<ul>
+<li>Electric space heating is added at 100% of its connected load, with no diversity discount.</li>
+<li>Electric vehicle charging equipment is counted at its full rated load unless an approved EMS manages it.</li>
+<li>Tankless water heaters and central air conditioning follow their own CEC-referenced allowances on the same form.</li>
+<li>A single electric range is entered at 6,000 watts, with an added 40% of any load above 12 kilowatts for larger ranges.</li>
+</ul>
+<p>Once every circuit is logged, the watts get converted to amps by dividing the total demand by the service voltage, usually 240 volts for a single-family dwelling. A calculated demand above the capacity typical for a 60-amp service usually signals that an upgrade to a higher amperage service, such as 100 amps or 200 amps, will be needed. City of Calgary secondary-suite load calculation guidance flags this as the point where owners should expect ENMAX involvement rather than a straightforward panel swap.</p>
+<h2>Completing and submitting the City template, step by step</h2>
+<p>Getting the form right the first time saves weeks of back and forth with inspectors. The sequence that works:</p>
+<ol>
+<li>Hire a licensed electrician to measure floor area and record nameplate loads for every fixed appliance.</li>
+<li>Complete the City’s load calculation form, citing the CEC rule that applies to each load category.</li>
+<li>Attach equipment specification sheets and your building permit number, if one has already been issued.</li>
+<li>Email the completed package to electrical.inspection@calgary.ca for review.</li>
+<li>If the total demand requires a service increase, contact ENMAX at getconnected@enmax.com before finalizing drawings.</li>
+</ol>
+<p>Rowhouses and condominiums with a shared gang meter base need an extra sign-off: the condo board or homeowners association must approve the added load before the City will process the application. For EV charging or heat pumps, an accepted EMS or EVEMS model can skip a full load calculation entirely, while an unlisted model goes through a standard review.</p>
+<p>At rough-in inspection, electrical inspectors check that the secondary suite has no shared branch circuits with the primary dwelling and that the wiring on site matches what was submitted on the form. Mismatches here are one of the most common reasons an inspection gets held up.</p>
+<p><strong>Pro Tip:</strong> <em>Keep a copy of the submitted load calculation on site for the rough-in inspection; inspectors frequently ask to see it alongside the panel schedule.</em></p>
+<h2>Occupant load basics under the 2023 Alberta codes</h2>
+<p>Occupant load calculations answer a different question than electrical load calculations: how many people can safely be in a space at once. Alberta uses two related but distinct figures. The design occupant load, set under the National Building Code – 2023 Alberta Edition, shapes how many exits, washrooms and fixtures a space needs. The operational occupant load, set under the National Fire Code – 2023 Alberta Edition, is what gets enforced day to day, and <a href="https://open.alberta.ca/dataset/cb3d1662-1354-45c8-aab8-29b91f2a6c35/resource/b7caed68-90ad-4798-8f1e-2c7e0a716590/download/ma-standata-interpretation-building-fire-23-bci-003r1-23-fci-002r1-2025-01.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta’s standata interpretation</a> confirms that whichever number is smaller governs the legal maximum.</p>
+<p>Two methods decide that number:</p>
+<ul>
+<li>Net floor area divided by 0.4 square metres per person, the standard density factor for assembly-type spaces.</li>
+<li>Exit-capacity calculation, which caps occupancy based on how many people the available exits can safely move out in an emergency.</li>
+</ul>
+<p>A single exit limits occupancy to 60 people under the exit-capacity method, and any posted occupant load has to use lettering at least 50 millimetres tall. Occupant loads exceeding about 60 people trigger posting requirements, and higher occupant loads often require a fire alarm system under applicable Alberta code. Once a project edges toward those thresholds, bringing in a code designer early tends to be cheaper than redesigning exits or washrooms after the fact.</p>
+<h2>Permits, timelines and what ENMAX coordination actually involves</h2>
+<p>Budgeting time matters as much as budgeting money here. Legalizing an existing secondary suite and building a new backyard suite follow different fee schedules and review timelines, both published on the City’s suites permit costs and timelines page, which also outlines the Safety Codes Council Levy applied to permit fees.</p>
+<p>When your load calculation shows a service increase is needed, the next call is to ENMAX, not another electrician:</p>
+<ul>
+<li>Email getconnected@enmax.com to confirm whether the local transformer and distribution system can support the requested service size.</li>
+<li>Ask about lead times before finalizing construction drawings, since overhead electrical service upgrades can be delayed by distribution capacity rather than the meter itself.</li>
+<li>Where EV charging or electric heating is the main driver of the upgrade, ask whether an accepted EMS or EVEMS model could avoid the increase altogether.</li>
+</ul>
+<p>An EMS using a listed model generally moves through a faster acceptance path, while an unlisted model requires a full review alongside your load calculation, adding time to the permit process.</p>
+<h2>How Statera Contracting supports load calculations and permit coordination</h2>
+<p>We walk Calgary secondary-suite projects through this process the same way every time: a site assessment to capture appliance nameplate data, coordination with a licensed electrician on the load calculation, drafting and submitting the City form, and following up with ENMAX whenever a service increase is on the table.</p>
+<p>We bring coordination discipline to our basement and home addition work, where electrical load and occupant load questions come up often. On commercial projects, we work toward <a href="https://stateracontracting.com/blog/commercial-occupancy-permit-calgary" target="_blank" rel="noopener">Calgary’s 21 business day target</a> for occupancy permit review, keeping clients informed at each stage rather than leaving them to track down inspectors themselves.</p>
+<h2>What actually matters when you tackle this process</h2>
+<p>The paperwork gets most of the attention, but the real risk in a Calgary secondary-suite project is sequencing, not the math itself. Owners who measure appliance loads before talking to an electrician, or submit a load calculation before confirming ENMAX can supply the requested service, lose weeks they did not need to lose.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1791510143807_What-actually-matters-when-you-tackle-this-process-overview-diagram.jpeg" alt="What actually matters when you tackle this process — overview diagram" /></p>
+<p>The conventional advice treats the electrical load calculation as a box to check before permit approval. It is really a planning document that should shape your appliance choices, not just record them. If you know early that an electric range plus EV charging plus a heat pump will push you into a service upgrade, an EMS might be worth building into the design from day one rather than retrofitting later.</p>
+<p>The same goes for occupant load on mixed-use or commercial spaces: the operational number set by fire inspectors is the one that counts, so design decisions that only satisfy the building code number can still fall short at the fire inspection stage. Coordinate with both authorities before drawings are final, not after.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Let us manage the calculation and the paperwork for you</h2>
+<p>If reading through watt allowances and exit-capacity formulas is not how you want to spend your renovation planning time, we handle that layer of a Calgary secondary-suite or basement project directly.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Our process for these projects includes:</p>
+<ul>
+<li>A site assessment to document existing wiring, appliances and floor area.</li>
+<li>Coordination with a licensed electrician on the City’s electrical load calculation and submission.</li>
+<li>Permit support, including liaising with ENMAX when a service increase is needed.</li>
+<li>Full renovation work once the paperwork is cleared, from framing to finishing.</li>
+</ul>
+<p>Our <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">Basement &amp; Living Spaces</a> page covers secondary-suite finishing in detail, and our <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">Home Additions</a> page is the right starting point for laneway or backyard suite builds. For a broader look at how we work, visit <a href="https://stateracontracting.com/" target="_blank" rel="noopener">Statera Contracting</a>.</p>
+<h2>FAQ</h2>
+<h3>Do I always need an electrical load calculation for a secondary suite?</h3>
+<p>Yes, the City of Calgary requires a completed electrical load calculation for one-family dwellings adding a secondary suite or laneway house. It confirms whether your existing electrical service can handle the added load before a permit moves forward.</p>
+<h3>Who do I email the completed load calculation to?</h3>
+<p>Completed calculations go to electrical.inspection@calgary.ca, as outlined on the City’s electrical permits page. If the result shows you need a larger service, you contact ENMAX separately at getconnected@enmax.com.</p>
+<h3>What decides whether I need a 100-amp or 200-amp service?</h3>
+<p>Your total calculated demand in watts, converted to amps, decides this: adding electric heating, an EV charger and an electric range frequently pushes a home past what a 60-amp service can safely carry. ENMAX confirms whether the local transformer can support the larger service once your calculation is submitted.</p>
+<h3>What is the difference between design and operational occupant load?</h3>
+<p>The design occupant load comes from the National Building Code – 2023 Alberta Edition and shapes exits, washrooms and fixtures during design. The operational occupant load comes from the National Fire Code – 2023 Alberta Edition and is enforced day to day, with the smaller of the two figures setting the legal maximum.</p>
+<h3>Can Statera Contracting handle the load calculation for my project?</h3>
+<p>We coordinate the process rather than performing the licensed electrical work ourselves: we handle the site assessment, appliance documentation and City submission, and bring in a licensed electrician for the technical calculation. We then manage the renovation once permits clear.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/secondary-suite%20-load-calulation-2016.pdf" rel="nofollow noopener noreferrer" target="_blank">Electrical load calculation: one-family dwellings with laneway house/secondary suite (City of Calgary)</a></li>
+<li><a href="https://open.alberta.ca/dataset/cb3d1662-1354-45c8-aab8-29b91f2a6c35/resource/b7caed68-90ad-4798-8f1e-2c7e0a716590/download/ma-standata-interpretation-building-fire-23-bci-003r1-23-fci-002r1-2025-01.pdf" rel="nofollow noopener noreferrer" target="_blank">Standata interpretation: occupant load determination (Alberta)</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/home-energy-rebates-alberta" target="_blank" rel="noopener">Calgary Homeowners: CEIP Finances Energy Upgrades on Your Property Tax</a></li>
+<li><a href="https://stateracontracting.com/blog/energy-efficient-renovations-alberta" target="_blank" rel="noopener">3–6 Year Payback: Alberta Energy Efficient Renovations to Start With</a></li>
+</ul>
+
+`,
+      },
+    ],
+  },
 ];
 
 
