@@ -2,6 +2,11 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   images: {
+    // Keep Vercel image transformations under the plan allowance: cache each
+    // optimized image for 31 days and generate fewer width variants.
+    minimumCacheTTL: 2678400,
+    deviceSizes: [640, 828, 1200, 1920],
+    imageSizes: [256, 384],
     remotePatterns: [
       { protocol: "https", hostname: "media.babylovegrowth.ai", pathname: "/blog-images/**" },
       // BabyLoveGrowth article images: retain legacy storage and the new media host.
