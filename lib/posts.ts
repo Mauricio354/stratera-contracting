@@ -18958,6 +18958,144 @@ Statera ContractingPlan Your Calgary Home AdditionStatera Contracting renovates 
       },
     ],
   },
+  {
+    slug: "renovation-permits-calgary",
+    title: "Check Calgary Renovation Permits Before Demolition to Avoid Rework",
+    excerpt: "Most renovations that touch structure, plumbing, electrical, gas or add living space need a permit in Calgary, and many projects need more than one.",
+    date: "2026-10-14",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1791682940339_Contractor-checks-permit-drawing-before-demolition.jpeg",
+    coverAlt: "Check Calgary Renovation Permits Before Demolition to Avoid Rework",
+    category: "Industry News",
+    readingTime: "9 min read",
+    metaTitle: "Check Calgary Renovation Permits Before Demolition to Avoid Rework",
+    metaDescription: "Calgary homeowners can identify renovation permits, prepare applications, plan inspections, and cut delays with a contractor who knows the process.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Most renovations that touch structure, plumbing, electrical, gas or add living space need a permit in Calgary, and many projects need more than one. The safest first move is to check the City of Calgary’s ePermit guidance or talk with a permit-savvy contractor before any demolition or framing begins, since starting without the right approvals can mean stop-work orders, double fees and expensive rework.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>Basement developments usually need building and electrical, plumbing, and gas permits; structural changes always need building permits, while additions may also trigger development permits.</li>
+<li>Alberta may exempt cosmetic work under $5,000 only if it affects neither health nor safety; structural and utility work still requires permits.</li>
+<li>Simple residential projects can sometimes be processed the same day; building approvals take 7–21 days, while development permits may take 10–12 weeks.</li>
+<li>The homeowner remains legally responsible even when a contractor files; contracts should name who obtains each permit and coordinates inspections.</li>
+<li>Building permits generally expire after 180 inactive days, compared with 330 for trade and homeowner permits; unapproved work risks double fees and stop work orders.</li>
+</ul>
+</blockquote>
+
+Statera ContractingPlan Your Calgary Renovation With CareStatera Contracting renovates homes and commercial spaces in Calgary and surrounding areas, including kitchens, bathrooms, basements and additions.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-each-permit-type-covers-and-when-you-need-it">What each permit type covers and when you need it</a></li>
+<li><a href="#which-renovations-usually-trigger-a-permit">Which renovations usually trigger a permit</a></li>
+<li><a href="#how-to-apply-for-a-permit-in-calgary">How to apply for a permit in Calgary</a></li>
+<li><a href="#what-a-complete-application-needs-to-include">What a complete application needs to include</a></li>
+<li><a href="#inspections-milestones-and-permit-expiry-dates">Inspections, milestones and permit expiry dates</a></li>
+<li><a href="#whos-responsible-for-permits-and-what-your-contract-should-say">Who’s responsible for permits and what your contract should say</a></li>
+<li><a href="#what-permits-actually-cost-in-calgary">What permits actually cost in Calgary</a></li>
+<li><a href="#what-we-see-go-wrong-on-calgary-permit-applications">What we see go wrong on Calgary permit applications</a></li>
+<li><a href="#how-statera-contracting-keeps-your-renovation-moving">How Statera Contracting keeps your renovation moving</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What each permit type covers and when you need it</h2>
+<p>Calgary uses several permit categories, and knowing which one applies to your project saves time at the counter. A <strong>building permit</strong>, often called building safety approval, covers structural work, new living space, window changes and most interior renovations that affect the building’s safety systems. A <strong>development permit</strong> comes into play when your project changes land use, setbacks, height or density under Calgary’s bylaws, which happens most often with additions, secondary suites and exterior builds. Trade permits cover electrical, plumbing and gas work specifically, and <a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary guidance on basements</a> explains when each one is required for residential projects.</p>
+<p>Homeowners can pull certain trade permits themselves for work they’ll perform personally, but the City limits homeowner eligibility depending on the scope and complexity of the job.</p>
+<ul>
+<li><strong>Building permit:</strong> structural changes, new rooms, egress windows and most basement developments.</li>
+<li><strong>Development permit:</strong> additions, secondary suites, and anything that affects zoning or setbacks.</li>
+<li><strong>Trade permits:</strong> electrical, plumbing and gas work, pulled by a licensed trade or, in limited cases, the homeowner.</li>
+<li><strong>Homeowner permits:</strong> available for some trade work, but contractors typically pull permits under their own licence for liability reasons.</li>
+</ul>
+<p>Contractors usually carry their own trade permits rather than relying on a homeowner permit, since that keeps inspection records and liability tied to a licensed professional.</p>
+<h2>Which renovations usually trigger a permit</h2>
+<p>Some projects need a permit almost every time, while others rarely do. Here’s how common Calgary renovations typically break down.</p>
+<ol>
+<li><strong>Basement developments and secondary suites</strong> usually need building safety approval plus electrical, plumbing and gas permits, especially when adding a kitchen or bathroom, as outlined in our <a href="https://stateracontracting.com/blog/legal-basement-suite-calgary" target="_blank" rel="noopener">legal basement suite guide</a>.</li>
+<li><strong>Structural changes</strong>, including removing or relocating a load-bearing wall or cutting a new window or door opening, always require a building permit.</li>
+<li><strong>Additions, new garages, taller decks, retaining walls and new entries</strong> often need a development permit on top of a building permit, depending on setbacks and lot coverage.</li>
+<li><strong>Cosmetic work</strong>, such as painting, flooring or cabinet swaps that don’t touch structure or systems, typically falls under the provincial small-value exemption described in <a href="https://open.alberta.ca/dataset/bc792588-d0e9-4a76-978b-1c46d405bb09/resource/e53a7350-431c-4368-ab7e-5123611513ef/download/do-i-need-a-building-permit.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta’s Safety Codes guidance</a>, which excludes minor renovations under $5,000 that don’t affect health or safety.</li>
+</ol>
+<p>If your project lands anywhere near the line between cosmetic and structural, it’s worth confirming before you book trades.</p>
+<h2>How to apply for a permit in Calgary</h2>
+<p>Calgary’s Residential ePermit system handles most building and trade permit applications online, and setting up an account before you have drawings ready saves time later.</p>
+<ul>
+<li>Create or sign in to your ePermit account through apply.calgary.ca and select the correct permit type for your scope of work.</li>
+<li>Upload your site plan, floor plans and supporting documents, then pay the applicable fee to submit.</li>
+<li>Use a <strong>partial permit</strong> when you need to start foundation or below-grade work before the full design is finalized, understanding it only covers that specific scope.</li>
+<li>Watch for your <strong>Job Access Code</strong>, which lets you track review comments and status online.</li>
+</ul>
+<p><strong>City of Calgary data</strong> shows that simple residential improvement projects can sometimes be processed the same day, standard building safety approvals typically take 7 to 21 days, and projects needing a development permit can take 10 to 12 weeks. Our <a href="https://stateracontracting.com/blog/renovation-permit-timeline-calgary" target="_blank" rel="noopener">permit timeline guide</a> breaks these windows down by project type if you’re trying to plan a start date.</p>
+<h2>What a complete application needs to include</h2>
+<p>A complete, well-drawn application is the fastest way through review. Calgary’s checklists ask for specific plan details, and missing even one often triggers a resubmission request that adds weeks to your timeline.</p>
+<ul>
+<li><strong>Site plan:</strong> property lines, setbacks, a north arrow and any adjacent rights-of-way clearly marked.</li>
+<li><strong>Floor plans:</strong> existing layout alongside the proposed layout so reviewers can compare changes directly.</li>
+<li><strong>Engineering or stamped designs:</strong> required for decks with cantilevers, retaining walls over 1.2 metres, and most structural alterations, following the deck permit checklist.</li>
+<li><strong>Code notes:</strong> window egress sizing, smoke and carbon monoxide detector placement, and insulation values referenced to the applicable building code.</li>
+</ul>
+<p>For basement suites, rough-in plumbing layout and venting details matter as much as the floor plan itself, and this plumbing guide for basement suites covers inspection expectations that often surprise first-time applicants.</p>
+<p><strong>Pro Tip:</strong> <em>Compare your drawings against the City’s sample plans before submitting; most resubmission requests come from missing dimensions rather than design problems.</em></p>
+<h2>Inspections, milestones and permit expiry dates</h2>
+<p>Once your permit is issued, inspections happen at set stages rather than all at once. Expect a sequence something like footing or foundation (often under a partial permit), framing and rough-in, insulation, final trade inspections, and an occupancy or final inspection to close out the file.</p>
+<ul>
+<li>Book inspections through your ePermit account once you reach each milestone.</li>
+<li>Starting work before your permit is issued can mean being <strong>charged double the normal permit fee</strong>, as local reporting on Calgary renovation permits notes, on top of possible stop-work orders.</li>
+<li>Building permits generally expire after 180 days without inspection activity, while trade and homeowner permits run for 330 days, and extensions are possible if you contact the City before expiry.</li>
+</ul>
+<p>Scheduling inspections as soon as a stage is ready, rather than batching several at once, keeps your project moving and avoids the scramble that comes with an expiring permit.</p>
+<h2>Who’s responsible for permits and what your contract should say</h2>
+<p>Even when a contractor handles the paperwork, the legal responsibility for having the correct permits in place stays with the homeowner. <a href="https://www.alberta.ca/hiring-contractor" rel="nofollow noopener noreferrer" target="_blank">Service Alberta’s hiring guidance</a> recommends that every renovation contract spell out exactly who pulls permits and who coordinates inspections, so there’s no confusion partway through the job.</p>
+<ul>
+<li>Confirm in writing whether the contractor or you will apply for each permit type.</li>
+<li>Ask to see the permit number once issued, rather than taking a verbal confirmation that it’s “in progress.”</li>
+<li>Verify the contractor’s licensing, WCB coverage and insurance before signing, since Service Alberta’s consumer protection notes tie these directly to prepaid contracting safeguards.</li>
+</ul>
+<p>A contract that’s vague on permits is one of the clearest warning signs that inspections and approvals might fall through the cracks later.</p>
+<h2>What permits actually cost in Calgary</h2>
+<p>Calgary calculates permit fees using a base fee, a value-based component tied to your project’s construction value, and a Safety Codes Council fee added to most building permits. Development permit applications carry separate planning fees, and advertising or additional inspection fees can apply on top of those.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1791682973565_Calgary-permit-fee-components-and-possible-add-ons.jpeg" alt="Calgary permit fee components and possible add-ons" /></p>
+<p>Exact figures depend on your project’s declared construction value, and the City’s fee schedule breaks these down by category so you can estimate before applying.</p>
+<h2>What we see go wrong on Calgary permit applications</h2>
+<p>The most common resubmission comments we encounter involve missing site plan dimensions, unclear structural detail on new window or door openings, and decks submitted without stamped designs where the foundation type calls for one. Lining up your drawings with the City’s checklists before submission, and getting an engineer involved early for anything structural, avoids most of these delays.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>How Statera Contracting keeps your renovation moving</h2>
+<p>We handle permit applications, drawing coordination and inspection scheduling as part of our projects, so you’re not left tracking Job Access Codes or chasing resubmission comments on your own. We manage daily communication and keep your project on the City’s timeline rather than guessing at it.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Whether you’re planning a <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement renovation</a>, a <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen remodel</a>, or a <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home addition</a>, we build the permit process into our timeline from day one. Book a free consultation through <a href="https://stateracontracting.com/" target="_blank" rel="noopener">Statera Contracting</a> and we’ll walk through what your specific project needs before you commit to a start date.</p>
+<h2>FAQ</h2>
+<h3>Do I need a permit for a basement renovation in Calgary?</h3>
+<p>Most basement developments need building safety approval along with electrical, plumbing and gas permits, especially when a kitchen or bathroom is added. Our <a href="https://stateracontracting.com/blog/basement-finishing-calgary" target="_blank" rel="noopener">basement finishing guide</a> walks through the typical approval sequence for a full basement build-out.</p>
+<h3>How long does it take to get a renovation permit in Calgary?</h3>
+<p>Simple projects can sometimes be processed the same day, while standard building safety approvals typically take 7 to 21 days. Projects requiring a development permit, such as additions affecting setbacks, can take 10 to 12 weeks.</p>
+<h3>What happens if I renovate without a permit in Calgary?</h3>
+<p>Starting work before a permit is issued can result in being charged double the normal permit fee, along with possible stop-work orders until the correct approvals are in place. Permits also confirm that safety codes officers have reviewed your plans before construction begins.</p>
+<h3>Who is responsible for pulling permits, the homeowner or the contractor?</h3>
+<p>Legal responsibility for having the correct permits stays with the homeowner even when a contractor manages the application. Service Alberta recommends stating clearly in your contract who will pull each permit and coordinate inspections.</p>
+<h3>Are small renovations exempt from permits in Alberta?</h3>
+<p>Minor cosmetic renovations under a small-value threshold, generally renovations under $5,000 that don’t affect health or safety systems, can be exempt under <a href="https://open.alberta.ca/dataset/bc792588-d0e9-4a76-978b-1c46d405bb09/resource/e53a7350-431c-4368-ab7e-5123611513ef/download/do-i-need-a-building-permit.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta’s Safety Codes guidance</a>. Anything touching structure, electrical, plumbing or gas typically still requires a permit regardless of cost.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">Home renovations and basements — City of Calgary</a></li>
+<li><a href="https://open.alberta.ca/dataset/bc792588-d0e9-4a76-978b-1c46d405bb09/resource/e53a7350-431c-4368-ab7e-5123611513ef/download/do-i-need-a-building-permit.pdf" rel="nofollow noopener noreferrer" target="_blank">Do I need a building permit? — Alberta Municipal Affairs / Safety Codes guidance</a></li>
+<li><a href="https://www.alberta.ca/hiring-contractor" rel="nofollow noopener noreferrer" target="_blank">Hiring a contractor — Service Alberta</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/kitchen-renovation-permit-calgary" target="_blank" rel="noopener">How Contractors Prevent Rejected Kitchen Renovation Permits in Calgary</a></li>
+<li><a href="https://stateracontracting.com/blog/renovation-permit-timeline-calgary" target="_blank" rel="noopener">Calgary Homeowners: Permit Timelines, 7–21 Day Reviews and Builder Tips</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-permit-calgary" target="_blank" rel="noopener">Calgary homeowners: Get bathroom permits approved the first time</a></li>
+<li><a href="https://stateracontracting.com/blog/deck-permit-calgary" target="_blank" rel="noopener">Deck permit calgary: what homeowners need before they build</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
