@@ -19410,6 +19410,143 @@ Statera ContractingPlan Your Renovation With ConfidenceStatera Contracting handl
       },
     ],
   },
+  {
+    slug: "who-pulls-permits-calgary",
+    title: "Calgary Permits: Who Pulls Them, and What Homeowners Must Write",
+    excerpt: "Calgary Permits: Who Pulls Them, and What Homeowners Must Write",
+    date: "2026-10-17",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1791989060018_Homeowner-and-contractor-reviewing-permit-responsibilities.jpeg",
+    coverAlt: "Calgary Permits: Who Pulls Them, and What Homeowners Must Write",
+    category: "Industry News",
+    readingTime: "10 min read",
+    metaTitle: "Calgary Permits: Who Pulls Them, and What Homeowners Must Write",
+    metaDescription: "Calgary homeowners remain responsible for permits, even when contractors apply. Learn when you can pull your own and what your contract should specify.",
+    content: [
+      {
+        type: "html",
+        html: `<p>You are legally responsible for making sure required permits exist, but the contractor you hire normally applies for and holds the permits for the work they perform. Homeowners can pull only certain trade permits, and only for work they do personally in their own primary residence. Applications go through <a href="https://www.calgary.ca/development/permits/fee-calculator-new-homes.html" rel="nofollow noopener noreferrer" target="_blank">Calgary</a> or the Planning Services Centre.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>Calgary holds property owners responsible for permits and inspections, even when contractors file; name the permit holder for every permit in your written contract.</li>
+<li>You may pull trade permits only for work you do yourself in your owned primary home; hired trades, gas work, and multiunit properties require City checks.</li>
+<li>Complete drawings, site plans, contractor licenses, and trade business IDs help prevent review delays; use apply.calgary.ca to submit plans and track an open file.</li>
+<li>Contractors should book mandatory inspections, with dates in writing; skipped inspections may require opening finished walls to expose concealed work, increasing costs and delays.</li>
+<li>Check zoning and permit needs before preparing drawings; development and building permits cover different issues, and some renovations require both.</li>
+</ul>
+</blockquote>
+
+Statera ContractingPlan Your Calgary RenovationStatera Contracting renovates homes and commercial spaces in Calgary and surrounding areas, including kitchens, bathrooms, basements, and additions.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#who-is-legally-responsible-and-when-should-your-contractor-pull-permits">Who is legally responsible, and when should your contractor pull permits?</a></li>
+<li><a href="#when-can-you-pull-permits-yourself-and-when-cant-you">When can you pull permits yourself, and when can’t you?</a></li>
+<li><a href="#how-do-you-apply-for-a-permit-in-calgary-step-by-step">How do you apply for a permit in Calgary, step by step?</a></li>
+<li><a href="#what-should-you-expect-for-inspections-timelines-and-fees">What should you expect for inspections, timelines and fees?</a></li>
+<li><a href="#what-should-your-contract-say-about-permits">What should your contract say about permits?</a></li>
+<li><a href="#what-do-we-see-on-real-calgary-permit-files">What do we see on real Calgary permit files?</a></li>
+<li><a href="#how-do-residential-and-commercial-permits-differ-in-calgary">How do residential and commercial permits differ in Calgary?</a></li>
+<li><a href="#our-take-hire-permit-responsibility-dont-just-hope-for-it">Our take: hire permit responsibility, don’t just hope for it</a></li>
+<li><a href="#how-can-we-help-with-permits-on-your-calgary-renovation">How can we help with permits on your Calgary renovation?</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Who is legally responsible, and when should your contractor pull permits?</h2>
+<p>The City’s position is simple: the property owner is ultimately accountable for permits and inspections, even when someone else submits the paperwork. <a href="https://open.alberta.ca/dataset/bc792588-d0e9-4a76-978b-1c46d405bb09/resource/e53a7350-431c-4368-ab7e-5123611513ef/download/do-i-need-a-building-permit.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta’s guidance on permits</a> says a contractor can apply on your behalf, but the responsibility does not move off your shoulders. That is why the paperwork question belongs in your contract, not in a verbal chat on site.</p>
+<p>In practice, here is how it usually plays out:</p>
+<ul>
+<li><strong>Building and development permits:</strong> the contractor you hire for a renovation applies for these when they take on the work.</li>
+<li><strong>Concealed trade work:</strong> licensed contractors must obtain trade permits for electrical, plumbing and gas work hidden behind walls or floors, and the application carries your contact details as the property owner.</li>
+<li><strong>Licences and business IDs:</strong> contractors supply their proper licences and City business ID numbers so inspectors can match the permit to the work.</li>
+<li><strong>Your role:</strong> you confirm who is pulling each permit, in writing, before work starts.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Ask your contractor to name the permit holder for every permit on the quote. If a line says “by others,” find out who the others are before you sign.</em></p>
+<h2>When can you pull permits yourself, and when can’t you?</h2>
+<p>Homeowner trade permits exist, but the conditions are strict. Calgary’s homeowner permit rules say you cannot pull a permit for work that a hired person or company performs. Here is what you need to meet:</p>
+<ol>
+<li><strong>Legal ownership:</strong> you must be the registered owner of the property.</li>
+<li><strong>Primary residence:</strong> you must live in the home as your main residence.</li>
+<li><strong>Personal work:</strong> you must do the work yourself, with no paid help on the permitted trade.</li>
+<li><strong>Gas work:</strong> check the City’s requirements before arranging gas work.</li>
+<li><strong>Condo and multi-unit rules:</strong> these projects carry stricter requirements, so check with the City before assuming you qualify.</li>
+</ol>
+<p>There is a real trade-off in doing this yourself. If you pull a permit and a contractor does the work, you assume full legal responsibility for code compliance and any deficiencies they leave behind. Building a new house without a builder is a separate matter: <a href="https://www.alberta.ca/owner-builder-authorization" rel="nofollow noopener noreferrer" target="_blank">owner builder authorization</a> is required under Alberta’s New Home Buyer Protection Act, and it involves an online access request and an approval process.</p>
+<h2>How do you apply for a permit in Calgary, step by step?</h2>
+<p>Whether you or your contractor files, the path is the same. Start with property research. Development permits check Land Use Bylaw matters such as zoning and setbacks, while building permits check construction safety, and you may need both. Call 311 or use the City’s property research tool before anyone draws a plan.</p>
+<p>From there:</p>
+<ul>
+<li><strong>Prepare your package:</strong> gather drawings, site plans and supporting documents. If contractors will hold trade permits, collect their business IDs and licences now, not mid-review.</li>
+<li><strong>Apply online:</strong> upload everything to apply.calgary.ca, the City’s ePermit system. Applicants can submit plans, update contractor information and see who is reviewing a file.</li>
+<li><strong>Apply in person:</strong> visit the Planning Services Centre on the 3rd floor of the Municipal Building, 800 Macleod Trail SE, or book an eAppointment. The Centre is open Monday to Friday, 8:00 a.m. to 4:00 p.m.</li>
+<li><strong>Respond fast:</strong> when a reviewer asks for more information, a quick answer keeps your file moving.</li>
+<li><strong>Switch contractors:</strong> if you change contractors mid-application, contact the Planning Services Centre so the open file can be updated.</li>
+</ul>
+<p><strong>Calgary’s ePermit system lets you change contractor information on an open permit and see who is reviewing your file.</strong> That visibility saves you from chasing status updates by phone.</p>
+<p>For specific projects, our guides on <a href="https://stateracontracting.com/blog/bathroom-permit-calgary" target="_blank" rel="noopener">bathroom permits</a> and <a href="https://stateracontracting.com/blog/deck-permit-calgary" target="_blank" rel="noopener">deck permits</a> walk through the documents and common mistakes. If you are planning a suite, see our notes on a <a href="https://stateracontracting.com/blog/legal-basement-suite-calgary" target="_blank" rel="noopener">legal basement suite in Calgary</a>.</p>
+<h2>What should you expect for inspections, timelines and fees?</h2>
+<p>Plan your schedule around the review, not the other way around. Simple permits can move quickly, while discretionary or complex files follow longer standard review timelines. Complete applications avoid most administrative delays, which is why we push for finished drawings before anything is submitted. Our post on <a href="https://stateracontracting.com/blog/renovation-permit-timeline-calgary" target="_blank" rel="noopener">renovation permit timelines</a> goes deeper.</p>
+<p>A few things shape your budget and calendar:</p>
+<ul>
+<li><strong>Fees:</strong> they follow the permit’s valuation or prevailing market value, under City bylaws and the City’s fee calculators.</li>
+<li><strong>Inspections:</strong> they are mandatory. Your contractor books them, and you should have the dates in writing.</li>
+<li><strong>Failed or skipped inspections:</strong> <a href="https://www.calgary.ca/development/inspections.html" rel="nofollow noopener noreferrer" target="_blank">renovating without permits can mean exposing concealed work</a>, which adds real cost, structural risk and delay compared with doing it right the first time.</li>
+<li><strong>Follow-up:</strong> if a file stalls, the Planning Services Centre offers <a href="https://www.calgary.ca/development/permits/process-faq.html" rel="nofollow noopener noreferrer" target="_blank">live chat, phone at 403-268-5311 and in-person service</a>.</li>
+</ul>
+<h2>What should your contract say about permits?</h2>
+<p>Your contract is where permit responsibility becomes enforceable. Alberta.ca advises that hiring a contractor does not automatically remove your responsibility, so write down who obtains each permit and who makes sure inspections happen. Before you sign, confirm:</p>
+<ol>
+<li><strong>Named permit holder:</strong> a clause that names who obtains each permit.</li>
+<li><strong>Trade IDs:</strong> the contractor provides business ID numbers for every trade permit.</li>
+<li><strong>Payment milestones:</strong> start dates and payments tied to permit issuance and completed inspections where it makes sense.</li>
+<li><strong>Paper trail:</strong> copies of submitted applications, fee receipts and inspection approvals go to you.</li>
+<li><strong>Closure records:</strong> you keep inspection dates and the final permit closure documentation.</li>
+</ol>
+<p><strong>Pro Tip:</strong> <em>Store the closure documents with your home records. A buyer’s lawyer may ask for them years from now.</em></p>
+<p>Our advice on <a href="https://stateracontracting.com/blog/choose-a-renovation-contractor-calgary" target="_blank" rel="noopener">choosing a renovation contractor in Calgary</a> pairs well with this checklist. Some firms also bundle design and construction, which can simplify who manages permits, as this look at design-build versus design-bid explains.</p>
+<h2>What do we see on real Calgary permit files?</h2>
+<p>Most delays we run into trace back to thin drawings or missing trade information, not to the City. A file with complete plans, correct contractor licences and business IDs sails through reviews that stall when any of those are missing. That is why many homeowners are better off hiring a contractor who includes permit management in the scope of work: one team owns the application, the inspections and the closure. Whatever route you pick, we put the permit responsibilities in the written contract so nobody argues about them later.</p>
+<h2>How do residential and commercial permits differ in Calgary?</h2>
+<p>Residential permits revolve around a homeowner’s property: zoning, setbacks, structural safety and, for trades, the owner-occupant exceptions covered above. Check with the City about the permit requirements for your commercial project. A restaurant, pub, office or retail build-out is a business fit-up, so licensed contractors hold the trade permits, and the tenant, landlord and contractor all need clear roles on paper.</p>
+<p>Commercial files also tend to carry more moving parts. Think of a restaurant fit-up: kitchen ventilation, plumbing and electrical loads, gas appliances and occupancy considerations all need to be settled before anyone cuts into a wall. Reviewers expect complete drawings and correct trade information, and a missing detail can stall the file for weeks. The trade permit rules still apply: concealed electrical, plumbing and gas work must go through licensed contractors, and inspections are not optional.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1791989132647_Five-considerations-in-commercial-permit-reviews.jpeg" alt="Five considerations in commercial permit reviews" /></p>
+<p>Because a commercial project often ties up rent and an opening date, we build permit milestones into the schedule from day one. If you are weighing a space, call the Planning Services Centre early to confirm what your property’s zoning allows before you sign a lease.</p>
+<h2>Our take: hire permit responsibility, don’t just hope for it</h2>
+<p>The common advice says “let your contractor handle it,” and that is fine as far as it goes. Where it falls short is accountability. The City holds you responsible, so a verbal “we’ll take care of it” leaves you exposed. Equally, pulling a homeowner permit to save a little money is a poor trade if someone else does the work and you inherit the liability.</p>
+<p>Prioritise three things, in this order: a named permit holder for every permit, a contract that ties money to inspections, and a paper trail you keep. Everything else, from the fee calculator to the review portal, is mechanics. Get the responsibility question settled in writing and the rest tends to run smoothly.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>How can we help with permits on your Calgary renovation?</h2>
+<p>Permit handling is part of how we run our renovation projects, so you are not left decoding bylaws on your own. We quote kitchens, bathrooms, basements and additions with permits in the plan:</p>
+<ul>
+<li>We coordinate permits and inspections as part of the project workflow.</li>
+<li>We name the permit holder in your written contract.</li>
+<li>We keep you copies of applications, receipts and inspection approvals.</li>
+</ul>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Planning a <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation</a>, a bathroom or an addition? Tell us about your project and ask how we would handle the permits. Request a quote at <a href="https://stateracontracting.com/" target="_blank" rel="noopener">Statera Contracting</a>.</p>
+<h2>FAQ</h2>
+<h3>What happens if you build without a permit in Alberta?</h3>
+<p>You can face fines, orders to stop work and a requirement to open up finished walls so inspectors can see concealed work. Calgary’s Land Use Bylaw 1P2007 lists specified penalties for missing development permits. Fixing it afterward usually costs more than permitting it properly.</p>
+<h3>Can you build a structure in Calgary without a permit?</h3>
+<p>It depends on the structure, its size and your property’s zoning, so check before you build. Call 311 or use the City’s property research tool to confirm what applies to your lot. Skipping that check is how many homeowners end up with an unpermitted build.</p>
+<h3>What are the requirements for a garage permit in Calgary?</h3>
+<p>Check with the City to find out whether your garage project needs a building permit, a development permit or both. Homeowner trade permits for the garage require proof of ownership, residency and doing the work yourself. A hired electrician or plumber must pull their own trade permits.</p>
+<h3>What are the hours of the Planning Services Centre?</h3>
+<p>The Centre is open Monday to Friday, 8:00 a.m. to 4:00 p.m. Mountain Time, on the 3rd floor of the Municipal Building at 800 Macleod Trail SE. You can also use the online portal at apply.calgary.ca anytime.</p>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/renovation-permit-timeline-calgary" target="_blank" rel="noopener">Calgary Homeowners: Permit Timelines, 7–21 Day Reviews and Builder Tips</a></li>
+<li><a href="https://stateracontracting.com/blog/deck-permit-calgary" target="_blank" rel="noopener">Deck permit calgary: what homeowners need before they build</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-permit-calgary" target="_blank" rel="noopener">Calgary homeowners: Get bathroom permits approved the first time</a></li>
+<li><a href="https://stateracontracting.com/blog/building-permit-timeline-calgary" target="_blank" rel="noopener">Avoid 30/60/90 Trap: Calgary Building Permit Timeline for Homeowners</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
