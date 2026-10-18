@@ -19547,6 +19547,150 @@ Statera ContractingPlan Your Calgary RenovationStatera Contracting renovates hom
       },
     ],
   },
+  {
+    slug: "tenant-improvement-allowance-alberta",
+    title: "Tenant Improvement Allowance: 3 Alberta Lease Clauses That Cost You",
+    excerpt: "A tenant improvement allowance is money your landlord contributes toward your fit-out, usually as a rate per square foot or a lump sum.",
+    date: "2026-10-18",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1792069765237_Tenant-and-contractor-review-renovation-bid.jpeg",
+    coverAlt: "Tenant Improvement Allowance: 3 Alberta Lease Clauses That Cost You",
+    category: "Industry News",
+    readingTime: "8 min read",
+    metaTitle: "Tenant Improvement Allowance: 3 Alberta Lease Clauses That Cost You",
+    metaDescription: "Learn how tenant improvement allowances work in Alberta, what they cover, which lease clauses to negotiate, and how Calgary build costs shape your budget.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A tenant improvement allowance is money your landlord contributes toward your fit-out, usually as a rate per square foot or a lump sum. Before you sign an Alberta commercial lease, check three things: who controls the scope, when the money is paid, and whether you must restore the space at lease end. Those three clauses decide what the allowance is really worth.</p>
+
+<blockquote>
+<p><strong>TL;DR:</strong></p>
+<ul>
+<li>A per square foot allowance grows with leased area, while a lump sum stays fixed and leaves you exposed if project costs rise.</li>
+<li>Landlords generally fund permanent features such as walls, flooring, lighting, and HVAC changes, while furniture and specialty equipment are usually excluded unless negotiated.</li>
+<li>Get the scope approved in writing before construction, then submit itemized invoices that match it; vague paperwork can delay reimbursement or staged draws.</li>
+<li>Alberta has no statutory improvement scheme for commercial tenants, so negotiate a restoration waiver or cost cap directly in the signed lease.</li>
+<li>Permit delays can push back construction, allowance draws, and opening, so build them into lease dates and tie rent commencement to occupancy, not signing.</li>
+</ul>
+</blockquote>
+
+Statera ContractingPlan Your Calgary Commercial Build-OutStatera Contracting renovates commercial spaces, including restaurants and pubs, as well as homes in Calgary and surrounding areas.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#how-do-tenant-improvement-allowances-work-in-a-lease">How do tenant improvement allowances work in a lease?</a></li>
+<li><a href="#what-allowance-amounts-and-cost-benchmarks-should-you-expect-in-alberta">What allowance amounts and cost benchmarks should you expect in Alberta?</a></li>
+<li><a href="#what-does-a-tenant-improvement-allowance-usually-cover">What does a tenant improvement allowance usually cover?</a></li>
+<li><a href="#which-lease-clauses-should-you-negotiate-on-an-alberta-commercial-lease">Which lease clauses should you negotiate on an Alberta commercial lease?</a></li>
+<li><a href="#how-do-you-negotiate-the-allowance-and-what-should-you-watch-for">How do you negotiate the allowance and what should you watch for?</a></li>
+<li><a href="#how-long-do-tenant-improvements-take-in-alberta-and-how-should-you-plan-costs">How long do tenant improvements take in Alberta, and how should you plan costs?</a></li>
+<li><a href="#what-drives-costs-on-ti-funded-projects-from-a-calgary-contractors-view">What drives costs on TI-funded projects, from a Calgary contractor’s view?</a></li>
+<li><a href="#how-can-we-help-with-your-calgary-tenant-improvement-build-out">How can we help with your Calgary tenant improvement build-out?</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>How do tenant improvement allowances work in a lease?</h2>
+<p>You will usually see one of two structures. A per-square-foot allowance multiplies a set rate by your leased area, so the amount scales with the space. A lump-sum allowance is a fixed figure regardless of size, which can suit small units but leaves you exposed if costs climb.</p>
+<p>Control matters just as much as the amount. In a landlord turnkey build, the landlord hires the contractor and delivers a finished space, which is simpler but gives you less say over design and cost. In a tenant-run build, you hire the contractor and draw on the allowance, which gives you more control and more responsibility for the schedule.</p>
+<p>Payment methods tend to fall into three patterns:</p>
+<ul>
+<li><strong>Lump sum:</strong> the landlord pays the full amount at a set date, often at occupancy or rent commencement.</li>
+<li><strong>Reimbursement on receipts:</strong> you pay contractors first, then submit invoices for repayment.</li>
+<li><strong>Staged draws:</strong> funds are released at agreed milestones, such as framing complete or final inspection.</li>
+</ul>
+<h2>What allowance amounts and cost benchmarks should you expect in Alberta?</h2>
+<p>Allowances vary widely by property type, so treat any range as a starting point for your own ask. Our <a href="https://stateracontracting.com/blog/tenant-improvement-cost-calgary" target="_blank" rel="noopener">Calgary tenant improvement cost guide</a> breaks down per-square-foot build costs for offices, retail and restaurants. Restaurants sit at the high end because of kitchen mechanical, plumbing and ventilation work, while a light office refresh sits at the low end.</p>
+<p>Several factors move the allowance up or down:</p>
+<ul>
+<li><strong>Lease length:</strong> a longer term gives the landlord more time to recover the contribution, so you can ask for more.</li>
+<li><strong>Vacancy:</strong> a building with plenty of empty space tends to offer richer incentives.</li>
+<li><strong>Building class:</strong> newer, higher-class buildings often come with higher base finishes and different expectations.</li>
+<li><strong>Scope of work:</strong> a shell space needing walls, ceilings and mechanical costs more than a second-generation unit.</li>
+</ul>
+<p><strong>Pro Tip:</strong> <em>Get a written contractor estimate before you name an allowance figure. A line-by-line bid gives you a documented basis for discussing the amount with your landlord.</em></p>
+<p>If you want to sharpen your own numbers, estimating tools such as <a href="https://arosbid.com/construction-estimating-bidding-software" target="_blank" rel="nofollow noopener noreferrer">ArosBid</a> help organize takeoffs and vendor quotes into something you can put in front of a landlord.</p>
+<h2>What does a tenant improvement allowance usually cover?</h2>
+<p>Landlords generally fund permanent improvements that stay with the building and add lasting value. Expect these categories to be eligible, subject to what your lease says:</p>
+<ul>
+<li>Millwork and built-in cabinetry</li>
+<li>Partitions and demising walls</li>
+<li>Flooring, paint and other finishes</li>
+<li>Lighting and electrical work tied to your layout</li>
+<li>HVAC adjustments to suit the new floor plan</li>
+<li>Washroom construction or upgrades</li>
+</ul>
+<p>Landlords commonly exclude items that leave with you: furniture, specialty equipment, and branding or signage unless you negotiate them in. Some leases allow a share of soft costs such as design fees, so ask rather than assume.</p>
+<p>Reimbursement depends on paperwork. Get your scope approved in writing before work starts, and keep itemized invoices that match the approved scope. A vague invoice can contribute to a delayed draw.</p>
+<h2>Which lease clauses should you negotiate on an Alberta commercial lease?</h2>
+<p>Alberta does not give commercial tenants a statutory improvement scheme. Disputes are governed by <a href="https://www.alberta.ca/during-a-tenancy" rel="nofollow noopener noreferrer" target="_blank">the signed lease and common law</a>, so the wording you agree to is your protection. The province’s own guidance notes that improvement clauses should settle who pays, who owns the work at expiry, restoration duties and construction timelines, because unclear terms often end in disputes.</p>
+<p>Work through these clauses in order:</p>
+<ol>
+<li><strong>Restoration (make-good):</strong> options include full restoration, a capped restoration cost, or a waiver for improvements the landlord approved. A <a href="https://www.naibc.ca/restoration-clauses/" rel="nofollow noopener noreferrer" target="_blank">restoration clause is a common and costly pitfall</a>, and a waiver or cap for approved work can prevent a large bill at the end of your term.</li>
+<li><strong>Ownership at lease end:</strong> state whether improvements stay with the building and who pays to remove anything. Require written approval before any demolition is demanded.</li>
+<li><strong>Approvals:</strong> set a reasonable deadline for the landlord to approve drawings and change orders, and say what happens if they stay silent.</li>
+<li><strong>Holdbacks:</strong> agree on the size of any final holdback and the exact conditions for its release.</li>
+<li><strong>Payment triggers:</strong> define progress draws and the documents needed to unlock each one.</li>
+</ol>
+<p><strong>Pro Tip:</strong> <em>Ask for the restoration waiver in the lease itself, not in an email or side letter. If it is not in the signed document, it will not protect you.</em></p>
+<h2>How do you negotiate the allowance and what should you watch for?</h2>
+<p>Use this sequence so each step supports the next:</p>
+<ol>
+<li>Get a contractor estimate for your intended scope.</li>
+<li>Define the scope in writing, with drawings if possible.</li>
+<li>Propose an allowance amount and a payment schedule.</li>
+<li>Request a restoration waiver or a capped restoration cost.</li>
+<li>Make sure every agreed term lands in the lease, not in correspondence.</li>
+</ol>
+<p>Questions worth asking your landlord: Who approves the scope, and how long will approval take? Will you manage the build or will we? What happens if costs run over the allowance? Is the allowance reduced if we finish under budget?</p>
+<p>A contractor bid does real work here. It turns “we need more money” into a documented cost, and it shows the landlord you have planned the project.</p>
+<p>Watch for red flags in the draft lease: restoration with no cap, approval rights described only as “at landlord’s discretion,” and clauses letting the landlord change the scope unilaterally. Each one shifts cost or control to you after you have already committed.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792069876875_Lease-clauses-shift-cost-and-control-to-tenants.jpeg" alt="Lease clauses shift cost and control to tenants" /></p>
+<h2>How long do tenant improvements take in Alberta, and how should you plan costs?</h2>
+<p>Permits are often the longest unknown. Their lead time affects when you can start, when draws begin and when you can open, so build that gap into your lease dates. Our <a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">Calgary TI timeline guide</a> walks through typical schedule stages, and our <a href="https://stateracontracting.com/blog/office-renovations" target="_blank" rel="noopener">office renovation guide</a> covers the contractor side of commercial fit-outs.</p>
+<ul>
+<li><strong>Contingency:</strong> set aside a reserve for concealed conditions and change orders rather than hoping none appear.</li>
+<li><strong>Holdbacks:</strong> place them in the contract so release depends on completion and inspection, not goodwill.</li>
+<li><strong>Coordination:</strong> agree on one point of contact for tenant, landlord and contractor so approvals do not stall.</li>
+<li><strong>Dates:</strong> tie rent commencement to occupancy, not to the lease signing date.</li>
+</ul>
+<h2>What drives costs on TI-funded projects, from a Calgary contractor’s view?</h2>
+<p>In our experience, the surprises that eat an allowance are rarely the finishes. They are permits, conditions hidden behind existing walls and ceilings, and mechanical work that has to change when the layout does. A good estimate flags these early and names assumptions, so the landlord’s approval and your budget rest on the same document. We write estimates to match lease scope language, which keeps draw requests clean.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>How can we help with your Calgary tenant improvement build-out?</h2>
+<p>If you are turning an allowance into a finished space, we handle the work that makes the numbers hold up. Our team can help with local permitting and code-compliant construction.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<ul>
+<li>Detailed estimates you can put in front of your landlord</li>
+<li>Permit handling and project management</li>
+<li>Design and build for offices, retail and restaurants</li>
+</ul>
+<p>Request a TI estimate or a site visit through our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation services</a> page to discuss a project budget and timeline.</p>
+<h2>FAQ</h2>
+<h3>Can a landlord increase commercial rent in Alberta?</h3>
+<p>Yes, within the terms of your lease. Rent increase limits that apply to residential periodic tenancies do not apply to commercial leases, so check your rent review and renewal clauses before signing.</p>
+<h3>Can a landlord remove me for renovations?</h3>
+<p>Only as your lease allows. Commercial tenancies depend mainly on the signed agreement, so look for landlord entry, relocation and termination clauses and negotiate limits on them.</p>
+<h3>What does “tenant improvements” mean?</h3>
+<p>Tenant improvements are the alterations made to leased space to suit a tenant, such as walls, finishes, lighting and mechanical changes. An allowance is the landlord’s contribution toward that work.</p>
+<h3>What can I do if my landlord is not completing repairs?</h3>
+<p>Start with the repair and maintenance clauses in your lease and give written notice. Commercial tenants do not have the same statutory rights as residential tenants, so consider speaking with a lawyer about your options.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.alberta.ca/during-a-tenancy" rel="nofollow noopener noreferrer" target="_blank">Alberta</a></li>
+<li><a href="https://www.naibc.ca/restoration-clauses/" rel="nofollow noopener noreferrer" target="_blank">Naibc</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/tenant-improvement-cost-calgary" target="_blank" rel="noopener">Budget $40–$150/Sq Ft: Calgary Tenant Improvements, Lease &amp; Permits</a></li>
+<li><a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">Commercial Renovation Calgary: TI Timeline Guide</a></li>
+<li><a href="https://stateracontracting.com/blog/office-renovations" target="_blank" rel="noopener">Office renovations in Alberta: your contractor guide</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
