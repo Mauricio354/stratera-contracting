@@ -98,5 +98,6 @@
   "981369": { "status": "published", "publishedAt": "2026-10-21" },
   "986437": { "status": "published", "publishedAt": "2026-10-22" },
   "990323": { "status": "queued", "reason": "not yet at calendar date; estimated calendar date created_at 2026-10-20 + 3 days = 2026-10-23, estimated, not screenshot-confirmed (981369 and 986437 are older and due first)" },
-  "993814": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-10-21 (981369 published today); estimated calendar date created_at 2026-10-21 + 3 days = 2026-10-24, estimated, not screenshot-confirmed (986437 and 990323 are older and due first)" }
+  "993814": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-10-21 (981369 published today); estimated calendar date created_at 2026-10-21 + 3 days = 2026-10-24, estimated, not screenshot-confirmed (986437 and 990323 are older and due first)" },
+  "997143": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-10-22 (986437 published today); estimated calendar date created_at 2026-10-22 + 3 days = 2026-10-25, estimated, not screenshot-confirmed (990323 and 993814 are older and due first)" }
 }
