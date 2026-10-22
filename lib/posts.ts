@@ -19882,6 +19882,212 @@ Statera ContractingPlan Your Calgary Basement RenovationStatera Contracting reno
       },
     ],
   },
+  {
+    slug: "commercial-renovation-cost-calgary",
+    title: "Commercial Renovation Cost in Calgary: 2026 Budget Guide",
+    excerpt: "Most commercial renovations in Calgary land somewhere between roughly $70 and $700 per square foot, and the spread comes from what the space is used for.",
+    date: "2026-10-22",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1792242068568_Worker-installing-ductwork-in-restaurant-renovation.jpeg",
+    coverAlt: "Commercial Renovation Cost in Calgary: 2026 Budget Guide",
+    category: "Industry News",
+    readingTime: "12 min read",
+    metaTitle: "Commercial Renovation Cost in Calgary: 2026 Budget Guide",
+    metaDescription: "What a commercial renovation costs in Calgary: per-square-foot ranges, soft costs, permit fees, escalation and how to build a budget that holds.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Most commercial renovations in Calgary land somewhere between roughly $70 and $700 per square foot, and the spread comes from what the space is used for. A simple office refresh sits at the low end. A restaurant or bar, with kitchen ventilation, grease management, plumbing and mechanical work, sits at the high end. On top of construction you need to budget for design, permits and other soft costs, which can add a quarter to half again.</p>
+<p>This guide explains what drives the number, what the City of Calgary charges for permits, where budgets slip, and how to set a figure you can take to your landlord or lender. We are a Calgary renovation contractor, so the examples come from the kind of work we do: offices, retail, restaurants and pubs.</p>
+Statera ContractingPlan Your Calgary Commercial RenovationStatera Contracting renovates commercial spaces in Calgary and surrounding areas, including restaurants, pubs, bars, and other businesses.<a href="https://stateracontracting.com">Explore commercial renovations</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Calgary commercial renovation costs depend mostly on use. Offices cost the least per square foot, restaurants and bars the most.</li>
+<li>Construction is only part of the budget. <a href="https://www.buildlor.org/cost/calgary-ab" rel="nofollow noopener noreferrer" target="_blank">Soft costs such as design and municipal charges can add 25 to 50 percent</a> to hard costs.</li>
+<li>Most commercial renovations need a building permit, and the fee is calculated from the value of the work.</li>
+<li>Costs are rising, and a schedule that slips pushes the final price up. Budget for the midpoint of construction, not today’s date, and hold a contingency.</li>
+<li>A fixed-price contract with a defined scope is the best protection against surprises.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-commercial-renovation-costs-in-calgary">What commercial renovation costs in Calgary</a></li>
+<li><a href="#what-actually-drives-the-price">What actually drives the price</a></li>
+<li><a href="#hard-costs-soft-costs-and-what-gets-forgotten">Hard costs, soft costs and what gets forgotten</a></li>
+<li><a href="#calgary-permit-costs-for-commercial-alterations">Calgary permit costs for commercial alterations</a></li>
+<li><a href="#why-costs-keep-climbing-and-how-to-plan-for-it">Why costs keep climbing, and how to plan for it</a></li>
+<li><a href="#a-worked-budget-example">A worked budget example</a></li>
+<li><a href="#our-perspective-on-commercial-budgets">Our perspective on commercial budgets</a></li>
+<li><a href="#how-to-get-quotes-you-can-compare">How to get quotes you can compare</a></li>
+<li><a href="#plan-your-calgary-commercial-renovation-with-statera">Plan your Calgary commercial renovation with Statera</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What commercial renovation costs in Calgary</h2>
+<p>There is no single Calgary price list, because “commercial” covers a dental office, a coffee shop and a 6,000 sq ft open-plan floor. Published figures are best read as ranges that tell you which end of the scale your project sits on.</p>
+<p>One published benchmark puts <a href="https://www.buildlor.org/cost/calgary-ab" rel="nofollow noopener noreferrer" target="_blank">a standard-specification office fit-out in Calgary at about $124 per square foot</a>, before soft costs. Our own cost guides, written from Calgary projects, give wider working ranges by building type:</p>
+<table>
+<thead>
+<tr>
+<th>Project type</th>
+<th>Working range per sq ft</th>
+<th>Where to read more</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Office renovation</td>
+<td>$70 to $220</td>
+<td><a href="https://stateracontracting.com/blog/office-renovation-cost-calgary" target="_blank" rel="noopener">Calgary office renovation costs</a></td>
+</tr>
+<tr>
+<td>Restaurant renovation</td>
+<td>$150 to $700</td>
+<td><a href="https://stateracontracting.com/blog/restaurant-renovation-cost-calgary" target="_blank" rel="noopener">Calgary restaurant renovation budgeting</a></td>
+</tr>
+<tr>
+<td>Bar or pub renovation</td>
+<td>Varies with kitchen, licensing and finishes</td>
+<td><a href="https://stateracontracting.com/blog/bar-renovation-cost-calgary" target="_blank" rel="noopener">Bar renovation cost in Calgary</a></td>
+</tr>
+</tbody>
+</table>
+<p>Treat these as planning ranges, not quotes. Two offices of the same size can differ by a factor of two if one keeps its ceiling and mechanical systems and the other needs them rebuilt.</p>
+<h3>Why restaurants and bars cost more than offices</h3>
+<p>An office is mostly partitions, ceilings, flooring, lighting, data and HVAC adjustments. A restaurant adds commercial kitchen equipment, exhaust hoods and make-up air, grease interceptors, more plumbing fixtures, washrooms that meet occupant-load requirements, and a front-of-house finish level that customers will judge. Bars add back-of-bar plumbing, refrigeration and often acoustic or fire-separation work. Mechanical, electrical and plumbing work is where the budget grows fastest, which is why those trades deserve the most attention at the estimate stage.</p>
+<h2>What actually drives the price</h2>
+<p>When we price a commercial space, these are the factors that move the number most.</p>
+<ol>
+<li><strong>Existing condition.</strong> A space that was a similar business before is cheaper to convert than a shell or a space with outdated electrical panels, no sprinklers or unknown asbestos-era materials.</li>
+<li><strong>Change of use.</strong> Turning a retail unit into a restaurant, or an office into a clinic, can trigger a change of occupancy classification, which brings new code requirements for exits, fire separation, washrooms and ventilation.</li>
+<li><strong>Mechanical and electrical scope.</strong> Moving walls is cheap compared with relocating HVAC, rerouting plumbing, or upgrading electrical service.</li>
+<li><strong>Finish level.</strong> Polished concrete and exposed ceilings cost a different amount than millwork, custom lighting and acoustic treatments.</li>
+<li><strong>Schedule.</strong> Compressed timelines cost more in overtime and expedited materials. Slow ones cost more in rent and escalation.</li>
+<li><strong>Building rules.</strong> Multi-tenant buildings often restrict work hours, require a landlord-approved contractor or insurance certificates, and limit elevator or loading dock use. After-hours work costs more.</li>
+</ol>
+<h2>Hard costs, soft costs and what gets forgotten</h2>
+<p>Hard costs are construction: labour, materials, trades, equipment. Soft costs are everything around it. The <a href="https://www.buildlor.org/cost/calgary-ab" rel="nofollow noopener noreferrer" target="_blank">Calgary cost data we reviewed</a> says soft costs, such as municipal charges and design fees, can add 25 to 50 percent to the hard-cost budget. That is a big range, and it explains why a contractor’s per-square-foot number rarely equals your total spend.</p>
+<p>A complete budget usually includes:</p>
+<ul>
+<li>Design and drawings (architectural, and often mechanical and electrical engineering)</li>
+<li>Building permit and related trade permits, and the Safety Codes Council fee</li>
+<li>Furniture, fixtures and equipment, including kitchen equipment, signage and IT</li>
+<li>Moving costs and any overlap of rent between old and new premises</li>
+<li>Rent during construction if the space is non-operational</li>
+<li>Contingency for unknowns behind walls and above ceilings</li>
+</ul>
+<p>The item most often missed is rent during construction. A month of delay costs you lease payments on a space that is earning nothing, which is why we treat schedule as a cost line, not just a convenience.</p>
+<h2>Calgary permit costs for commercial alterations</h2>
+<p>Permits are one of the few parts of the budget you can calculate in advance. Under Alberta’s permit rules, <a href="https://open.alberta.ca/dataset/a9187e73-f75f-4c35-89ef-47cd76df7bf0/resource/9d8ff29a-748a-49a4-b89c-38dc183801fa/download/ma-standata-building-bulletin-19-bcb-007.pdf" rel="nofollow noopener noreferrer" target="_blank">a building permit is required for most commercial renovations</a>. The narrow exception is work that does not exceed $5,000 in prevailing market value and poses no risk to health and safety. Changes to occupancy classification or major structural modifications need a permit regardless of cost. If you are unsure, confirm with the City of Calgary before any work starts. Doing work without a required permit can bring penalties and orders to correct it.</p>
+<p>The City publishes <a href="https://www.calgary.ca/development/permits/fee-calculator-commercial.html" rel="nofollow noopener noreferrer" target="_blank">a commercial building permit fee calculator</a>. At the time of writing it bases the permit fee on the prevailing market value (PMV) of the work, at $10.14 per $1,000, plus a Safety Codes Council fee of 4 percent of the base permit fee, with a minimum of $4.50 and a maximum of $560. A separate partial permit rate is calculated per square metre if you request one. Fees change, so use the calculator for your own figures and check the <a href="https://www.calgary.ca/development/commercial/alterations.html" rel="nofollow noopener noreferrer" target="_blank">City’s commercial alterations page</a> for the process.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792242134014_Commercial-permit-fee-calculation-for-a-200-000-project.jpeg" alt="Commercial permit fee calculation for a $200,000 project" /></p>
+<p>A rough example: on work with a PMV of $200,000, the base fee at that rate would be about $2,028 before the Safety Codes Council fee. Permit fees are small next to the construction cost, but delays in permit approval are not. Our guide to <a href="https://stateracontracting.com/blog/renovation-permits-calgary" target="_blank" rel="noopener">checking Calgary renovation permits before demolition</a> covers how to avoid rework.</p>
+<h3>Partial permits can save weeks</h3>
+<p>If mechanical and electrical drawings are still in review, a partial permit can allow demolition or framing to start earlier. It needs a clear plan, because anything built under it must still fit the final approved drawings. For a business paying rent on a closed space, starting two or three weeks sooner can be worth more than the extra fee. We manage this sequencing for clients.</p>
+<h3>Code compliance is a cost, not a surprise</h3>
+<p>The permit process checks your plans against the current code. Alberta’s list of <a href="https://www.alberta.ca/building-codes-and-standards" rel="nofollow noopener noreferrer" target="_blank">building codes currently in force</a> includes the National Building Code, 2023 Alberta Edition. Designing to the right edition from the start avoids redrawing and rebuilding later. Corrections after an inspection are the most expensive kind of change.</p>
+<h2>Why costs keep climbing, and how to plan for it</h2>
+<p>Two pressures affect Calgary projects: labour and escalation.</p>
+<p>On labour, <a href="https://www.cushmanwakefield.com/en/canada/insights/office-fit-out-cost-guide" rel="nofollow noopener noreferrer" target="_blank">Cushman &amp; Wakefield’s 2026 office fit-out guide</a> lists labour shortages, materials pricing and trade tensions among the factors keeping fit-out costs elevated. Competition for skilled trades hits mechanical, electrical and plumbing work hardest, so a project heavy in those trades has the least room before it overruns.</p>
+<p>On escalation, the same <a href="https://www.buildlor.org/cost/calgary-ab" rel="nofollow noopener noreferrer" target="_blank">Calgary cost data</a> reports year-over-year cost increases in 2026, driven largely by electrical costs, and notes that non-residential construction costs in Alberta have been moving at roughly 4.1 percent a year. That sounds small, but it compounds. If you price a project today and start in nine months, you are budgeting for a different year’s costs.</p>
+<p>Practical ways to protect your budget:</p>
+<ul>
+<li><strong>Price to the midpoint of construction.</strong> Take today’s estimate and escalate it to the middle of your build, not to the day you sign.</li>
+<li><strong>Order long-lead items early.</strong> Electrical gear, kitchen equipment and custom millwork can drive the schedule. Early procurement locks pricing.</li>
+<li><strong>Lock scope before the contract.</strong> Most overruns come from “we’ll decide later” items. A fixed-price contract works only if the scope is clearly written.</li>
+<li><strong>Hold a contingency.</strong> For a space of unknown condition, a contingency set aside outside the contract price covers hidden conditions. A <a href="https://workily.ie/blog/renovation-costs-ireland" target="_blank" rel="nofollow noopener noreferrer">budgeting guide written for Ireland</a> makes the same point about contingency from a different market, though its prices do not apply in Calgary.</li>
+<li><strong>Keep trade coordination tight.</strong> Electricians, plumbers and mechanical trades waiting on each other is where schedules slip.</li>
+</ul>
+<h2>A worked budget example</h2>
+<p>Here is an illustrative way to structure a budget for a 2,000 sq ft office renovation. The numbers are an example of the method, not a quote for any real project.</p>
+<table>
+<thead>
+<tr>
+<th>Line</th>
+<th>Basis</th>
+<th>Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Construction (hard cost)</td>
+<td>2,000 sq ft at $124</td>
+<td>$248,000</td>
+</tr>
+<tr>
+<td>Soft costs, low case</td>
+<td>25% of hard cost</td>
+<td>$62,000</td>
+</tr>
+<tr>
+<td>Soft costs, high case</td>
+<td>50% of hard cost</td>
+<td>$124,000</td>
+</tr>
+<tr>
+<td>Total before contingency</td>
+<td>Low to high</td>
+<td>$310,000 to $372,000</td>
+</tr>
+</tbody>
+</table>
+<p>The $124 figure comes from the <a href="https://www.buildlor.org/cost/calgary-ab" rel="nofollow noopener noreferrer" target="_blank">published Calgary benchmark</a> for a standard-specification office, and the 25 to 50 percent range from the same source. Now add contingency and escalation if the build is months away. The result is a budget that is a good deal higher than the headline per-square-foot number, which is the point: you want to learn that on paper, not mid-construction.</p>
+<h2>Our perspective on commercial budgets</h2>
+<p>We are a family-owned team, and the owner-managed way we run projects shapes how we think about cost. The most common mistake we see is not a bad contractor price. It is a budget that stopped at the contractor price. Design, permits, equipment, escalation and rent during construction all sit outside it.</p>
+<p>Our approach is to do the following before a contract is signed:</p>
+<ul>
+<li>We walk the space and check what the existing conditions mean for scope.</li>
+<li>We review your budget against the likely construction midpoint, so escalation is planned for rather than discovered.</li>
+<li>We confirm what the City of Calgary will require, including whether a change of occupancy or a partial permit is in play.</li>
+<li>We write the scope clearly so a fixed price means what it says.</li>
+</ul>
+<p>After that, you get daily communication from the team managing the work. We think a calm, predictable project costs less than a fast, chaotic one, and clients who know what is happening each day make decisions earlier, which keeps trades on schedule.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>How to get quotes you can compare</h2>
+<p>If you collect two or three bids, make sure they price the same job. Give each contractor the same drawings or the same written scope, and ask each to separate the following:</p>
+<ol>
+<li>What is included for design and permit management</li>
+<li>Which allowances (flooring, lighting, fixtures) are set and at what amount</li>
+<li>What is excluded, such as furniture, signage, IT or kitchen equipment</li>
+<li>The schedule, and how it handles permit review time</li>
+<li>How changes are priced during construction</li>
+</ol>
+<p>A low bid that excludes permits and design is not lower, only incomplete. Also confirm that the contractor is licensed and insured, and that the company will manage the permit rather than leave it to you.</p>
+<p>For more on the process, see our <a href="https://stateracontracting.com/blog/office-renovations" target="_blank" rel="noopener">Alberta office renovation contractor guide</a> and, if you are comparing home and commercial pricing, our <a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">cost of renovating a house in Calgary</a>.</p>
+<h2>Plan your Calgary commercial renovation with Statera</h2>
+<p>We handle commercial renovations for offices, retail, restaurants and pubs across Calgary and nearby communities including Airdrie, Cochrane and Okotoks. Design is included with our builds, we manage permits, and the work is done under fixed-price agreements with a team that stays in daily contact with you.</p>
+<p>If you have a space and a rough budget, we will tell you honestly whether the two match. See our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation service</a> or <a href="https://stateracontracting.com/" target="_blank" rel="noopener">book a consultation through our website</a>.</p>
+<h2>FAQ</h2>
+<h3>How much does a commercial renovation cost per square foot in Calgary?</h3>
+<p>It depends on the use of the space. Our working ranges are $70 to $220 per sq ft for offices and $150 to $700 for restaurants, with a published benchmark of about $124 for a standard office fit-out. Add soft costs of 25 to 50 percent for design, permits and similar items.</p>
+<h3>Do I need a permit to renovate a commercial space in Calgary?</h3>
+<p>In most cases, yes. Alberta’s rules exempt only work not exceeding $5,000 in prevailing market value that poses no health or safety risk, and a change of occupancy or major structural change always needs a permit. Confirm with the City of Calgary before you start, because starting without one can lead to penalties and corrective orders.</p>
+<h3>How is the Calgary building permit fee calculated?</h3>
+<p>The City bases it on the prevailing market value of the work, currently at $10.14 per $1,000, plus a Safety Codes Council fee. Use the City’s commercial fee calculator for your actual figure, since rates are updated from time to time.</p>
+<h3>Why do commercial renovation costs rise during the project?</h3>
+<p>Usually from unclear scope, hidden conditions, delays in permits or trades, and cost escalation over a long schedule. A defined scope, early ordering and a contingency reduce all of these.</p>
+<h3>Can I start work before the permit is fully approved?</h3>
+<p>Sometimes. A partial permit can allow demolition or framing to begin while final mechanical and electrical drawings are reviewed. Ask the City and your contractor whether it suits your project, since it requires a clear plan.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.buildlor.org/cost/calgary-ab" rel="nofollow noopener noreferrer" target="_blank">Construction cost in Calgary, AB</a></li>
+<li><a href="https://open.alberta.ca/dataset/a9187e73-f75f-4c35-89ef-47cd76df7bf0/resource/9d8ff29a-748a-49a4-b89c-38dc183801fa/download/ma-standata-building-bulletin-19-bcb-007.pdf" rel="nofollow noopener noreferrer" target="_blank">19-BCB-007 Permits under the building discipline, Alberta</a></li>
+<li><a href="https://www.calgary.ca/development/permits/fee-calculator-commercial.html" rel="nofollow noopener noreferrer" target="_blank">Building permit fee calculator, commercial, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/development/commercial/alterations.html" rel="nofollow noopener noreferrer" target="_blank">Changes to existing buildings, City of Calgary</a></li>
+<li><a href="https://www.alberta.ca/building-codes-and-standards" rel="nofollow noopener noreferrer" target="_blank">Building codes and standards, Alberta.ca</a></li>
+<li><a href="https://www.cushmanwakefield.com/en/canada/insights/office-fit-out-cost-guide" rel="nofollow noopener noreferrer" target="_blank">Office Fit-Out Cost Guide 2026, Cushman &amp; Wakefield</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/restaurant-renovation-cost-calgary" target="_blank" rel="noopener">Calgary Restaurant Renovation: Contractor Budgeting, 150–700 per sq ft</a></li>
+<li><a href="https://stateracontracting.com/blog/office-renovation-cost-calgary" target="_blank" rel="noopener">Avoid Permit Surprises: Calgary Office Renovation Costs $70–$220/sq ft</a></li>
+<li><a href="https://stateracontracting.com/blog/bar-renovation-cost-calgary" target="_blank" rel="noopener">Bar renovation cost Calgary: budget ranges, permits, who to hire</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
