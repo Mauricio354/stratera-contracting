@@ -20088,6 +20088,195 @@ Statera ContractingPlan Your Calgary Commercial RenovationStatera Contracting re
       },
     ],
   },
+  {
+    slug: "curbless-shower-cost-calgary",
+    title: "Curbless Shower Cost in Calgary: What Drives the Price",
+    excerpt: "A curbless shower costs more than a standard curbed shower, and the gap depends mostly on what is under your bathroom floor, not on the tile you pick.",
+    date: "2026-10-23",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1792326732636_Flush-bathroom-floor-entering-a-curbless-shower.jpeg",
+    coverAlt: "Curbless Shower Cost in Calgary: What Drives the Price",
+    category: "Industry News",
+    readingTime: "12 min read",
+    metaTitle: "Curbless Shower Cost in Calgary: What Drives the Price",
+    metaDescription: "What a curbless shower costs in Calgary, what drives the price, and how permits, drains, waterproofing and floor structure change your quote before work starts.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A curbless shower costs more than a standard curbed shower, and the gap depends mostly on what is under your bathroom floor, not on the tile you pick. In Calgary, the biggest swings come from floor structure, the drain type, waterproofing and whether plumbing has to move. We quote every project at a fixed price after seeing the space, so this guide shows you what goes into that number and what to ask any contractor before you sign.</p>
+<p>We don’t publish a flat price for curbless showers, and we would be wary of anyone who does without seeing your floor. Below you will find the cost drivers in the order they usually matter, the permit costs we can confirm from the City, and a checklist for comparing quotes.</p>
+Statera ContractingPlan Your Calgary Bathroom RenovationStatera Contracting renovates bathrooms in Calgary and surrounding areas, including projects involving curbless showers.<a href="https://stateracontracting.com">Explore bathroom renovations</a>
+<h2>TL;DR</h2>
+<ul>
+<li>A curbless shower costs more than a curbed one because the floor often has to be recessed or rebuilt so the shower floor can slope without a step.</li>
+<li>Floor structure (wood joists or concrete slab), drain type and waterproofing drive the price more than tile does.</li>
+<li>A linear drain looks clean but is more demanding to install, and it adds to the cost.</li>
+<li>Calgary requires a plumbing permit when plumbing is altered. The City’s homeowner plumbing permit fee is $112 plus a 4% Safety Codes Council fee, $116.50 in total.</li>
+<li>Ask for a fixed-price quote that lists floor work, drain, waterproofing and permits as separate lines.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-makes-a-shower-curbless">What makes a shower curbless</a></li>
+<li><a href="#where-the-extra-cost-comes-from">Where the extra cost comes from</a></li>
+<li><a href="#permits-and-inspections-in-calgary">Permits and inspections in Calgary</a></li>
+<li><a href="#how-a-curbless-shower-fits-into-a-full-bathroom-budget">How a curbless shower fits into a full bathroom budget</a></li>
+<li><a href="#costs-that-surprise-homeowners">Costs that surprise homeowners</a></li>
+<li><a href="#planning-for-the-future-while-the-walls-are-open">Planning for the future while the walls are open</a></li>
+<li><a href="#our-view-on-curbless-showers">Our view on curbless showers</a></li>
+<li><a href="#how-to-compare-curbless-shower-quotes">How to compare curbless shower quotes</a></li>
+<li><a href="#planning-your-project">Planning your project</a></li>
+<li><a href="#talk-to-us-about-your-shower">Talk to us about your shower</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What makes a shower curbless</h2>
+<p>A curbless shower has no raised edge at the entrance. The bathroom floor flows into the shower floor, and the floor slopes gently toward the drain so water stays inside. People choose it for a more open look, easier cleaning, and easier access for anyone with a walker, a wheelchair or unsteady footing.</p>
+<p>The design sounds simple, but the slope is the whole job. A traditional curb exists partly to hold water in. Without it, the floor has to do that work, which means the drain, the slope and the waterproofing must all fit together precisely. That is where the extra cost comes from.</p>
+<h2>Where the extra cost comes from</h2>
+<p>Think of a curbless shower as a standard shower plus extra structural and waterproofing work. These are the items that usually separate the two.</p>
+<h3>Floor structure</h3>
+<p>For the shower floor to sit level with the bathroom floor and still slope to the drain, there has to be room for the drain and slope inside the floor thickness. On a wood-framed floor, that often means <a href="https://zonereno.ca/en/articles/curbless-walk-in-shower-guide" rel="nofollow noopener noreferrer" target="_blank">recessing the shower area between or into the joists</a>, which may require reinforcing the framing. On a concrete slab, as in many basements, the slab may need to be cut and broken out so the drain can sit lower, and that is more labour.</p>
+<p>This is why two homes with the same tile and the same shower size can get very different quotes. We look at the floor framing, the direction of the joists and the location of the existing drain before we price anything.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792326793091_Floor-structure-overview-diagram.jpeg" alt="Floor structure — overview diagram" /></p>
+<h3>Drain type</h3>
+<p>A centre point drain is the traditional choice. A linear drain is a long, narrow channel, usually at the wall or at the entrance, and it allows a single-direction slope so large-format tiles can lie flat without cutting them into small triangles. It looks clean and is popular, but <a href="https://zonereno.ca/en/articles/curbless-walk-in-shower-guide" rel="nofollow noopener noreferrer" target="_blank">renovation professionals describe it as more technically demanding and notably more expensive than a centre drain</a>. If budget is tight, a centre drain with a four-way slope is a valid option, though it needs smaller tile or more cuts.</p>
+<h3>Shower pan or tray system</h3>
+<p>Many curbless showers use a pre-sloped foam tray that is covered with a waterproof membrane and tile. These trays can be trimmed on site and are designed for linear drains. One flooring retailer lists <a href="https://dgfloors.com/zero-entry-shower-pan/" rel="nofollow noopener noreferrer" target="_blank">sloped trays at roughly $200 to $400 for the tray alone</a>, with a full kit costing more. The tray is a small part of the total. The labour to set it in a recessed floor is where most of the money goes.</p>
+<h3>Waterproofing</h3>
+<p>Without a curb, water has fewer barriers. Continuous waterproofing across the whole shower floor and up the walls is not optional. Whether it is a sheet membrane or a liquid-applied system, it takes time to install correctly, and it needs to be tested before tile goes down. Skimping here leads to leaks under the floor, which are far more costly than the original savings.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792326732344_Installer-fitting-membrane-across-shower-floor.jpeg" alt="Installer fitting membrane across shower floor" /></p>
+<h3>Plumbing changes</h3>
+<p>If your existing drain is in the right place, the plumbing is simpler. If the shower is moving, or a tub is being converted to a larger shower, the drain, supply lines and venting may all change. That is the single most common reason a quote jumps. Moving a drain across a floor can mean opening the ceiling below, cutting joists, and getting a plumbing permit and inspection.</p>
+<h3>Tile and glass</h3>
+<p>Tile affects cost, but less than most homeowners expect. Large-format tile means fewer grout lines and a cleaner look, but it needs a flatter, more precise substrate. A fully frameless glass panel adds to the price as well, and a curbless shower may use a fixed panel with an open entry rather than a full door. If you want to see how tile choices alone change the budget, see our <a href="https://stateracontracting.com/blog/tile-shower-cost-calgary" target="_blank" rel="noopener">Calgary tile shower cost guide</a>.</p>
+<h2>Permits and inspections in Calgary</h2>
+<p>A curbless shower almost always involves plumbing work, and the City of Calgary says a plumbing permit is required when <a href="https://www.calgary.ca/development/home-building/trades-permits.html" rel="nofollow noopener noreferrer" target="_blank">a plumbing system is constructed, extended or altered</a>. Replacing existing faucets and fixtures or repairing a leak does not need one, but relocating or changing the shower drain does.</p>
+<p>For a homeowner permit, the City lists a <a href="https://www.calgary.ca/development/home-building/trades-permits.html" rel="nofollow noopener noreferrer" target="_blank">$112 fee plus a 4% Safety Codes Council fee, for a total of $116.50</a>. Fees can change, so check the City page when you plan. A contractor’s permit may be priced differently, and building or electrical permits may apply if you also change framing or wiring.</p>
+<p>The City also notes that if plumbing work has been concealed behind drywall, a homeowner’s permit cannot be issued for concealed plumbing completed without proper permits. In plain terms: do the permit first, not after the walls are closed. At final inspection, the City lists items such as <a href="https://www.calgary.ca/development/home-building/trades-permits.html" rel="nofollow noopener noreferrer" target="_blank">water temperature at the bathtub and shower not exceeding 49 degrees Celsius</a>.</p>
+<p>If a contractor tells you the permit is optional for a shower conversion, treat that as a red flag. Unpermitted work can cause trouble when you sell the home or make an insurance claim. For the full process, our guides on <a href="https://stateracontracting.com/blog/bathroom-permit-calgary" target="_blank" rel="noopener">getting bathroom permits approved the first time</a> and on <a href="https://stateracontracting.com/blog/bathroom-renovation-permit-calgary" target="_blank" rel="noopener">getting a Calgary bathroom permit without costly rejections</a> walk through what the City looks for.</p>
+<h2>How a curbless shower fits into a full bathroom budget</h2>
+<p>Most curbless showers are not built alone. They sit inside a bathroom renovation, a tub-to-shower conversion or an ensuite remodel. The cost of the shower is then one part of a larger budget that also covers the vanity, flooring, lighting, ventilation and finishing.</p>
+<p>If you are still working out the total, these pages show how we break down budgets:</p>
+<ul>
+<li><a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">Bathroom renovation cost guide for Calgary</a></li>
+<li><a href="https://stateracontracting.com/blog/ensuite-bathroom-cost-calgary" target="_blank" rel="noopener">Ensuite budgets built around three scopes</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-to-renovate-a-small-bathroom" target="_blank" rel="noopener">Cost to renovate a small bathroom</a></li>
+</ul>
+<p>Published Calgary ranges for shower conversions and ensuite remodels vary widely, from modest tub-to-shower swaps to high-end custom builds with steam and heated floors. That spread is the reason we avoid quoting a number before we see the room.</p>
+<h2>Costs that surprise homeowners</h2>
+<p>These are the items most likely to appear after demolition if nobody checked ahead of time.</p>
+<ol>
+<li><strong>Rot or damage under the old tub or shower.</strong> Once the old enclosure is out, we sometimes find soft subfloor or damaged framing that needs repair.</li>
+<li><strong>Joist reinforcement.</strong> Recessing a shower floor can weaken the structure unless the framing is reinforced.</li>
+<li><strong>Slab cutting.</strong> In a basement bathroom, breaking concrete to lower the drain adds labour and cleanup.</li>
+<li><strong>Venting and drain size.</strong> Older homes can have drains or vents that do not meet current requirements once plumbing is altered. The <a href="https://nrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-canada-publications/national-plumbing-code-canada-2020" rel="nofollow noopener noreferrer" target="_blank">National Plumbing Code of Canada</a> sets the baseline, and Alberta and the City apply it.</li>
+<li><strong>Heated floors and electrical.</strong> Many people add in-floor heat to a curbless shower, which brings an electrical permit and separate cost.</li>
+<li><strong>Ongoing care.</strong> Natural stone and cement grout need sealing. A <a href="https://royalcleaningnewmexico.com/shower-grout-sealing" target="_blank" rel="nofollow noopener noreferrer">guide to the timing of sealing shower grout</a> explains why curing time matters before the shower sees water, and it is worth planning for in your schedule.</li>
+</ol>
+<p>A fixed-price quote helps here, as long as it clearly states what happens if hidden damage turns up. We would rather explain that up front than surprise you mid-project.</p>
+<h2>Planning for the future while the walls are open</h2>
+<p>If you are building a curbless shower partly for accessibility, add blocking now. CMHC advises that when planning a bathroom renovation, <a href="https://www.cmhc-schl.gc.ca/professionals/industry-innovation-and-leadership/industry-expertise/resources-for-mortgage-professionals/how-to-green-your-bathroom-renovation" rel="nofollow noopener noreferrer" target="_blank">plywood blocking in the walls at framing stage</a> gives solid mounting points for grab bars later, even if you do not install the bars immediately. It adds little cost while the walls are open and is very expensive to retrofit once they are tiled.</p>
+<p>The same logic applies to the shower size and entry width. A wider opening and a floor without a lip are what make a curbless shower useful for mobility, so decide on those before framing.</p>
+<h2>Our view on curbless showers</h2>
+<p>We build curbless showers for homeowners in Calgary, Okotoks, Cochrane and Airdrie, and our advice is the same each time: decide whether the floor can support the idea before you fall in love with a design.</p>
+<p>Here is how we approach it:</p>
+<ul>
+<li><strong>We check the floor first.</strong> Joist direction, slab or wood frame, and drain location decide whether a curbless shower is straightforward or a major structural job.</li>
+<li><strong>We review the plumbing plan with the permit in mind.</strong> A drain that moves means a permit, and we manage that as part of the project.</li>
+<li><strong>We price waterproofing as its own line.</strong> It is the one part of the shower you never see again, so it should never be the place to save.</li>
+<li><strong>We talk about alternatives honestly.</strong> If a curbed shower or a low-profile threshold suits your floor and budget better, we say so. A curbless shower is not the right answer for every house.</li>
+</ul>
+<p>Our team is family-owned and manages each project directly, with daily communication so you always know what is happening. That matters most in a curbless build, where small decisions at the floor level affect the finished result. If you want to weigh the trade-offs in more depth, see our piece on <a href="https://stateracontracting.com/blog/curbless-shower-pros-cons" target="_blank" rel="noopener">curbless shower pros and cons for Canadian renovators</a>.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>How to compare curbless shower quotes</h2>
+<p>Two quotes can look similar and still cover different work. Ask each contractor to put these items in writing:</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>What to look for</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Floor work</td>
+<td>Is recessing, joist reinforcement or slab cutting included or excluded?</td>
+</tr>
+<tr>
+<td>Drain</td>
+<td>Centre or linear, and the brand or system</td>
+</tr>
+<tr>
+<td>Waterproofing</td>
+<td>Membrane type and whether a flood test is included</td>
+</tr>
+<tr>
+<td>Permits</td>
+<td>Who pulls the plumbing permit, and who books the inspection</td>
+</tr>
+<tr>
+<td>Tile</td>
+<td>Size, material and allowance for any premium tile</td>
+</tr>
+<tr>
+<td>Glass</td>
+<td>Fixed panel or door, and who supplies it</td>
+</tr>
+<tr>
+<td>Hidden damage</td>
+<td>How rot or framing repairs are priced if found</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Realistic timeline including curing and inspections</td>
+</tr>
+</tbody>
+</table>
+<p>If a quote is a single lump sum with no breakdown, ask for more detail. A good contractor will be glad to explain it.</p>
+<h2>Planning your project</h2>
+<p>A typical curbless shower project follows this order:</p>
+<ol>
+<li><strong>Site visit.</strong> We look at the floor, the drain location, the size of the space and your goals.</li>
+<li><strong>Design and scope.</strong> We decide on drain type, slope, tile layout and entry width, and whether the floor needs structural work.</li>
+<li><strong>Fixed-price quote.</strong> You receive a written scope with the items above spelled out.</li>
+<li><strong>Permit.</strong> The plumbing permit is applied for before concealed work begins.</li>
+<li><strong>Demolition and structure.</strong> Old fixtures come out and any framing or slab work is done.</li>
+<li><strong>Plumbing rough-in and inspection.</strong> The drain and supply lines are set and inspected.</li>
+<li><strong>Waterproofing and testing.</strong> The membrane goes down and is checked before tile.</li>
+<li><strong>Tile, glass and finish.</strong> Final details and the last inspection.</li>
+</ol>
+<h2>Talk to us about your shower</h2>
+<p>If you are planning a curbless shower in Calgary or nearby, our <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovation service</a> covers design, permits and construction under one fixed-price agreement. Book a consultation and we will look at your floor, explain what a curbless design would involve in your home, and give you a written quote. You can also start from our <a href="https://stateracontracting.com" target="_blank" rel="noopener">main site</a>.</p>
+<h2>FAQ</h2>
+<h3>Is a curbless shower always more expensive than a standard shower?</h3>
+<p>Usually, yes. The extra comes from recessing or reworking the floor, a precisely sloped base and more careful waterproofing. In a house where the framing already allows it, the difference is smaller than where a slab has to be cut.</p>
+<h3>Do I need a permit for a curbless shower in Calgary?</h3>
+<p>If the plumbing is constructed, extended or altered, the City of Calgary requires a plumbing permit. Changing the drain location or installing a new drain almost always counts. Replacing only fixtures and faucets does not require one.</p>
+<h3>Is a linear drain worth the extra money?</h3>
+<p>It depends on the look you want. A linear drain allows large tiles with a single slope and is popular, but it is more demanding to install and costs more than a centre drain. A centre drain can work well in a curbless shower if you accept more tile cuts.</p>
+<h3>Can I have a curbless shower in a basement?</h3>
+<p>Yes, but a concrete slab makes it harder because the drain must sit lower than the finished floor, which can mean breaking the slab. We assess the slab and the existing drain line before recommending it.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/development/home-building/trades-permits.html" rel="nofollow noopener noreferrer" target="_blank">Homeowner electrical and plumbing permits, City of Calgary</a></li>
+<li><a href="https://zonereno.ca/en/articles/curbless-walk-in-shower-guide" rel="nofollow noopener noreferrer" target="_blank">Curbless Walk-In Shower Guide, Zone Réno</a></li>
+<li><a href="https://dgfloors.com/zero-entry-shower-pan/" rel="nofollow noopener noreferrer" target="_blank">Zero Entry Shower Pan: Curbless Design Guide, DG Floors</a></li>
+<li><a href="https://www.cmhc-schl.gc.ca/professionals/industry-innovation-and-leadership/industry-expertise/resources-for-mortgage-professionals/how-to-green-your-bathroom-renovation" rel="nofollow noopener noreferrer" target="_blank">How to Green Your Bathroom Renovation, CMHC</a></li>
+<li><a href="https://nrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-canada-publications/national-plumbing-code-canada-2020" rel="nofollow noopener noreferrer" target="_blank">National Plumbing Code of Canada 2020, National Research Council Canada</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/tile-shower-cost-calgary" target="_blank" rel="noopener">Calgary Tile Shower Costs: $1,800–$4,500, What Contractors Insist On</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">Bathroom Renovation Calgary 2026 Cost Guide</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-to-renovate-a-small-bathroom" target="_blank" rel="noopener">Cost to renovate a small bathroom in Calgary: 2026 guide</a></li>
+<li><a href="https://stateracontracting.com/blog/curbless-shower-pros-cons" target="_blank" rel="noopener">Prioritize 1/4" slope: Curbless shower plan for Canadian renovators</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
