@@ -20277,6 +20277,199 @@ Statera ContractingPlan Your Calgary Bathroom RenovationStatera Contracting reno
       },
     ],
   },
+  {
+    slug: "home-addition-timeline-calgary",
+    title: "Home Addition Timeline in Calgary: What to Expect",
+    excerpt: "A home addition in Calgary takes longer than the construction itself.",
+    date: "2026-10-24",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1792416659859_Carpenter-framing-a-Calgary-home-addition.jpeg",
+    coverAlt: "Home Addition Timeline in Calgary: What to Expect",
+    category: "Industry News",
+    readingTime: "12 min read",
+    metaTitle: "Home Addition Timeline in Calgary: What to Expect",
+    metaDescription: "How long a home addition takes in Calgary: design, City permit reviews, development permits, construction and inspections, with the delays to plan for.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A home addition in Calgary takes longer than the construction itself. Before anyone swings a hammer, you need a design, drawings and a City of Calgary permit. If your plans fit the Land Use Bylaw, the building permit review can be quick. If they don’t, a development permit can add <a href="https://www.calgary.ca/development/home-building/additions.html" rel="nofollow noopener noreferrer" target="_blank">10 to 12 weeks</a> before the building permit can even be issued. Build time then depends on the size and complexity of the addition, and your contract should put it in writing.</p>
+<p>This guide walks through each phase in order, shows where projects stall, and explains what you can do to keep yours moving.</p>
+Statera ContractingPlan Your Calgary Home AdditionStatera Contracting handles home additions in Calgary and surrounding areas, helping you connect your project plans with a renovation contractor.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Every addition needs at least a building permit. The City says <a href="https://www.calgary.ca/development/home-building/additions.html" rel="nofollow noopener noreferrer" target="_blank">simple residential projects may be processed in 1 day, and reviews often take about 7 days</a>, though these are estimates, not guarantees.</li>
+<li>If your design does not meet the Land Use Bylaw, you need a development permit first. Expect roughly 10 to 12 weeks for that step alone.</li>
+<li>Design comes first. It gives you the drawings needed for a firm price, a permit application and a real schedule.</li>
+<li>Most delays come from incomplete applications, setback problems, undocumented past work and material availability, and all of them can be caught early.</li>
+<li>Ask for a written schedule with start and completion dates before you sign.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#the-phases-of-a-home-addition">The phases of a home addition</a></li>
+<li><a href="#phase-1-planning-and-design">Phase 1: Planning and design</a></li>
+<li><a href="#phase-2-permits">Phase 2: Permits</a></li>
+<li><a href="#phase-3-pre-construction">Phase 3: Pre-construction</a></li>
+<li><a href="#phase-4-construction">Phase 4: Construction</a></li>
+<li><a href="#phase-5-inspections-and-handover">Phase 5: Inspections and handover</a></li>
+<li><a href="#what-slows-a-calgary-addition-down">What slows a Calgary addition down</a></li>
+<li><a href="#how-to-keep-your-schedule-realistic">How to keep your schedule realistic</a></li>
+<li><a href="#our-perspective">Our perspective</a></li>
+<li><a href="#plan-your-addition-with-us">Plan your addition with us</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>The phases of a home addition</h2>
+<p>It helps to think of an addition as five phases. Some overlap, but the order rarely changes.</p>
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>What happens</th>
+<th>What drives the length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Planning and design</td>
+<td>Site review, layout, drawings, specifications</td>
+<td>How many decisions you make and how fast</td>
+</tr>
+<tr>
+<td>2. Permits</td>
+<td>Development permit (only if needed), then building permit</td>
+<td>Whether the design fits the bylaw and the application is complete</td>
+</tr>
+<tr>
+<td>3. Pre-construction</td>
+<td>Final pricing, contract, ordering materials, scheduling trades</td>
+<td>Material lead times, trade availability</td>
+</tr>
+<tr>
+<td>4. Construction</td>
+<td>Foundation, framing, mechanical and electrical, finishes</td>
+<td>Size, structure, weather, inspections</td>
+</tr>
+<tr>
+<td>5. Inspections and completion</td>
+<td>Final inspections, deficiencies, handover</td>
+<td>How cleanly earlier inspections went</td>
+</tr>
+</tbody>
+</table>
+<p>We cover the permit phase in the most detail because it is the part Calgary homeowners are least familiar with and the part that can move your start date by months.</p>
+<h2>Phase 1: Planning and design</h2>
+<p>The <a href="https://chba.ca/before-starting-a-renovation/" rel="nofollow noopener noreferrer" target="_blank">Canadian Home Builders’ Association</a> advises that for complex additions, design should be treated as a separate first step. That way you confirm the project is feasible and get the detailed specifications that a firm cost estimate and contract depend on.</p>
+<p>We agree, and it is why design is part of how we build. Our <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions service</a> includes design with the build, so the same team that draws your addition understands how it will be built.</p>
+<p>During this phase you will typically:</p>
+<ul>
+<li>Walk the site with us and talk through how you use your home now.</li>
+<li>Check your lot against the Land Use Bylaw, including setbacks and height.</li>
+<li>Settle the layout, rooflines, windows and how the addition ties into the existing house.</li>
+<li>Choose the major finishes that affect ordering, such as windows, flooring and cabinetry.</li>
+</ul>
+<p>Design time is mostly in your hands. Homeowners who arrive with a clear list of priorities, and who respond to drawings within a few days, move through this phase noticeably faster than those who revise the layout five times. Changing the plan after the permit is submitted costs more time than changing it at the drawing stage.</p>
+<h3>Check for past work before you design</h3>
+<p>Before planning, look up what permits exist on your property. The City notes that if earlier work was done without a permit, you may need to <a href="https://www.calgary.ca/development/homeowner-inspections.html" rel="nofollow noopener noreferrer" target="_blank">expose concealed work during the framing inspection</a> to bring it up to code. That adds time and cost, and it is much better to learn about it in week one than in week twenty.</p>
+<h2>Phase 2: Permits</h2>
+<h3>Every addition needs a building permit</h3>
+<p>The City of Calgary states that <a href="https://www.calgary.ca/development/home-building/additions.html" rel="nofollow noopener noreferrer" target="_blank">all additions require at least a building permit</a>. An addition is any construction that increases the area of your home, which includes covered decks or porches, attached garages and sunrooms.</p>
+<h3>Building permit review times</h3>
+<p>According to the City, <a href="https://www.calgary.ca/development/home-building/additions.html" rel="nofollow noopener noreferrer" target="_blank">simple residential projects may be processed in 1 day, building safety reviews for additions usually take about 7 days, and new house construction often takes about 21 days</a>. The City also publishes <a href="https://www.calgary.ca/development/safety-approval-timelines.html" rel="nofollow noopener noreferrer" target="_blank">current building safety approval timelines</a> with its targets and how often it meets them, which is worth checking close to your application date because the numbers change quarter to quarter.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792416706057_Comparison-of-three-building-permit-review-times.jpeg" alt="Comparison of three building permit review times" /></p>
+<p>Treat these as estimates. Delays commonly come from incomplete applications or requests for more information. A permit package that is complete on the first submission is the cheapest time-saver in the whole project. We review the checklist before we submit so your application does not stall on a missing document.</p>
+<p>For a deeper look at how long reviews take and why the 30/60/90 day assumptions mislead people, see our guide to the <a href="https://stateracontracting.com/blog/building-permit-timeline-calgary" target="_blank" rel="noopener">Calgary building permit timeline</a> and our overview of <a href="https://stateracontracting.com/blog/renovation-permit-timeline-calgary" target="_blank" rel="noopener">renovation permit timelines</a>.</p>
+<h3>When you also need a development permit</h3>
+<p>If your design or location does not meet the Land Use Bylaw, you will need planning approval, called a development permit, before you can get a building permit. The City says this process <a href="https://www.calgary.ca/development/home-building/additions.html" rel="nofollow noopener noreferrer" target="_blank">typically takes 10 to 12 weeks</a>, made up of a 60-day decision period followed by a 21-day advertisement and appeal period. Development permits do not guarantee approval.</p>
+<p>The City also lists conditions where the existing building and addition must conform to the bylaw, and where the property cannot be in a floodway, flood fringe or overland flow area or listed as a historic resource. Those are the kinds of items we check during design, not after.</p>
+<p>Setbacks are the most common trigger. A design that pushes a few centimetres past a side or rear setback can turn a one-week review into a three-month wait. We explain the numbers in <a href="https://stateracontracting.com/blog/setback-requirements-calgary-additions" target="_blank" rel="noopener">setback requirements for Calgary additions</a> and in our article on how <a href="https://stateracontracting.com/blog/home-addition-permit-calgary" target="_blank" rel="noopener">setbacks can trigger extra approval</a>.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792416739460_When-you-also-need-a-development-permit-overview-diagram.jpeg" alt="When you also need a development permit — overview diagram" /></p>
+<h3>Who is responsible for permits?</h3>
+<p>The federal Office of Consumer Affairs points out that homeowners must verify permit requirements themselves, because <a href="https://ised-isde.canada.ca/site/office-consumer-affairs/en/buying-and-leasing-big-ticket-items/home-renovations" rel="nofollow noopener noreferrer" target="_blank">it is not the contractor’s responsibility unless the contract says so</a>. That is a good reason to put permit handling in writing. When you hire us, permit management is part of what we do, and we confirm that in the contract.</p>
+<h2>Phase 3: Pre-construction</h2>
+<p>Once the permit is approved, or often while it is under review, the project moves into pre-construction. This is where the final price, schedule and materials come together.</p>
+<ul>
+<li><strong>Contract.</strong> The federal renovation toolkit says a professional contract should include <a href="https://www.canada.ca/content/dam/cra-arc/migration/cra-arc/ndrgrnd/rnvtn-eng.pdf" rel="nofollow noopener noreferrer" target="_blank">a detailed job description, total price, payment schedule, and a work schedule with specific start and completion dates</a>. Be wary of anyone who refuses a written contract or asks for cash only.</li>
+<li><strong>Ordering.</strong> Windows, doors, structural components and cabinetry can have lead times. Statistics Canada reports that renovation costs are sensitive to material availability and tariffs, and that <a href="https://www150.statcan.gc.ca/daily-quotidien/250808/dq250808d-eng.htm" rel="nofollow noopener noreferrer" target="_blank">steel, aluminum and appliance-heavy projects saw more price volatility in 2025</a>. Choosing and ordering early protects both your schedule and your budget.</li>
+<li><strong>Trades.</strong> Excavation, framing, electrical, plumbing and HVAC all need to be booked in sequence so there are no idle weeks between them.</li>
+</ul>
+<p>This phase is short when decisions are already made. It stretches when selections are still open, so finalizing finishes before construction starts is one of the most effective things you can do.</p>
+<h2>Phase 4: Construction</h2>
+<p>The build itself follows a predictable order for most additions:</p>
+<ol>
+<li>Site preparation and foundation work</li>
+<li>Framing, roof and exterior envelope</li>
+<li>Rough-in of electrical, plumbing and heating</li>
+<li>Inspections of framing and rough-ins</li>
+<li>Insulation, drywall, and finishes</li>
+<li>Flooring, cabinetry, trim, paint and fixtures</li>
+</ol>
+<p>We do not quote one-size-fits-all build durations for additions, because a modest single-room extension and a two-storey addition are different projects. What we can tell you is that the schedule is built from the drawings, it is confirmed once permits and material lead times are known, and it goes in your contract.</p>
+<p>For a sense of how a scoped interior project is planned, our basement guide explains the typical <a href="https://stateracontracting.com/blog/basement-renovation-timeline-calgary" target="_blank" rel="noopener">10 to 14 week range for a Calgary basement</a> and the permit delays that stretch it. An addition involves more structural work and weather exposure, so you should expect longer.</p>
+<h3>Weather and season</h3>
+<p>Foundation and exterior work are exposed to Calgary’s weather. Construction in cold months is possible, but the exterior closing-in stage is easier to schedule when you plan it ahead. If you want the shell closed in before winter, start the design and permit work well before the building season, not at the start of it.</p>
+<h2>Phase 5: Inspections and handover</h2>
+<p>The City lets homeowners <a href="https://www.calgary.ca/development/homeowner-inspections.html" rel="nofollow noopener noreferrer" target="_blank">book inspections for building, electrical and plumbing permits</a>. Bookings made before 2 p.m. are scheduled for the next business day, according to the City. Inspections fit into the build at specific stages, and work generally cannot be covered until it passes.</p>
+<p>That is why a missed or failed inspection costs days, not hours. We coordinate inspections as part of permit management, and at the end we walk the finished space with you, list any deficiencies and close them out.</p>
+<h2>What slows a Calgary addition down</h2>
+<p>Most of the delays we see fall into a handful of causes, and nearly all are preventable:</p>
+<ul>
+<li><strong>Incomplete permit applications.</strong> Missing drawings or documents mean the City asks for more information and the clock effectively restarts.</li>
+<li><strong>Setback or bylaw conflicts.</strong> These turn a building permit into a development permit plus a building permit.</li>
+<li><strong>Unpermitted past work.</strong> Discovered late, it can require opening finished walls.</li>
+<li><strong>Late selections.</strong> Changing windows or cabinetry after ordering resets lead times.</li>
+<li><strong>Scope changes mid-build.</strong> Adding a room or moving a wall once framing starts affects structure, permits and inspections.</li>
+<li><strong>No written schedule.</strong> Without dates in the contract, there is nothing to hold anyone to.</li>
+</ul>
+<h2>How to keep your schedule realistic</h2>
+<ol>
+<li><strong>Start earlier than you think.</strong> If a development permit is possible, begin design and the bylaw check months ahead of your target start.</li>
+<li><strong>Check your property file first.</strong> Know what has been permitted before you draw anything.</li>
+<li><strong>Finish design before pricing.</strong> A firm price and a firm schedule both depend on complete drawings.</li>
+<li><strong>Decide finishes early.</strong> Order long-lead items as soon as the contract is signed.</li>
+<li><strong>Get everything in writing.</strong> Start and completion dates, payment schedule and who handles permits.</li>
+<li><strong>Get several written estimates.</strong> The Office of Consumer Affairs recommends this, along with confirming that your contractor carries the right <a href="https://ised-isde.canada.ca/site/office-consumer-affairs/en/buying-and-leasing-big-ticket-items/home-renovations" rel="nofollow noopener noreferrer" target="_blank">Workers’ Compensation and liability insurance</a>.</li>
+</ol>
+<h2>Our perspective</h2>
+<p>When homeowners ask us how long an addition will take, they usually mean the construction. The honest answer starts earlier. The biggest swing factor is almost never the build crew, it is whether the design fits the bylaw and whether the permit application is complete the first time.</p>
+<p>We are a family-owned team, and we manage each project directly. That matters most in the early months. We check the lot, the setbacks and the permit history before drawings are finalized, because a ten-minute check at that stage can save a three-month wait later. We would rather tell you up front that your preferred layout needs a development permit than let you find out after you have ordered materials.</p>
+<p>Once construction starts, our job is daily communication. You should know what happened on site today and what happens tomorrow, and if a schedule date moves, you hear about it from us first and with the reason.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Plan your addition with us</h2>
+<p>We are a licensed and insured Calgary renovation company serving the city and nearby areas including Okotoks, Cochrane and Airdrie. Our <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions service</a> covers design, permit management and construction under one fixed-price agreement, so your schedule and price are set out before work begins.</p>
+<p><strong>Ready to talk about your timeline?</strong> <a href="https://stateracontracting.com" target="_blank" rel="noopener">Book a free consultation</a> and we will review your lot, your goals and the permit path that fits your project. For more background, read our <a href="https://stateracontracting.com/blog/putting-an-addition-on-a-house-calgary-homeowners-guide" target="_blank" rel="noopener">homeowner’s guide to putting an addition on a house in Calgary</a>.</p>
+<h2>FAQ</h2>
+<h3>How long does it take to complete an addition?</h3>
+<p>It depends on size and permits. Design and the City permit stage come first, and a building permit review can be as short as a day or about a week, according to the City. If a development permit is required, add roughly 10 to 12 weeks. Construction time is then set from your drawings and written in the contract.</p>
+<h3>Do I need a permit for a home addition in Calgary?</h3>
+<p>Yes. The City of Calgary says all additions require at least a building permit, including covered decks, porches, attached garages and sunrooms. Some designs also need a development permit if they do not meet Land Use Bylaw rules.</p>
+<h3>Can you see building permits in Calgary?</h3>
+<p>The City of Calgary provides property permit information, and you should check what has been permitted on your property before you plan. Unpermitted past work can require exposing concealed work at inspection, which adds time and cost.</p>
+<h3>Does a contractor handle the permit delays?</h3>
+<p>A contractor can manage the application and keep it complete, which reduces avoidable delays. But the City’s review times are estimates, and the decision is the City’s. Confirm in your contract who is responsible for permits.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/development/home-building/additions.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary: Additions</a></li>
+<li><a href="https://www.calgary.ca/development/safety-approval-timelines.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary: Building safety approval timelines</a></li>
+<li><a href="https://www.calgary.ca/development/homeowner-inspections.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary: Inspections for homeowners</a></li>
+<li><a href="https://chba.ca/before-starting-a-renovation/" rel="nofollow noopener noreferrer" target="_blank">Canadian Home Builders’ Association: Before starting a renovation</a></li>
+<li><a href="https://ised-isde.canada.ca/site/office-consumer-affairs/en/buying-and-leasing-big-ticket-items/home-renovations" rel="nofollow noopener noreferrer" target="_blank">Office of Consumer Affairs: Home renovations</a></li>
+<li><a href="https://www150.statcan.gc.ca/daily-quotidien/250808/dq250808d-eng.htm" rel="nofollow noopener noreferrer" target="_blank">Statistics Canada: Residential Renovation Price Index, Q2 2025</a></li>
+<li><a href="https://www.canada.ca/content/dam/cra-arc/migration/cra-arc/ndrgrnd/rnvtn-eng.pdf" rel="nofollow noopener noreferrer" target="_blank">Government of Canada: Renovation toolkit</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/putting-an-addition-on-a-house-calgary-homeowners-guide" target="_blank" rel="noopener">Putting an addition on a house: Calgary homeowner’s guide</a></li>
+<li><a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">Home Additions Calgary | Room Additions &amp; Extensions</a></li>
+<li><a href="https://stateracontracting.com/blog/home-addition-permit-calgary" target="_blank" rel="noopener">Calgary Home Addition Permits: Setbacks Can Trigger Extra Approval</a></li>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap</a></li>
+</ul>
+
+`,
+      },
+    ],
+  },
 ];
 
 
