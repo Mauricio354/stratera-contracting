@@ -99,7 +99,8 @@
   "986437": { "status": "published", "publishedAt": "2026-10-22" },
   "990323": { "status": "published", "publishedAt": "2026-10-23" },
   "993814": { "status": "published", "publishedAt": "2026-10-24" },
-  "997143": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-10-22 (986437 published today); estimated calendar date created_at 2026-10-22 + 3 days = 2026-10-25, estimated, not screenshot-confirmed (990323 and 993814 are older and due first)" },
+  "997143": { "status": "published", "publishedAt": "2026-10-25" },
   "1001832": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-10-23 (990323 published today); estimated calendar date created_at 2026-10-23 + 3 days = 2026-10-26, estimated, not screenshot-confirmed (993814 and 997143 are older and due first)" },
-  "1005594": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-10-24 (993814 published today); estimated calendar date created_at 2026-10-24 + 3 days = 2026-10-27, estimated, not screenshot-confirmed (997143 and 1001832 are older and due first)" }
+  "1005594": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-10-24 (993814 published today); estimated calendar date created_at 2026-10-24 + 3 days = 2026-10-27, estimated, not screenshot-confirmed (997143 and 1001832 are older and due first)" },
+  "1009196": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-10-25 (997143 published today); estimated calendar date created_at 2026-10-25 + 3 days = 2026-10-28, estimated, not screenshot-confirmed (1001832 and 1005594 are older and due first)" }
 }
