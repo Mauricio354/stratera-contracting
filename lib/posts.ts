@@ -20470,6 +20470,162 @@ Statera ContractingPlan Your Calgary Home AdditionStatera Contracting handles ho
       },
     ],
   },
+  {
+    slug: "asbestos-testing-calgary-renovation",
+    title: "Asbestos Testing Before a Calgary Renovation",
+    excerpt: "If your Calgary home was built before 1990 and you plan to open walls, remove flooring or scrape a ceiling, get it tested for asbestos before any demolition starts.",
+    date: "2026-10-25",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1792491224127_Assessor-sampling-a-textured-wall-before-renovation.jpeg",
+    coverAlt: "Asbestos Testing Before a Calgary Renovation",
+    category: "Industry News",
+    readingTime: "11 min read",
+    metaTitle: "Asbestos Testing Before a Calgary Renovation",
+    metaDescription: "Planning a renovation in Calgary? Learn when asbestos testing is needed, what it costs, how permits and disposal work, and what to do if results are positive.",
+    content: [
+      {
+        type: "html",
+        html: `<p>If your Calgary home was built before 1990 and you plan to open walls, remove flooring or scrape a ceiling, get it tested for asbestos before any demolition starts. A qualified person collects samples, a lab analyses them, and you get a written report. That report tells you whether you need abatement, helps the City of Calgary process your permit, and lets your contractor price the job accurately.</p>
+<p>Below we cover which materials to worry about, what testing costs, how it fits with permits, and what happens to the waste.</p>
+Statera ContractingPlan Your Calgary RenovationStatera Contracting renovates Calgary homes and commercial spaces, including kitchens, bathrooms, basements, additions and exterior projects.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Test before you renovate any older home, especially one built before 1990. Asbestos is only a risk when materials are cut, sanded or broken.</li>
+<li>Testing in Calgary <a href="https://calgary.dki.ca/asbestos-testing-calgary-how-it-works/" rel="nofollow noopener noreferrer" target="_blank">typically runs $250 to $800</a>, depending on sample count, materials and rush lab turnaround.</li>
+<li>Take the lab report to the permit stage. The City asks for an asbestos abatement form with building and demolition permit applications.</li>
+<li>Do not self-sample to save money. Reports without proper chain of custody are often rejected.</li>
+<li>If asbestos is found, it must be removed under Alberta OHS rules, with 72 hours’ notice, before your renovation work disturbs it.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#why-asbestos-testing-matters-for-a-renovation">Why asbestos testing matters for a renovation</a></li>
+<li><a href="#which-homes-and-materials-are-worth-testing">Which homes and materials are worth testing</a></li>
+<li><a href="#what-the-testing-process-looks-like">What the testing process looks like</a></li>
+<li><a href="#what-asbestos-testing-costs-in-calgary">What asbestos testing costs in Calgary</a></li>
+<li><a href="#how-asbestos-testing-fits-with-calgary-permits">How asbestos testing fits with Calgary permits</a></li>
+<li><a href="#if-the-results-are-positive">If the results are positive</a></li>
+<li><a href="#where-asbestos-waste-goes-in-calgary">Where asbestos waste goes in Calgary</a></li>
+<li><a href="#our-perspective-test-first-then-plan-the-build">Our perspective: test first, then plan the build</a></li>
+<li><a href="#planning-an-older-home-renovation-with-statera">Planning an older-home renovation with Statera</a></li>
+<li><a href="#commercial-and-restaurant-projects">Commercial and restaurant projects</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Why asbestos testing matters for a renovation</h2>
+<p>Asbestos was used in many building products because it resists heat and fire. Materials in good condition that are left alone carry <a href="https://myhealth.alberta.ca/Alberta/Pages/asbestos-and-your-health.aspx" rel="nofollow noopener noreferrer" target="_blank">very little risk</a>. The problem starts when someone disturbs them. Fibres are too small to see, and <a href="https://myhealth.alberta.ca/Alberta/Pages/asbestos-and-your-health.aspx" rel="nofollow noopener noreferrer" target="_blank">only a trained lab worker with a microscope</a> can tell whether a material contains asbestos.</p>
+<p>A renovation is exactly the kind of work that disturbs materials. Demolishing a kitchen, gutting a bathroom or finishing a basement means cutting, sanding and breaking things you have not looked at in decades. Testing first means you know what you are dealing with before a crew creates dust you cannot undo.</p>
+<p>Alberta’s rules point the same way. The provincial guidance says asbestos-containing materials must be identified before work that could disturb them, and the <a href="https://www.alberta.ca/alberta-asbestos-abatement-manual" rel="nofollow noopener noreferrer" target="_blank">Alberta Asbestos Abatement Manual</a> lays out the training and procedures that apply to workers who handle them.</p>
+<h2>Which homes and materials are worth testing</h2>
+<p>The usual rule of thumb is to test if the home was built before 1990. That is a precaution, not a guarantee in either direction. A newer home can contain older salvaged materials, and an older home may have had parts replaced.</p>
+<p>Materials we most often see raised in older Calgary homes during renovation planning:</p>
+<ul>
+<li>Drywall joint compound (the “mud” over seams)</li>
+<li>Textured or stipple ceiling finishes</li>
+<li>Vinyl floor tiles and the adhesive beneath them</li>
+<li>Pipe and duct insulation</li>
+<li>Older insulation in attics and around mechanical areas</li>
+</ul>
+<p>The materials that matter are the ones your project will touch. If you are renovating only the main-floor kitchen, you do not necessarily need to sample the garage ceiling, though a qualified person will advise on scope when they visit.</p>
+<h3>Can you tell by looking?</h3>
+<p>No. Textured ceilings, old tile and insulation can look identical whether or not they contain asbestos. Visual inspection narrows down which materials to sample, but it cannot confirm anything. That is why people searching “how to tell if my drywall has asbestos” end up at the same answer: sample it and have a lab analyse it.</p>
+<h2>What the testing process looks like</h2>
+<p>A professional test follows a predictable sequence:</p>
+<ol>
+<li><strong>Scope review.</strong> You and your contractor identify which areas and materials the renovation will disturb.</li>
+<li><strong>Site visit and sampling.</strong> A trained technician collects samples under protective conditions, wetting the material and limiting dust.</li>
+<li><strong>Chain of custody.</strong> Each sample is labelled and logged so the lab results can be tied to a specific location.</li>
+<li><strong>Lab analysis.</strong> An accredited lab examines the samples under a microscope.</li>
+<li><strong>Written report.</strong> You receive results by material and location, which you can use for permits and contractor pricing.</li>
+</ol>
+<p>Turnaround varies, and rush analysis costs extra. Ask the testing company for its standard timeline before you book, and build that time into your schedule.</p>
+<h3>The “3-5-7 rule” and how many samples you need</h3>
+<p>People often ask about the 3-5-7 rule. You will see it quoted online as a sampling guideline, but it is not something you should apply yourself. What matters in Alberta is that a qualified person collects enough samples to define the full scope of work, as the <a href="https://www.alberta.ca/alberta-asbestos-abatement-manual" rel="nofollow noopener noreferrer" target="_blank">Alberta Asbestos Abatement Manual</a> and OHS regulations expect. Too few samples can lead to delays mid-project, landfill rejection or a failed safety inspection.</p>
+<p>A related question is whether you can test one spot and call it done. A negative in one location only tells you about that spot. A positive generally applies to that material type throughout the room. A single “screening” sample that comes back positive costs you a delay, because you then need proper sampling anyway. Three samples from different locations are what a <a href="https://calgary.dki.ca/asbestos-testing-calgary-how-it-works/" rel="nofollow noopener noreferrer" target="_blank">defensible report</a> normally rests on.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792491286030_Three-sampling-locations-and-how-results-apply.jpeg" alt="Three sampling locations and how results apply" /></p>
+<h2>What asbestos testing costs in Calgary</h2>
+<p>Expect <a href="https://calgary.dki.ca/asbestos-testing-calgary-how-it-works/" rel="nofollow noopener noreferrer" target="_blank">roughly $250 to $800</a> for a typical residential job. The same source notes per-sample lab fees around $85, not counting the site visit fee. The final number moves with:</p>
+<ul>
+<li>How many samples your project needs</li>
+<li>How many different material types are involved</li>
+<li>Whether you request rush lab analysis</li>
+<li>Whether the visit is combined with other testing</li>
+</ul>
+<p>Those figures are an industry range, not a quote from us. Statera does not perform asbestos testing or abatement ourselves, so get written quotes from testing companies that do, and make sure each states what is included.</p>
+<p>If your renovation follows water damage, ask whether asbestos and mould testing can be done in one visit. <a href="https://calgary.dki.ca/asbestos-testing-calgary-how-it-works/" rel="nofollow noopener noreferrer" target="_blank">Combining them</a> can keep drying and rebuilding from stalling because of separate appointments.</p>
+<h3>Why self-sampling rarely saves money</h3>
+<p>Mailing a chip of ceiling to a lab looks cheaper. The lab result only describes that one piece. It does not give you the chain of custody, sampling plan or documentation that permit staff, insurers and landfills look for. Reports without that paperwork are <a href="https://adenintegratedservicesltd.com/services/asbestos-testing/" rel="nofollow noopener noreferrer" target="_blank">often rejected</a>, and you pay twice. Disturbing the material to collect it also puts fibres in your own air.</p>
+<h2>How asbestos testing fits with Calgary permits</h2>
+<p>This is the part many homeowners miss. The City of Calgary has an <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/asbestos-abatement-form.pdf" rel="nofollow noopener noreferrer" target="_blank">Asbestos Abatement Information form</a> that must be submitted before a building permit or demolition permit. On it, the applicant confirms either that materials with the potential to release asbestos have been removed from the project area, or that there are none there. The form also reminds applicants that Alberta OHS requires notice at least 72 hours before asbestos work starts.</p>
+<p>The form is not a permit to remove asbestos. It simply tells Building Regulations that abatement will be, or has been, dealt with. A test report is how you can honestly answer it.</p>
+<p>Testing early also helps your schedule. If your project needs a permit, review timelines before you set a start date. Our guides on <a href="https://stateracontracting.com/blog/renovation-permit-timeline-calgary" target="_blank" rel="noopener">Calgary renovation permit timelines</a>, <a href="https://stateracontracting.com/blog/who-pulls-permits-calgary" target="_blank" rel="noopener">who pulls permits</a> and <a href="https://stateracontracting.com/blog/renovation-permits-calgary" target="_blank" rel="noopener">checking permits before demolition</a> walk through how that works in practice.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792491319756_How-asbestos-testing-fits-with-Calgary-permits-overview-diagram.jpeg" alt="How asbestos testing fits with Calgary permits — overview diagram" /></p>
+<h2>If the results are positive</h2>
+<p>A positive result does not mean you must leave your home or abandon the renovation. It means the affected materials need to be dealt with properly before your project touches them. In practice:</p>
+<ol>
+<li><strong>Decide on scope.</strong> Sometimes you can redesign to avoid disturbing a material. Often, for a gut renovation, removal is the cleaner route.</li>
+<li><strong>Hire a qualified abatement company.</strong> This is specialist work with its own training and equipment. Alberta requires workers handling asbestos to have <a href="https://www.alberta.ca/alberta-asbestos-abatement-manual" rel="nofollow noopener noreferrer" target="_blank">approved asbestos training</a>.</li>
+<li><strong>Make sure notification is filed.</strong> Employers must <a href="https://www.alberta.ca/submit-asbestos-project-notification" rel="nofollow noopener noreferrer" target="_blank">notify Alberta OHS at least 72 hours</a> before beginning work that may release asbestos.</li>
+<li><strong>Get clearance documentation.</strong> Keep it for your permit file and for any future sale.</li>
+<li><strong>Start the renovation.</strong> Only after abatement is finished and documented does demolition and rebuilding begin.</li>
+</ol>
+<p>Building in abatement as its own early phase keeps costs honest. Without it, the surprise tends to arrive after walls are open, when the schedule is already committed.</p>
+<h2>Where asbestos waste goes in Calgary</h2>
+<p>Asbestos waste cannot go in your regular bin or a general bin from a bin rental company. The City of Calgary says asbestos can be <a href="https://www.calgary.ca/for-business/operations/asbestos-disposal.html" rel="nofollow noopener noreferrer" target="_blank">taken to Shepard Landfill only</a>, and it must be packaged in a specific way first. The City’s commercial guidance describes double-bagging in 6-mil polyethylene, wetting the material and sealing it. Appointments are required and landfill fees apply. An <a href="https://www.calgary.ca/for-business/operations/industrial-waste.html" rel="nofollow noopener noreferrer" target="_blank">industrial waste permit</a> may be needed, and you can arrange appointments and permit applications through 311.</p>
+<p>The City’s <a href="https://www.calgary.ca/waste/what-goes-where/asbestos.html" rel="nofollow noopener noreferrer" target="_blank">guidance for homeowners</a> points to hiring a private company that handles asbestos cleanup. In practice, the abatement company you hire normally manages packaging and disposal, which is one more reason not to improvise.</p>
+<h2>Our perspective: test first, then plan the build</h2>
+<p>We are a renovation contractor, not an abatement or testing company, and we say that plainly. What we can speak to is how testing changes a renovation.</p>
+<p>We check the age of every older home early, and we ask whether the walls, ceilings and floors we will open have been tested. We would rather have that conversation in the first meeting than after demolition starts. When a report arrives before the design is finalized, we can price the job properly, and our team can plan the order of work around any abatement phase.</p>
+<p>A few things we recommend to homeowners:</p>
+<ul>
+<li>Ask for testing before you sign off on a final scope and schedule, not after.</li>
+<li>Hire a qualified testing company to collect the samples. Do not take them yourself.</li>
+<li>Keep the written report. It supports your permit file, and it is useful when you sell.</li>
+<li>Tell your contractor what the report says before demolition is scheduled.</li>
+</ul>
+<p>Our approach is client-first and transparent, with design included in our builds, permit management and daily communication from a family-owned team. For older homes, that includes making sure the asbestos question has an answer before work begins. Our <a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">guide to renovating an older home in Alberta</a> covers other surprises older houses can hold.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Planning an older-home renovation with Statera</h2>
+<p>We handle <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovations</a>, <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovations</a>, <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement and living space projects</a> and <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions</a> in Calgary and nearby communities including Okotoks, Cochrane and Airdrie. We also take on <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation</a>, including restaurants and pubs.</p>
+<p>If your property is older and you are not sure where testing fits, <a href="https://stateracontracting.com/" target="_blank" rel="noopener">book a consultation with us</a>. We will walk through your scope, flag what should be tested and build a plan around the results.</p>
+<h2>Commercial and restaurant projects</h2>
+<p>The same logic applies to older commercial buildings, where tenant improvements, kitchen exhaust changes and demolition of old finishes can disturb materials. Landlords and property managers may also have their own requirements for hazardous materials surveys, so ask for them before you sign a lease or finalize a design. Employers and contractors carry OHS duties, so documenting testing early protects both your opening date and your crew.</p>
+<h2>FAQ</h2>
+<h3>Do I need asbestos testing before renovating in Calgary?</h3>
+<p>If your home was built before 1990 and the work will cut, sand or demolish materials, testing is the standard precaution. Alberta’s rules expect asbestos-containing materials to be identified before work that could disturb them. The City of Calgary also asks for an asbestos abatement form with building and demolition permit applications.</p>
+<h3>How much does asbestos testing cost in Calgary?</h3>
+<p>A <a href="https://calgary.dki.ca/asbestos-testing-calgary-how-it-works/" rel="nofollow noopener noreferrer" target="_blank">typical range is $250 to $800</a>, depending on the number of samples, material types and whether you want rush lab results. Per-sample lab fees around $85 are common, and the site visit is usually charged on top. Get written quotes that show exactly what is included.</p>
+<h3>Can I test for asbestos myself?</h3>
+<p>You can mail a sample to a lab, but we do not recommend it. Disturbing the material releases fibres, and a lab result without chain of custody is often rejected by permit offices, insurers and landfills. A qualified person collecting samples gives you a report you can use.</p>
+<h3>Where can asbestos waste be disposed of in Calgary?</h3>
+<p>At <a href="https://www.calgary.ca/for-business/operations/asbestos-disposal.html" rel="nofollow noopener noreferrer" target="_blank">Shepard Landfill</a>, by appointment, with specific packaging and landfill fees. An industrial waste permit may also be required. Most homeowners let their abatement company handle this.</p>
+<h3>How long before work starts must asbestos work be reported?</h3>
+<p>Employers must <a href="https://www.alberta.ca/submit-asbestos-project-notification" rel="nofollow noopener noreferrer" target="_blank">notify Alberta OHS at least 72 hours</a> before beginning work that may release asbestos. Your abatement company normally files this, so confirm it has been done before the crew arrives.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.alberta.ca/alberta-asbestos-abatement-manual" rel="nofollow noopener noreferrer" target="_blank">Alberta Asbestos Abatement Manual, Alberta.ca</a></li>
+<li><a href="https://www.alberta.ca/submit-asbestos-project-notification" rel="nofollow noopener noreferrer" target="_blank">Submit an asbestos project notification, Alberta.ca</a></li>
+<li><a href="https://myhealth.alberta.ca/Alberta/Pages/asbestos-and-your-health.aspx" rel="nofollow noopener noreferrer" target="_blank">Asbestos and your health, MyHealth.Alberta.ca</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/asbestos-abatement-form.pdf" rel="nofollow noopener noreferrer" target="_blank">Asbestos Abatement Information form, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/for-business/operations/asbestos-disposal.html" rel="nofollow noopener noreferrer" target="_blank">Safe disposal of commercial asbestos, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/waste/what-goes-where/asbestos.html" rel="nofollow noopener noreferrer" target="_blank">How to safely dispose of asbestos, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/for-business/operations/industrial-waste.html" rel="nofollow noopener noreferrer" target="_blank">Industrial waste permits and appointments, City of Calgary</a></li>
+<li><a href="https://calgary.dki.ca/asbestos-testing-calgary-how-it-works/" rel="nofollow noopener noreferrer" target="_blank">Asbestos Testing in Calgary: Cost, Process &amp; Timing, DKI</a></li>
+<li><a href="https://adenintegratedservicesltd.com/services/asbestos-testing/" rel="nofollow noopener noreferrer" target="_blank">Asbestos Testing &amp; Survey Calgary, Aden Integrated</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/renovation-permits-calgary" target="_blank" rel="noopener">Check Calgary Renovation Permits Before Demolition to Avoid Rework</a></li>
+<li><a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">Renovating an older home: what Alberta homeowners need to know</a></li>
+<li><a href="https://stateracontracting.com/blog/smart-renovations-for-calgary-homes-2026-guide" target="_blank" rel="noopener">Smart renovations for Calgary homes: 2026 guide</a></li>
+<li><a href="https://stateracontracting.com/blog/choose-a-renovation-contractor-calgary" target="_blank" rel="noopener">How to choose a renovation contractor in Calgary</a></li>
+</ul>
+
+`,
+      },
+    ],
+  },
 ];
 
 
