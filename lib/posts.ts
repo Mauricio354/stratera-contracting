@@ -20626,6 +20626,188 @@ Statera ContractingPlan Your Calgary RenovationStatera Contracting renovates Cal
       },
     ],
   },
+  {
+    slug: "grease-interceptor-requirements-calgary",
+    title: "Grease Interceptor Requirements in Calgary for Restaurants",
+    excerpt: "If you prepare or serve food in Calgary, you need a properly sized grease interceptor, it must be installed by a licensed plumber under a permit, and it must be cleaned at least every four weeks with a written record of each service.",
+    date: "2026-10-26",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1792573328624_Commercial-grease-interceptor-beneath-restaurant-sink.jpeg",
+    coverAlt: "Grease Interceptor Requirements in Calgary for Restaurants",
+    category: "Industry News",
+    readingTime: "11 min read",
+    metaTitle: "Grease Interceptor Requirements in Calgary for Restaurants",
+    metaDescription: "What Calgary's Wastewater Bylaw requires for grease interceptors: sizing, permits, clearance, cleaning every four weeks, records and fines, for restaurant owners.",
+    content: [
+      {
+        type: "html",
+        html: `<p>If you prepare or serve food in Calgary, you need a properly sized grease interceptor, it must be installed by a licensed plumber under a permit, and it must be cleaned at least every four weeks with a written record of each service. Those are the core rules under the City’s Wastewater Bylaw 14M2012. This guide walks through each requirement, the penalties, and the design decisions that are cheap to get right during a renovation and expensive to fix afterwards.</p>
+Statera Contractingstateracontracting.comPlan Your Restaurant Renovation CarefullyStatera Contracting renovates restaurants and commercial spaces in Calgary, helping you plan the build around requirements like grease interceptor access.<a href="https://stateracontracting.com">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Every food service business in Calgary must have a properly sized grease interceptor under <a href="https://www.calgary.ca/for-business/licences/food-establishment-building-code.html" rel="nofollow noopener noreferrer" target="_blank">Wastewater Bylaw 14M2012 and the National Plumbing Code</a>.</li>
+<li>The unit must be installed by a licensed plumber under a plumbing permit, and its location, size and specifications belong on your permit drawings.</li>
+<li>Cleaning is required at least every four weeks, removing 100% of the contents, and service records must be kept for two years.</li>
+<li>Leave 12 inches (300 mm) of clearance above the cover, or you may be tearing out cabinets after the build.</li>
+<li>You stay responsible for the cleaning company you hire, so check the work and where the waste goes.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-a-grease-interceptor-does-and-why-calgary-regulates-it">What a grease interceptor does and why Calgary regulates it</a></li>
+<li><a href="#who-needs-one">Who needs one</a></li>
+<li><a href="#sizing-how-the-interceptor-is-chosen">Sizing: how the interceptor is chosen</a></li>
+<li><a href="#installation-and-permits">Installation and permits</a></li>
+<li><a href="#location-and-clearance-the-detail-that-costs-money-later">Location and clearance: the detail that costs money later</a></li>
+<li><a href="#cleaning-every-four-weeks">Cleaning every four weeks</a></li>
+<li><a href="#records-you-must-keep">Records you must keep</a></li>
+<li><a href="#penalties-at-a-glance">Penalties at a glance</a></li>
+<li><a href="#choosing-and-supervising-a-cleaning-company">Choosing and supervising a cleaning company</a></li>
+<li><a href="#our-perspective-plan-the-interceptor-with-the-floor-plan">Our perspective: plan the interceptor with the floor plan</a></li>
+<li><a href="#planning-a-restaurant-renovation-in-calgary">Planning a restaurant renovation in Calgary?</a></li>
+<li><a href="#pre-opening-checklist">Pre-opening checklist</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What a grease interceptor does and why Calgary regulates it</h2>
+<p>A grease interceptor (also called a grease trap or FOG interceptor, for fats, oils and grease) is a pre-treatment device in your drain line. It <a href="https://www.calgary.ca/water/customer-service/food-service-establishments.html" rel="nofollow noopener noreferrer" target="_blank">separates fats, oils and grease and some solids from wastewater</a> before the water flows into the City’s wastewater system.</p>
+<p>The reason is simple. Grease cools and solidifies inside pipes, and that creates blockages. The Government of Alberta’s <a href="https://open.alberta.ca/dataset/4e33a661-9ddd-444b-9444-4f199f8215aa/resource/ceeb07b5-8f5c-4ab3-84fa-85060d25c561/download/ma-standata-bulletin-plumbing-20-pcb-008-2023-04.pdf" rel="nofollow noopener noreferrer" target="_blank">STANDATA bulletin on interceptors</a> states that the National Plumbing Code requirement exists to protect the public sanitary drainage system. For you as an owner, the same blockage can mean a backed-up kitchen, an emergency plumber and a closed dining room on a Friday night.</p>
+<p>According to the City, if grease from your property causes a blockage, the owner could be charged for the cost of clearing it, and for correcting problems on neighbouring properties such as wastewater backups.</p>
+<h2>Who needs one</h2>
+<p>The City’s guidance is that all businesses preparing or producing food in Calgary <a href="https://www.calgary.ca/water/water-utility/managing-wastewater-business.html" rel="nofollow noopener noreferrer" target="_blank">must have a properly sized grease interceptor</a>. That covers restaurants, pubs and bars with a kitchen, cafés, caterers and food-prep operations. It is not limited to fryers: the requirement applies to every fixture that discharges fat, oil or grease, which includes dishwashers, food prep sinks and mop sinks.</p>
+<p>If you are taking over a unit that was previously a restaurant, do not assume the existing interceptor is compliant. Check its size against your equipment and menu, and check whether it can be reached and cleaned properly.</p>
+<h2>Sizing: how the interceptor is chosen</h2>
+<p>There is no single size that suits every kitchen. Sizing depends on the fixtures draining into the unit and their peak flow rates. The City’s <a href="https://www.calgary.ca/content/dam/www/uep/water/documents/water-documents/best-management-practices-for-food-service-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">Fats, Oils and Grease Management Program guide</a> includes a worked example that calculates peak flow for each fixture from the volume of the sink, so the logic is based on how much water your fixtures can send down the line at once.</p>
+<p>In practice this means:</p>
+<ol>
+<li>List every fixture that will discharge grease: pot sinks, prep sinks, dishwashers, floor drains and mop sinks.</li>
+<li>Measure the sink dimensions and work out each fixture’s flow rate using the City’s method.</li>
+<li>Have your plumber or designer select a unit rated for the combined flow.</li>
+<li>Confirm the choice follows the manufacturer’s instructions. The STANDATA bulletin points to engineering practice such as CSA B481 and says professional installation is needed for the system to do its job.</li>
+</ol>
+<p>Buying a unit that is too small is the common mistake. It fills faster, passes grease downstream and makes the four-week cleaning rule harder to meet.</p>
+<h2>Installation and permits</h2>
+<p>The City states that a grease interceptor <a href="https://www.calgary.ca/water/customer-service/food-service-establishments.html" rel="nofollow noopener noreferrer" target="_blank">must be installed by a licensed plumber under a plumbing permit</a> issued through a City of Calgary Plumbing and Gas Inspector. This is not a weekend job for staff or a handy relative.</p>
+<p>For a restaurant renovation, the interceptor should appear on your plumbing and gas permit drawings with its location, size and installation details. If the drawings do not show it correctly, you risk delays and added cost at inspection. The City’s <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/food-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">guide to renovations to restaurants and food establishments</a> lists the drawing sets required with a building permit application, including mechanical drawings and cooking equipment details.</p>
+<p>Two of our own guides cover the wider permit picture: the <a href="https://stateracontracting.com/blog/restaurant-kitchen-permit-calgary" target="_blank" rel="noopener">restaurant kitchen permit roadmap</a> and the <a href="https://stateracontracting.com/blog/commercial-kitchen-requirements-alberta" target="_blank" rel="noopener">overview of commercial kitchen requirements in Alberta</a>. If you are weighing how the plumbing connects to the rest of the kitchen, this <a href="https://diarioprofesional.com/blog/instalacion-fontaneria-cocina" target="_blank" rel="nofollow noopener noreferrer">kitchen plumbing installation guide</a> explains fixture connections in general terms (it is written in Spanish and for another market, so rely on Calgary’s rules for compliance).</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792573424478_Installation-and-permits-overview-diagram.jpeg" alt="Installation and permits — overview diagram" /></p>
+<h2>Location and clearance: the detail that costs money later</h2>
+<p>Where the interceptor goes is a design decision, and it needs to be made early. The City’s bylaw update notes require <a href="https://www.calgary.ca/content/dam/www/uep/water/documents/water-documents/Bylaw-updates-for-Food-Service-Establishments-2025.pdf" rel="nofollow noopener noreferrer" target="_blank">12 inches (300 mm) of clearance between the cover and any obstruction</a>, such as the bottom of a sink, so the unit can be opened and cleaned fully.</p>
+<p>Here is how that goes wrong. A unit is tucked under a prep sink or behind a cabinet run because the floor plan was tight. At the final stage it cannot be accessed, and the fix is to move the cabinetry or the plumbing after the work is built. That is a cost nobody budgeted.</p>
+<p>Before construction starts, confirm these points on the drawings:</p>
+<ul>
+<li>The interceptor location, with the 12-inch clearance above the cover shown.</li>
+<li>Room for a service technician and a hose or vacuum line to reach it.</li>
+<li>Which fixtures drain to it, and that none are missed.</li>
+<li>A route for the discharge pipe that matches the permit drawings.</li>
+</ul>
+<h2>Cleaning every four weeks</h2>
+<p>The bylaw requires food service establishments to <a href="https://www.calgary.ca/water/water-utility/managing-wastewater-business.html" rel="nofollow noopener noreferrer" target="_blank">clean their grease interceptors at least once every four weeks</a>, unless the Director, Water Services determines otherwise. A proper cleaning means removing 100% of the contents and cleaning and inspecting all internal components.</p>
+<p>The City’s <a href="https://www.calgary.ca/content/dam/www/uep/water/documents/water-documents/grease-interceptor-maintenance-record.pdf" rel="nofollow noopener noreferrer" target="_blank">service record form</a> adds a useful measure: the FOG layer plus the solids layer should not exceed 25% of the interceptor between cleanings. A busy fryer-heavy kitchen can hit that before four weeks pass, which means cleaning more often is the right call, not an optional extra.</p>
+<p>What is not allowed:</p>
+<ul>
+<li>Using hot water, chemicals or any product to push grease through the interceptor. The City’s <a href="https://www.calgary.ca/content/dam/www/uep/water/documents/water-documents/wastewater-compliance-and-best-management-practices.pdf" rel="nofollow noopener noreferrer" target="_blank">compliance guide</a> covers this and the penalties.</li>
+<li>Pouring interceptor contents into the wastewater system, the stormwater system or the environment.</li>
+<li>Skipping the inspection of internal parts because the unit “looked fine”.</li>
+</ul>
+<h2>Records you must keep</h2>
+<p>Every cleaning or service needs a written record: date, work order or invoice number, FOG and solids layer percentages, whether repair or replacement was needed, comments and a signature. Keep them on file for two years. The City provides a form on its website, and your service company’s invoices can support it.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792573373649_Required-service-log-fields-and-retention-period.jpeg" alt="Required service log fields and retention period" /></p>
+<p>The 2025 bylaw updates added a point worth noting: a person <a href="https://www.calgary.ca/content/dam/www/uep/water/documents/water-documents/Bylaw-updates-for-Food-Service-Establishments-2025.pdf" rel="nofollow noopener noreferrer" target="_blank">must not provide false or misleading information on a maintenance log</a>. Records must be accurate and available to the City on request.</p>
+<h2>Penalties at a glance</h2>
+<p>The figures below come from the City’s published information on <a href="https://www.calgary.ca/water/water-utility/managing-wastewater-business.html" rel="nofollow noopener noreferrer" target="_blank">fines for non-compliance</a> and its <a href="https://www.calgary.ca/content/dam/www/uep/water/documents/water-documents/wastewater-compliance-and-best-management-practices.pdf" rel="nofollow noopener noreferrer" target="_blank">compliance guide</a>. Check the City’s pages for current amounts before you rely on them.</p>
+<table>
+<thead>
+<tr>
+<th>Violation</th>
+<th>Specified penalty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No properly designed FOG interceptor installed</td>
+<td>$2,000 (minimum penalty $500)</td>
+</tr>
+<tr>
+<td>Failing to properly maintain and clean the interceptor</td>
+<td>$1,500 (minimum penalty $500)</td>
+</tr>
+<tr>
+<td>Using an agent, product or hot water to pass grease through</td>
+<td>$1,000</td>
+</tr>
+<tr>
+<td>Not keeping maintenance logs for two years</td>
+<td>$500</td>
+</tr>
+<tr>
+<td>Failing to submit requested maintenance records</td>
+<td>$500</td>
+</tr>
+</tbody>
+</table>
+<p>The fine is often the smaller cost. A blocked line, a service call and a dining room that cannot open will usually cost more.</p>
+<h2>Choosing and supervising a cleaning company</h2>
+<p>Hiring a hauler does not hand off your responsibility. City guidance says the food service establishment owner is ultimately responsible for every aspect of FOG management, including <a href="https://www.calgary.ca/content/dam/www/uep/water/documents/water-documents/best-management-practices-for-food-service-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">choosing a licensed, reputable cleaning company</a> and making sure the waste goes to an approved facility such as the Bonnybrook FOG Receiving Station. If the provider cleans poorly or dumps illegally, your business remains liable.</p>
+<p>A practical routine:</p>
+<ol>
+<li>Ask where the waste is taken and for proof, such as a disposal record on the invoice.</li>
+<li>Be on site, or inspect right after the service, to confirm 100% of the contents were removed.</li>
+<li>Fill in your log the same day.</li>
+<li>Diarize the next service before the four weeks are up.</li>
+</ol>
+<h2>Our perspective: plan the interceptor with the floor plan</h2>
+<p>We renovate restaurants, pubs and other commercial spaces in Calgary, and the grease interceptor is one of the items we want settled before demolition. In our experience the problems are not about the unit itself. They come from the unit being treated as a plumbing detail to figure out later.</p>
+<p>When we review a restaurant plan, we check three things first. Is the interceptor shown on the plumbing and gas permit drawings with its location and size? Is there real access and the required clearance above the cover? Do the fixtures on the drawings match the equipment list and menu? Getting those aligned early keeps the permit moving and avoids moving cabinets after the fact.</p>
+<p>We also tell owners to think about the cleaning routine while the layout is still on paper. A unit that a technician can reach easily is a unit that gets cleaned fully, and that is what the bylaw and your drains both need.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Planning a restaurant renovation in Calgary?</h2>
+<p>If you are building out or renovating a restaurant, pub or bar, we handle design, permit management and construction as a licensed and insured, family-owned team, and we coordinate the plumbing details such as the interceptor with your permit drawings before work begins. See our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation services</a> or contact us for a consultation.</p>
+<p>Related reading: <a href="https://stateracontracting.com/blog/restaurant-washroom-requirements-calgary" target="_blank" rel="noopener">how washroom requirements affect restaurant permits</a>, <a href="https://stateracontracting.com/blog/hood-ventilation-requirements-calgary" target="_blank" rel="noopener">hood ventilation requirements in Calgary</a> and <a href="https://stateracontracting.com/blog/restaurant-permits-calgary" target="_blank" rel="noopener">how to shorten the permit timeline</a>.</p>
+<h2>Pre-opening checklist</h2>
+<ul>
+<li>Interceptor sized for all grease-discharging fixtures, including dishwashers, prep sinks and mop sinks.</li>
+<li>Licensed plumber engaged and plumbing permit in place.</li>
+<li>Location, size and installation details on the permit drawings.</li>
+<li>12 inches (300 mm) of clearance above the cover confirmed.</li>
+<li>A cleaning provider booked, with the disposal site confirmed.</li>
+<li>A blank service record ready, with a place to file it for two years.</li>
+<li>Staff trained not to flush hot water or products to move grease through.</li>
+</ul>
+<h2>FAQ</h2>
+<h3>How often does a grease interceptor have to be cleaned in Calgary?</h3>
+<p>At least once every four weeks, unless the Director, Water Services determines otherwise. Cleaning means removing all of the contents and inspecting the internal components. If the FOG and solids layers together pass 25% of the unit before then, clean it sooner.</p>
+<h3>Do I need a permit to install a grease interceptor?</h3>
+<p>Yes. The City says the unit must be installed by a licensed plumber under a plumbing permit. For a renovation, include the interceptor’s location, size and installation details on your plumbing and gas permit drawings.</p>
+<h3>How long do I need to keep cleaning records?</h3>
+<p>Two years. Records must be accurate and available to the City if requested. Failing to keep them for two years carries a $500 specified penalty.</p>
+<h3>Am I responsible if my cleaning company dumps waste illegally?</h3>
+<p>Yes. The owner of the food service establishment remains liable for the provider’s actions. Use a reputable company, confirm the waste goes to an approved site such as the Bonnybrook FOG Receiving Station, and check that the interceptor was fully emptied.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/water/customer-service/food-service-establishments.html" rel="nofollow noopener noreferrer" target="_blank">Food service establishments, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/water/water-utility/managing-wastewater-business.html" rel="nofollow noopener noreferrer" target="_blank">Managing wastewater for businesses, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/for-business/licences/food-establishment-building-code.html" rel="nofollow noopener noreferrer" target="_blank">National Building Code 2023 Alberta Edition information for restaurants and food establishments, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/uep/water/documents/water-documents/best-management-practices-for-food-service-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">Fats, Oils, and Grease Management Program, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/uep/water/documents/water-documents/Bylaw-updates-for-Food-Service-Establishments-2025.pdf" rel="nofollow noopener noreferrer" target="_blank">Bylaw updates for Food Service Establishments, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/uep/water/documents/water-documents/grease-interceptor-maintenance-record.pdf" rel="nofollow noopener noreferrer" target="_blank">Fats, oils and grease interceptor service record, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/uep/water/documents/water-documents/wastewater-compliance-and-best-management-practices.pdf" rel="nofollow noopener noreferrer" target="_blank">Wastewater compliance and best management practices, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/food-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">Renovations to Restaurants and Food Establishments, City of Calgary</a></li>
+<li><a href="https://open.alberta.ca/dataset/4e33a661-9ddd-444b-9444-4f199f8215aa/resource/ceeb07b5-8f5c-4ab3-84fa-85060d25c561/download/ma-standata-bulletin-plumbing-20-pcb-008-2023-04.pdf" rel="nofollow noopener noreferrer" target="_blank">20-PCB-008 Interceptors, Government of Alberta</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/restaurant-kitchen-permit-calgary" target="_blank" rel="noopener">Restaurant kitchen permit Calgary: your complete approval roadmap</a></li>
+<li><a href="https://stateracontracting.com/blog/hood-ventilation-requirements-calgary" target="_blank" rel="noopener">Hood ventilation requirements in Calgary: what code demands</a></li>
+<li><a href="https://stateracontracting.com/blog/commercial-kitchen-requirements-alberta" target="_blank" rel="noopener">Commercial kitchen requirements in Alberta: what you need to know</a></li>
+<li><a href="https://stateracontracting.com/blog/restaurant-permits-calgary" target="_blank" rel="noopener">Cut Months Off Your Opening: Calgary Restaurant Permits Contractor Roadmap</a></li>
+</ul>
+
+`,
+      },
+    ],
+  },
 ];
 
 
