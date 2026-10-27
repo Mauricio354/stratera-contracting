@@ -20808,6 +20808,193 @@ Statera Contractingstateracontracting.comPlan Your Restaurant Renovation Careful
       },
     ],
   },
+  {
+    slug: "office-buildout-cost-calgary",
+    title: "Office Build-Out Cost in Calgary: 2026 Budget Guide",
+    excerpt: "Most published figures put an office build-out in Calgary at roughly $146 to $172 per square foot all-in, with hard construction costs alone ranging from about $83 to $184 per square foot depending on finish level.",
+    date: "2026-10-27",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1792657984620_Partially-finished-Calgary-office-suite.jpeg",
+    coverAlt: "Office Build-Out Cost in Calgary: 2026 Budget Guide",
+    category: "Industry News",
+    readingTime: "12 min read",
+    metaTitle: "Office Build-Out Cost in Calgary: 2026 Budget Guide",
+    metaDescription: "What an office build-out costs in Calgary per square foot, what drives the number, how permits and tenant allowances fit in, and how to budget before you sign.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Most published figures put an office build-out in Calgary at roughly $146 to $172 per square foot all-in, with hard construction costs alone ranging from about $83 to $184 per square foot depending on finish level. Your own number will depend on your layout, the condition of the space, and how much of the work the landlord covers. This guide shows how those figures break down, where budgets slip, and how to get a number you can rely on before you sign a lease.</p>
+Statera ContractingPlan Your Calgary Office RenovationStatera Contracting handles commercial renovation projects in Calgary and surrounding areas, including restaurants, pubs and bars.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Benchmarks for Calgary sit between about $146 and $172 per square foot all-in. Hard costs (the construction itself) are roughly 72% of the total in the higher estimate.</li>
+<li>Layout is the biggest cost lever. Many private offices cost more than open plan because of extra walls, doors, and electrical and HVAC zoning.</li>
+<li>Permit fees in Calgary are based on the project’s Prevailing Market Value, so contractor costs count and design fees do not.</li>
+<li>Compare your all-in estimate to the landlord’s Tenant Improvement Allowance before signing, not after.</li>
+<li>Get a fixed-price quote on a defined scope. We can walk the space with you before the lease is final.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-an-office-build-out-costs-in-calgary">What an office build-out costs in Calgary</a></li>
+<li><a href="#what-moves-the-price-up-or-down">What moves the price up or down</a></li>
+<li><a href="#hard-costs-soft-costs-and-the-budget-lines-people-forget">Hard costs, soft costs, and the budget lines people forget</a></li>
+<li><a href="#permits-and-fees-in-calgary">Permits and fees in Calgary</a></li>
+<li><a href="#tenant-allowances-how-much-the-landlord-pays">Tenant allowances: how much the landlord pays</a></li>
+<li><a href="#our-perspective-price-the-layout-before-you-sign-the-lease">Our perspective: price the layout before you sign the lease</a></li>
+<li><a href="#how-to-get-a-quote-you-can-trust">How to get a quote you can trust</a></li>
+<li><a href="#planning-for-the-market-you-are-building-in">Planning for the market you are building in</a></li>
+<li><a href="#planning-an-office-build-out-in-calgary">Planning an office build-out in Calgary?</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What an office build-out costs in Calgary</h2>
+<p>There is no single price, but there are two useful benchmarks.</p>
+<p><a href="https://cushwakewr.com/2025-canada-office-fit-out-cost-guide-key-takeaways-for-waterloo-region/" rel="nofollow noopener noreferrer" target="_blank">Cushman &amp; Wakefield’s 2025 Canada fit-out guide</a> reported Calgary office fit-out costs averaging $146.07 per square foot, up from $141.81 in the previous edition. The <a href="https://www.cushmanwakefield.com/en/canada/insights/office-fit-out-cost-guide" rel="nofollow noopener noreferrer" target="_blank">2026 edition of the guide</a> notes that Calgary and Vancouver both recorded year-over-year increases in total costs, so expect the trend to keep pointing up.</p>
+<p>A second estimate, from a <a href="https://www.buildlor.org/cost/calgary-ab/office-fitout" rel="nofollow noopener noreferrer" target="_blank">tenant improvement cost model for Calgary</a>, puts a standard office tenant improvement at about $172 per square foot all-in as of early 2026. Of that, hard costs average $124 per square foot, and the typical hard-cost range runs from $83 to $184 depending on finish. The remaining 28% covers soft costs, charges, contingencies, and escalation.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792658031234_Calgary-office-fit-out-cost-comparison.jpeg" alt="Calgary office fit-out cost comparison" /></p>
+<p>These are market benchmarks, not Statera quotes. We do not publish a price for commercial work because a number without a scope is a guess. What the benchmarks do give you is a sensible range for a first budget.</p>
+<h3>What the figures look like on a real floor plate</h3>
+<p>Here is the arithmetic for a 3,000 sq ft office, using the figures above:</p>
+<table>
+<thead>
+<tr>
+<th>Benchmark</th>
+<th>Per sq ft</th>
+<th>3,000 sq ft total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Low end of hard-cost range</td>
+<td>$83</td>
+<td>$249,000</td>
+</tr>
+<tr>
+<td>Average hard cost</td>
+<td>$124</td>
+<td>$372,000</td>
+</tr>
+<tr>
+<td>Cushman &amp; Wakefield average fit-out</td>
+<td>$146.07</td>
+<td>$438,210</td>
+</tr>
+<tr>
+<td>All-in estimate including soft costs</td>
+<td>$172</td>
+<td>$516,000</td>
+</tr>
+<tr>
+<td>High end of hard-cost range</td>
+<td>$184</td>
+<td>$552,000</td>
+</tr>
+</tbody>
+</table>
+<p>The spread between the first and last rows is over $300,000 on the same square footage. That gap is the reason the next sections matter.</p>
+<h2>What moves the price up or down</h2>
+<h3>Layout</h3>
+<p>Layout is the main source of cost variation. Traditional private-office layouts carry the highest premiums because of the walls, doors, and electrical and HVAC zoning they require. Open-plan layouts with a few flexible zones are cheaper to build. Planning the layout early is the most effective way to predict the final number, according to the <a href="https://www.buildlor.org/cost/calgary-ab/office-fitout" rel="nofollow noopener noreferrer" target="_blank">same cost model</a>.</p>
+<p>A practical way to use this: decide how many closed rooms you truly need (a boardroom, a few offices for confidential work, a phone room) and let everything else be open. Each added enclosed room adds partitions, a door, lighting, and often another HVAC zone.</p>
+<h3>The condition of the shell</h3>
+<p>A second-generation space that already has ceilings, lighting, and a working layout costs far less to adapt than a bare shell. When you tour a space, look up. Ceiling height, existing ductwork, and sprinkler coverage tell you more about your future cost than the carpet does.</p>
+<h3>Finish level</h3>
+<p>Polished concrete, millwork reception desks, glass fronts, and acoustic ceilings all push you toward the top of the hard-cost range. Standard drywall partitions, drop ceilings, and commercial-grade flooring keep you nearer the bottom. Decide where finish matters to clients and staff, and where it does not.</p>
+<h3>Mechanical and electrical work</h3>
+<p>Server rooms, extra receptacles, a kitchenette, or new HVAC zones can change the budget more than cosmetic choices. If your use requires new plumbing, gas, or significant electrical upgrades, expect trade permits as well as a building permit (more on that below).</p>
+<h3>Labour and materials</h3>
+<p>Skilled labour shortages and rising material costs continue to push project budgets up, according to the <a href="https://www.cushmanwakefield.com/en/canada/insights/office-fit-out-cost-guide" rel="nofollow noopener noreferrer" target="_blank">2026 Cushman &amp; Wakefield guide</a>. A quote that is two months old may already be stale, so ask how long a price is held.</p>
+<h2>Hard costs, soft costs, and the budget lines people forget</h2>
+<p>The $124 per square foot hard-cost figure is the construction. The all-in figure of $172 adds the soft costs and a contingency. In practice, plan for these lines:</p>
+<ul>
+<li><strong>Design and drawings.</strong> Architectural, mechanical, and electrical drawings, if the permit requires them.</li>
+<li><strong>Permit fees.</strong> Building permit plus any trade permits.</li>
+<li><strong>Legal and lease costs.</strong> Reviewing the lease and the work letter.</li>
+<li><strong>Furniture, cabling, and IT.</strong> Often outside the contractor’s scope, so confirm what is included.</li>
+<li><strong>Signage.</strong> Sometimes needs its own approval.</li>
+<li><strong>Moving and downtime.</strong> Overlapping rent while the space is built.</li>
+<li><strong>Contingency.</strong> A reserve for what the walls reveal once opened.</li>
+<li><strong>Cleanup and disposal.</strong> Construction waste has to go somewhere. For a sense of what <a href="https://ohanapropertyexperts.com/blog/post-renovation-debris-hauling-a-homeowners-guide" target="_blank" rel="nofollow noopener noreferrer">post-renovation debris hauling</a> involves, check whether your contractor includes it or whether you must arrange it.</li>
+</ul>
+<p>Ask every contractor to list inclusions and exclusions in writing. Two quotes that differ by $40,000 often differ mainly in what they leave out.</p>
+<h2>Permits and fees in Calgary</h2>
+<p>Permits are part of the cost and part of the schedule. The City of Calgary bases commercial permit fees on the project’s Prevailing Market Value (PMV). According to the <a href="https://www.calgary.ca/development/permits/fee-calculator-commercial.html" rel="nofollow noopener noreferrer" target="_blank">City’s fee calculator guidance</a>, PMV excludes items such as land acquisition, financing, and professional design fees, but it must include contractor costs. Owners who forget that distinction often misjudge the budget at the application stage.</p>
+<p>On payment, the City’s <a href="https://www.calgary.ca/development/permits/process-faq.html" rel="nofollow noopener noreferrer" target="_blank">building permit process page</a> explains that when permit fees exceed $10,000, a 25% deposit of the base permit fee is due at application and the balance before the permit is issued. Permits with fees under $10,000 are paid in full when you submit. Safety Codes Council charges and lot grading fees may also apply depending on scope.</p>
+<p>When do you need one? Permits are generally required for structural alterations, a change in use or occupancy, and changes to mechanical or electrical systems. The same City page notes that most tenant improvements and repairs do not need a development permit unless the work alters the approved development permit. The City’s page on <a href="https://www.calgary.ca/development/commercial/alterations.html" rel="nofollow noopener noreferrer" target="_blank">changes to existing buildings</a> adds that planning approval for a change of use must be in place before a building permit can be issued.</p>
+<p>One trap worth knowing: even a modest layout change can trigger building, fire, gas, and electrical permits if you alter occupant load or add equipment. Confirm early whether your business activity changes the occupant load classification, since this can extend both timeline and budget. We cover the timing side in our guide to <a href="https://stateracontracting.com/blog/commercial-occupancy-permit-calgary" target="_blank" rel="noopener">commercial occupancy permits in Calgary</a>.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792658052123_Permits-and-fees-in-Calgary-overview-diagram.jpeg" alt="Permits and fees in Calgary — overview diagram" /></p>
+<h2>Tenant allowances: how much the landlord pays</h2>
+<p>Calgary has a high office vacancy rate, especially in downtown Class B and C buildings, and that gives tenants leverage. The <a href="https://www.avisonyoung.ca/documents/d/calgary/calgary-office-market-report-q2-2026-final" rel="nofollow noopener noreferrer" target="_blank">Avison Young Q2 2026 market report</a> is a good place to see current market conditions. Landlords commonly respond with concessions such as rent-free periods and a Tenant Improvement Allowance (TIA).</p>
+<p>The catch is that a TIA rarely covers the whole job. Soft costs and contingency often push the real total past the allowance, and the gap can land on core items like fire protection or HVAC upgrades. Before you sign:</p>
+<ol>
+<li>Get an all-in estimate for your intended layout.</li>
+<li>Subtract the TIA to see your out-of-pocket amount.</li>
+<li>Ask who owns the work: does the landlord’s contractor build it, or can you choose yours?</li>
+<li>Check what happens to unused allowance, and the deadline for claiming it.</li>
+<li>Negotiate the allowance and the free-rent period together, since free rent during construction can offset overlapping costs.</li>
+</ol>
+<p>If you are earlier in the process, our guide to <a href="https://stateracontracting.com/blog/tenant-improvement-cost-calgary" target="_blank" rel="noopener">tenant improvement costs and timelines in Calgary</a> walks through lease-side budgeting in more detail.</p>
+<h2>Our perspective: price the layout before you sign the lease</h2>
+<p>We see the same pattern with office clients. The lease is signed first, the build-out is priced second, and the budget is then built backwards from whatever the allowance happens to be. It works better the other way around.</p>
+<p>As a family-owned team that manages each project directly, we would rather walk a space with you before the lease is final. We look at the shell, the ceiling, the existing mechanical, and your intended layout, then tell you honestly where the cost will land and where the code requirements will bite. That conversation can change which suite you choose.</p>
+<p>A few things we check on every commercial space:</p>
+<ul>
+<li>Whether the intended use matches the current occupancy classification.</li>
+<li>Whether the layout needs new egress paths or fire separations.</li>
+<li>What the electrical and HVAC will need for the number of people you plan to seat.</li>
+<li>Which permits apply, and how long the City’s review is likely to take against your move-in date.</li>
+</ul>
+<p>We work on a fixed-price basis, with design included in design-build projects and permit handling as part of the job. Fixed price only works with a defined scope, which is why we spend time on scope first. Cheap quotes usually come from vague scopes.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>How to get a quote you can trust</h2>
+<ol>
+<li><strong>Bring a floor plan.</strong> Even a landlord’s marketing plan lets a contractor estimate wall length, rooms, and zones.</li>
+<li><strong>List your must-haves.</strong> Number of private offices, meeting rooms, kitchenette, server closet, reception.</li>
+<li><strong>Ask for line items.</strong> Demolition, framing, ceilings, flooring, electrical, mechanical, finishes, permits, and contingency.</li>
+<li><strong>Confirm licensing and insurance.</strong> Ask for proof of both before signing anything.</li>
+<li><strong>Ask about the schedule.</strong> Lead times for doors, glazing, and mechanical equipment can matter more than construction time.</li>
+<li><strong>Agree how changes are handled.</strong> Written change orders, with price and schedule impact, before the work happens.</li>
+</ol>
+<p>If you need broader context, our <a href="https://stateracontracting.com/blog/office-renovations" target="_blank" rel="noopener">office renovation contractor guide for Alberta</a> and our <a href="https://stateracontracting.com/blog/office-renovation-cost-calgary" target="_blank" rel="noopener">Calgary office renovation cost breakdown</a> go deeper on scope and permit planning.</p>
+<h2>Planning for the market you are building in</h2>
+<p>Costs are not only about your suite. Calgary’s market commentary points to a continued flight to quality, with tenants investing in better fit-outs rather than waiting for new developments, and skilled labour shortages in construction. In a <a href="https://barclaystreet.com/wp-content/uploads/2024/07/BSRE_Market_Analysis_Q2_2026_DT_Office.pdf" rel="nofollow noopener noreferrer" target="_blank">downtown leasing analysis for Q2 2026</a>, elevated construction and fit-up costs are listed among the factors leading some occupiers to delay leasing commitments.</p>
+<p>For a business owner, that suggests two things. First, lock in scope and pricing early, because waiting does not reliably lower costs. Second, use the vacancy leverage while it lasts: the landlord’s concessions are part of your budget, so negotiate them with your build-out number in hand.</p>
+<h2>Planning an office build-out in Calgary?</h2>
+<p>Our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation team</a> handles offices, retail, restaurants, and franchise build-outs across Calgary and nearby communities such as Airdrie, Cochrane, and Okotoks. We handle permits, include design with design-build work, and give you a fixed-price agreement with daily communication from a team that manages your project directly. <a href="https://stateracontracting.com/" target="_blank" rel="noopener">Book a consultation</a> and bring your floor plan or draft lease.</p>
+<h2>FAQ</h2>
+<h3>How much does an office build-out cost per square foot in Calgary?</h3>
+<p>Benchmarks run from about $146 per square foot (the 2025 Cushman &amp; Wakefield average) to about $172 all-in for a standard tenant improvement. Hard costs alone range from roughly $83 to $184 depending on finish. Your quote depends on layout, shell condition, and the mechanical and electrical work involved.</p>
+<h3>Does the landlord pay for my build-out?</h3>
+<p>Often partly. Landlords in a high-vacancy market commonly offer a Tenant Improvement Allowance and rent-free periods, but the allowance rarely covers the full all-in cost. Compare it against a realistic estimate before signing the lease.</p>
+<h3>Do I need a permit to renovate a leased office in Calgary?</h3>
+<p>Generally yes if you alter structure, change the use or occupancy, or modify mechanical or electrical systems. Most tenant improvements do not need a development permit, but they usually need a building permit and sometimes trade permits. Confirm with the City or your contractor before work starts.</p>
+<h3>How are Calgary commercial permit fees calculated?</h3>
+<p>They are based on the project’s Prevailing Market Value, which includes contractor costs but excludes land, financing, and design fees. If the fee exceeds $10,000, a 25% deposit of the base fee is due at application. Smaller fees are paid in full at submission.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://cushwakewr.com/2025-canada-office-fit-out-cost-guide-key-takeaways-for-waterloo-region/" rel="nofollow noopener noreferrer" target="_blank">2025 Canada Office Fit Out Cost Guide, Cushman &amp; Wakefield Waterloo Region</a></li>
+<li><a href="https://www.cushmanwakefield.com/en/canada/insights/office-fit-out-cost-guide" rel="nofollow noopener noreferrer" target="_blank">Office Fit-Out Cost Guide 2026, Cushman &amp; Wakefield</a></li>
+<li><a href="https://www.buildlor.org/cost/calgary-ab/office-fitout" rel="nofollow noopener noreferrer" target="_blank">Office tenant improvement cost in Calgary</a></li>
+<li><a href="https://www.calgary.ca/development/permits/fee-calculator-commercial.html" rel="nofollow noopener noreferrer" target="_blank">Building permit fee calculator, commercial, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/development/permits/process-faq.html" rel="nofollow noopener noreferrer" target="_blank">Building Permit Process Guideline and Common Questions, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/development/commercial/alterations.html" rel="nofollow noopener noreferrer" target="_blank">Changes to existing buildings, City of Calgary</a></li>
+<li><a href="https://www.avisonyoung.ca/documents/d/calgary/calgary-office-market-report-q2-2026-final" rel="nofollow noopener noreferrer" target="_blank">Calgary Office Market Report Q2 2026, Avison Young</a></li>
+<li><a href="https://barclaystreet.com/wp-content/uploads/2024/07/BSRE_Market_Analysis_Q2_2026_DT_Office.pdf" rel="nofollow noopener noreferrer" target="_blank">Calgary Downtown Office Leasing Landscape Q2 2026, Barclay Street Real Estate</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/office-renovation-cost-calgary" target="_blank" rel="noopener">Avoid Permit Surprises: Calgary Office Renovation Costs $70–$220/sq ft</a></li>
+<li><a href="https://stateracontracting.com/blog/restaurant-renovation-cost-calgary" target="_blank" rel="noopener">Calgary Restaurant Renovation: Contractor Budgeting, 150–700 per sq ft</a></li>
+<li><a href="https://stateracontracting.com/blog/retail-build-out-cost-calgary" target="_blank" rel="noopener">Retail build out cost Calgary: a budget guide for owners</a></li>
+</ul>
+
+
+`,
+      },
+    ],
+  },
 ];
 
 
