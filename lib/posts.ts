@@ -20995,6 +20995,161 @@ Statera ContractingPlan Your Calgary Office RenovationStatera Contracting handle
       },
     ],
   },
+  {
+    slug: "heritage-home-renovation-calgary",
+    title: "Heritage Home Renovation in Calgary: Rules, Grants and Planning",
+    excerpt: "Renovating a heritage home in Calgary starts with one question: is your house only old, listed on the City's heritage inventory, or legally designated?",
+    date: "2026-10-28",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1792746782067_Calgary-heritage-home-with-original-porch.jpeg",
+    coverAlt: "Heritage Home Renovation in Calgary: Rules, Grants and Planning",
+    category: "Industry News",
+    readingTime: "13 min read",
+    metaTitle: "Heritage Home Renovation in Calgary: Rules, Grants and Planning",
+    metaDescription: "Renovating a heritage home in Calgary? Learn how listing and designation affect permits, what the City's grant covers, and how to plan the work.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Renovating a heritage home in Calgary starts with one question: is your house only old, listed on the City’s heritage inventory, or legally designated? The answer decides which reviews apply, whether grant money is available, and how much room you have to change the building. This guide walks through each case, the permits and timelines to plan for, and how to prepare before you hire a contractor.</p>
+Statera Contractingstateracontracting.comPlan Your Calgary Home RenovationStatera Contracting renovates homes in Calgary and nearby areas, including older homes, additions, kitchens, bathrooms, basements and exteriors.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Being on Calgary’s Inventory of Evaluated Historic Resources adds a heritage review to your permit application. Legal designation adds binding protection on top of that.</li>
+<li>Owners of designated Municipal Historic Resources can receive up to 50% of approved conservation costs from the City, to a $125,000 lifetime maximum for residential properties.</li>
+<li>Work without the required permits can cost double the standard permit fee, so confirm your house’s status before demolition begins.</li>
+<li>Ask early for a written scope, a permit plan and a realistic schedule. Development permits alone averaged 79 days for single-detached homes in developed areas this past summer.</li>
+<li>For complex projects, the City recommends bringing in a heritage conservation consultant at the planning stage.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#old-house-listed-house-designated-house-three-different-situations">Old house, listed house, designated house: three different situations</a></li>
+<li><a href="#what-the-calgary-heritage-review-looks-at">What the Calgary heritage review looks at</a></li>
+<li><a href="#permits-fees-and-the-cost-of-skipping-them">Permits, fees and the cost of skipping them</a></li>
+<li><a href="#how-long-approvals-take">How long approvals take</a></li>
+<li><a href="#grants-for-designated-heritage-homes">Grants for designated heritage homes</a></li>
+<li><a href="#should-you-hire-a-heritage-consultant">Should you hire a heritage consultant?</a></li>
+<li><a href="#what-old-houses-hide-behind-the-walls">What old houses hide behind the walls</a></li>
+<li><a href="#perspective-how-we-approach-an-older-calgary-home">Perspective: how we approach an older Calgary home</a></li>
+<li><a href="#choosing-a-contractor-for-a-historic-home">Choosing a contractor for a historic home</a></li>
+<li><a href="#work-with-statera-on-your-older-calgary-home">Work with Statera on your older Calgary home</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Old house, listed house, designated house: three different situations</h2>
+<p>Most Calgary homeowners who search for heritage renovation help live in one of three situations, and the rules are very different in each.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792746849386_Three-Calgary-heritage-home-status-categories-compared.jpeg" alt="Three Calgary heritage home status categories compared" /></p>
+<p><strong>An older home with no heritage status.</strong> Think of a 1950s bungalow in Bowness or a 1960s split-level in Glenbrook. The normal building permit rules apply. Our guide to <a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">renovating an older home in Alberta</a> covers the usual surprises: outdated wiring, old insulation, hidden structural changes and materials that need careful handling.</p>
+<p><strong>A home on the Inventory of Evaluated Historic Resources.</strong> Heritage Calgary explains that being listed does not by itself legally protect a property. Normal land use and development conditions still apply. But the City’s own page says that <a href="https://www.calgary.ca/planning/heritage/permit-review.html" rel="nofollow noopener noreferrer" target="_blank">all applications for sites on the Inventory are reviewed by Heritage Planning</a>, which looks at the effect on the significant heritage features of the site. In practice, a listed home gets extra scrutiny when you apply for a permit, even though you are not barred from altering it.</p>
+<p><strong>A designated Municipal Historic Resource.</strong> Here the protection is legal. <a href="https://www.calgary.ca/planning/heritage/designation.html" rel="nofollow noopener noreferrer" target="_blank">Designation is a voluntary decision made by the owner</a>. It opens the door to financial incentives, and it also places binding protections on the regulated historic elements of the site. The City’s heritage policy states that <a href="https://www.calgary.ca/content/dam/www/ca/city-clerks/documents/council-policy-library/lup001-the-city-of-calgary-heritage-management-program-policies.pdf" rel="nofollow noopener noreferrer" target="_blank">renovation work on a designated site needs regular development and building permits plus a special review and approval</a>.</p>
+<p>Before anything else, find out which of the three you are in. The City’s heritage pages and the Inventory are the places to check, and a contractor who asks you this question on the first call is doing it right.</p>
+<h2>What the Calgary heritage review looks at</h2>
+<p>The review is about the features that make the house historically significant. Those are usually the street-facing elevation, original rooflines, windows, porches, brick or wood cladding, and sometimes interior features named in the designation bylaw. For a designated home, the bylaw lists what is regulated. Reading it before you design anything saves a lot of rework.</p>
+<p>The City’s approach to new work may surprise you. Its guidance for heritage areas says that <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/heritage-planning/heritage-resources/direct-control-heritage-area-pilot-qa.pdf" rel="nofollow noopener noreferrer" target="_blank">modern best practice does not support historic mimicry</a>. That means an addition that fakes a hundred-year-old style is often discouraged. New work that is clearly of its own time but fits the original in scale, proportion and materials is the preferred direction. Original materials, in turn, should be repaired and kept wherever possible rather than replaced.</p>
+<p>What this means for your project:</p>
+<ul>
+<li><strong>Repair before replace.</strong> Original wood windows, trim and brick are usually worth restoring. Replacement is easier to justify when a component is truly beyond repair.</li>
+<li><strong>Design additions to read as additions.</strong> A rear addition that steps back from the original facade and uses complementary materials is easier to defend than a copy of the old house.</li>
+<li><strong>Keep the street face stable.</strong> Interior layout changes generally draw less attention than changes to the elevation people see from the sidewalk, though a designation bylaw can protect interiors too.</li>
+</ul>
+<h2>Permits, fees and the cost of skipping them</h2>
+<p>Heritage status does not replace ordinary permits. It adds a layer. You will still need building permits for structural, electrical, plumbing and gas work, and a development permit where your plan changes use, height, setbacks or the exterior in ways the Land Use Bylaw regulates.</p>
+<p>A few points from the City’s own documents are worth knowing:</p>
+<ul>
+<li>Some simple maintenance needs no permit. The City’s regulation bulletin says like-for-like siding replacement often does not, but <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/regulation_bulletins/2014-bulletins/regulation-bulletin-rb14-025.pdf" rel="nofollow noopener noreferrer" target="_blank">switching to heavier materials such as brick or concrete tile does need a permit</a> because of the structural load. Heritage status does not change that rule.</li>
+<li>Starting work without a required permit is expensive. The City’s <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/fees/building-and-trade-permit-fee-schedule.pdf" rel="nofollow noopener noreferrer" target="_blank">building and trade permit fee schedule</a> lists a non-compliance fee of double the standard permit fee, and that is before you account for the cost of opening finished work for inspection.</li>
+<li>Fees are the small part. The bigger risk is demolishing something that a heritage reviewer would have wanted kept.</li>
+</ul>
+<p>We wrote a practical checklist on <a href="https://stateracontracting.com/blog/renovation-permits-calgary" target="_blank" rel="noopener">checking Calgary renovation permits before demolition</a>, and it applies doubly to a historic home. If your project involves a basement, a rear addition or a second storey, our overview of the <a href="https://stateracontracting.com/blog/building-permit-timeline-calgary" target="_blank" rel="noopener">building permit timeline in Calgary</a> explains how the stages fit together.</p>
+<h2>How long approvals take</h2>
+<p>Plan for approvals in months, not weeks, when a development permit or heritage review is involved. The City reports that between July and September 2026, <a href="https://www.calgary.ca/development/development-approval-timelines.html" rel="nofollow noopener noreferrer" target="_blank">development permits for single, semi-detached and duplex dwellings in developed areas averaged 79 days</a>, while multi-disciplinary permits averaged 114 days. A heritage review can sit inside those timelines or add to them, depending on how complete your submission is.</p>
+<p>Simple interior alterations that need only a building permit move faster, and our <a href="https://stateracontracting.com/blog/renovation-permit-timeline-calgary" target="_blank" rel="noopener">permit timeline guide for Calgary homeowners</a> shows what drives the difference. The practical lesson is the same either way: submit a complete package, with drawings that show what stays, what is repaired and what is new, and answer review comments quickly.</p>
+<h3>A realistic planning sequence</h3>
+<ol>
+<li><strong>Confirm status.</strong> Check whether the property is on the Inventory or designated, and if designated, get the bylaw.</li>
+<li><strong>Walk the house with a contractor.</strong> Look for what is original, what is failing and what is hidden. Do this before design is final.</li>
+<li><strong>Settle the design and scope.</strong> Decide what is conserved, what is upgraded and what is new.</li>
+<li><strong>Apply for permits and any heritage review.</strong> Build the schedule around the City’s approval times, not around your preferred start date.</li>
+<li><strong>Apply for a grant before work starts, if you are eligible.</strong> Confirm the rules in the grant guidelines, since approvals normally come before construction.</li>
+<li><strong>Build, inspect, close out.</strong> Keep photos and invoices organized, particularly if a grant is involved.</li>
+</ol>
+<h2>Grants for designated heritage homes</h2>
+<p>The City’s matching Historic Resource Conservation Grant exists for owners of designated Municipal Historic Resources. <a href="https://www.calgary.ca/planning/heritage/grants.html" rel="nofollow noopener noreferrer" target="_blank">The program has run since 2012 and was funded at $1 million a year</a>, with a one-time $3 million top-up approved in the 2026 budget that lifts the annual reserve to $1.75 million over the budget cycle.</p>
+<p>For a residential owner, the numbers to know are these: the City can fund up to 50% of the total approved conservation cost, to a maximum lifetime total of $125,000 over 15 years. Non-residential properties have a higher cap of $1,000,000.</p>
+<p>A few practical notes:</p>
+<ul>
+<li>The grant covers approved conservation work, such as restoring original features, not every cost in a renovation. A new kitchen or an addition is not the same as repairing historic windows or masonry.</li>
+<li>The grant guidelines require cost estimates from a contractor experienced in heritage work. In some cases the City may ask for <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/heritage-planning/heritage-resources/grant-guidelines.pdf" rel="nofollow noopener noreferrer" target="_blank">estimates from up to three professionals</a> to confirm fair pricing.</li>
+<li>Because you may need several estimates, give each contractor the same written scope so the numbers can be compared line by line.</li>
+</ul>
+<p>Always read the current guidelines directly, as program funding and terms can change with each budget cycle.</p>
+<h2>Should you hire a heritage consultant?</h2>
+<p>For complex projects, City planning staff strongly recommend engaging a qualified heritage conservation consultant early. They help manage the project and make sure the work lines up with the national Standards and Guidelines for the Conservation of Historic Places in Canada, as set out in the <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/heritage-planning/heritage-resources/grant-guidelines.pdf" rel="nofollow noopener noreferrer" target="_blank">grant guidelines</a>.</p>
+<p>A consultant is most useful when your home is designated, when you are seeking grant funding, or when you plan to alter the facade. For a listed home with an interior renovation, you may not need one, but a conversation with Heritage Planning before you finalize design is still sensible. The consultant defines what must be conserved. Your general contractor then builds it, coordinates trades and keeps the schedule moving. These are different jobs, and the best projects have both people at the table early.</p>
+<h2>What old houses hide behind the walls</h2>
+<p>Heritage and older homes tend to share a set of hidden conditions. Knowing them lets you set a contingency before you commit to a design.</p>
+<ul>
+<li><strong>Plaster walls and ceilings.</strong> Lath and plaster can often be repaired rather than torn out, which keeps original character and reduces dust and waste. Specialists in <a href="https://quaypointplastering.co.uk/plastering/renovation-plaster" target="_blank" rel="nofollow noopener noreferrer">renovation plaster systems</a> show the kind of repair and reinstatement approaches used on older walls.</li>
+<li><strong>Foundations and basements.</strong> Older Calgary foundations may have cracks, moisture or low ceiling heights. Lowering a floor or adding egress is possible, but it is structural work that needs permits. Our <a href="https://stateracontracting.com/blog/basement-renovation-timeline-calgary" target="_blank" rel="noopener">basement timeline guide</a> shows where delays tend to appear.</li>
+<li><strong>Wiring and plumbing.</strong> Knob-and-tube wiring, undersized panels and older drain lines are common. Upgrades are best done while walls are open.</li>
+<li><strong>Insulation and air sealing.</strong> Older envelopes leak heat. Improving them is usually possible without changing what the street sees.</li>
+<li><strong>Windows.</strong> Original wood windows can often be restored and paired with storms or interior inserts, which matters most when the windows are listed as character-defining.</li>
+</ul>
+<p>Treat the first walkthrough as discovery, not a final price. A good contractor tells you what is likely behind the walls, how it will be handled if found, and who decides on changes.</p>
+<h2>Perspective: how we approach an older Calgary home</h2>
+<p>We are a family-owned renovation team, and the question we hear most from owners of older houses is how to avoid unpleasant surprises. We cannot remove all of them, but we can reduce them with process.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792746885542_Perspective-how-we-approach-an-older-Calgary-home-overview-diagram.jpeg" alt="Perspective: how we approach an older Calgary home — overview diagram" /></p>
+<p>First, we check the house’s status and scope before pricing. Heritage review, permit needs and code requirements change what a project costs and how long it takes, so we put them on the table at the start. Second, we work to a fixed-price agreement with a clear written scope, so you know what is included and how changes are handled. Third, design is included with our builds, and we handle permit management, so the person drawing the plan is thinking about approvals from day one. Finally, we talk with you daily during construction, and we directly manage each project.</p>
+<p>One thing we want to be honest about: if your house is designated or you are applying for conservation grant funding, you should involve a qualified heritage conservation consultant, as the City recommends. We work alongside that expertise and build to the agreed scope. If your home is simply older, or listed but not designated, our job is to respect what is good in the house while bringing the systems, layout and comfort up to current code.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Choosing a contractor for a historic home</h2>
+<p>When interviewing contractors for an older or listed property, ask:</p>
+<ul>
+<li>Have they worked in homes of this age, and can they explain what they typically find?</li>
+<li>Will they provide a written, itemized scope that separates conservation work from new construction? This matters if you apply for a grant.</li>
+<li>Who handles permits and any heritage review submissions, and who answers City comments?</li>
+<li>Are they licensed and insured, and can they show it?</li>
+<li>How do they handle discoveries, and how are changes priced and approved?</li>
+<li>Who will be on site, and how often will you hear from them?</li>
+</ul>
+<p>Our separate guide on <a href="https://stateracontracting.com/blog/choose-a-renovation-contractor-calgary" target="_blank" rel="noopener">how to choose a renovation contractor in Calgary</a> goes deeper on contracts, references and red flags. For a wider view of budgeting and sequencing, see our <a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">2026 owner’s roadmap for home renovations in Calgary</a>.</p>
+<h2>Work with Statera on your older Calgary home</h2>
+<p>If you are planning a kitchen, bathroom, basement or addition in an older home, we can walk the house with you, explain what the permit path looks like and give you a fixed-price proposal with design included. Start with the service that matches your project: <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation</a>, <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovation</a>, <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement and living spaces</a> or <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions</a>. You can also <a href="https://stateracontracting.com/" target="_blank" rel="noopener">book a consultation through our site</a> and we will talk through your house and plans.</p>
+<h2>FAQ</h2>
+<h3>Do I need City approval to renovate a heritage home in Calgary?</h3>
+<p>Yes, you need the normal building and development permits for regulated work. If your home is on the Inventory, Heritage Planning also reviews the application. If it is a designated Municipal Historic Resource, work needs a special review and approval in addition to regular permits.</p>
+<h3>Does being on the Inventory of Evaluated Historic Resources stop me from renovating?</h3>
+<p>No. Listing alone does not legally protect a property, and normal land use and development conditions apply. It does mean the City assesses how your plan affects the significant heritage features, so design with those features in mind.</p>
+<h3>How much can I get from Calgary’s heritage grant?</h3>
+<p>For a designated residential property, the City can fund up to 50% of approved conservation costs, with a lifetime maximum of $125,000 over 15 years. The grant covers conservation work, not a general renovation. Check the current grant guidelines before you plan your budget.</p>
+<h3>Can I add a modern addition to a historic house?</h3>
+<p>Often yes. City guidance favours new work that is distinct from, but complementary to, the original building over imitation of historic styles. Confirm with Heritage Planning early, especially for designated homes.</p>
+<h3>What happens if I start work without a permit?</h3>
+<p>The City’s fee schedule charges double the standard permit fee for work done without a required permit. You may also have to open up finished work for inspection. Confirm permit needs before demolition.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/planning/heritage/permit-review.html" rel="nofollow noopener noreferrer" target="_blank">Historic Resource permit review process, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/planning/heritage/designation.html" rel="nofollow noopener noreferrer" target="_blank">Designate your property as a Municipal Historic Resource, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/ca/city-clerks/documents/council-policy-library/lup001-the-city-of-calgary-heritage-management-program-policies.pdf" rel="nofollow noopener noreferrer" target="_blank">Heritage Management Program Policies LUP001, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/heritage-planning/heritage-resources/direct-control-heritage-area-pilot-qa.pdf" rel="nofollow noopener noreferrer" target="_blank">Direct Control Heritage Area Pilot Q&amp;A, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/regulation_bulletins/2014-bulletins/regulation-bulletin-rb14-025.pdf" rel="nofollow noopener noreferrer" target="_blank">Regulation Bulletin RB14-025, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/fees/building-and-trade-permit-fee-schedule.pdf" rel="nofollow noopener noreferrer" target="_blank">Building and trade permit fee schedule, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/development/development-approval-timelines.html" rel="nofollow noopener noreferrer" target="_blank">Development approval timelines, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/planning/heritage/grants.html" rel="nofollow noopener noreferrer" target="_blank">Heritage grant programs, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/heritage-planning/heritage-resources/grant-guidelines.pdf" rel="nofollow noopener noreferrer" target="_blank">Historic Resources Conservation Grant Program guidelines, City of Calgary</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">Renovating an older home: what Alberta homeowners need to know</a></li>
+<li><a href="https://stateracontracting.com/blog/home-addition-permit-calgary" target="_blank" rel="noopener">Calgary Home Addition Permits: Setbacks Can Trigger Extra Approval</a></li>
+<li><a href="https://stateracontracting.com/blog/renovation-permits-calgary" target="_blank" rel="noopener">Check Calgary Renovation Permits Before Demolition to Avoid Rework</a></li>
+<li><a href="https://stateracontracting.com/blog/entire-home-renovations" target="_blank" rel="noopener">Entire home renovations in Calgary &amp; Edmonton: your roadmap</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
