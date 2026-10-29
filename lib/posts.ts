@@ -21150,6 +21150,236 @@ Statera Contractingstateracontracting.comPlan Your Calgary Home RenovationStater
       },
     ],
   },
+  {
+    slug: "restaurant-renovation-timeline",
+    title: "Restaurant Renovation Timeline: Phases, Permits and Weeks",
+    excerpt: "A restaurant renovation in Calgary usually runs from a few months to well over half a year from first plan to reopening, and the construction itself is often the shorter part.",
+    date: "2026-10-29",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1792889315373_Restaurant-dining-room-midway-through-renovation.jpeg",
+    coverAlt: "Restaurant Renovation Timeline: Phases, Permits and Weeks",
+    category: "Industry News",
+    readingTime: "15 min read",
+    metaTitle: "Restaurant Renovation Timeline: Phases, Permits and Weeks",
+    metaDescription: "How long a restaurant renovation takes in Calgary, phase by phase: design, permits, construction, inspections and reopening, plus what delays it.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A restaurant renovation in Calgary usually runs from a few months to well over half a year from first plan to reopening, and the construction itself is often the shorter part. Design, permits, equipment orders and inspections take up the rest. A light refresh of a dining room can be done in a few weeks. A full kitchen rebuild with new ventilation, plumbing and a layout change belongs in the 10 to 20 week construction band, or longer, before you add the planning and approvals that come first.</p>
+<p>This guide walks through each phase in order, shows where the time actually goes, and explains what you can do to reopen on the date you promised your staff and guests.</p>
+Statera ContractingPlan Your Calgary Restaurant RenovationStatera Contracting handles restaurant and pub renovations in Calgary, helping local businesses plan their next renovation project.<a href="https://stateracontracting.com/">Explore restaurant renovations</a>
+<h2>TL;DR</h2>
+<ul>
+<li>A restaurant renovation moves through four phases: planning, design, construction and re-launch. Most of the schedule risk sits before and after construction, not during it.</li>
+<li>In Calgary, a minor tenant improvement building permit can be issued within 21 days and larger projects within 56 calendar days, but only when the application is complete and meets code.</li>
+<li>Scope changes, late equipment, hidden conditions behind walls and failed or late inspections are the usual causes of delay.</li>
+<li>Lock the layout and the equipment list before you apply for permits, and book inspections early. That is the cheapest way to protect your reopening date.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-a-restaurant-renovation-timeline-includes">What a restaurant renovation timeline includes</a></li>
+<li><a href="#phase-1-planning-and-budget-2-to-4-weeks">Phase 1: Planning and budget (2 to 4 weeks)</a></li>
+<li><a href="#phase-2-design-and-drawings-3-to-6-weeks">Phase 2: Design and drawings (3 to 6 weeks)</a></li>
+<li><a href="#phase-3-permits-and-approvals-3-to-8-weeks">Phase 3: Permits and approvals (3 to 8 weeks)</a></li>
+<li><a href="#phase-4-ordering-long-lead-equipment-runs-alongside-permits">Phase 4: Ordering long-lead equipment (runs alongside permits)</a></li>
+<li><a href="#phase-5-construction-6-to-20-weeks">Phase 5: Construction (6 to 20+ weeks)</a></li>
+<li><a href="#phase-6-inspections-and-sign-off-1-to-3-weeks">Phase 6: Inspections and sign-off (1 to 3 weeks)</a></li>
+<li><a href="#phase-7-re-launch-1-to-2-weeks">Phase 7: Re-launch (1 to 2 weeks)</a></li>
+<li><a href="#what-most-often-extends-a-restaurant-renovation">What most often extends a restaurant renovation</a></li>
+<li><a href="#how-to-protect-your-reopening-date">How to protect your reopening date</a></li>
+<li><a href="#how-long-does-it-take-to-build-a-restaurant-compared-with-renovating-one">How long does it take to build a restaurant compared with renovating one?</a></li>
+<li><a href="#our-perspective-plan-the-middle-by-protecting-the-ends">Our perspective: plan the middle by protecting the ends</a></li>
+<li><a href="#planning-a-restaurant-pub-or-bar-renovation-in-calgary">Planning a restaurant, pub or bar renovation in Calgary?</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What a restaurant renovation timeline includes</h2>
+<p>When owners ask how long a renovation takes, they usually mean “how long will I be closed?” That is only one slice of the timeline. The full schedule runs from the day you decide to renovate to the day the first guest sits down, and it includes work you do before a contractor ever picks up a tool.</p>
+<p>The four phases commonly described for restaurant renovations are <a href="https://www.restobiz.ca/path-restaurant-reinvention/" rel="nofollow noopener noreferrer" target="_blank">planning, design, construction and re-launch</a>. We use the same order, and we split construction and approvals a little finer because that is where Calgary projects are won or lost.</p>
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>What happens</th>
+<th>Typical planning range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Planning and budget</td>
+<td>Goals, scope, budget, site review, lease or landlord approval</td>
+<td>2 to 4 weeks</td>
+</tr>
+<tr>
+<td>2. Design and drawings</td>
+<td>Layout, kitchen and ventilation design, drawings for the permit</td>
+<td>3 to 6 weeks</td>
+</tr>
+<tr>
+<td>3. Permits and approvals</td>
+<td>Building permit, health review, trade permits</td>
+<td>3 to 8 weeks, overlapping with design and ordering</td>
+</tr>
+<tr>
+<td>4. Ordering long-lead items</td>
+<td>Hood, refrigeration, cooking line, custom millwork</td>
+<td>Runs alongside permits</td>
+</tr>
+<tr>
+<td>5. Construction</td>
+<td>Demolition, rough-ins, finishes, equipment installation</td>
+<td>6 to 20+ weeks depending on scope</td>
+</tr>
+<tr>
+<td>6. Inspections and sign-off</td>
+<td>Building, trade, fire and health checks</td>
+<td>1 to 3 weeks, if booked early</td>
+</tr>
+<tr>
+<td>7. Re-launch</td>
+<td>Staff training, soft opening, marketing</td>
+<td>1 to 2 weeks</td>
+</tr>
+</tbody>
+</table>
+<p>The ranges above are planning figures for a typical Calgary project, not promises. Your own schedule depends on the size of the space, how much you change the layout and what the building is hiding. For the construction band specifically, our <a href="https://stateracontracting.com/blog/commercial-renovation-timeline-calgary" target="_blank" rel="noopener">Calgary commercial renovation timeline guide</a> explains the 6 to 10, 10 to 20 and 20+ week categories and what pushes a job from one to the next.</p>
+<h2>Phase 1: Planning and budget (2 to 4 weeks)</h2>
+<p>This phase feels like it costs nothing, and that is why owners rush it. It is also where most later delays are born.</p>
+<p>Before anyone draws a layout, settle these points:</p>
+<ul>
+<li><strong>Scope in one sentence.</strong> “New flooring, paint and lighting” is a refresh. “Moving the kitchen line and adding a patio door” is a rebuild. They have different schedules and different permits.</li>
+<li><strong>Budget with a contingency.</strong> Older Calgary buildings can hide wiring, plumbing or structural surprises. Our <a href="https://stateracontracting.com/blog/restaurant-renovation-cost-calgary" target="_blank" rel="noopener">restaurant renovation budgeting guide</a> covers the cost ranges per square foot and why you should hold a reserve.</li>
+<li><strong>Landlord approval.</strong> If you lease, get written approval of the scope, and ask about any restrictions on work hours, loading access and rooftop equipment.</li>
+<li><strong>Closure plan.</strong> Decide early whether you will close fully, close in stages or stay open through some of the work. Staying open nearly always lengthens the schedule because trades work around service.</li>
+</ul>
+<p>A good contractor can join you at this stage, review the space and tell you whether the scope matches the budget. Bringing us in early costs you a few conversations and often saves weeks later.</p>
+<h2>Phase 2: Design and drawings (3 to 6 weeks)</h2>
+<p>Design determines what you can build and what the City will approve. For a restaurant, it has to cover the dining room and the back of house: kitchen layout, hand sinks and dishwashing, storage, washrooms, ventilation, exits and seating count.</p>
+<p>Three choices in this phase have an outsized effect on the calendar:</p>
+<ol>
+<li><strong>Layout changes.</strong> Moving plumbing, a floor drain or the hood location means more drawings, more rough-in work and a closer review.</li>
+<li><strong>Equipment selection.</strong> Your drawings need actual equipment dimensions and utility requirements. If you change a fryer or a walk-in cooler after drawings are submitted, you may be back to resubmission.</li>
+<li><strong>Seating and occupancy.</strong> Changing the number of seats can trigger additional code requirements, and Calgary lists it among the changes that require a permit.</li>
+</ol>
+<p>When design is included with the build, as it is with our design and build projects, the drawings, scope and pricing stay aligned. That avoids the common gap where a designer draws something the contractor then has to rework to fit the budget.</p>
+<h2>Phase 3: Permits and approvals (3 to 8 weeks)</h2>
+<p>This is the phase owners underestimate most, so here is what the City of Calgary actually says.</p>
+<p>A building permit is mandatory for a Calgary food establishment when there is <a href="https://www.calgary.ca/for-business/licences/food-establishment-building-code.html" rel="nofollow noopener noreferrer" target="_blank">a new use of the space, structural, partition or utility work, or a change to seat count or kitchen equipment</a>. The same page notes that food establishments must meet the National Building Code, 2023 Alberta Edition, the Land Use Bylaw, Alberta safety codes for fire and building, and Alberta Health Services requirements before a business licence is issued.</p>
+<p>On review times, the City states that a <a href="https://www.calgary.ca/development/permits/process-faq.html" rel="nofollow noopener noreferrer" target="_blank">minor tenant improvement permit may be issued within 21 calendar days, and larger projects within 56 calendar days</a>, as long as code requirements are met and all documentation is provided. Notice the condition. An incomplete package, a missing drawing or a resubmission after comments extends the clock, and the City says as much about amendments.</p>
+<p>Health approval runs on its own track. Under Alberta’s Food Regulation, a commercial food establishment must hold <a href="https://www.alberta.ca/system/files/phab-05-2023-decision.pdf" rel="nofollow noopener noreferrer" target="_blank">a valid permit from the regional health authority, Alberta Health Services</a>, and be identified on that permit as approved. In practice, you want your kitchen layout reviewed against health requirements while drawings are still changeable, not after the stainless steel is installed.</p>
+<p>The practical timeline for this phase:</p>
+<ul>
+<li><strong>Weeks 1 to 2:</strong> Finalize drawings, assemble the application and submit it complete.</li>
+<li><strong>Weeks 3 to 6:</strong> Review period. Answer comments quickly, ideally within days.</li>
+<li><strong>Weeks 6 to 8:</strong> If the project is large or comments require revisions, this is where the extra time shows up.</li>
+</ul>
+<p>We go deeper on the sequence in our <a href="https://stateracontracting.com/blog/restaurant-permits-calgary" target="_blank" rel="noopener">restaurant permits roadmap</a> and the <a href="https://stateracontracting.com/blog/restaurant-kitchen-permit-calgary" target="_blank" rel="noopener">restaurant kitchen permit guide</a>. If you are also checking what needs approval before any demolition, see <a href="https://stateracontracting.com/blog/renovation-permits-calgary" target="_blank" rel="noopener">renovation permits in Calgary</a>.</p>
+<h2>Phase 4: Ordering long-lead equipment (runs alongside permits)</h2>
+<p>You do not need to wait for a permit to order the items that take longest to arrive. A commercial hood, a walk-in cooler, a cooking line or custom millwork can take weeks to months depending on the supplier and the season, so ask for confirmed delivery dates in writing before you set an opening date.</p>
+<p>Two cautions:</p>
+<ul>
+<li>Order only after the layout and utility connections are final. Gas, electrical and drain requirements differ by model.</li>
+<li>Ask your contractor for a delivery window and a place to store equipment. Equipment arriving before the space is ready creates storage and damage problems.</li>
+</ul>
+<p>Wood-fired and specialty ovens deserve their own early check. Flues, clearances and ventilation are common sources of surprise, which is why a <a href="https://vesuvianoforni.com/en/blog/pizza-oven-site-survey" target="_blank" rel="nofollow noopener noreferrer">pizza oven site survey</a> is worth reading before you commit to a unit. Confirm local Calgary requirements with your contractor and the City, since that guide is not specific to Alberta.</p>
+<h2>Phase 5: Construction (6 to 20+ weeks)</h2>
+<p>Construction is the phase everyone pictures, and the length depends on what you are doing. As a guide, use the same three bands we use for commercial work:</p>
+<ul>
+<li><strong>6 to 10 weeks:</strong> Cosmetic and light-scope work such as flooring, finishes, lighting, bar or front-of-house updates, with little or no change to services.</li>
+<li><strong>10 to 20 weeks:</strong> A significant renovation with a kitchen rebuild, new ventilation, plumbing or electrical changes, and new finishes throughout.</li>
+<li><strong>20+ weeks:</strong> Major scope, structural changes, an extensive layout change or a project that needs phased work or special approvals.</li>
+</ul>
+<p>Inside the construction phase, the order of work matters more than the speed of any one trade. A typical restaurant sequence looks like this:</p>
+<ol>
+<li><strong>Protection and demolition.</strong> Removing old finishes and equipment, and discovering what is behind the walls.</li>
+<li><strong>Structural and framing work.</strong> Openings, partitions, bulkheads for ductwork.</li>
+<li><strong>Rough-ins.</strong> Plumbing, electrical, gas, ventilation and fire protection before walls close.</li>
+<li><strong>Inspections of concealed work.</strong> Trade and building inspections before drywall.</li>
+<li><strong>Insulation, drywall, ceilings and paint.</strong></li>
+<li><strong>Flooring and wall finishes.</strong> Commercial kitchen flooring needs cure time, so do not schedule equipment into the room too soon.</li>
+<li><strong>Millwork, bar and fixtures.</strong></li>
+<li><strong>Equipment installation and connection.</strong> Hood, cooking line, refrigeration, dish station.</li>
+<li><strong>Final cleaning and deficiency walkthrough.</strong></li>
+</ol>
+<p>If you want a point of comparison for how sequencing works on a smaller job, this <a href="https://bidwolf.io/blog/kitchen-remodel-timeline" target="_blank" rel="nofollow noopener noreferrer">kitchen remodel timeline</a> shows the same logic at residential scale: rough-ins first, finishes after, equipment last. A restaurant adds commercial-grade systems and more inspections, but the order is the same.</p>
+<h2>Phase 6: Inspections and sign-off (1 to 3 weeks)</h2>
+<p>Inspections are scheduled, not instant, and a restaurant has more of them than most renovations. Calgary says inspection outcomes <a href="https://www.calgary.ca/development/commercial/alterations.html" rel="nofollow noopener noreferrer" target="_blank">depend on the construction method and site conditions</a>, that inspections can be booked up to 10 business days in advance, and that a safety codes officer may note corrective action or verify compliance without a full re-inspection.</p>
+<p>That 10 business day window is a useful scheduling tool. Book your key inspections when you know roughly when the work will be ready, not on the day it is.</p>
+<p>The fire inspection for the business licence has its own rules. It can be booked through 311 and <a href="https://www.calgary.ca/for-business/licences/restaurants-breweries.html" rel="nofollow noopener noreferrer" target="_blank">typically takes up to 5 business days for an inspector to visit</a>. The same page says you must be in possession of the space and ready to serve customers, with fixtures in place and shelves stocked, before booking. That means your stocking and set-up days need to be inside the schedule before the fire inspection, not after it.</p>
+<p>A realistic end-of-project sequence:</p>
+<ol>
+<li>Final building and trade inspections.</li>
+<li>Equipment commissioned and tested.</li>
+<li>Stock and set up the space.</li>
+<li>Fire inspection for the business licence.</li>
+<li>Health authority approval confirmed.</li>
+<li>Business licence issued, then open.</li>
+</ol>
+<h2>Phase 7: Re-launch (1 to 2 weeks)</h2>
+<p>The last phase is for your team. Train staff on the new layout, run a test service with friends and family, fix workflow issues and then open. Many owners treat the day the contractor leaves as the opening day. A short soft-open buffer protects your first impression and gives you time to fix small issues while the contractor is still available.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792889309087_Staff-rehearsing-service-before-a-restaurant-reopens.jpeg" alt="Staff rehearsing service before a restaurant reopens" /></p>
+<h2>What most often extends a restaurant renovation</h2>
+<p>The same causes appear again and again on commercial jobs:</p>
+<ul>
+<li><strong>Incomplete permit applications.</strong> Missing details lead to comments, and comments lead to resubmissions.</li>
+<li><strong>Scope changes after design.</strong> A new equipment list or a moved wall midstream resets drawings and sometimes the permit.</li>
+<li><strong>Hidden conditions.</strong> Old wiring, undersized electrical service, asbestos-era finishes or damaged subfloors in older buildings are found only after demolition.</li>
+<li><strong>Late equipment.</strong> The kitchen cannot be finished without the hood and refrigeration, and these are usually the slowest items to arrive.</li>
+<li><strong>Inspection timing.</strong> Work covered up before an inspection must be opened again, and missed bookings leave crews idle.</li>
+<li><strong>Owner decisions.</strong> Finish selections that arrive late stall millwork and painting.</li>
+<li><strong>Staying open during work.</strong> Noise, dust and limited work hours slow every trade.</li>
+</ul>
+<p>None of these are rare. Most are manageable if you plan for them.</p>
+<h2>How to protect your reopening date</h2>
+<p>Six habits make the biggest difference.</p>
+<ol>
+<li><strong>Freeze the scope before you apply for permits.</strong> Every change after that has a calendar cost.</li>
+<li><strong>Submit a complete application the first time.</strong> A complete package is the condition attached to the City’s 21 and 56 day review targets.</li>
+<li><strong>Order long-lead equipment early,</strong> with written delivery dates.</li>
+<li><strong>Book inspections ahead,</strong> using the 10 business day window.</li>
+<li><strong>Build a contingency into the schedule,</strong> not just the budget. We suggest adding time for hidden conditions on any building older than a few decades.</li>
+<li><strong>Set one point of contact.</strong> Daily updates from the project lead beat a weekly summary, because small issues get solved while they are still small.</li>
+</ol>
+<h2>How long does it take to build a restaurant compared with renovating one?</h2>
+<p>A new restaurant from an empty shell, a tenant improvement, runs through the same phases as a renovation, and the permit rules are the same ones that apply to any change of use. A renovation can be faster when the existing layout, services and ventilation can stay. It can be slower when the building hides problems or you try to keep serving during the work. The deciding factor is how much of the existing kitchen and mechanical systems you keep. For tenant improvement projects specifically, our <a href="https://stateracontracting.com/blog/tenant-improvement-calgary" target="_blank" rel="noopener">tenant improvement timeline guide</a> lays out the stages.</p>
+<h2>Our perspective: plan the middle by protecting the ends</h2>
+<p>We are a family-owned Calgary renovation company, and when a restaurant owner asks us how long a project will take, we start by asking about the weeks on either side of construction. Construction has a schedule we can control. Permit review, equipment delivery and inspections depend on other parties, so that is where we put our attention first.</p>
+<p>Our approach is simple. We review the space and the scope early, we check drawings against code requirements before submission, and we handle permit management as part of the job. Design is included with our builds, so the layout, drawings and price are developed together. During construction, you hear from us daily, so you are never guessing where the project stands.</p>
+<p>Our honest advice: choose your opening date after the permit and equipment dates are known, not before. A date set too early forces rushed decisions, and rushed decisions cost more than a few extra weeks of patience.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Planning a restaurant, pub or bar renovation in Calgary?</h2>
+<p>We manage commercial renovations for restaurants, pubs and bars, offices and retail across Calgary, Airdrie, Cochrane and Okotoks, from design through permits to final inspection. If you would like a schedule built around your space and your opening goals, see our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation services</a> and book a consultation. If you run a bar or pub, our <a href="https://stateracontracting.com/blog/bar-renovation-cost-calgary" target="_blank" rel="noopener">bar renovation cost guide</a> is a good next read.</p>
+<h2>FAQ</h2>
+<h3>How long does a restaurant renovation take from planning to reopening?</h3>
+<p>Expect roughly three to eight months for a full renovation, and less for a cosmetic update. Construction might be 10 to 20 weeks of that, with planning, design, permits, equipment orders and inspections making up the remainder. Your own timeline depends on scope and how complete your permit application is.</p>
+<h3>How long does a Calgary building permit take for a restaurant?</h3>
+<p>The City of Calgary says a minor tenant improvement permit may be issued within 21 days and larger projects within 56 calendar days. That applies when code requirements are met and documentation is complete. Resubmissions and amendments add time.</p>
+<h3>Can I stay open during a restaurant renovation?</h3>
+<p>Sometimes, if the work can be phased, for example renovating the bar while the dining room operates. It usually lengthens the schedule because crews work around service hours, noise and dust control. Discuss this with your contractor at the planning stage so the schedule reflects it.</p>
+<h3>What inspections do I need before reopening?</h3>
+<p>You will need building and trade inspections for the work, a fire inspection for the business licence and approval from Alberta Health Services. In Calgary, the fire inspection is booked through 311 and requires the space to be set up and ready to serve customers. Confirm the exact list for your project with the City and your contractor.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.restobiz.ca/path-restaurant-reinvention/" rel="nofollow noopener noreferrer" target="_blank">How to start your restaurant’s renovation, Restobiz</a></li>
+<li><a href="https://www.calgary.ca/development/permits/process-faq.html" rel="nofollow noopener noreferrer" target="_blank">Building Permit Process Guideline and Common Questions, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/for-business/licences/food-establishment-building-code.html" rel="nofollow noopener noreferrer" target="_blank">National Building Code 2023 Alberta Edition information for food establishments, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/for-business/licences/restaurants-breweries.html" rel="nofollow noopener noreferrer" target="_blank">Open a restaurant or brewery, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/development/commercial/alterations.html" rel="nofollow noopener noreferrer" target="_blank">Changes to existing buildings, City of Calgary</a></li>
+<li><a href="https://www.alberta.ca/system/files/phab-05-2023-decision.pdf" rel="nofollow noopener noreferrer" target="_blank">Public Health Appeal Board decision 05-2023, Government of Alberta</a></li>
+<li><a href="https://bidwolf.io/blog/kitchen-remodel-timeline" target="_blank" rel="nofollow noopener noreferrer">Kitchen Remodel Timeline: Realistic Schedules to Use</a></li>
+<li><a href="https://vesuvianoforni.com/en/blog/pizza-oven-site-survey" target="_blank" rel="nofollow noopener noreferrer">UK Pizza Oven Site Survey: Catch Flue and Build Risks Before You Sign</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/restaurant-permits-calgary" target="_blank" rel="noopener">Cut Months Off Your Opening: Calgary Restaurant Permits Contractor Roadmap</a></li>
+<li><a href="https://stateracontracting.com/blog/restaurant-kitchen-permit-calgary" target="_blank" rel="noopener">Restaurant kitchen permit Calgary: your complete approval roadmap</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
