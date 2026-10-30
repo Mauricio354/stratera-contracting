@@ -21380,6 +21380,219 @@ Statera ContractingPlan Your Calgary Restaurant RenovationStatera Contracting ha
       },
     ],
   },
+  {
+    slug: "open-concept-cost-calgary",
+    title: "Open Concept Renovation Cost in Calgary: What to Budget",
+    excerpt: "The cost of an open concept renovation in Calgary depends mostly on one question: is the wall you want to remove holding up your house?",
+    date: "2026-10-27",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1792920715960_Open-main-floor-with-visible-structural-beam.jpeg",
+    coverAlt: "Open Concept Renovation Cost in Calgary: What to Budget",
+    category: "Industry News",
+    readingTime: "14 min read",
+    metaTitle: "Open Concept Renovation Cost in Calgary: What to Budget",
+    metaDescription: "What it costs to open up a floor plan in Calgary: wall removal, engineering, permits, finishing and contingency, plus how to compare quotes line by line.",
+    content: [
+      {
+        type: "html",
+        html: `<p>The cost of an open concept renovation in Calgary depends mostly on one question: is the wall you want to remove holding up your house? A non-structural partition is a modest demolition and finishing job. A load-bearing wall needs an engineer, a permit, a beam and temporary support, and our own Calgary price guide puts a full removal at <a href="https://stateracontracting.com/blog/load-bearing-wall-removal-cost-calgary" target="_blank" rel="noopener">$5,000 to $14,000+</a> before you add the kitchen, flooring or lighting changes that usually follow.</p>
+<p>This guide breaks down where the money goes, what changes the total, and how to read a quote so you can compare like with like.</p>
+Statera ContractingPlan Your Calgary Open Concept RenovationStatera Contracting renovates Calgary homes, including kitchens, bathrooms, basements, additions and exterior projects.<a href="https://stateracontracting.com">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Cost is driven by structure first: load-bearing walls need engineered drawings, a beam, shoring and a City of Calgary permit. Partition walls usually do not.</li>
+<li>Wall removal itself is often the smaller part of the budget. Flooring, ceilings, electrical, heating ducts and a new kitchen layout are what push totals up.</li>
+<li>Calgary’s building permit fee for renovations to an existing house is $198 plus the 4% Safety Codes Council fee, with separate electrical and plumbing permits when that work is involved.</li>
+<li>Hold back a contingency for what the walls hide. Our guide suggests 10% to 30%, depending on the age of the home.</li>
+<li>Compare quotes line by line for the same scope, not by the bottom number.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-open-concept-actually-includes">What “open concept” actually includes</a></li>
+<li><a href="#load-bearing-or-not-the-biggest-cost-split">Load-bearing or not: the biggest cost split</a></li>
+<li><a href="#where-the-money-goes">Where the money goes</a></li>
+<li><a href="#permits-and-approvals-in-calgary">Permits and approvals in Calgary</a></li>
+<li><a href="#perspective-where-open-concept-budgets-go-wrong">Perspective: where open concept budgets go wrong</a></li>
+<li><a href="#contingency-plan-for-what-the-walls-hide">Contingency: plan for what the walls hide</a></li>
+<li><a href="#how-to-compare-open-concept-quotes">How to compare open concept quotes</a></li>
+<li><a href="#planning-an-open-floor-plan-with-a-kitchen">Planning an open floor plan with a kitchen</a></li>
+<li><a href="#before-you-request-quotes">Before you request quotes</a></li>
+<li><a href="#work-with-statera-on-your-open-concept-project">Work with Statera on your open concept project</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What “open concept” actually includes</h2>
+<p>Homeowners say “open concept” for several different projects. Pricing one is very different from pricing another, so it helps to name yours before you ask anyone for a number.</p>
+<ul>
+<li><strong>Opening a kitchen to the living or dining room.</strong> The most common version. It often involves a wall, a bulkhead, relocated outlets and switches, and sometimes a gas line or plumbing stack.</li>
+<li><strong>Taking out a hallway wall or a pantry.</strong> Smaller, and frequently non-structural.</li>
+<li><strong>Opening the main floor completely.</strong> Kitchen, dining and living become one room. This usually involves a beam, new flooring across the whole space, and a new lighting plan.</li>
+<li><strong>Opening a basement.</strong> Calgary basements often have bearing posts, ducts and plumbing stacks that shape what is possible. If this is you, look at how we approach <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement and living space renovations</a>.</li>
+</ul>
+<p>A quote for “removing a wall” and a quote for “an open concept main floor” are not the same document. Many of the price gaps people see between contractors come from scope, not from markup.</p>
+<h2>Load-bearing or not: the biggest cost split</h2>
+<p>Before anyone gives a firm price, someone has to find out what the wall does. In many Calgary homes, interior walls that run perpendicular to the floor joists, sit near the middle of the house, or have walls stacked above them are candidates for being load-bearing. You cannot confirm this by looking. A contractor can make an informed guess, but an engineer settles it.</p>
+<h3>Non-load-bearing wall</h3>
+<p>This is a partition that only divides space. The work is demolition, rerouting any wiring or plumbing inside the wall, patching ceiling and floor where the wall stood, then drywall, paint and trim. It is a smaller project, but it is not free of surprises: wires, ducts and gas lines do run through partitions. Depending on the work, you may still need electrical or plumbing permits.</p>
+<h3>Load-bearing wall</h3>
+<p>The wall is carrying roof, ceiling or upper-floor loads, so something must replace it. That means:</p>
+<ul>
+<li>A structural engineer’s assessment, calculations and stamped drawings</li>
+<li>A City of Calgary building permit</li>
+<li>A beam, either steel or laminated veneer lumber (LVL), plus posts and sometimes new footings</li>
+<li>Temporary shoring during the work</li>
+<li>Finishing: drywall, paint, flooring repair, and often a dropped or boxed beam you need to decide how to conceal</li>
+</ul>
+<p>That list matches how the City of Calgary treats structural wall removal: it <a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">requires a building permit</a>, an engineer may be required, and plans must be stamped when professional involvement is required. Engineering fees are also a separate cost from construction, <a href="https://tamcrete-eng.com/services/load-bearing-wall-removal-engineer-calgary/" rel="nofollow noopener noreferrer" target="_blank">as engineering firms point out</a>, so make sure the quote you are reading says who pays for them and whether they are in the number.</p>
+<p>We cover this in more detail in our guides to <a href="https://stateracontracting.com/blog/load-bearing-wall-removal-calgary" target="_blank" rel="noopener">load-bearing wall removal in Calgary</a>, including the process from site visit to final inspection.</p>
+<h3>Why spans and storeys matter</h3>
+<p>The beam gets bigger, and the cost climbs, as the opening gets wider and as more load sits above it. A short opening in a bungalow is a different job from a long opening under a second storey. Our price guide notes that the total can rise significantly with longer spans, two-storey loads or unexpected repairs. If your wish list includes a very wide, unobstructed opening, ask early whether a flush beam hidden in the ceiling is possible, since that usually costs more than a beam that drops below the ceiling line.</p>
+<h2>Where the money goes</h2>
+<p>Here is how we think about an open concept budget, in the order costs tend to appear. These are categories, not prices: your house, your span and your finishes decide the numbers.</p>
+<table>
+<thead>
+<tr>
+<th>Cost area</th>
+<th>What is in it</th>
+<th>What makes it grow</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Engineering</td>
+<td>Site visit, calculations, stamped drawings</td>
+<td>Complex loads, older homes with unclear framing</td>
+</tr>
+<tr>
+<td>Permits</td>
+<td>Building permit, plus electrical, plumbing or gas when needed</td>
+<td>Extra trades involved</td>
+</tr>
+<tr>
+<td>Structure</td>
+<td>Beam, posts, shoring, framing</td>
+<td>Longer span, upper storey, new footings</td>
+</tr>
+<tr>
+<td>Demolition and disposal</td>
+<td>Removing the wall, bulkheads, debris hauling</td>
+<td>Hidden materials, tight access</td>
+</tr>
+<tr>
+<td>Mechanical</td>
+<td>Relocating ducts, vents, gas, plumbing stacks</td>
+<td>A wall that is not just a wall</td>
+</tr>
+<tr>
+<td>Electrical</td>
+<td>Moving outlets, switches, lighting</td>
+<td>New lighting plan, panel limits</td>
+</tr>
+<tr>
+<td>Finishing</td>
+<td>Drywall, paint, trim, ceiling repair</td>
+<td>Texture matching, higher ceilings</td>
+</tr>
+<tr>
+<td>Flooring</td>
+<td>Patching or replacing across the new open area</td>
+<td>Mismatched floors, level changes</td>
+</tr>
+<tr>
+<td>Kitchen changes</td>
+<td>Cabinet layout, island, countertops</td>
+<td>Scope creep once the space opens</td>
+</tr>
+</tbody>
+</table>
+<p>Two lines in that table surprise people most: mechanicals and flooring.</p>
+<p><strong>Mechanicals.</strong> Heating ducts, return air, plumbing stacks and gas lines like to hide in walls. Moving them is skilled work and can change the plan. We would rather find them during the site visit than after demolition starts.</p>
+<p><strong>Flooring.</strong> When a wall comes out, there is a strip of subfloor where the wall stood, and the floors on either side are often different heights, species or finishes. Most owners end up replacing flooring across the whole new room, so it is worth pricing that from the start. Ask for the flooring choice to be shown as its own line.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792920717021_Exposed-subfloor-strip-between-two-floor-finishes.jpeg" alt="Exposed subfloor strip between two floor finishes" /></p>
+<h2>Permits and approvals in Calgary</h2>
+<p>For renovations to an existing house, the City’s <a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">building permit fee is $198 plus the 4% Safety Codes Council fee</a>. Separate electrical permits are required for electrical installations and renovations, and plumbing permits for new installations or alterations. Check the City page for the current fee schedule before you budget, because fees change.</p>
+<p>A few practical points:</p>
+<ul>
+<li><strong>Structural work needs the permit and the stamped drawings first.</strong> Demolition should not begin before approval.</li>
+<li><strong>Homeowners who own and live in the home may qualify</strong> for electrical and plumbing permits if they do that work themselves, according to the City. Most people opening a floor plan hire licensed trades.</li>
+<li><strong>Permits protect you at resale.</strong> Buyers’ lawyers and insurers ask about permitted work, and unpermitted structural changes can cause problems when you sell or make a claim.</li>
+</ul>
+<p>As part of our work, we handle the permit application and coordinate inspections. Our <a href="https://stateracontracting.com/blog/renovation-permits-calgary" target="_blank" rel="noopener">Calgary renovation permits guide</a> walks through what to check before demolition so you avoid rework.</p>
+<h2>Perspective: where open concept budgets go wrong</h2>
+<p>We have walked through a lot of Calgary houses with owners who say, “We just want to take this wall out.” The wall is rarely the problem. The problem is that the wall is one decision in a chain of decisions, and the budget only covers the first link.</p>
+<p>Three patterns come up again and again:</p>
+<ol>
+<li><strong>The scope is drawn around the wall, not the room.</strong> Once the wall is gone, the old kitchen suddenly looks tired, the floors do not match, and the lighting is wrong. We would rather plan the whole opened space at the start, even if you phase the work later.</li>
+<li><strong>Engineering is treated as a formality.</strong> It is the step that tells you what the beam will be, where the posts land and what the permit will require. It also tells you your real number. We prefer to bring in the engineer before we give a fixed price on a structural opening.</li>
+<li><strong>The contingency is spent before the project starts.</strong> Older homes hide things. If every dollar is already assigned, one surprise becomes a stressful conversation.</li>
+</ol>
+<p>Our approach is a fixed-price contract with design included, permits handled for you and daily communication from a family-owned team that manages the project directly. We are licensed and insured, and we build to code. The aim is simple: you know what is included, what is not, and what happens if we open the wall and find something unexpected.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Contingency: plan for what the walls hide</h2>
+<p>Opening a wall in an older house is the moment you find out what was inside it. Typical surprises include old wiring that does not meet current requirements, a plumbing stack where you did not expect one, ductwork that needs rerouting, or framing that differs from what the drawings suggested.</p>
+<p>Our <a href="https://stateracontracting.com/blog/renovation-contingency-budget" target="_blank" rel="noopener">contingency budget guide</a> recommends setting aside 10% to 30% of the project cost and keeping it liquid, so you can approve extra work without refinancing mid-project. Other Canadian budgeting guides land in a similar range, such as <a href="https://renoplanner.ai/blog/renovation-budget-planner-canada" rel="nofollow noopener noreferrer" target="_blank">15 to 20% for hidden conditions, price changes and scope additions</a>. Houses with older framing, knob-and-tube or aluminum wiring, or earlier unpermitted work lean toward the higher end. For a wider look at how a buffer works on a build, this overview of <a href="https://brcks.io/blog/construction-contingency" target="_blank" rel="nofollow noopener noreferrer">planning a contingency buffer</a> is a good place to start.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792920759852_Contingency-ranges-and-a-forty-thousand-dollar-example.jpeg" alt="Contingency ranges and a forty-thousand-dollar example" /></p>
+<p>A worked example, using round numbers so you can substitute your own. If your signed scope is $40,000 and you hold 15% in reserve, you set aside $6,000 on top. If nothing goes wrong, you keep it or spend it on an upgrade you were considering. If the ductwork has to move, you already have the money.</p>
+<h2>How to compare open concept quotes</h2>
+<p>Two quotes can differ by thousands of dollars and still describe the same job, or differ by almost nothing and describe very different jobs. Put them side by side and check:</p>
+<ol>
+<li><strong>Structural scope.</strong> Does it include engineering and stamped drawings, the beam material, posts, footings and shoring? Or does it say “beam allowance”?</li>
+<li><strong>Permits.</strong> Who applies, and are building, electrical, plumbing and gas permits all included?</li>
+<li><strong>Mechanical and electrical.</strong> Is relocating ducts, wiring and plumbing included, or excluded as “if required”?</li>
+<li><strong>Finishing level.</strong> Is drywall taped and painted? Are ceilings repaired? Is the beam boxed in or exposed?</li>
+<li><strong>Flooring.</strong> Does the price cover the new open area, or only the patched strip?</li>
+<li><strong>Disposal.</strong> Are demolition debris removal and bin or hauling costs included? If you manage waste yourself, see these <a href="https://pinkysjunkremoval.com/construction-debris-disposal-options" target="_blank" rel="nofollow noopener noreferrer">renovation debris disposal options</a>.</li>
+<li><strong>Allowances.</strong> For cabinets, lighting and flooring, is the allowance realistic for what you want?</li>
+<li><strong>Contingency and change orders.</strong> How are extras priced and approved? In writing, before work happens?</li>
+<li><strong>Insurance and licensing.</strong> Ask for proof of liability coverage and Workers’ Compensation Board coverage.</li>
+</ol>
+<p>A fixed price that names what is included and what is excluded is easier to trust than a low number with open-ended allowances. When one quote is much lower, look for the line that is missing before you celebrate the saving.</p>
+<h2>Planning an open floor plan with a kitchen</h2>
+<p>Most open concept projects in Calgary are really kitchen projects in disguise. Once the kitchen opens to the living area, it becomes the centrepiece of the room, and the cabinets, island and appliance layout need to work from every angle, including sound, sightlines and ventilation. A range hood that is fine in a closed kitchen may need a stronger fan or a different duct run in an open one.</p>
+<p>If you are already thinking about new cabinets, doing the wall and kitchen together usually saves money compared with two separate projects, since demolition, electrical, flooring and finishing are done once. Our <a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">kitchen remodel cost guide</a> covers the kitchen side of the budget, and the <a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">broader house renovation budget guide</a> helps you see where an open concept fits in a whole-home plan.</p>
+<h2>Before you request quotes</h2>
+<p>A short preparation list makes quotes more accurate and faster:</p>
+<ul>
+<li>Photos of the wall from both sides, plus the basement ceiling below and the attic above if you can access them</li>
+<li>Your approximate house age and whether the wall is on the main floor of a bungalow or under a second storey</li>
+<li>A rough sketch of how you want the space to work, including where the kitchen, dining table and seating should go</li>
+<li>A budget range and a list of must-haves versus nice-to-haves</li>
+<li>Any past renovation records, permits or inspection reports</li>
+</ul>
+<p>Then book a site visit. Photos give a starting point, but only an in-person look can tell a contractor and engineer what is in the walls.</p>
+<h2>Work with Statera on your open concept project</h2>
+<p>We are a family-owned renovation company in Calgary, also serving Okotoks, Cochrane and Airdrie. We take on kitchen, bathroom and basement renovations, home additions and commercial projects, with design included, permits handled and fixed-price contracts. We do not publish a price list for open concept work because the right number depends on your structure, so we start with a site visit and a clear written scope.</p>
+<p>If you are planning to open up your main floor with a new kitchen, see our <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation service</a>, or <a href="https://stateracontracting.com/" target="_blank" rel="noopener">contact us through our website</a> to book a consultation.</p>
+<h2>FAQ</h2>
+<h3>How much does it cost to open up a wall in Calgary?</h3>
+<p>It depends on whether the wall is load-bearing. For a full load-bearing removal, our own price guide gives a range of <a href="https://stateracontracting.com/blog/load-bearing-wall-removal-cost-calgary" target="_blank" rel="noopener">$5,000 to $14,000+</a> that includes engineering, the City permit, a steel or LVL beam, labour, shoring and basic finishing. A non-structural wall is generally less, but wiring, ducts or plumbing inside it can add work.</p>
+<h3>Do I need a permit to remove a wall in Calgary?</h3>
+<p>For structural wall removal, yes. The City of Calgary requires a building permit, and an engineer may be required, with stamped plans when professional involvement is needed. Electrical or plumbing changes need their own permits. Confirm the current requirements on the <a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">City’s renovation page</a> or have your contractor do it for you.</p>
+<h3>How do I know if a wall is load-bearing?</h3>
+<p>You cannot be sure from looking at it. Joist direction, walls stacked above or below, and the wall’s position in the house all give clues, but a structural engineer should confirm. Removing a load-bearing wall without an engineer’s design <a href="https://tamcrete-eng.com/services/load-bearing-wall-removal-engineer-calgary/" rel="nofollow noopener noreferrer" target="_blank">creates safety risks</a> and does not comply with the building code.</p>
+<h3>How much contingency should I add?</h3>
+<p>Hold back at least 10%, and more for older homes. We suggest 10% to 30% in our <a href="https://stateracontracting.com/blog/renovation-contingency-budget" target="_blank" rel="noopener">contingency guide</a>, with the higher end suited to houses where you expect hidden conditions.</p>
+<h3>Does an open concept layout cost more than keeping the walls?</h3>
+<p>The wall removal and the work around it add cost compared with leaving a layout alone, but many owners offset this by combining it with a kitchen or flooring project they were already planning. The savings come from doing demolition, electrical, flooring and finishing once instead of twice.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary: Home renovations and basements</a></li>
+<li><a href="https://tamcrete-eng.com/services/load-bearing-wall-removal-engineer-calgary/" rel="nofollow noopener noreferrer" target="_blank">Tam-Crete Engineering: Load-bearing wall removal engineer in Calgary</a></li>
+<li><a href="https://renoplanner.ai/blog/renovation-budget-planner-canada" rel="nofollow noopener noreferrer" target="_blank">RenoPlanner: How to build a renovation budget in Canada</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">Cost of Renovating a House in Calgary: 2026 Budget Guide</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">Kitchen remodel cost in Calgary: 2026 Alberta guide</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-to-renovate-a-small-bathroom" target="_blank" rel="noopener">Cost to renovate a small bathroom in Calgary: 2026 guide</a></li>
+<li><a href="https://stateracontracting.com/blog/basement-renovation-cost-calgary" target="_blank" rel="noopener">Basement renovation cost in Calgary: realistic budgets</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
