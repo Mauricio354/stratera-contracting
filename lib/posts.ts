@@ -21593,6 +21593,188 @@ Statera ContractingPlan Your Calgary Open Concept RenovationStatera Contracting 
       },
     ],
   },
+  {
+    slug: "barrier-free-requirements-alberta",
+    title: "Barrier-Free Requirements in Alberta: A Renovator's Guide",
+    excerpt: "Alberta's barrier-free requirements come from Section 3.8 of the National Building Code – 2023 Alberta Edition (NBC(AE)), and the province's 2024 Accessibility Design Guide explains how to read them.",
+    date: "2026-10-31",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1792994484379_Universal-washroom-with-clear-turning-space.jpeg",
+    coverAlt: "Barrier-Free Requirements in Alberta: A Renovator's Guide",
+    category: "Industry News",
+    readingTime: "13 min read",
+    metaTitle: "Barrier-Free Requirements in Alberta: A Renovator's Guide",
+    metaDescription: "What Alberta's barrier-free (accessibility) rules require for washrooms, additions and commercial renovations, when they apply, and how relaxations work.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Alberta’s barrier-free requirements come from Section 3.8 of the National Building Code – 2023 Alberta Edition (NBC(AE)), and the province’s 2024 Accessibility Design Guide explains how to read them. They apply to new construction, additions, changes to existing buildings and changes in use. Most single-family homes are treated differently from commercial and multi-unit buildings, so the first question is always what kind of project you have. This guide walks through what the rules cover, when a renovation triggers them, what to expect for washrooms, and how relaxations work.</p>
+Statera ContractingPlan an Accessible Commercial RenovationStatera Contracting renovates Calgary restaurants, commercial spaces and homes, including bathrooms, additions and exterior projects.<a href="https://stateracontracting.com">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Barrier-free rules sit in Section 3.8 of the NBC(AE). The Government of Alberta’s 2024 Accessibility Design Guide is the official explainer, and it replaces what used to be called the Barrier-Free Design Guide.</li>
+<li>They apply to new construction, additions, changes to existing buildings and changes in use, so a restaurant fit-out or a washroom overhaul in a commercial space is a common trigger.</li>
+<li>Where barrier-free access is provided, major washroom renovations that change plans, move plumbing fixtures or add washrooms must meet the washroom requirements.</li>
+<li>Calgary’s own Access Design Standards are mandatory only for City-owned or operated facilities. Private projects follow the NBC(AE).</li>
+<li>Relaxations exist, but not to save money, and not for new building construction.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#barrier-free-or-accessibility-what-the-terms-mean-in-alberta">Barrier-free or accessibility: what the terms mean in Alberta</a></li>
+<li><a href="#which-rules-apply-provincial-code-calgary-standards-and-your-project">Which rules apply: provincial code, Calgary standards and your project</a></li>
+<li><a href="#when-a-renovation-triggers-barrier-free-requirements">When a renovation triggers barrier-free requirements</a></li>
+<li><a href="#barrier-free-washrooms-when-they-are-required">Barrier-free washrooms: when they are required</a></li>
+<li><a href="#barrier-free-washroom-dimensions-in-alberta">Barrier-free washroom dimensions in Alberta</a></li>
+<li><a href="#universal-washrooms-versus-accessible-stalls">Universal washrooms versus accessible stalls</a></li>
+<li><a href="#beyond-the-washroom-ramps-entrances-and-restaurant-permits">Beyond the washroom: ramps, entrances and restaurant permits</a></li>
+<li><a href="#can-barrier-free-requirements-be-relaxed">Can barrier-free requirements be relaxed?</a></li>
+<li><a href="#our-perspective-design-for-the-code-and-for-the-people-using-the-space">Our perspective: design for the code, and for the people using the space</a></li>
+<li><a href="#planning-your-project-with-statera">Planning your project with Statera</a></li>
+<li><a href="#a-short-checklist-before-you-apply-for-a-permit">A short checklist before you apply for a permit</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Barrier-free or accessibility: what the terms mean in Alberta</h2>
+<p>You will see both terms. The code itself still uses “barrier-free” in Section 3.8, and that is the word most people type into a search bar. The province’s guide, though, was renamed. According to the <a href="https://open.alberta.ca/dataset/ff01dc85-dfa7-4cee-8929-b9524e9c92ad/resource/96bb21ac-f177-481f-980a-b9b94ae55eaa/download/ma-accessibility-design-guide-2024.pdf" rel="nofollow noopener noreferrer" target="_blank">Accessibility Design Guide 2024</a>, “barrier free” was updated to “accessibility” to match the terminology used in the NBC(AE).</p>
+<p>The guide itself is not the law. It explains the intent and objectives behind the code’s accessibility requirements and recommends best practices that go further than the minimum. The enforceable part is what the building code says, and that is what a permit reviewer checks your drawings against.</p>
+<p>It also helps to remember who these rules serve. The guide points out that disability can be permanent or temporary, for example after an accident, injury, surgery or a fall. A wider door or a clear turning space is not only for a small group of users. It is for any of us at some point in our lives.</p>
+<h2>Which rules apply: provincial code, Calgary standards and your project</h2>
+<p>There are two layers people often mix up.</p>
+<p><strong>The provincial code.</strong> For private homes, businesses and developments in Calgary, Airdrie, Cochrane, Okotoks and everywhere else in Alberta, the requirements are those of the NBC(AE) as applied through your building permit.</p>
+<p><strong>Calgary’s Access Design Standards (ADS).</strong> The City of Calgary publishes its own standards, but <a href="https://www.calgary.ca/development/accessible-design.html" rel="nofollow noopener noreferrer" target="_blank">the City states</a> they are mandatory only for City-owned or operated facilities. Private projects must follow the NBC(AE). The City’s <a href="https://engage.calgary.ca/ADSU" rel="nofollow noopener noreferrer" target="_blank">ADS update page</a> adds that the ADS are not retroactive for private landowners, who are governed by the provincial code.</p>
+<p>In practice that means a homeowner finishing a basement and a restaurant owner opening a new location are both working from the same provincial code. What changes is how much of Section 3.8 their building type brings into play.</p>
+<h2>When a renovation triggers barrier-free requirements</h2>
+<p>The Accessibility Design Guide says the requirements apply to all new construction, additions, changes to existing buildings and changes in use. That wording covers a lot of ground, and these are the situations we see most often.</p>
+<h3>Additions and new construction</h3>
+<p>A new addition has to be designed to the current code from the start. If you are building out a commercial space from a shell, the whole fit-out is treated as new work for the areas you are building.</p>
+<h3>Changes to an existing building</h3>
+<p>A renovation that alters an existing building can bring Section 3.8 into play for the parts you touch. Washrooms are the clearest example, and they get their own section below.</p>
+<h3>Changes of use</h3>
+<p>Turning a retail unit into a restaurant, or an office into a salon, is a change of use. Your new occupancy can carry different accessibility expectations than the old one, even if you do not move a single wall. This is the one that catches business owners off guard, so raise it with your contractor before you sign a lease, not after.</p>
+<h3>What this means for a typical house</h3>
+<p>A private single-family home is not treated like a public building, and the code’s barrier-free path of travel requirements are aimed at buildings people visit and use as the public. If you are renovating your own home, the rules are mostly something you choose to design for, for example if a family member uses a wheelchair or you plan to age in place. The Accessibility Design Guide is still the best reference for those choices. Your permit reviewer, or the City’s building review team, can confirm how your specific property is classified.</p>
+<h2>Barrier-free washrooms: when they are required</h2>
+<p>Washrooms are where most renovations meet Section 3.8. A City of Calgary <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/regulation_bulletins/2014-bulletins/regulation-bulletin-rb14-013.pdf" rel="nofollow noopener noreferrer" target="_blank">regulation bulletin on barrier-free washrooms</a> explains that, where barrier-free access is provided, a barrier-free washroom is required in new buildings. In existing buildings it is required when major washroom renovations change the plans, relocate plumbing fixtures or add washrooms. The bulletin was written under the 2014 code and updated in 2015, so use it to understand the principle and check the current code requirements for the details.</p>
+<p>That gives a practical test for your project:</p>
+<ul>
+<li>Are you only replacing finishes, such as tile, vanity and paint, in the same layout? That is generally a lighter job than the trigger the bulletin describes.</li>
+<li>Are you moving the toilet, changing the plan, or adding a washroom? Then expect the barrier-free washroom requirements to be part of the conversation.</li>
+</ul>
+<p>Washrooms in suites of residential occupancy, meaning the bathrooms inside a house or apartment, work differently from public washrooms, so a homeowner’s bathroom renovation is not held to the same standard as a restaurant’s customer washroom. If you are renovating a home bathroom, our <a href="https://stateracontracting.com/blog/bathroom-permit-calgary" target="_blank" rel="noopener">bathroom permit guide for Calgary homeowners</a> explains what the permit process looks like.</p>
+<p>If you are planning a room-by-room renovation, thinking about circulation and clearances across the whole house early pays off. The same logic applies when you <a href="https://kitchendevotion.com/how-to-plan-a-kitchen-remodel-for-better-functionality" target="_blank" rel="nofollow noopener noreferrer">plan a kitchen remodel</a>: where people stand, turn and reach should be settled before cabinets and fixtures are chosen.</p>
+<h2>Barrier-free washroom dimensions in Alberta</h2>
+<p>This is the question behind many searches, and the honest answer is that the exact clearances live in Section 3.8 of the NBC(AE), not in a single number. What the Accessibility Design Guide does confirm is the framework.</p>
+<table>
+<thead>
+<tr>
+<th>Topic</th>
+<th>What the guide says</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Layout types</td>
+<td>Washrooms need universal layouts or accessible stalls, depending on occupancy</td>
+</tr>
+<tr>
+<td>Turning space</td>
+<td>Dwelling units need an unobstructed turning diameter of at least 1,700 mm</td>
+</tr>
+<tr>
+<td>Fixture and doorway clearances</td>
+<td>Must follow the technical requirements in Section 3.8 of the NBC(AE)</td>
+</tr>
+<tr>
+<td>Multi-stall washrooms</td>
+<td>At least one accessible water-closet stall for every 10 stalls</td>
+</tr>
+<tr>
+<td>Urinals</td>
+<td>One urinal for persons with limited mobility for every 10 urinals</td>
+</tr>
+</tbody>
+</table>
+<p>The <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/licence/ma-accessibility-design-guide-2024.pdf" rel="nofollow noopener noreferrer" target="_blank">Accessibility Design Guide</a> is the source for these figures. Do not design a washroom from a table in an article, including this one. Your drawings need to show the exact door width, fixture clearances and grab bar locations from the current code, and your permit reviewer will check them.</p>
+<p>A few practical notes from the layout side of the job:</p>
+<ul>
+<li><strong>Turning space drives the floor plan.</strong> A 1,700 mm clear diameter is large for a small washroom. It often decides whether a washroom can be adapted in place or has to grow into a neighbouring closet or hall.</li>
+<li><strong>Door swing matters as much as door width.</strong> A door that swings into the clear floor area can undo your turning space.</li>
+<li><strong>Plan plumbing early.</strong> Moving a toilet changes the plumbing plan, and that is one of the triggers described above.</li>
+</ul>
+<p>If budget is a concern, our <a href="https://stateracontracting.com/blog/cost-to-renovate-a-small-bathroom" target="_blank" rel="noopener">small bathroom cost guide</a> and the <a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">2026 Calgary bathroom cost guide</a> give a sense of the numbers for standard projects.</p>
+<h2>Universal washrooms versus accessible stalls</h2>
+<p>These are the two main ways to meet the requirement, and the difference is simple.</p>
+<p>A <strong>universal washroom</strong> is a single-use room designed for all users. It has its own door, toilet, sink and enough space for turning, and it can be used by someone with a caregiver, a family member or a mobility device.</p>
+<p>An <strong>accessible stall</strong> sits inside a multi-stall washroom, alongside the regular stalls.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792994517243_Comparison-of-universal-washroom-and-accessible-stall-layouts.jpeg" alt="Comparison of universal washroom and accessible stall layouts" /></p>
+<p>The guide states that a universal washroom is required at each location where washrooms are provided in a barrier-free storey, except as otherwise permitted. More precisely, at least one universal washroom meeting Subsection 3.8.3 must be provided at each location where washrooms are required in a storey served by a barrier-free path of travel. The same <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/licence/ma-accessibility-design-guide-2024.pdf" rel="nofollow noopener noreferrer" target="_blank">Accessibility Design Guide</a> sets this out.</p>
+<p>For a small business, a single universal washroom is often the cleanest answer. It serves every customer and staff member from one room, and it avoids splitting a limited floor area into several compliant spaces.</p>
+<h2>Beyond the washroom: ramps, entrances and restaurant permits</h2>
+<p>Washrooms are only one part of Section 3.8. Entrances, doorways, ramps, parking and signage are covered too. The 2024 guide also includes design considerations that go beyond the enforceable minimum, such as bariatrics, outdoor environments, and communication and cognition. These are recommendations rather than code requirements, but they can make a space much more usable.</p>
+<p>For restaurants, pubs and other food businesses, Calgary’s guidance is specific. The City’s document on <a href="https://www-prd.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/food-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">renovations to restaurants and food establishments</a> says permit plans must show barrier-free accessibility, including ramp construction, vestibule clearances and barrier-free washrooms. It also says drawings must show wall and partition locations, plumbing plans must show fixtures, and structural drawings are required if structural work is involved.</p>
+<p>If you are opening or renovating a restaurant, our guide to <a href="https://stateracontracting.com/blog/restaurant-washroom-requirements-calgary" target="_blank" rel="noopener">Calgary restaurant washroom requirements</a> covers the washroom side of the permit in more detail.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1792994554355_Beyond-the-washroom-ramps-entrances-and-restaurant-permits-overview-diagram.jpeg" alt="Beyond the washroom: ramps, entrances and restaurant permits — overview diagram" /></p>
+<h2>Can barrier-free requirements be relaxed?</h2>
+<p>Sometimes, but the bar is high. Alberta’s interpretation bulletin <a href="https://open.alberta.ca/dataset/cb3d1662-1354-45c8-aab8-29b91f2a6c35/resource/181993c6-a85d-4a5b-ab89-21c32e996000/download/ma-standata-interpretation-building-23-bci-016-2025-03.pdf" rel="nofollow noopener noreferrer" target="_blank">23-BCI-016</a> explains that provincial administrators may grant a relaxation when a requirement is unnecessary or when extraordinary circumstances prevent conformance. Applications are not accepted for new building construction.</p>
+<p>The revised bulletin <a href="https://open.alberta.ca/dataset/cb3d1662-1354-45c8-aab8-29b91f2a6c35/resource/d0af9eda-ac40-4f33-b54f-2b24ee2eaa03/download/ma-standata-interpretation-building-23-bci-016r1-2025-11.pdf" rel="nofollow noopener noreferrer" target="_blank">23-BCI-016R1</a> adds that relaxations will not be issued to lower construction costs or to avoid evaluating or implementing more difficult design alternatives.</p>
+<p>This is useful to know before you fall in love with a layout. A tight heritage storefront or an older building with a real structural constraint may be a candidate. A budget problem or an inconvenient floor plan is not. The province’s <a href="https://www.alberta.ca/application-for-barrier-free-relaxation" rel="nofollow noopener noreferrer" target="_blank">application for barrier-free relaxation</a> page is the place to start if you think your case qualifies, and your contractor or designer should help you build the case with drawings.</p>
+<h2>Our perspective: design for the code, and for the people using the space</h2>
+<p>We work on kitchens, bathrooms, basements, additions and commercial renovations across Calgary, Okotoks, Cochrane and Airdrie, and accessibility questions come up in nearly all of them. Here is what we tell clients.</p>
+<p>First, settle the code question before the design question. We check what your project triggers, whether that is a change of use, a relocated plumbing fixture or a new addition, and we review it against the NBC(AE) before drawings go to the City. A surprise at permit review costs far more than a conversation at the start.</p>
+<p>Second, do not treat the minimum as the goal. For a home, the guide’s best-practice recommendations are a useful checklist if someone in the household has mobility needs now or might in the future. For a business, a washroom that is comfortable to use is good for every customer, not just those the code names.</p>
+<p>Third, keep the paperwork and the build under one roof. Because we handle design, permits and construction together, the person who reads the code is the same person who talks to you every day about the work. That is how we keep a project clear and predictable.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Planning your project with Statera</h2>
+<p>If your renovation involves a washroom, an entrance, a change of use or a commercial space, bring the question to us early. Our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation team</a> handles restaurant, pub, office and retail work, including permit handling and design as part of the build. For residential projects, our <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovation service</a> covers layout, plumbing and permits for homeowners across Calgary and nearby communities.</p>
+<p>We are licensed and insured, family-owned, and we manage each project directly. <a href="https://stateracontracting.com/" target="_blank" rel="noopener">Book a consultation</a> and we will tell you which requirements apply to your project before you commit to a design.</p>
+<p>If you are renovating an older property, our guide to <a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">renovating an older home in Alberta</a> covers other surprises that tend to appear once walls are open.</p>
+<h2>A short checklist before you apply for a permit</h2>
+<ol>
+<li><strong>Name your project type.</strong> New build, addition, renovation of an existing building, or change of use.</li>
+<li><strong>Identify your occupancy.</strong> A private home, a restaurant, an office and a retail unit are not treated alike.</li>
+<li><strong>Check your washroom plan.</strong> Are you relocating fixtures or adding a washroom? If yes, plan for barrier-free requirements.</li>
+<li><strong>Decide on the layout type.</strong> A universal washroom, or accessible stalls in a multi-stall room.</li>
+<li><strong>Confirm the entrance.</strong> Ramps, vestibule clearances and doorways are part of the plan review for food establishments.</li>
+<li><strong>Get complete drawings.</strong> Walls, partitions, plumbing fixtures and structural work where needed.</li>
+<li><strong>Ask early about relaxations.</strong> Only if you have a real constraint, not a cost concern.</li>
+</ol>
+<h2>FAQ</h2>
+<h3>Does Alberta have an accessibility act?</h3>
+<p>Alberta’s building requirements are set through the building code, specifically Section 3.8 of the NBC(AE). Advocacy groups such as Barrier-Free Alberta have campaigned for standalone accessibility legislation, which is separate from the building code. Check the Government of Alberta website for the current status.</p>
+<h3>Does Calgary’s Access Design Standards apply to my renovation?</h3>
+<p>Only if the facility is City-owned or operated. According to the City, private projects must follow the NBC(AE) instead.</p>
+<h3>Do I need a barrier-free washroom in my home bathroom renovation?</h3>
+<p>Bathrooms inside a private residence are generally treated differently from public washrooms. If you are moving plumbing or changing the layout, confirm with your contractor and the City’s permit process what applies. You can also choose to design to the guide’s recommendations for future needs.</p>
+<h3>What size does a barrier-free washroom need to be?</h3>
+<p>The guide gives a minimum unobstructed turning diameter of 1,700 mm for dwelling units, and refers to Section 3.8 for fixture and doorway clearances. Your designer should work from the current code text for exact figures.</p>
+<h3>Can I get a relaxation to save money?</h3>
+<p>No. Alberta’s bulletin says relaxations will not be issued to lower construction costs or to avoid more difficult design alternatives.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://open.alberta.ca/dataset/ff01dc85-dfa7-4cee-8929-b9524e9c92ad/resource/96bb21ac-f177-481f-980a-b9b94ae55eaa/download/ma-accessibility-design-guide-2024.pdf" rel="nofollow noopener noreferrer" target="_blank">Accessibility Design Guide 2024, Government of Alberta</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/licence/ma-accessibility-design-guide-2024.pdf" rel="nofollow noopener noreferrer" target="_blank">Accessibility Design Guide 2024, City of Calgary copy</a></li>
+<li><a href="https://www.calgary.ca/development/accessible-design.html" rel="nofollow noopener noreferrer" target="_blank">Access Design Standards, City of Calgary</a></li>
+<li><a href="https://engage.calgary.ca/ADSU" rel="nofollow noopener noreferrer" target="_blank">Access Design Standards Update, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/regulation_bulletins/2014-bulletins/regulation-bulletin-rb14-013.pdf" rel="nofollow noopener noreferrer" target="_blank">Regulation Bulletin RB14-013, Barrier-Free Washrooms</a></li>
+<li><a href="https://www-prd.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/food-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">Renovations to Restaurants and Food Establishments, City of Calgary</a></li>
+<li><a href="https://open.alberta.ca/dataset/cb3d1662-1354-45c8-aab8-29b91f2a6c35/resource/181993c6-a85d-4a5b-ab89-21c32e996000/download/ma-standata-interpretation-building-23-bci-016-2025-03.pdf" rel="nofollow noopener noreferrer" target="_blank">23-BCI-016 Barrier-free design requirements relaxations</a></li>
+<li><a href="https://open.alberta.ca/dataset/cb3d1662-1354-45c8-aab8-29b91f2a6c35/resource/d0af9eda-ac40-4f33-b54f-2b24ee2eaa03/download/ma-standata-interpretation-building-23-bci-016r1-2025-11.pdf" rel="nofollow noopener noreferrer" target="_blank">23-BCI-016R1 Barrier-free design requirements relaxations</a></li>
+<li><a href="https://www.alberta.ca/application-for-barrier-free-relaxation" rel="nofollow noopener noreferrer" target="_blank">Application for barrier-free relaxation, Alberta.ca</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">Renovating an older home: what Alberta homeowners need to know</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">Bathroom remodel ideas: your 2026 Alberta guide</a></li>
+<li><a href="https://stateracontracting.com/blog/office-renovations" target="_blank" rel="noopener">Office renovations in Alberta: your contractor guide</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">Kitchen renovation ideas for Alberta homeowners: 2026 guide</a></li>
+</ul>
+
+`,
+      },
+    ],
+  },
 ];
 
 
