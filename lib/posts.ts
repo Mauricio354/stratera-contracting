@@ -21775,6 +21775,206 @@ Statera ContractingPlan an Accessible Commercial RenovationStatera Contracting r
       },
     ],
   },
+  {
+    slug: "restaurant-health-inspection-calgary",
+    title: "Restaurant Health Inspections in Calgary: How to Read a Report",
+    excerpt: "Every Calgary restaurant is inspected by Alberta Health Services (AHS), and the results are public.",
+    date: "2026-10-29",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1793094110120_Restaurant-operator-reviewing-an-inspection-report.jpeg",
+    coverAlt: "Restaurant Health Inspections in Calgary: How to Read a Report",
+    category: "Industry News",
+    readingTime: "13 min read",
+    metaTitle: "Restaurant Health Inspections in Calgary: How to Read a Report",
+    metaDescription: "How to find a Calgary restaurant's Alberta Health Services inspection report, read violations and closure orders, file a complaint, and build a kitchen that passes.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Every Calgary restaurant is inspected by Alberta Health Services (AHS), and the results are public. You can search a restaurant by name on the AHS website, see the violations an inspector found, and check whether each one was corrected. If you run a restaurant or plan to open one, the same reports show what inspectors look for, and most of it starts with how the kitchen is built.</p>
+<p>This guide is for two readers: diners who want to check a place before they eat there, and owners who want their next inspection to be uneventful. We are a Calgary renovation contractor that builds and renovates restaurant kitchens, so we have seen both sides.</p>
+Statera ContractingBuild a Kitchen Ready for InspectionStatera Contracting renovates restaurant kitchens in Calgary, including the layouts, sinks, ventilation and finishes covered in this guide.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>AHS posts Calgary food-facility inspection reports online, usually within one business day and sometimes up to five. Reports stay up for three years.</li>
+<li>A report lists only unsafe conditions (violations). A short list that was corrected on the spot is very different from repeated or critical violations.</li>
+<li>A closure order means the restaurant stays shut until AHS is satisfied the repairs are done. Check the AHS Calgary Zone page to see if it has reopened.</li>
+<li>To report a concern, contact AHS. A complaint can lead to a demand inspection.</li>
+<li>Owners: many violations trace back to layout, sinks, hot water, ventilation and finishes. These are far cheaper to get right during construction than after.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#how-to-find-a-calgary-restaurants-inspection-report">How to find a Calgary restaurant’s inspection report</a></li>
+<li><a href="#what-the-inspection-report-actually-tells-you">What the inspection report actually tells you</a></li>
+<li><a href="#when-ahs-orders-a-restaurant-closed">When AHS orders a restaurant closed</a></li>
+<li><a href="#how-to-file-a-food-safety-complaint">How to file a food safety complaint</a></li>
+<li><a href="#what-inspectors-look-for">What inspectors look for</a></li>
+<li><a href="#the-inspection-starts-before-the-doors-open">The inspection starts before the doors open</a></li>
+<li><a href="#our-perspective-build-it-so-it-inspects-well">Our perspective: build it so it inspects well</a></li>
+<li><a href="#planning-a-restaurant-bar-or-kitchen-renovation-in-calgary">Planning a restaurant, bar or kitchen renovation in Calgary?</a></li>
+<li><a href="#what-diners-should-keep-in-mind">What diners should keep in mind</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>How to find a Calgary restaurant’s inspection report</h2>
+<p>AHS publishes food-facility inspection reports on its <a href="https://www.albertahealthservices.ca/eph/page3149.aspx" rel="nofollow noopener noreferrer" target="_blank">public health inspection reports page</a>. For Calgary, AHS says reports are generally posted within one business day of the inspection, though posting can take up to five business days. So if you are checking a place after a visit you read about in the news, the newest inspection may not be there yet.</p>
+<p>A few practical tips for searching:</p>
+<ol>
+<li>Use the AHS disclosure search and narrow it by category, city or area, and community.</li>
+<li>Search by part of the name or address. AHS recommends wildcard searches such as <em>Horton</em> or <em>100 Anderson</em>, and warns that <a href="https://www.albertahealthservices.ca/eph/Page18195.aspx" rel="nofollow noopener noreferrer" target="_blank">only exact matches appear</a>. If “Joe’s Pizza” returns nothing, try <em>Joe</em>.</li>
+<li>Check the area label. Calgary facilities are grouped by quadrant, such as Calgary SW or NE, which helps when a chain has several locations.</li>
+<li>Remember the time limit. Reports remain online for three years from the inspection date, and they may be removed if the business closes or changes ownership.</li>
+</ol>
+<p>A missing report does not automatically mean a problem. A brand-new restaurant may not have been through its first routine inspection, and a place that changed hands may have had its history removed.</p>
+<h2>What the inspection report actually tells you</h2>
+<p>The report page for each facility shows its type (for example, Food - General), its area, its address, and a list of recent inspections with the date, the inspection type and the action taken.</p>
+<p>The key thing to understand is what is missing. AHS says its reports list the unsafe practices, called violations, found during the inspection, and <a href="https://www.albertahealthservices.ca/eph/page3149.aspx" rel="nofollow noopener noreferrer" target="_blank">safe practices are not listed</a>. The online summary is therefore not a full picture of a kitchen. AHS also notes that a report describes conditions while the inspector was onsite and does not guarantee the facility’s condition at all times.</p>
+<h3>Inspection types you will see</h3>
+<p>The Calgary Herald, in its <a href="https://calgaryherald.com/news/local-news/how-ahs-handles-restaurant-inspections" rel="nofollow noopener noreferrer" target="_blank">explainer on how AHS handles inspections</a>, describes four types:</p>
+<ul>
+<li><strong>Initial or approval inspections</strong>, before a facility opens.</li>
+<li><strong>Routine or monitoring inspections</strong>, which are unannounced.</li>
+<li><strong>Risk-management inspections or re-inspections</strong>, which check whether improvements were made.</li>
+<li><strong>Demand or complaint inspections</strong>, which follow an alleged problem reported by a member of the public or another agency.</li>
+</ul>
+<p>So a “Demand Inspection” line in a report means someone raised a concern, not that the inspector found something serious on their own. A “Follow-up Required” outcome means the inspector expects to come back.</p>
+<h3>Reading violations without overreacting</h3>
+<p>AHS suggests looking at the type of violation, how critical it is, whether it was corrected, and whether it keeps coming back. Here is a simple way to apply that:</p>
+<table>
+<thead>
+<tr>
+<th>What you see</th>
+<th>What it usually suggests</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No action taken, or violations corrected at the time</td>
+<td>Routine housekeeping handled during the visit</td>
+</tr>
+<tr>
+<td>One minor violation, corrected</td>
+<td>Not a reason to avoid a restaurant</td>
+</tr>
+<tr>
+<td>The same violation across several inspections</td>
+<td>A habit or an equipment problem that is not being fixed</td>
+</tr>
+<tr>
+<td>Follow-up required, then a clean re-inspection</td>
+<td>The system worked: problem found, problem fixed</td>
+</tr>
+<tr>
+<td>Closure order</td>
+<td>Serious enough that AHS stopped operations</td>
+</tr>
+</tbody>
+</table>
+<p>One report is a snapshot. Three years of reports show a pattern, and the pattern is what matters.</p>
+<h2>When AHS orders a restaurant closed</h2>
+<p>Closures make headlines, but the details are often missed. According to AHS Environmental Public Health’s <a href="https://www.albertahealthservices.ca/eph/Page14648.aspx" rel="nofollow noopener noreferrer" target="_blank">Calgary Zone page</a>, a closure and/or unfit order requires the facility to stay closed until the noted repairs are completed. A permit suspension prevents operation until the operator demonstrates compliance and the permit is reinstated.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1793094200175_Comparison-of-two-restaurant-order-types.jpeg" alt="Comparison of two restaurant order types" /></p>
+<p>To check whether a place has reopened, look up the restaurant on that Calgary Zone page. It lists the restaurant, the order type and the date, and its key explains what each active order means. A newly posted order may take up to five business days to appear.</p>
+<p>Closures happen for different reasons. In August 2026, for example, an AHS Calgary notice ordered a food business <a href="https://www.albertahealthservices.ca/assets/wf/eph/wf-eph-cgy-chicas-empanadas-yyc-26-cranston-place-se-calgary-august-5-2026-a.pdf" rel="nofollow noopener noreferrer" target="_blank">closed immediately</a> because it was operating without a valid food-handling permit, and required it to stay closed until AHS was satisfied the required work was complete. That one was a permit issue, not a pest or temperature problem. Read the reason before drawing a conclusion.</p>
+<h2>How to file a food safety complaint</h2>
+<p>The Canadian Food Inspection Agency says restaurant and food-service inspections are generally handled by provincial governments, municipalities or regional health authorities, and it directs Alberta residents to Alberta Health Services. Its page on <a href="https://inspection.canada.ca/en/food-safety-consumers/where-report-complaint/restaurants-and-food-services" rel="nofollow noopener noreferrer" target="_blank">where to report a restaurant complaint</a> says to contact your local public health department. If you think your health has been affected, see your doctor or your local public health centre.</p>
+<p>When you report, give AHS what an inspector needs:</p>
+<ul>
+<li>The restaurant’s name and full address.</li>
+<li>The date and time of your visit.</li>
+<li>What you saw or experienced, such as a handwashing sink with no soap, raw food stored above ready-to-eat food, or pests.</li>
+<li>If you became ill, the date symptoms started and what you ate.</li>
+</ul>
+<p>A complaint can trigger a demand inspection. In a 2021 statement about a Calgary cafe closure, <a href="https://www.albertahealthservices.ca/news/releases/2021/Page15889.aspx" rel="nofollow noopener noreferrer" target="_blank">AHS said</a> it had received 413 public complaints since January 1 of that year and had carried out multiple inspections. That shows complaints are taken into account, though one complaint alone does not mean a closure.</p>
+<h2>What inspectors look for</h2>
+<p>AHS publishes a one-page guide to <a href="https://www.albertahealthservices.ca/assets/wf/eph/wf-eph-what-we-look-for-during-an-inspection.pdf" rel="nofollow noopener noreferrer" target="_blank">what is looked at during a food inspection</a>. It covers food source, food condition, kitchen and equipment sanitation, personal hygiene, food handling, storage, chemical storage, temperature control, dishwashing and hand sinks. The guide gives the temperature rule as holding potentially hazardous foods below 4°C or above 60°C.</p>
+<p>If you are a diner, that list tells you what a violation means in plain terms. If you are an owner, notice how many of those items depend on the physical space:</p>
+<ul>
+<li><strong>Hand sinks.</strong> Alberta’s <a href="https://www.canlii.org/en/ab/laws/regu/alta-reg-31-2006/latest/alta-reg-31-2006.html" rel="nofollow noopener noreferrer" target="_blank">Food Regulation</a> defines a handwashing station as having a hand basin with hot and cold running water, plus soap, and requires stations to be adequate in number and conveniently placed for food handlers.</li>
+<li><strong>Hot water.</strong> The same regulation requires hot and cold running water in quantities sufficient for the establishment’s needs. A kitchen with an undersized or poorly maintained heater will struggle at the dinner rush. Regular <a href="https://highpressuremechanical.com/2026/10/14/commercial-water-heater-maintenance" target="_blank" rel="nofollow noopener noreferrer">commercial water heater maintenance</a> keeps hot water reliable, which supports both handwashing and dishwashing.</li>
+<li><strong>Cleanable surfaces.</strong> Floors, walls and ceilings need to be smooth and easy to sanitize.</li>
+<li><strong>Separation.</strong> Raw and ready-to-eat food, and food and chemicals, need their own storage.</li>
+<li><strong>Cold and hot holding.</strong> Refrigeration must be sized and placed so staff can actually keep food below 4°C.</li>
+</ul>
+<h2>The inspection starts before the doors open</h2>
+<p>The first AHS visit is the approval inspection, and it comes after your building permit and construction. That is why design and permits matter more than any cleaning checklist. If the plan puts the handwashing sink behind a prep table, or the dish area has no room to separate dirty and clean, no amount of staff training will fully fix it.</p>
+<p>Some of the problems we see on restaurant projects:</p>
+<ul>
+<li>Hand sinks added late, in spots staff cannot reach without crossing a work area.</li>
+<li>Not enough storage, so food ends up on the floor or chemicals sit beside ingredients.</li>
+<li>Exhaust hoods and make-up air that were sized for the equipment list before the menu changed.</li>
+<li>Washrooms that do not meet the seat count, which delays permits.</li>
+</ul>
+<p>Our guides on each of these go deeper: <a href="https://stateracontracting.com/blog/commercial-kitchen-requirements-alberta" target="_blank" rel="noopener">commercial kitchen requirements in Alberta</a>, the <a href="https://stateracontracting.com/blog/restaurant-kitchen-permit-calgary" target="_blank" rel="noopener">restaurant kitchen permit roadmap for Calgary</a>, <a href="https://stateracontracting.com/blog/hood-ventilation-requirements-calgary" target="_blank" rel="noopener">hood ventilation requirements in Calgary</a>, <a href="https://stateracontracting.com/blog/commercial-kitchen-ventilation-alberta" target="_blank" rel="noopener">commercial kitchen ventilation compliance</a> and <a href="https://stateracontracting.com/blog/restaurant-washroom-requirements-calgary" target="_blank" rel="noopener">restaurant washroom requirements</a>. If you are still sketching the floor plan, read <a href="https://stateracontracting.com/blog/restaurant-layout-mistakes" target="_blank" rel="noopener">the layout mistakes that cause permit trouble</a> first.</p>
+<h3>A pre-inspection checklist for owners</h3>
+<p>Use this before opening and again every quarter:</p>
+<ol>
+<li>Walk the kitchen from receiving to service and check that every hand sink has hot water, soap and paper towels.</li>
+<li>Log fridge and hot-holding temperatures against the 4°C and 60°C limits.</li>
+<li>Check that chemicals are stored apart from food and clearly labelled.</li>
+<li>Confirm the dish machine or three-compartment sink sanitizes properly.</li>
+<li>Look for gaps, cracks or damaged finishes that make cleaning difficult, and repair them.</li>
+<li>Read your own report on the AHS site as a diner would. Fix repeat items first.</li>
+<li>Keep your food-handling permit current and displayed.</li>
+</ol>
+<h2>Our perspective: build it so it inspects well</h2>
+<p>We are a family-owned team, and we manage each project directly. On restaurant and bar work, the question we ask first is not “how fast can we open?” but “how will this space be used at 7 p.m. on a Saturday, and how will an inspector see it?”</p>
+<p>We have found that most repeat violations are not a staffing story. They are a space story. A hand sink in the wrong place gets skipped. A cramped dish area gets cross-traffic. A tired hood system lets grease and heat build up. When we design and build a commercial kitchen, we work through the flow of food from delivery to the pass, place sinks where people will actually use them, and check the plan against building code and permit requirements before work starts. Design is included with our builds, and we handle permits, so the drawings the city sees match what AHS will walk through.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1793094165023_Our-perspective-build-it-so-it-inspects-well-overview-diagram.jpeg" alt="Our perspective: build it so it inspects well — overview diagram" /></p>
+<p>We also talk with owners every day while a project is under way, because decisions on equipment and layout shift once the walls are open. Catching a sink location problem in week two costs a fraction of what it costs after the finishes are in.</p>
+<p>If you take one thing from this article: treat the inspection report as feedback on your building as much as your habits.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Planning a restaurant, bar or kitchen renovation in Calgary?</h2>
+<p>Statera Contracting is a licensed and insured Calgary renovation company. We handle restaurant, pub, office, retail and franchise build-outs, with design, permit handling and building code compliance included in how we work. Our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation service</a> is where to start if you want a kitchen built to pass inspection the first time.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Tell us about your space, your menu and your timeline, and we will walk you through what the permit and inspection steps will look like. You can also see <a href="https://stateracontracting.com/blog/kitchen-renovation-permit-calgary" target="_blank" rel="noopener">how we prevent permit rejections</a> and <a href="https://stateracontracting.com/blog/restaurant-permits-calgary" target="_blank" rel="noopener">how to shorten your opening timeline</a>.</p>
+<h2>What diners should keep in mind</h2>
+<p>A few habits make the AHS reports more useful:</p>
+<ul>
+<li>Check more than one inspection. A single bad day is common. A string of the same violation is a signal.</li>
+<li>Look at what happened next. A violation marked corrected, followed by a clean monitoring inspection, shows a kitchen that responds.</li>
+<li>Do not assume that no listed violations means perfection. Safe practices are not shown, and the report reflects a single visit.</li>
+<li>Use your own eyes too. A clean dining room, working handwashing sinks and staff who handle food carefully tell you something the report cannot.</li>
+</ul>
+<p>Nothing here replaces medical advice. If you think you have a foodborne illness, contact your doctor or local public health centre, and tell AHS which restaurant you ate at.</p>
+<h2>FAQ</h2>
+<h3>Where can I see a Calgary restaurant’s health inspection results?</h3>
+<p>Search the facility by name or address on the Alberta Health Services inspection disclosure pages. Calgary reports are generally posted within one business day, and can take up to five. Results stay online for three years from the inspection date.</p>
+<h3>How can I file a food safety complaint with Alberta Health Services?</h3>
+<p>Contact AHS Environmental Public Health, which handles restaurant inspections in Alberta, and give the restaurant’s name, address, date of your visit and what you saw. If you are ill, contact your doctor or local public health centre as well. A complaint can lead to a demand inspection.</p>
+<h3>What does it mean if a restaurant was ordered closed?</h3>
+<p>A closure or unfit order means the facility must stay closed until the noted repairs are completed. A permit suspension means it cannot operate until compliance is shown and the permit is reinstated. Check the AHS Calgary Zone page for the order type, the date and whether it is still active.</p>
+<h3>Does a clean report mean a restaurant is perfectly safe?</h3>
+<p>No. Reports list only unsafe conditions found while the inspector was onsite, and they do not guarantee how the kitchen looks on any other day. Use the report as one input and look at the pattern across several inspections.</p>
+<h3>Can a kitchen renovation reduce my chances of violations?</h3>
+<p>It can help with the violations that come from the building: hand sink placement, hot water capacity, storage, ventilation and cleanable finishes. Staff practices still matter, but a well-planned space makes good practice easier.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.albertahealthservices.ca/eph/page3149.aspx" rel="nofollow noopener noreferrer" target="_blank">Public Health Inspection Reports, Alberta Health Services</a></li>
+<li><a href="https://www.albertahealthservices.ca/eph/Page18195.aspx" rel="nofollow noopener noreferrer" target="_blank">Inspection Disclosure Details, Alberta Health Services</a></li>
+<li><a href="https://www.albertahealthservices.ca/eph/Page14648.aspx" rel="nofollow noopener noreferrer" target="_blank">Calgary Zone, Alberta Health Services</a></li>
+<li><a href="https://www.albertahealthservices.ca/assets/wf/eph/wf-eph-cgy-chicas-empanadas-yyc-26-cranston-place-se-calgary-august-5-2026-a.pdf" rel="nofollow noopener noreferrer" target="_blank">AHS Calgary closure notice, August 2026</a></li>
+<li><a href="https://inspection.canada.ca/en/food-safety-consumers/where-report-complaint/restaurants-and-food-services" rel="nofollow noopener noreferrer" target="_blank">Restaurant and food service inspection in Canada, CFIA</a></li>
+<li><a href="https://calgaryherald.com/news/local-news/how-ahs-handles-restaurant-inspections" rel="nofollow noopener noreferrer" target="_blank">How AHS handles restaurant inspections, Calgary Herald</a></li>
+<li><a href="https://www.albertahealthservices.ca/news/releases/2021/Page15889.aspx" rel="nofollow noopener noreferrer" target="_blank">AHS statement on Whistle Stop Cafe closure</a></li>
+<li><a href="https://www.albertahealthservices.ca/assets/wf/eph/wf-eph-what-we-look-for-during-an-inspection.pdf" rel="nofollow noopener noreferrer" target="_blank">What is looked at during a food inspection, Alberta Health Services</a></li>
+<li><a href="https://www.canlii.org/en/ab/laws/regu/alta-reg-31-2006/latest/alta-reg-31-2006.html" rel="nofollow noopener noreferrer" target="_blank">Food Regulation, Alta Reg 31/2006</a></li>
+<li><a href="https://highpressuremechanical.com/2026/10/14/commercial-water-heater-maintenance" target="_blank" rel="nofollow noopener noreferrer">Commercial water heater maintenance</a></li>
+</ul>
+Statera ContractingDiscuss Your Restaurant RenovationContact Statera Contracting to discuss a restaurant or commercial renovation in Calgary or the surrounding areas.Statera Contracting<a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">Email Statera Contracting: statera.contracting@gmail.com</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/restaurant-kitchen-permit-calgary" target="_blank" rel="noopener">Restaurant kitchen permit Calgary: your complete approval roadmap</a></li>
+<li><a href="https://stateracontracting.com/blog/restaurant-washroom-requirements-calgary" target="_blank" rel="noopener">Get Calgary Restaurant Washroom Permits: 1 Washroom for 10 Seats</a></li>
+<li><a href="https://stateracontracting.com/blog/restaurant-permits-calgary" target="_blank" rel="noopener">Cut Months Off Your Opening: Calgary Restaurant Permits Contractor Roadmap</a></li>
+<li><a href="https://stateracontracting.com/blog/grease-interceptor-requirements-calgary" target="_blank" rel="noopener">Grease Interceptor Requirements in Calgary for Restaurants</a></li>
+</ul>
+
+`,
+      },
+    ],
+  },
 ];
 
 
