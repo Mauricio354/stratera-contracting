@@ -107,7 +107,8 @@
   "1017793": { "status": "published", "publishedAt": "2026-10-30" },
   "1020925": { "status": "published", "publishedAt": "2026-10-31" },
   "1024625": { "status": "published", "publishedAt": "2026-11-01" },
-  "1027134": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-10-30 (1017793 published today); webhook arrival, estimated calendar date created_at 2026-10-30 + 3 days = 2026-11-02, estimated, not screenshot-confirmed (1020925 and 1024625 are older and due first)" },
+  "1027134": { "status": "published", "publishedAt": "2026-11-02" },
   "1032311": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-10-31 (1020925 published today); webhook arrival, calendar date not yet determined (created_at + 3 days, estimated, not screenshot-confirmed); 1024625 and 1027134 are older and due first" },
-  "1038805": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-11-01 (1024625 published today); webhook arrival, created_at 2026-11-01 + 3 days = 2026-11-04, estimated, not screenshot-confirmed (1027134 and 1032311 are older and due first)" }
+  "1038805": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-11-01 (1024625 published today); webhook arrival, created_at 2026-11-01 + 3 days = 2026-11-04, estimated, not screenshot-confirmed (1027134 and 1032311 are older and due first)" },
+  "1043051": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-11-02 (1027134 published today); webhook arrival, created_at 2026-11-02 + 3 days = 2026-11-05, estimated, not screenshot-confirmed (1032311 and 1038805 are older and due first)" }
 }

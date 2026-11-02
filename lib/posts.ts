@@ -21975,6 +21975,205 @@ Statera ContractingDiscuss Your Restaurant RenovationContact Statera Contracting
       },
     ],
   },
+  {
+    slug: "energy-efficient-upgrades-alberta",
+    title: "Energy Efficient Upgrades in Alberta: What to Do First",
+    excerpt: "The best energy efficient upgrades for an Alberta property are the ones that stop heat from escaping first (insulation and air sealing), then the ones that heat and light the building more efficiently (windows, heat pumps, furnaces, LEDs).",
+    date: "2026-11-02",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1793167351012_Technician-seals-an-insulated-attic-hatch.jpeg",
+    coverAlt: "Energy Efficient Upgrades in Alberta: What to Do First",
+    category: "Industry News",
+    readingTime: "11 min read",
+    metaTitle: "Energy Efficient Upgrades in Alberta: What to Do First",
+    metaDescription: "Which energy efficient upgrades pay off in Alberta homes and businesses, how to order them, and how CEIP financing works through your property tax bill.",
+    content: [
+      {
+        type: "html",
+        html: `<p>The best energy efficient upgrades for an Alberta property are the ones that stop heat from escaping first (insulation and air sealing), then the ones that heat and light the building more efficiently (windows, heat pumps, furnaces, LEDs). Doing them in that order matters, because a new furnace in a leaky building wastes much of what you paid for. Financing is also easier than many owners expect: the Clean Energy Improvement Program (CEIP) lets eligible owners repay upgrades through their property tax bill.</p>
+<p>We are a Calgary renovation contractor, so this guide is written from the job site: what we see in Alberta houses and commercial spaces, what to tackle first, and where the money can come from.</p>
+Statera ContractingMake Efficiency Part of Your RenovationStatera Contracting renovates Calgary homes and commercial spaces, including kitchens, bathrooms, basements, additions and exterior projects.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Start with an assessment of the whole building. Weak insulation or poor ventilation can cancel out a new furnace or windows.</li>
+<li>Insulation and air sealing come first, then windows and doors, then heating equipment, lighting and appliances.</li>
+<li>CEIP can finance up to 100% of eligible project costs, repaid on your property tax bill. Provincial limits are $50,000 for residential and $1 million for commercial, and your municipality may set lower ones.</li>
+<li>The federal Canada Greener Homes Grant is closed to new applicants, so plan around CEIP and other current programs.</li>
+<li>Best timing: when you are already renovating a kitchen, bathroom, basement or addition, because walls and ceilings are open.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#start-with-how-your-building-performs-today">Start with how your building performs today</a></li>
+<li><a href="#the-upgrades-in-the-order-we-recommend">The upgrades, in the order we recommend</a></li>
+<li><a href="#what-can-you-realistically-save">What can you realistically save?</a></li>
+<li><a href="#paying-for-upgrades-ceip-and-other-programs">Paying for upgrades: CEIP and other programs</a></li>
+<li><a href="#commercial-properties-restaurants-offices-and-retail">Commercial properties: restaurants, offices and retail</a></li>
+<li><a href="#our-perspective-bundle-efficiency-into-the-renovation-you-are-already-doing">Our perspective: bundle efficiency into the renovation you are already doing</a></li>
+<li><a href="#plan-efficiency-into-your-next-project-with-us">Plan efficiency into your next project with us</a></li>
+<li><a href="#a-simple-plan-to-get-started">A simple plan to get started</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Start with how your building performs today</h2>
+<p>Natural Resources Canada advises owners to <a href="https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/renovating-energy-efficiency" rel="nofollow noopener noreferrer" target="_blank">assess the home’s overall energy performance first</a>, because poor insulation or ventilation can undo the benefit of a new furnace or upgraded windows and doors. That matches what we see. A homeowner replaces windows, still feels a draft, and the real cause is an uninsulated rim joist or an attic hatch with no seal.</p>
+<p>For a deeper project, the SSRIA deep energy retrofit guidebook points to a <a href="https://www.ssria.ca/wp-content/uploads/2024/03/FilesDEEP_ENERGY_RETROFIT_GUIDEBOOK_FS02.pdf" rel="nofollow noopener noreferrer" target="_blank">tailored roadmap that combines energy modelling with the building’s current condition and maintenance needs</a> as the most cost-effective path. In plain terms: get an energy assessment, then decide the order of work and what to bundle with other renovations.</p>
+<p>Before booking anyone, walk the building and note:</p>
+<ul>
+<li>Rooms that are always colder in winter or hotter in summer.</li>
+<li>Ice dams, frost on attic sheathing or damp spots, which point to air leakage or poor ventilation.</li>
+<li>Age and type of your furnace, water heater and windows.</li>
+<li>Any renovation already planned. Open walls are the cheapest time to add insulation.</li>
+</ul>
+<p>If your house is older, our guide to <a href="https://stateracontracting.com/blog/renovating-an-older-home" target="_blank" rel="noopener">renovating an older home in Alberta</a> covers the surprises that tend to turn up behind the drywall.</p>
+<h2>The upgrades, in the order we recommend</h2>
+<table>
+<thead>
+<tr>
+<th>Upgrade</th>
+<th>What it improves</th>
+<th>Where it fits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Air sealing</td>
+<td>Drafts, heat loss, comfort</td>
+<td>First, often paired with insulation</td>
+</tr>
+<tr>
+<td>Attic and wall insulation</td>
+<td>Heating and cooling cost, comfort</td>
+<td>First</td>
+</tr>
+<tr>
+<td>Basement and rim joist insulation</td>
+<td>Cold floors, heat loss</td>
+<td>During a basement renovation</td>
+</tr>
+<tr>
+<td>Windows and doors</td>
+<td>Heat loss, condensation, comfort</td>
+<td>After the envelope is tightened</td>
+</tr>
+<tr>
+<td>Heat pump or high-efficiency furnace</td>
+<td>Heating cost, electrification</td>
+<td>After the envelope</td>
+</tr>
+<tr>
+<td>LED lighting and efficient appliances</td>
+<td>Electricity use</td>
+<td>Any time, low effort</td>
+</tr>
+<tr>
+<td>Solar</td>
+<td>Offsets power purchased</td>
+<td>Last, once demand is reduced</td>
+</tr>
+</tbody>
+</table>
+<h3>Insulation and air sealing</h3>
+<p>Insulation reduces heating and cooling costs and improves comfort by resisting conductive heat flow. The City of Calgary notes that the National Building Code, Alberta Edition, <a href="https://www.calgary.ca/environment/resources/climate-ready-measures-insulation.html" rel="nofollow noopener noreferrer" target="_blank">requires R-22 for above-ground framed walls</a>. Many older Calgary homes were built before that standard, so there is often room to improve.</p>
+<p>Air sealing is the cheap partner to insulation. Insulation slows heat moving through materials; sealing stops warm air from leaking out through gaps around windows, outlets, attic hatches and rim joists. Done together, they tend to deliver more than either alone.</p>
+<h3>Windows and doors</h3>
+<p>New windows with low-e glazing reduce heat loss and gain, and they make rooms noticeably more comfortable near the glass. They are also a significant expense, which is why we put them after insulation for most homes. If your windows are failing (fogged units, rot, drafts you cannot seal), replacing them is a sound call. If they are merely old, sealing and insulation around them may get you further for less money.</p>
+<h3>Heating equipment</h3>
+<p>High-efficiency furnaces and heat pumps are the upgrades most owners ask about. Size matters: once the envelope is tighter, the building needs less heat, so equipment can be sized smaller. Buying the biggest unit first and insulating later means paying for capacity you will not use. A heat pump also adds cooling, which is increasingly welcome on hot Calgary summer days.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1793167406487_Envelope-upgrades-reduce-heating-equipment-sizing-needs.jpeg" alt="Envelope upgrades reduce heating equipment sizing needs" /></p>
+<h3>Lighting and appliances</h3>
+<p>LED lighting and efficient appliances are the simplest changes. They will not transform your bills alone, but they are easy to fold into a kitchen renovation, where new lighting, a range hood and appliances are being chosen anyway. See our <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation service</a> for how we plan those choices with you.</p>
+<h2>What can you realistically save?</h2>
+<p>Natural Resources Canada states that energy-efficiency retrofits can reduce operating costs, and that <a href="https://natural-resources.canada.ca/energy-efficiency/building-energy-efficiency/retrofitting" rel="nofollow noopener noreferrer" target="_blank">deep retrofits can save up to 60% in energy costs</a>. Treat that as the ceiling for a comprehensive retrofit, not a promise for a single upgrade.</p>
+<p>Your own result depends on:</p>
+<ul>
+<li><strong>Starting point.</strong> A poorly insulated 1970s house has more to gain than a recent build.</li>
+<li><strong>Scope.</strong> Envelope plus equipment saves more than equipment alone.</li>
+<li><strong>Fuel and rates.</strong> Natural gas prices in Alberta move. The province’s <a href="https://www.alberta.ca/natural-gas-rebate-program" rel="nofollow noopener noreferrer" target="_blank">Natural Gas Rebate Program</a> pays automatic rebates when regulated rates exceed $6.50 per gigajoule, which shows how swings in price change the value of saving gas.</li>
+<li><strong>Installation quality.</strong> Gaps in insulation or poorly sealed ducts waste the material you paid for.</li>
+</ul>
+<p>We cover payback in more detail in <a href="https://stateracontracting.com/blog/energy-efficient-renovations-alberta" target="_blank" rel="noopener">which Alberta energy efficient renovations to start with</a>.</p>
+<h2>Paying for upgrades: CEIP and other programs</h2>
+<h3>How CEIP works</h3>
+<p>The Clean Energy Improvement Program is municipal financing for energy-efficiency and renewable-energy upgrades. It covers owners of detached, semi-detached and townhouse properties, plus retail, office, warehouse and other commercial properties, and <a href="https://ceip.abmunis.ca/" rel="nofollow noopener noreferrer" target="_blank">can finance up to 100% of project costs</a>. The <a href="https://ceip.abmunis.ca/frequently-asked-questions/" rel="nofollow noopener noreferrer" target="_blank">program’s FAQ</a> sets regulatory limits of $50,000 for residential and $1 million for commercial properties, subject to any lower limit your municipality sets.</p>
+<p>The steps look like this:</p>
+<ol>
+<li>Confirm your municipality participates and your property is eligible. The City of Calgary lists <a href="https://www.calgary.ca/environment/programs/clean-energy-improvement-program.html" rel="nofollow noopener noreferrer" target="_blank">residential CEIP eligibility and upgrades</a>, including a requirement that you own a low-rise residential property in Calgary.</li>
+<li>Submit a pre-qualification application through your municipality.</li>
+<li>Hire a contractor and complete the work.</li>
+<li>After the project is complete and approved, the financing is repaid through your property tax bill.</li>
+</ol>
+<p>If you sell, the financing <a href="https://ucahelps.alberta.ca/residential/renewable-energy/renewable-energy-grants-and-programs/" rel="nofollow noopener noreferrer" target="_blank">stays with the property and the new owner assumes repayment, though it can be paid off before sale</a>. Tell your realtor early if you use it.</p>
+<p>One practical point: confirm approval requirements before work starts, not after. Our walkthrough, <a href="https://stateracontracting.com/blog/home-energy-rebates-alberta" target="_blank" rel="noopener">CEIP financing energy upgrades on your property tax</a>, explains the sequence in more detail.</p>
+<h3>Other programs to check</h3>
+<ul>
+<li><strong>Seniors.</strong> The Alberta Utilities Consumer Advocate lists SHARP low-interest home equity loans of <a href="https://ucahelps.alberta.ca/residential/renewable-energy/renewable-energy-grants-and-programs/" rel="nofollow noopener noreferrer" target="_blank">up to $40,000 for repairs or energy-efficiency upgrades</a> for eligible seniors. Our <a href="https://stateracontracting.com/blog/senior-home-renovation-tax-credit" target="_blank" rel="noopener">senior home renovation tax credit guide</a> covers related federal support.</li>
+<li><strong>Commercial and farm owners.</strong> The same page lists ERA funding of up to $250,000 per project for energy-efficiency upgrades.</li>
+<li><strong>Federal grants.</strong> The Canada Greener Homes Grant is <a href="https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/canada-greener-homes-initiative?wbdisable=true" rel="nofollow noopener noreferrer" target="_blank">closed to new applicants</a>, so do not plan a budget around it. Our <a href="https://stateracontracting.com/blog/home-renovation-tax-credit" target="_blank" rel="noopener">home renovation tax credit guide</a> covers what may still apply.</li>
+</ul>
+<p>Program terms change, so confirm the current rules on the official page before you sign anything.</p>
+<h2>Commercial properties: restaurants, offices and retail</h2>
+<p>CEIP is not only for houses. Commercial owners can finance eligible upgrades including <a href="https://ceip.abmunis.ca/wp-content/uploads/CEIP-Commercial-Upgrades.pdf" rel="nofollow noopener noreferrer" target="_blank">insulation and air sealing, windows, HVAC, lighting and solar</a>. The same list includes air curtains, which create an invisible barrier over doorways to separate environments without limiting access for people or vehicles. For a restaurant or retail shop with constant door traffic, that can matter.</p>
+<p>Kitchens are the heaviest energy users in a restaurant. Ventilation, in particular, moves a lot of conditioned air out of the building, so <a href="https://hoodskitchenexhaust.com/energy-efficiency-in-commercial-kitchen-ventilation-tips-and-best-practices" target="_blank" rel="nofollow noopener noreferrer">energy-efficient kitchen ventilation</a> is worth planning at the design stage, not as an afterthought.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1793167352863_Commercial-kitchen-exhaust-hood-above-cooking-line.jpeg" alt="Commercial kitchen exhaust hood above cooking line" /></p>
+<p>If you own a larger building in Calgary, the city’s <a href="https://www.calgary.ca/environment/programs/building-energy-benchmarking-program.html" rel="nofollow noopener noreferrer" target="_blank">BenchmarkYYC program</a> gives participants three free virtual decarbonization plans to model retrofit and electrification pathways. It runs on an annual data submission period, so check the city page for the current dates. Natural Resources Canada also says benchmarking with ENERGY STAR Portfolio Manager <a href="https://natural-resources.canada.ca/energy-efficiency/building-energy-efficiency/retrofitting" rel="nofollow noopener noreferrer" target="_blank">helps identify retrofit opportunities and track investments</a>. It adds that retrofits can attract tenants and reduce maintenance requirements.</p>
+<p>A commercial tenant improvement is the natural time to upgrade lighting, HVAC and the envelope together, since the space is already being opened up.</p>
+<h2>Our perspective: bundle efficiency into the renovation you are already doing</h2>
+<p>Most of our clients do not call us saying they want an energy retrofit. They call about a kitchen, a basement, a bathroom or an addition. That is where we think energy upgrades make the most sense.</p>
+<p>When walls are open for a basement renovation, adding insulation and air sealing costs a fraction of what it would cost to open finished walls later. When we build an addition, the new envelope is designed to current code from the start, and we look at how it ties into the existing house so you do not create a cold, drafty seam. In a kitchen, new lighting, ventilation and appliances are decisions already on the table.</p>
+<p>We also advise against chasing a single flashy item. We prefer to look at the whole building first, set an order of work, and keep each upgrade honest about what it will and will not do. As a family-owned team that manages each project directly, we check code requirements, handle permits and give you daily communication, so efficiency upgrades do not become a separate headache. Our <a href="https://stateracontracting.com/blog/basement-renovation-roi-calgary" target="_blank" rel="noopener">basement renovation ROI guide</a> and <a href="https://stateracontracting.com/blog/sustainable-building-materials" target="_blank" rel="noopener">sustainable building materials guide</a> go deeper on materials and value.</p>
+<blockquote>
+<p><em>— Patrick</em></p>
+</blockquote>
+<h2>Plan efficiency into your next project with us</h2>
+<p>If you are planning a renovation in Calgary, Okotoks, Cochrane or Airdrie, we can build energy upgrades into the scope, with design included, permits handled and a fixed-price agreement. For a basement, see our <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement and living spaces service</a>. For a restaurant, office or retail space, see our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation service</a>. Or start on our <a href="https://stateracontracting.com/" target="_blank" rel="noopener">home page</a> and book a free consultation.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If you are weighing a larger project, our <a href="https://stateracontracting.com/blog/entire-home-renovations" target="_blank" rel="noopener">whole-home renovation roadmap</a> and <a href="https://stateracontracting.com/blog/smart-renovations-for-calgary-homes-2026-guide" target="_blank" rel="noopener">smart renovations guide for Calgary homes</a> show how the pieces fit together.</p>
+<h2>A simple plan to get started</h2>
+<ol>
+<li><strong>Get an energy assessment</strong> so you know where heat is escaping.</li>
+<li><strong>List what is already planned.</strong> Kitchen, basement, bathroom or addition work can absorb insulation and air sealing at low extra cost.</li>
+<li><strong>Check your municipality’s CEIP page</strong> for eligibility, limits and pre-qualification steps.</li>
+<li><strong>Get written scopes.</strong> Ask any contractor how they handle permits, code requirements and insulation details.</li>
+<li><strong>Sequence the work.</strong> Envelope first, then windows, then heating equipment sized for the improved building.</li>
+<li><strong>Keep records.</strong> Receipts and approvals matter for financing and for resale.</li>
+</ol>
+<h2>FAQ</h2>
+<h3>What is the best first energy upgrade for an Alberta home?</h3>
+<p>For most homes it is insulation combined with air sealing, ideally after an energy assessment. These reduce heat loss for the whole house and let you size heating equipment correctly later. Windows and a furnace or heat pump usually come afterwards.</p>
+<h3>Can I finance energy upgrades through my property taxes in Alberta?</h3>
+<p>Yes, if your municipality participates in CEIP and your property is eligible. Financing can cover up to 100% of project costs within the program limits, and you repay it through your property tax bill after the project is approved. Start with your municipality’s pre-qualification application.</p>
+<h3>Is the Canada Greener Homes Grant still available?</h3>
+<p>No. Natural Resources Canada lists the grant as closed to new applicants as of 2026. Look at CEIP and the Alberta programs for seniors, commercial owners and farms, and confirm current terms on the official pages.</p>
+<h3>Do commercial buildings qualify for energy efficiency financing?</h3>
+<p>Yes. CEIP covers commercial properties including retail, office and warehouse, with a provincial limit of $1 million subject to municipal limits. Eligible upgrades include insulation, air sealing, windows, HVAC, lighting and solar.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/environment/resources/climate-ready-measures-insulation.html" rel="nofollow noopener noreferrer" target="_blank">Climate ready measures: Insulation, City of Calgary</a></li>
+<li><a href="https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/renovating-energy-efficiency" rel="nofollow noopener noreferrer" target="_blank">Renovating for energy efficiency, Natural Resources Canada</a></li>
+<li><a href="https://www.ssria.ca/wp-content/uploads/2024/03/FilesDEEP_ENERGY_RETROFIT_GUIDEBOOK_FS02.pdf" rel="nofollow noopener noreferrer" target="_blank">Deep Energy Retrofit Guidebook, SSRIA</a></li>
+<li><a href="https://natural-resources.canada.ca/energy-efficiency/building-energy-efficiency/retrofitting" rel="nofollow noopener noreferrer" target="_blank">Retrofitting, Natural Resources Canada</a></li>
+<li><a href="https://www.alberta.ca/natural-gas-rebate-program" rel="nofollow noopener noreferrer" target="_blank">Natural Gas Rebate Program, Alberta.ca</a></li>
+<li><a href="https://ceip.abmunis.ca/" rel="nofollow noopener noreferrer" target="_blank">Clean Energy Improvement Program</a></li>
+<li><a href="https://ceip.abmunis.ca/frequently-asked-questions/" rel="nofollow noopener noreferrer" target="_blank">CEIP Frequently Asked Questions</a></li>
+<li><a href="https://www.calgary.ca/environment/programs/clean-energy-improvement-program.html" rel="nofollow noopener noreferrer" target="_blank">Residential CEIP, City of Calgary</a></li>
+<li><a href="https://ucahelps.alberta.ca/residential/renewable-energy/renewable-energy-grants-and-programs/" rel="nofollow noopener noreferrer" target="_blank">Renewable energy grants and programs, Utilities Consumer Advocate</a></li>
+<li><a href="https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/canada-greener-homes-initiative?wbdisable=true" rel="nofollow noopener noreferrer" target="_blank">Canada Greener Homes Initiative, Natural Resources Canada</a></li>
+<li><a href="https://ceip.abmunis.ca/wp-content/uploads/CEIP-Commercial-Upgrades.pdf" rel="nofollow noopener noreferrer" target="_blank">CEIP commercial eligible upgrades</a></li>
+<li><a href="https://www.calgary.ca/environment/programs/building-energy-benchmarking-program.html" rel="nofollow noopener noreferrer" target="_blank">BenchmarkYYC, City of Calgary</a></li>
+<li><a href="https://hoodskitchenexhaust.com/energy-efficiency-in-commercial-kitchen-ventilation-tips-and-best-practices" target="_blank" rel="nofollow noopener noreferrer">Energy-efficient kitchen ventilation tips</a></li>
+</ul>
+Statera ContractingTalk About Your Renovation PlansContact Statera Contracting to discuss a Calgary home or commercial renovation, including how energy efficient upgrades may fit into the project.<a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/energy-efficient-renovations-alberta" target="_blank" rel="noopener">3–6 Year Payback: Alberta Energy Efficient Renovations to Start With</a></li>
+<li><a href="https://stateracontracting.com/blog/home-energy-rebates-alberta" target="_blank" rel="noopener">Calgary Homeowners: CEIP Finances Energy Upgrades on Your Property Tax</a></li>
+<li><a href="https://stateracontracting.com/blog/smart-renovations-for-calgary-homes-2026-guide" target="_blank" rel="noopener">Smart renovations for Calgary homes: 2026 guide</a></li>
+<li><a href="https://stateracontracting.com/blog/sustainable-building-materials" target="_blank" rel="noopener">Sustainable building materials: your Alberta guide</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
