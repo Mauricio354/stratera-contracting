@@ -22608,6 +22608,205 @@ Statera ContractingDiscuss Windows for Your HomeContact Statera Contracting to d
       },
     ],
   },
+  {
+    slug: "cabinet-hardware-placement",
+    title: "Cabinet Hardware Placement: Where Knobs and Pulls Go",
+    excerpt: "Put knobs and pulls on the edge of the door opposite the hinges. On upper cabinets they go near the bottom corner, and on base cabinets near the top corner.",
+    date: "2026-11-05",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1793450802749_Knobs-and-pulls-on-kitchen-cabinet-fronts.jpeg",
+    coverAlt: "Cabinet Hardware Placement: Where Knobs and Pulls Go",
+    category: "Industry News",
+    readingTime: "12 min read",
+    metaTitle: "Cabinet Hardware Placement: Where Knobs and Pulls Go",
+    metaDescription: "Where to place cabinet knobs and pulls on doors and drawers, how to size pulls with the 1/3 rule, and how to choose under-cabinet lighting that works with them.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Put knobs and pulls on the edge of the door opposite the hinges. On upper cabinets they go near the bottom corner, and on base cabinets near the top corner. On drawers they sit centred. No building code sets these positions, so the real goal is consistency: every door and drawer in the kitchen follows the same rules. Below you’ll find the measurements we use, how to size pulls, how to handle awkward cases like tall pantries and narrow rails, and how under-cabinet lighting fits in.</p>
+Statera ContractingPlan a Consistent Kitchen UpdateStatera Contracting renovates kitchens in Calgary and nearby areas, bringing cabinet details into the wider picture of your home renovation.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Hardware goes on the side opposite the hinge: near the bottom corner on wall cabinets, near the top corner on base cabinets.</li>
+<li>Drawers get hardware centred side to side. A pull about one-third of the drawer width is a reliable starting size.</li>
+<li>Most makers inset hardware roughly 2 to 3 inches from the door edges. Pick one measurement and repeat it everywhere.</li>
+<li>Drill a test hole in a scrap piece first, and use a template or jig for every door.</li>
+<li>Plan under-cabinet lighting at the same time as hardware. Mount fixtures toward the front of the cabinet bottom, and have hardwired lighting installed by a licensed electrician.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#there-is-no-code-only-conventions">There is no code, only conventions</a></li>
+<li><a href="#doors-which-corner-and-how-far-in">Doors: which corner and how far in</a></li>
+<li><a href="#drawers-centred-and-sized-by-width">Drawers: centred, and sized by width</a></li>
+<li><a href="#knobs-pulls-or-a-mix">Knobs, pulls, or a mix</a></li>
+<li><a href="#how-to-install-hardware-without-ruining-a-door">How to install hardware without ruining a door</a></li>
+<li><a href="#under-cabinet-lighting-and-hardware-plan-them-together">Under-cabinet lighting and hardware: plan them together</a></li>
+<li><a href="#common-mistakes-we-see">Common mistakes we see</a></li>
+<li><a href="#our-perspective">Our perspective</a></li>
+<li><a href="#planning-a-kitchen-update-in-calgary">Planning a kitchen update in Calgary?</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>There is no code, only conventions</h2>
+<p>People often ask what the “rule” is. There isn’t an official one. Cabinet makers <a href="https://www.captivatingcabinets.com/blog/how-to-install-cabinet-handles-and-pulls" rel="nofollow noopener noreferrer" target="_blank">agree on conventions and differ by about an inch</a>, which means you have room to adjust for your door style, your hands and your kitchen’s look.</p>
+<p>What matters more than the exact number is that the same number is used on every door. A pull that sits half an inch higher on one cabinet is noticeable, especially down a long run of lowers. We decide the measurements before any hole is drilled, write them on the plan, and apply them across the whole kitchen.</p>
+<h2>Doors: which corner and how far in</h2>
+<p>The placement logic follows how you reach for a door.</p>
+<ul>
+<li><strong>Upper (wall) cabinets:</strong> hardware sits near the bottom corner, on the edge opposite the hinge. You are reaching up, so the handle falls where your hand arrives.</li>
+<li><strong>Lower (base) cabinets:</strong> hardware sits near the top corner, on the edge opposite the hinge, so you don’t have to bend further than needed.</li>
+</ul>
+<p>For the inset, <a href="https://www.vk-hardware.ca/journal/where-to-place-cabinet-knobs" rel="nofollow noopener noreferrer" target="_blank">VK Hardware</a>, a Canadian hardware supplier, suggests 2 to 3 inches in from the edges. Another approach for flat slab doors is to keep the same distance from the edge on both sides of the corner, so the knob or pull looks deliberately placed rather than pushed into a corner.</p>
+<h3>Shaker and framed-style doors</h3>
+<p>Shaker doors have a flat centre panel and a frame around it. Hardware goes on the frame, not on the panel. The standard approach is to centre knobs on the frame piece (the stile) horizontally. A common guideline is to place holes about 2 to 4 inches from the top or bottom edge, which a <a href="https://taylorcraftdoor.com/cabinet-door-hardware-placement-guidelines/" rel="nofollow noopener noreferrer" target="_blank">door manufacturer’s placement guidelines</a> also describe.</p>
+<p>If the frame is narrow, measure carefully. A cabinet-door maker gives these starting figures for narrow-rail doors: <a href="https://kitchencraft.pro/how-to-install-decorative-hardware-on-cabinet-doors-and-drawers/" rel="nofollow noopener noreferrer" target="_blank">1.75 inches in from the edges for knobs, and 1.25 inches for pulls</a>. The same source warns against fitting knobs or pulls on the narrow stile of Yuro butt doors: knobs can collide with each other, and pulls end up too close to the door edge to grip comfortably.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1793450839900_Shaker-and-framed-style-doors.jpeg" alt="Shaker and framed-style doors" /></p>
+<h3>Slab doors</h3>
+<p>Flat slab doors have no frame to guide you, so the edge inset does the work. Stay in the 2 to 3 inch range, and keep it identical across the kitchen. Slab doors suit long, clean-lined pulls mounted vertically, and they are forgiving, because there is no frame line to clash with.</p>
+<h3>Tall pantry and linen cabinets</h3>
+<p>A corner position doesn’t suit a full-height door. Put the hardware at mid-height instead. VK Hardware gives <a href="https://www.vk-hardware.ca/journal/where-to-place-cabinet-knobs" rel="nofollow noopener noreferrer" target="_blank">roughly 36 to 44 inches from the floor</a> for tall pantry or linen cabinets so that adults can reach it without stretching. If you have children or anyone with limited reach in the home, aim for the lower end of that range.</p>
+<p>While you’re planning the position of tall cabinets, it helps to check how the doors swing. Our guide to <a href="https://stateracontracting.com/blog/kitchen-countertop-heights-the-complete-homeowners-guide" target="_blank" rel="noopener">kitchen countertop heights</a> covers how the work surface height relates to where hands naturally land, and the same logic applies to handles.</p>
+<h2>Drawers: centred, and sized by width</h2>
+<p>On drawer fronts, the usual approach is to centre the hardware horizontally. Vertically, many installers use the exact middle of the drawer front, and some cabinet makers point to this as the way to <a href="https://kitchencraft.pro/how-to-install-decorative-hardware-on-cabinet-doors-and-drawers/" rel="nofollow noopener noreferrer" target="_blank">spread the pulling force evenly</a>. Others place hardware on the top rail of a five-piece drawer front or at the upper third of a deep drawer. Both can look right. What counts is that the same type of drawer gets the same placement.</p>
+<h3>Sizing a pull with the 1/3 rule</h3>
+<p>The 1/3 rule is simply this: a pull should be about one-third the width of the drawer or door. Lee Valley Tools <a href="https://www.leevalley.com/en-ca/hardware/decorative-hardware/how-to-measure-hardware" rel="nofollow noopener noreferrer" target="_blank">recommends pull lengths of roughly a third of the cabinet or drawer width</a>. Their examples:</p>
+<table>
+<thead>
+<tr>
+<th>Drawer width</th>
+<th>Suggested pull</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12 inches or less</td>
+<td>3 to 4 inch pull</td>
+</tr>
+<tr>
+<td>About 24 inches</td>
+<td>Roughly 8 inch pull (one-third)</td>
+</tr>
+<tr>
+<td>30 to 48 inches</td>
+<td>Pull longer than 8 inches, or two pulls</td>
+</tr>
+</tbody>
+</table>
+<p>The middle row is our arithmetic from the one-third rule, not a figure from the source. Treat these as starting points. A heavy pots-and-pans drawer feels better with a longer pull that gives your whole hand a grip.</p>
+<h3>Wide drawers with two pulls</h3>
+<p>When a drawer is wider than about 24 inches, two pulls are an option. Divide the drawer front into three equal sections and centre one pull in each of the outer sections, as <a href="https://www.captivatingcabinets.com/blog/how-to-install-cabinet-handles-and-pulls" rel="nofollow noopener noreferrer" target="_blank">this installation guide describes</a>. Two pulls spread the load so the drawer doesn’t twist as it opens.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1793450885290_Two-pulls-positioned-on-a-wide-drawer-front.jpeg" alt="Two pulls positioned on a wide drawer front" /></p>
+<h2>Knobs, pulls, or a mix</h2>
+<p>Knobs are quick to install (one hole) and work well on doors. Pulls give a better grip on heavy drawers. Mixing the two is a common, accepted approach: knobs on doors, pulls on drawers, in the same finish. Deslaurier, a Canadian cabinetry brand, <a href="https://www.deslaurier.com/en-ca/learning-centre/how-to-choose-cabinet-hardware" rel="nofollow noopener noreferrer" target="_blank">encourages homeowners to mix knobs and pulls</a> to suit their own preferences.</p>
+<p>A few other points on orientation:</p>
+<ul>
+<li>Traditional design puts pulls horizontally on drawers and vertically on doors.</li>
+<li>Modern kitchens sometimes turn the pull horizontal on a door. <a href="https://www.deslaurier.com/en-ca/learning-centre/horizontal-vs.-vertical-kitchen-cabinet-handles" rel="nofollow noopener noreferrer" target="_blank">Deslaurier notes</a> that this can feel awkward to use and may cause clearance problems when a door swings near a wall or an appliance.</li>
+<li>Check the swing of every door near a fridge, range or corner before you commit to a pull length. The same thinking applies to the whole room, and a <a href="https://blog.adultingwithfood.com/blog/most-efficient-kitchen-layout-a-practical-guide" target="_blank" rel="nofollow noopener noreferrer">practical look at efficient kitchen layouts</a> shows how orientation and clearances affect daily use.</li>
+</ul>
+<h2>How to install hardware without ruining a door</h2>
+<p>The mistakes people regret are almost always measuring errors. This is the process we follow.</p>
+<ol>
+<li><strong>Decide the measurements on paper.</strong> Write down the inset, the corner position, and the drawer rules before touching a drill.</li>
+<li><strong>Use a template or jig.</strong> Marking each door by eye leads to drift. A jig makes every hole land in the same place.</li>
+<li><strong>Test on scrap or the back of a spare door.</strong> Confirm the pull’s hole spacing matches the template. Hole spacing is measured centre to centre between the screws.</li>
+<li><strong>Pick the right bit.</strong> A 3/16 inch drill bit <a href="https://www.captivatingcabinets.com/blog/how-to-install-cabinet-handles-and-pulls" rel="nofollow noopener noreferrer" target="_blank">clears the common 8-32 and M4 screws</a>.</li>
+<li><strong>Drill from the front with a backer board behind the door.</strong> This stops the wood from tearing out on the inside face.</li>
+<li><strong>Check screw length.</strong> Doors and drawer fronts differ in thickness, and a screw that is too long pushes through the face. Doubled-up drawer fronts need longer screws than single doors.</li>
+<li><strong>Install one door, step back, and look.</strong> Then repeat.</li>
+</ol>
+<p>If you’re organizing the inside of the cabinets at the same time, measuring before you buy inserts is just as important as it is for hardware. This <a href="https://blog.flawlesslyfunctional.com/blog/bathroom-cabinet-organization" target="_blank" rel="nofollow noopener noreferrer">guide to bathroom cabinet organization with pullouts</a> walks through that approach, and it applies to kitchen drawers too.</p>
+<h2>Under-cabinet lighting and hardware: plan them together</h2>
+<p>Lighting under wall cabinets changes how the kitchen looks and works, and the fixtures need to sit away from where hands and pulls reach. It’s worth deciding on both together.</p>
+<h3>Strip lights vs puck lights</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>LED strip</th>
+<th>Puck light</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Light spread</td>
+<td>Even, continuous line along the counter</td>
+<td>Pools of light with gaps between</td>
+</tr>
+<tr>
+<td>Best for</td>
+<td>Working kitchens and long counters</td>
+<td>Display cabinets and small spots</td>
+</tr>
+<tr>
+<td>Power options</td>
+<td>Plug-in or hardwired</td>
+<td>Battery, plug-in or hardwired</td>
+</tr>
+</tbody>
+</table>
+<p>A Canadian lighting supplier says <a href="https://votatec.ca/blog/how-to-install-under-cabinet-lighting/" rel="nofollow noopener noreferrer" target="_blank">battery pucks are fine for a display cabinet or pantry but not great for a working kitchen</a>. Plug-in strips are the quick upgrade. Hardwired fixtures take more work and give the cleanest result, with no visible cords.</p>
+<p>For placement, the same source says to mount fixtures <a href="https://votatec.ca/blog/how-to-install-under-cabinet-lighting/" rel="nofollow noopener noreferrer" target="_blank">toward the front lip of the cabinet bottom</a> so the light doesn’t throw shadows from your hands onto the counter. On shiny stone or quartz, a cabinetry company recommends <a href="https://two30nine.com/bright-ideas-for-integrated-cabinet-lighting/" rel="nofollow noopener noreferrer" target="_blank">recessing the strip into the cabinet bottom and using a diffuser</a> so individual LED dots don’t reflect off the surface.</p>
+<p>For how under-cabinet light fits into the overall plan, see our <a href="https://stateracontracting.com/blog/kitchen-lighting-plan" target="_blank" rel="noopener">kitchen lighting plan</a>, which covers the three layers of light a kitchen needs.</p>
+<h3>Electrical rules in Canada</h3>
+<p>Plug-in lights are simple. Hardwired lighting is electrical work, and in Canada it falls under the Canadian Electrical Code (CSA C22.1). In Calgary that generally means an electrical permit and a licensed electrician, and the circuit capacity matters. Our guide to <a href="https://stateracontracting.com/blog/occupancy-load-calculation-calgary" target="_blank" rel="noopener">electrical load calculation in Calgary</a> explains how that capacity is checked. Lighting equipment sold in Canada also has to meet radio-interference rules, set out in <a href="https://www.ised-isde.canada.ca/site/certification-engineering-bureau/en/wireless-equipment-standards-knowledge-center/interference-causing-equipment-standards" rel="nofollow noopener noreferrer" target="_blank">Innovation, Science and Economic Development Canada’s ICES-005 standard</a>, so buy products from a reputable retailer rather than unbranded imports.</p>
+<p>If the kitchen renovation needs permits, they’re best handled up front. Here’s what we do to <a href="https://stateracontracting.com/blog/kitchen-renovation-permit-calgary" target="_blank" rel="noopener">prevent rejected kitchen permits in Calgary</a>.</p>
+<h2>Common mistakes we see</h2>
+<ul>
+<li><strong>Hardware on the hinge side.</strong> The door has to swing against the hand pulling it.</li>
+<li><strong>Pulls too short for wide drawers.</strong> A 3 inch pull on a 30 inch drawer looks lost and feels flimsy.</li>
+<li><strong>Mixing insets.</strong> Two different distances from the edge within the same run of cabinets will show.</li>
+<li><strong>Knobs on narrow stiles.</strong> If the frame is too narrow, a knob can hit the next door, and a pull can sit too close to the edge to grip.</li>
+<li><strong>Forgetting the door swing.</strong> Hardware near an appliance can strike it. Check clearances first.</li>
+<li><strong>Drilling before the cabinets are final.</strong> If you’re refacing or replacing doors, choose the hardware first, then fill old holes properly. Our overview of <a href="https://stateracontracting.com/blog/renovations-kitchen-cabinets" target="_blank" rel="noopener">kitchen cabinet renovation options and budgets in Calgary</a> explains when refacing, repainting or replacement makes sense.</li>
+</ul>
+<h2>Our perspective</h2>
+<blockquote>
+<p>Hardware is the part of a kitchen people touch hundreds of times a day, and it’s the part most often decided at the last minute. We prefer to settle it during design, before the cabinets are built.</p>
+<p>When design is included with the build, as it is with our projects, hardware size, position and lighting are all on the plan before work starts. That’s what stops a pull from colliding with a fridge door, or a light fixture from sitting where a hand needs to be.</p>
+<p>Our team is family-owned and manages each project directly. We talk with you daily, we check every measurement against the drawings, and we install with a template so each door matches the one beside it. That attention to small details is what a good renovation is made of.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Planning a kitchen update in Calgary?</h2>
+<p>If you’re replacing cabinets or reworking the whole kitchen, hardware and lighting are easiest to get right when they’re part of the plan. We design and build kitchens in Calgary and nearby communities, handle permits, and keep you updated every day of the project.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>See our <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation service</a> or <a href="https://stateracontracting.com" target="_blank" rel="noopener">get in touch with Statera Contracting</a> to book a consultation.</p>
+<h2>FAQ</h2>
+<h3>What is the 1/3 rule for cabinet hardware?</h3>
+<p>It means a pull should be about one-third as long as the drawer or door is wide. For a 24 inch drawer, that’s roughly an 8 inch pull. It’s a starting point, not a hard rule, so choose a longer pull for heavy drawers.</p>
+<h3>Where should I put knobs on shaker cabinet doors?</h3>
+<p>Put them on the frame (the stile) on the edge opposite the hinge, centred across the width of that frame. On upper cabinets they go near the bottom corner, and on lowers near the top. Typical distances from the edge are 2 to 4 inches.</p>
+<h3>Should hardware be centred on drawers?</h3>
+<p>Yes, centre it horizontally. Most installers centre it vertically on the drawer front as well, though some use the top rail on deeper drawers. For drawers over about 24 inches wide, two pulls spaced in the outer thirds work well.</p>
+<h3>Can I install under-cabinet lighting myself?</h3>
+<p>Plug-in strips and battery pucks are straightforward to fit. Hardwired lighting is electrical work that falls under the Canadian Electrical Code and may need a permit and inspection, so use a licensed electrician.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.captivatingcabinets.com/blog/how-to-install-cabinet-handles-and-pulls" rel="nofollow noopener noreferrer" target="_blank">How to Install Cabinet Handles: Placement, Jig and Template</a></li>
+<li><a href="https://kitchencraft.pro/how-to-install-decorative-hardware-on-cabinet-doors-and-drawers/" rel="nofollow noopener noreferrer" target="_blank">How to Install Decorative Hardware on Cabinet Doors and Drawers</a></li>
+<li><a href="https://www.leevalley.com/en-ca/hardware/decorative-hardware/how-to-measure-hardware" rel="nofollow noopener noreferrer" target="_blank">How to Measure Hardware, Lee Valley Tools</a></li>
+<li><a href="https://www.vk-hardware.ca/journal/where-to-place-cabinet-knobs" rel="nofollow noopener noreferrer" target="_blank">Where to Place Cabinet Knobs and Pulls, VK Hardware</a></li>
+<li><a href="https://taylorcraftdoor.com/cabinet-door-hardware-placement-guidelines/" rel="nofollow noopener noreferrer" target="_blank">Cabinet Door Hardware Placement Guidelines</a></li>
+<li><a href="https://www.deslaurier.com/en-ca/learning-centre/how-to-choose-cabinet-hardware" rel="nofollow noopener noreferrer" target="_blank">How to Choose Cabinet Hardware, Deslaurier</a></li>
+<li><a href="https://www.deslaurier.com/en-ca/learning-centre/horizontal-vs.-vertical-kitchen-cabinet-handles" rel="nofollow noopener noreferrer" target="_blank">Horizontal vs. Vertical Kitchen Cabinet Handles, Deslaurier</a></li>
+<li><a href="https://votatec.ca/blog/how-to-install-under-cabinet-lighting/" rel="nofollow noopener noreferrer" target="_blank">How to Install Under Cabinet Lighting</a></li>
+<li><a href="https://two30nine.com/bright-ideas-for-integrated-cabinet-lighting/" rel="nofollow noopener noreferrer" target="_blank">Bright Ideas For Integrated Cabinet Lighting</a></li>
+<li><a href="https://www.ised-isde.canada.ca/site/certification-engineering-bureau/en/wireless-equipment-standards-knowledge-center/interference-causing-equipment-standards" rel="nofollow noopener noreferrer" target="_blank">Interference-Causing Equipment Standards, ISED Canada</a></li>
+<li><a href="https://blog.adultingwithfood.com/blog/most-efficient-kitchen-layout-a-practical-guide" target="_blank" rel="nofollow noopener noreferrer">Most Efficient Kitchen Layout: A Practical Guide</a></li>
+<li><a href="https://blog.flawlesslyfunctional.com/blog/bathroom-cabinet-organization" target="_blank" rel="nofollow noopener noreferrer">One Day Bathroom Cabinet Organization</a></li>
+</ul>
+SStatera ContractingDiscuss Your Kitchen RenovationContact Statera Contracting to discuss your kitchen renovation in Calgary or nearby areas, as part of your home renovation plans.<a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/renovations-kitchen-cabinets" target="_blank" rel="noopener">Kitchen cabinet renovations in Calgary: options &amp; budgets</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-countertop-heights-the-complete-homeowners-guide" target="_blank" rel="noopener">Kitchen countertop heights: the complete homeowner’s guide</a></li>
+<li><a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">Planning a Kitchen Renovation in Calgary</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">Kitchen renovation ideas for Alberta homeowners: 2026 guide</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
