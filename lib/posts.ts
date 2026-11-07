@@ -23014,6 +23014,219 @@ SStatera ContractingTalk Through Your Basement PlansContact Statera Contracting 
       },
     ],
   },
+  {
+    slug: "commercial-kitchen-flooring-options",
+    title: "Commercial Kitchen Flooring Options for Calgary Restaurants",
+    excerpt: "For most restaurant kitchens in Calgary, the realistic choices are quarry or porcelain tile with epoxy grout, a seamless resinous system such as urethane cement or epoxy, and commercial sheet vinyl for areas away from the cook line.",
+    date: "2026-11-07",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1793590944360_Seamless-commercial-kitchen-floor-with-drain.jpeg",
+    coverAlt: "Commercial Kitchen Flooring Options for Calgary Restaurants",
+    category: "Industry News",
+    readingTime: "14 min read",
+    metaTitle: "Commercial Kitchen Flooring Options for Calgary Restaurants",
+    metaDescription: "Compare quarry tile, urethane cement, epoxy, vinyl and rubber for a restaurant kitchen, plus Alberta floor rules, slip resistance and cure-time planning.",
+    content: [
+      {
+        type: "html",
+        html: `<p>For most restaurant kitchens in Calgary, the realistic choices are quarry or porcelain tile with epoxy grout, a seamless resinous system such as urethane cement or epoxy, and commercial sheet vinyl for areas away from the cook line. Which one is right depends on where the floor sits (cook line, dish pit, walk-in or dining room), how much heat and water it sees, and how long you can stay closed during installation. Whatever you pick, Alberta’s food code sets the baseline: the floor must be durable, easy to clean, non-slip and sloped to drain.</p>
+<p>Below we walk through each option, what the rules require, how to judge slip resistance, and how to plan the install so it does not stall your opening.</p>
+Statera Contractingstateracontracting.comPlan Your Restaurant RenovationStatera Contracting renovates Calgary restaurants and commercial spaces, helping connect flooring decisions with the wider project.<a href="https://stateracontracting.com/">Explore commercial renovations</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Treat back of house and front of house as two floors: the kitchen needs moisture, heat and grease resistance, while the dining room can lean on looks and comfort.</li>
+<li>Tile with epoxy grout and seamless resinous systems are the usual back-of-house routes. Vinyl suits areas outside the active cook line.</li>
+<li>Alberta’s food code calls for impervious, non-slip floors that slope to drain, and it rules out carpet in food prep and wet areas.</li>
+<li>The floor-to-drain junction and the cure time of the system are where projects most often go wrong, so plan both before you order materials.</li>
+<li>Confirm your floor choice with your health inspector and permit requirements before demolition, not after.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-the-rules-say-about-restaurant-kitchen-floors">What the rules say about restaurant kitchen floors</a></li>
+<li><a href="#back-of-house-and-front-of-house-are-two-different-floors">Back of house and front of house are two different floors</a></li>
+<li><a href="#the-main-commercial-kitchen-flooring-options-compared">The main commercial kitchen flooring options compared</a></li>
+<li><a href="#slip-resistance-what-to-check">Slip resistance: what to check</a></li>
+<li><a href="#drains-coves-and-joints-the-details-that-decide-hygiene">Drains, coves and joints: the details that decide hygiene</a></li>
+<li><a href="#planning-around-cure-time-and-downtime">Planning around cure time and downtime</a></li>
+<li><a href="#cleaning-and-upkeep-once-the-floor-is-in">Cleaning and upkeep once the floor is in</a></li>
+<li><a href="#choosing-by-restaurant-type">Choosing by restaurant type</a></li>
+<li><a href="#plan-your-restaurant-floor-with-statera">Plan your restaurant floor with Statera</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What the rules say about restaurant kitchen floors</h2>
+<p>Start with the requirements, because they narrow the field before taste or budget does.</p>
+<p>The <a href="https://open.alberta.ca/dataset/0ea69179-2f90-4776-a64d-c903299b2ca6/resource/715bb4f2-b46e-4284-b73a-8c683c546337/download/Food-Code-Alberta-2003.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta Food Retail and Foodservices Code</a> says floors in areas subject to moisture should be impervious, non-slip and sloped to drain. Wet-area floors should also be durable, easy to clean, coved and sealed, and smooth enough that water does not pool. The <a href="https://open.alberta.ca/dataset/0ea69179-2f90-4776-a64d-c903299b2ca6/resource/3354d461-6834-4744-b185-18dfa401960d/download/health-food-retail-and-foodservices-code-2020.pdf" rel="nofollow noopener noreferrer" target="_blank">2020 amended version</a> puts a number on drainage: a minimum slope of 2% or more toward adequately sized floor drains.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1793590967873_Key-requirements-for-wet-area-kitchen-floors.jpeg" alt="Key requirements for wet-area kitchen floors" /></p>
+<p>The same 2020 code says carpet or similar material should not be installed in food preparation areas, walk-in coolers and freezers, storage rooms, janitorial and waste rooms, washrooms, change rooms, or any other area subject to moisture or wet cleaning.</p>
+<p>Building-code rules point the same direction. The City of Calgary notes that the <a href="https://www.calgary.ca/for-business/licences/food-establishment-building-code.html" rel="nofollow noopener noreferrer" target="_blank">National Building Code – 2023 Alberta Edition</a> requires interior finishes in kitchen, dish-cleaning, freezer and garbage storage areas to be durable, smooth, non-absorbent and easily cleanable.</p>
+<p>There is a food-safety reason behind the wording. Alberta’s <a href="https://open.alberta.ca/dataset/da0b4f14-7249-427b-a17b-1688f21f82ce/resource/805dc063-e842-4049-b4f4-e66af8a7586e/download/2015-food-safety-guidebook.pdf" rel="nofollow noopener noreferrer" target="_blank">food safety guidebook</a> notes that tests indicate severely damaged or porous floors can stay contaminated even after professional sanitation. A floor that cracks, crazes or lifts at the seams is a hygiene problem, not only a cosmetic one.</p>
+<p>One more point on the permit side: Calgary requires professional involvement and stamped drawings for architectural, mechanical and electrical work when <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/food-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">construction exceeds 300 square metres in a tenant space with seating, or 500 square metres without seating</a>. Smaller jobs still need to meet the same finish requirements. Our guide to the <a href="https://stateracontracting.com/blog/restaurant-kitchen-permit-calgary" target="_blank" rel="noopener">restaurant kitchen permit process in Calgary</a> covers the approval sequence, and the <a href="https://stateracontracting.com/blog/commercial-kitchen-requirements-alberta" target="_blank" rel="noopener">commercial kitchen requirements in Alberta</a> article covers the wider rules.</p>
+<h2>Back of house and front of house are two different floors</h2>
+<p>The most useful decision you can make early is to stop thinking of “the restaurant floor” as one product. The kitchen, dish pit and walk-in take hot water, grease, cleaning chemicals and dropped equipment. The dining room and bar take foot traffic, chair scraping and the occasional spill, and they carry your brand.</p>
+<p>So the choices split roughly like this:</p>
+<ul>
+<li><strong>Cook line, dish area, prep, walk-in:</strong> moisture, heat, chemical and impact resistance come first. Slip resistance and drainage are not negotiable.</li>
+<li><strong>Servery, pass, bar back:</strong> a mix of both, since staff work wet and guests may see it.</li>
+<li><strong>Dining room, bar front, entry:</strong> appearance, acoustics, comfort underfoot and slip resistance when floors are wet in winter. Salt and slush from a Calgary winter reach the entry daily.</li>
+</ul>
+<p>Often two different materials meet at a threshold. That threshold detail (a transition strip, a coved base, a sealed joint) deserves a line on the drawings.</p>
+<h2>The main commercial kitchen flooring options compared</h2>
+<p>Here is how the common systems stack up. These are general characteristics; individual products vary, so always check the manufacturer’s data for the exact product and your use.</p>
+<table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Where it fits best</th>
+<th>Strengths</th>
+<th>Watch-outs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quarry tile with epoxy grout</td>
+<td>Back of house, dish area, prep</td>
+<td>Traditional, hard-wearing, textured surface for grip</td>
+<td>Grout lines are the weak point; needs epoxy grout and good drainage slope</td>
+</tr>
+<tr>
+<td>Porcelain tile with epoxy grout</td>
+<td>Back of house and front of house</td>
+<td>Very low absorption, many looks, can bridge both zones</td>
+<td>Grout still needs to be epoxy; check the slip rating of the chosen finish</td>
+</tr>
+<tr>
+<td>Urethane cement</td>
+<td>Cook line, fryers, dish machines, walk-ins</td>
+<td>Seamless; handles heat, thermal shock, moisture and impact</td>
+<td>Specialist installation; plan around cure time</td>
+</tr>
+<tr>
+<td>Epoxy coating</td>
+<td>Prep, dry storage, moderate-duty kitchens</td>
+<td>Seamless, cleanable, coved easily</td>
+<td>Substrate must be properly prepared and dry; very hot liquids can stress the surface</td>
+</tr>
+<tr>
+<td>Commercial sheet vinyl</td>
+<td>Servery, bakery, café, areas outside the cook line</td>
+<td>Seamless sheet with welded seams, comfortable, quieter</td>
+<td>Seams can weaken under constant heat and moisture, so not ideal at the cook line</td>
+</tr>
+<tr>
+<td>Rubber</td>
+<td>Anti-fatigue zones, bar mats, some front-of-house</td>
+<td>Cushioned, grippy</td>
+<td>Rarely suited to a full back-of-house floor</td>
+</tr>
+</tbody>
+</table>
+<h3>Quarry and porcelain tile</h3>
+<p>Quarry tile is the classic. It is extruded clay fired until it is dense, which gives low water absorption and a naturally textured surface, as <a href="https://dgfloors.com/industrial-kitchen-flooring/" rel="nofollow noopener noreferrer" target="_blank">one flooring manufacturer’s guide</a> describes. Its weakness is not the tile but the grout between it. Standard cement-based grout absorbs grease and can harbour bacteria, which is why <a href="https://dgfloors.com/restaurant-floor-tiles/" rel="nofollow noopener noreferrer" target="_blank">epoxy grout is recommended for back-of-house tiling</a> and why we specify it on tiled kitchens.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1793590938551_Quarry-tile-floor-with-epoxy-grout-joints.jpeg" alt="Quarry tile floor with epoxy grout joints" /></p>
+<p>Porcelain gives you a wider range of looks and sits well in an open kitchen that guests can see. Choose a textured finish for anywhere that gets wet.</p>
+<h3>Urethane cement and epoxy</h3>
+<p>Seamless resinous floors remove the grout problem altogether, and they can be coved up the wall to create the sealed, easy-to-clean perimeter the Alberta code asks for.</p>
+<p>The two are not interchangeable. Epoxy is seamless and easy to clean, but it relies on a properly prepared, moisture-free concrete slab, and <a href="https://peacockfloors.com/blog/restaurant-kitchen-flooring-sf-code-guide" rel="nofollow noopener noreferrer" target="_blank">very hot liquids can damage the surface coating</a>. Urethane cement is generally the specification for the harshest spots: it is described as handling <a href="https://rj-inc.com/blog/commercial-flooring-materials-compared-lvt-rubber-vinyl-concrete-epoxy" rel="nofollow noopener noreferrer" target="_blank">thermal shock and constant wet conditions that defeat standard epoxy</a>. For a cook line with fryers and a dish machine, that is the difference between a floor that lasts and one you are patching in two years.</p>
+<h3>Commercial vinyl</h3>
+<p>Commercial vinyl comes as luxury vinyl tile (LVT) and as sheet. Sheet vinyl is seamless once seams are welded, and it is <a href="https://www.webstaurantstore.com/article/1005/types-of-restaurant-kitchen-flooring.html" rel="nofollow noopener noreferrer" target="_blank">described as durable, water-resistant and easy to maintain</a>, which is why it shows up in fast-food restaurants, bakeries and cafeterias. Dedicated safety ranges exist too: the Polysafe commercial sheet vinyl collection is built around slip-resistant flooring for high-risk areas, with a <a href="https://www.polyflor.ca/wp-content/uploads/2025/04/Polysafe-Standard-PUR-Product-Overview.pdf" rel="nofollow noopener noreferrer" target="_blank">Standard PUR range available in 2.0 mm and 2.5 mm gauges</a>.</p>
+<p>We would keep vinyl for the servery, café counter, bakery or a light-duty prep room, and away from the active cook line where heat and standing water test the seams.</p>
+<h3>Rubber</h3>
+<p>Rubber has a place in anti-fatigue zones and some bar areas, but it is rarely the right answer for a whole back-of-house floor. Think of it as a targeted addition, not the base floor.</p>
+<h2>Slip resistance: what to check</h2>
+<p>Nobody wants a server or cook going down with a tray of hot food. Slip resistance is a combination of the surface texture, the contamination (water, grease, soap film) and your cleaning routine.</p>
+<p>Practical checks before you commit:</p>
+<ol>
+<li><strong>Ask for the wet slip-resistance data</strong> on the exact product, such as a wet dynamic coefficient of friction (DCOF) rating for tile. Request it in writing from the supplier.</li>
+<li><strong>Match texture to the zone.</strong> Rougher surfaces grip better, but they also take more effort to clean. Food-safety designers describe finding the right texture as <a href="https://grc.sika.com/dam/dms/gr01/x/glo-your-surface-food-and-beverage-facilities.pdf" rel="nofollow noopener noreferrer" target="_blank">a balance between safety and the cleaning regime</a>. A grease-heavy fry station needs more texture than a dry-goods room.</li>
+<li><strong>Test with a real sample</strong> wetted and greased, then cleaned the way your staff will clean it.</li>
+<li><strong>Check the slope.</strong> A floor that does not drain leaves standing water, and no texture makes up for that. The code’s 2% minimum slope toward drains is the design target.</li>
+<li><strong>Look at the entry.</strong> Winter slush and road salt come in on boots, so the front door needs its own grip strategy, such as a recessed mat well and a textured finish.</li>
+</ol>
+<h2>Drains, coves and joints: the details that decide hygiene</h2>
+<p>The floor material gets the attention, but failures tend to show up at the edges. The same food-facility design guide notes that <a href="https://grc.sika.com/dam/dms/gr01/x/glo-your-surface-food-and-beverage-facilities.pdf" rel="nofollow noopener noreferrer" target="_blank">the junction between floor finish and stainless steel drainage components</a> is among the most critical hygiene details, and that the whole drainage assembly has to be designed, not only the floor.</p>
+<p>When we plan a kitchen floor, we review:</p>
+<ul>
+<li><strong>Drain location and count</strong>, so water travels a short, sloped path to a drain.</li>
+<li><strong>The drain-to-floor seal</strong>, so there is no gap where water and grease can get under the finish.</li>
+<li><strong>Cove base height and continuity</strong>, including around equipment bases, door frames and floor sinks.</li>
+<li><strong>Control joints</strong> in the slab, which must be honoured in tile and resinous systems rather than bridged blindly.</li>
+<li><strong>Equipment layout</strong>, since moving a dish machine or walk-in after the floor is done means cutting into the finish.</li>
+</ul>
+<p>Grease and heat also travel upward. If you are renovating the kitchen, it is a good moment to think about the full cooking environment, including <a href="https://bluebrothers.ca/grease-exhaust-cleaning-calgary" target="_blank" rel="nofollow noopener noreferrer">grease exhaust and hood cleaning</a>, so the floor stays cleaner under a well-maintained line.</p>
+<h2>Planning around cure time and downtime</h2>
+<p>A restaurant earns nothing while closed, so the schedule matters as much as the material. Different systems need different amounts of time: tile needs setting and grouting time, and resinous systems need cure time before they reach full chemical and physical resistance. Calgary flooring specialists point out that reopening has to account for the longest cure time in the system, not the quickest layer.</p>
+<p>A sensible sequence looks like this:</p>
+<ol>
+<li><strong>Confirm requirements and permits.</strong> Check what your health inspector and the City of Calgary need before you finalize materials.</li>
+<li><strong>Assess the slab.</strong> Moisture, cracks and old coatings all affect which system will bond.</li>
+<li><strong>Demolish and prepare.</strong> Grinding, patching and setting slopes to drains happen here.</li>
+<li><strong>Install drains, coves and the floor system.</strong></li>
+<li><strong>Allow the full cure</strong> before equipment goes back and before wet cleaning begins.</li>
+<li><strong>Inspect and reopen.</strong></li>
+</ol>
+<p>Build the cure time into your opening date from the start, and keep a buffer. If your build also touches plumbing, ventilation and washrooms, our <a href="https://stateracontracting.com/blog/restaurant-washroom-requirements-calgary" target="_blank" rel="noopener">restaurant washroom requirements</a> guide helps you sequence it all, and the <a href="https://stateracontracting.com/blog/restaurant-renovation-cost-calgary" target="_blank" rel="noopener">restaurant renovation cost guide</a> helps you budget the whole project, not only the floor.</p>
+<h2>Cleaning and upkeep once the floor is in</h2>
+<p>The best floor still depends on routine. Calgary-based flooring coating specialists recommend <a href="https://elegantcoatings.ca/effective-moisture-management-strategies-for-vancouvers-commercial-kitchen-flooring/" rel="nofollow noopener noreferrer" target="_blank">daily sweeping and mopping with a neutral cleaner and hot water, plus weekly scrubbing with a deck brush</a>. Follow the manufacturer’s care instructions for your specific product, since harsh chemicals can dull or damage some finishes.</p>
+<p>Two habits protect any floor: clearing grease promptly rather than letting it bake in, and inspecting grout, seams and coves regularly so small defects get repaired before they become porous.</p>
+<h2>Choosing by restaurant type</h2>
+<ul>
+<li><strong>Full-service restaurant with a busy line:</strong> tile with epoxy grout or urethane cement in the kitchen, and porcelain, sealed concrete or another finish in the dining room.</li>
+<li><strong>Pub or bar with a small kitchen:</strong> a durable, slip-resistant kitchen floor, with a durable, easy-to-clean bar zone and attention to spill-prone areas.</li>
+<li><strong>Café or bakery:</strong> sheet vinyl or tile can work in lighter-duty prep areas, with a seamless floor under any dish area.</li>
+<li><strong>Franchise build-out:</strong> follow the brand’s specification, then have it checked against Alberta’s food code and Calgary’s building requirements.</li>
+</ul>
+<blockquote>
+<h2>Our perspective</h2>
+<p>Most floor problems we are called in to look at were not caused by a bad material. They came from a good material installed without a plan for drains, slope, coves or cure time.</p>
+<p>We think of a restaurant floor as part of the whole kitchen, so we look at the layout, the plumbing and the permit requirements together before we talk about finishes. We are a family-owned team, we manage each project directly, and we speak with you daily so decisions are made with you and not around you. Design is included with our builds, which means the floor, the drains and the equipment layout are planned at the same time.</p>
+<p>Our advice is simple: pick the floor for each zone, confirm the rules early, and give the installation the cure time it needs.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Plan your restaurant floor with Statera</h2>
+<p>If you are renovating or building out a restaurant, pub, bar or café in Calgary or nearby, we handle the floor as part of the full project: design, permit handling, demolition, drainage, finishes and the build itself, as a licensed and insured team. Learn more about our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation services in Calgary</a>.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If you would like to talk through your kitchen before you choose a material, <a href="https://stateracontracting.com" target="_blank" rel="noopener">book a consultation with Statera Contracting</a>.</p>
+<h2>FAQ</h2>
+<h3>What is the best flooring for a commercial kitchen?</h3>
+<p>There is no single best floor, because the cook line and the dining room ask different things of a floor. For the hardest-working areas, tile with epoxy grout and seamless urethane cement are the usual choices, and vinyl suits lighter-duty zones. Whatever you choose must meet Alberta’s requirements for impervious, non-slip floors that drain.</p>
+<h3>What is the best flooring for restaurants overall?</h3>
+<p>Most restaurants use more than one material. A heavy-duty kitchen floor behind the pass and a more design-led floor in the dining room usually works better than one floor throughout. Decide each zone’s priorities first, then match materials to them.</p>
+<h3>How do I make a restaurant floor slip resistant?</h3>
+<p>Choose a product with documented wet slip-resistance data, match the surface texture to how greasy or wet the area gets, and make sure the floor slopes to its drains. Then keep up your cleaning routine, since a greasy film defeats even a textured surface. Test a sample under real conditions if you can.</p>
+<h3>Can I use carpet or vinyl in a commercial kitchen in Alberta?</h3>
+<p>Carpet should not be installed in food preparation areas or other areas subject to moisture or wet cleaning under the Alberta food code. Vinyl is allowed where it meets the impervious, cleanable and non-slip requirements, but it is best kept away from the active cook line. Confirm your specific plan with your health inspector.</p>
+<h3>How long will my restaurant be closed for a new floor?</h3>
+<p>It depends on the area, the system and the state of the existing slab. Tile and resinous systems each have their own setting and cure times, and reopening has to wait for the longest one. Ask for a written schedule that includes cure time before you commit to an opening date.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://open.alberta.ca/dataset/0ea69179-2f90-4776-a64d-c903299b2ca6/resource/715bb4f2-b46e-4284-b73a-8c683c546337/download/Food-Code-Alberta-2003.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta Food Retail and Foodservices Code, 2003</a></li>
+<li><a href="https://open.alberta.ca/dataset/0ea69179-2f90-4776-a64d-c903299b2ca6/resource/3354d461-6834-4744-b185-18dfa401960d/download/health-food-retail-and-foodservices-code-2020.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta Food Retail and Foodservices Code, amended 2020</a></li>
+<li><a href="https://www.calgary.ca/for-business/licences/food-establishment-building-code.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary: National Building Code – 2023 Alberta Edition for food establishments</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/food-establishments.pdf" rel="nofollow noopener noreferrer" target="_blank">City of Calgary: Renovations to Restaurants and Food Establishments</a></li>
+<li><a href="https://open.alberta.ca/dataset/da0b4f14-7249-427b-a17b-1688f21f82ce/resource/805dc063-e842-4049-b4f4-e66af8a7586e/download/2015-food-safety-guidebook.pdf" rel="nofollow noopener noreferrer" target="_blank">Alberta Food Safety Guidebook, 2015</a></li>
+<li><a href="https://dgfloors.com/industrial-kitchen-flooring/" rel="nofollow noopener noreferrer" target="_blank">Industrial kitchen flooring guide</a></li>
+<li><a href="https://dgfloors.com/restaurant-floor-tiles/" rel="nofollow noopener noreferrer" target="_blank">Restaurant floor tiles guide</a></li>
+<li><a href="https://peacockfloors.com/blog/restaurant-kitchen-flooring-sf-code-guide" rel="nofollow noopener noreferrer" target="_blank">Restaurant and kitchen flooring code guide</a></li>
+<li><a href="https://rj-inc.com/blog/commercial-flooring-materials-compared-lvt-rubber-vinyl-concrete-epoxy" rel="nofollow noopener noreferrer" target="_blank">Commercial flooring materials compared</a></li>
+<li><a href="https://www.webstaurantstore.com/article/1005/types-of-restaurant-kitchen-flooring.html" rel="nofollow noopener noreferrer" target="_blank">Types of commercial kitchen flooring</a></li>
+<li><a href="https://www.polyflor.ca/wp-content/uploads/2025/04/Polysafe-Standard-PUR-Product-Overview.pdf" rel="nofollow noopener noreferrer" target="_blank">Polysafe Standard PUR product overview</a></li>
+<li><a href="https://grc.sika.com/dam/dms/gr01/x/glo-your-surface-food-and-beverage-facilities.pdf" rel="nofollow noopener noreferrer" target="_blank">Design and building of food and beverage facilities</a></li>
+<li>Restaurant flooring in Calgary</li>
+<li><a href="https://elegantcoatings.ca/effective-moisture-management-strategies-for-vancouvers-commercial-kitchen-flooring/" rel="nofollow noopener noreferrer" target="_blank">Commercial kitchen floor moisture management</a></li>
+</ul>
+Statera ContractingDiscuss Your Restaurant FlooringContact Statera Contracting to discuss your Calgary restaurant renovation and how your flooring fits the broader commercial project.Statera Contracting<a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">Email us at statera.contracting@gmail.com</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/commercial-kitchen-requirements-alberta" target="_blank" rel="noopener">Commercial kitchen requirements in Alberta: what you need to know</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-design-calgary-your-2026-renovation-guide" target="_blank" rel="noopener">Kitchen design Calgary: your 2026 renovation guide</a></li>
+<li><a href="https://stateracontracting.com/blog/restaurant-kitchen-permit-calgary" target="_blank" rel="noopener">Restaurant kitchen permit Calgary: your complete approval roadmap</a></li>
+<li><a href="https://stateracontracting.com/blog/hardwood-vs-engineered-flooring" target="_blank" rel="noopener">Hardwood vs engineered flooring: which should you choose?</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
