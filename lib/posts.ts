@@ -23227,6 +23227,196 @@ Statera ContractingDiscuss Your Restaurant FlooringContact Statera Contracting t
       },
     ],
   },
+  {
+    slug: "shower-niche-height",
+    title: "Shower Niche Height: Where to Place It and How Tall to Make It",
+    excerpt: "For a standing shower, plan the bottom of your niche opening roughly 48 to 60 inches (122 to 152 cm) above the finished shower floor.",
+    date: "2026-11-08",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1793725430016_Tiled-shower-niche-positioned-above-the-shower-floor.jpeg",
+    coverAlt: "Shower Niche Height: Where to Place It and How Tall to Make It",
+    category: "Industry News",
+    readingTime: "14 min read",
+    metaTitle: "Shower Niche Height: Where to Place It and How Tall to Make It",
+    metaDescription: "Plan your shower niche height, size and placement before the tile goes up. Measurements, tile layout tips, mistakes to avoid and kitchen backsplash heights.",
+    content: [
+      {
+        type: "html",
+        html: `<p>For a standing shower, plan the bottom of your niche opening roughly 48 to 60 inches (122 to 152 cm) above the finished shower floor. Most households land near the lower half of that range. Make the opening 12 to 14 inches tall for ordinary bottles and a little taller for oversized ones. Then adjust both numbers to your tile grid, your wall framing and the people who use the shower.</p>
+<p>No single height suits every bathroom. Below we explain how to measure, how to size the opening, and where a niche should not go. Because many people searching this also ask about kitchen backsplashes, the last part covers how high a backsplash should run.</p>
+Statera ContractingPlan a Bathroom That FitsStatera Contracting renovates bathrooms in Calgary and surrounding areas, including showers where niche placement is part of the plan.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Start with the bottom of the niche at 48 to 60 inches above the finished shower floor, and write it on the plans as “AFF” (above finished floor).</li>
+<li>Size the opening from your tallest bottle plus clearance. A 14-inch-tall niche handles oversized bottles a little better than a 12-inch one.</li>
+<li>Set the final dimensions to the tile grid so you avoid thin sliver cuts, and keep the niche off exterior walls and away from plumbing.</li>
+<li>Decide on the niche before framing starts. Adding one after the wall is closed is much harder.</li>
+<li>The standard kitchen backsplash is 18 inches, from counter to upper cabinets. Over a cooktop, code clearances can change your plan.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-is-the-standard-shower-niche-height">What is the standard shower niche height?</a></li>
+<li><a href="#how-to-choose-the-right-height-for-your-household">How to choose the right height for your household</a></li>
+<li><a href="#shower-niche-size-how-big-should-the-opening-be">Shower niche size: how big should the opening be?</a></li>
+<li><a href="#placement-where-in-the-shower-the-niche-should-go">Placement: where in the shower the niche should go</a></li>
+<li><a href="#common-shower-niche-mistakes">Common shower niche mistakes</a></li>
+<li><a href="#planning-the-niche-in-a-bathroom-renovation">Planning the niche in a bathroom renovation</a></li>
+<li><a href="#backsplash-height-the-kitchen-question">Backsplash height: the kitchen question</a></li>
+<li><a href="#planning-a-bathroom-or-kitchen-with-us">Planning a bathroom or kitchen with us</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What is the standard shower niche height?</h2>
+<p>There is no one number that every shower must follow. In practice, designers and tilers work within a range. A common recommendation for a standing shower is a niche bottom between <a href="https://housemadeclear.com/shower-niche-height-size/" rel="nofollow noopener noreferrer" target="_blank">48 and 60 inches above the finished floor</a>, with 48 to 54 inches a typical starting point when adults and teens share the shower.</p>
+<p>If you think in metric, Canadian bathroom suppliers suggest a single niche centred on the back wall with the bottom of the opening about <a href="https://www.bathify.ca/blogs/inspo/shower-niche-ideas-size-placement-design-tips" rel="nofollow noopener noreferrer" target="_blank">130 to 145 cm from the shower floor</a>. Others place it a little lower, <a href="https://voda.ca/en/blogs/bathroom-renovation/recessed-shower-niche-dimensions" rel="nofollow noopener noreferrer" target="_blank">between 100 and 120 cm</a>, depending on the shower layout and who uses it. These ranges overlap more than they conflict. The right answer inside them depends on your household.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1793725493009_Recommended-shower-niche-bottom-height-ranges.jpeg" alt="Recommended shower niche bottom height ranges" /></p>
+<h3>Where you measure from</h3>
+<p>Measure from the finished shower floor, meaning the surface of the tile or the base you will actually stand on. Do not measure from the subfloor or the bare shower pan. Tile, setting material and a sloped base can add noticeable thickness, and a niche measured from the wrong surface ends up lower than you wanted.</p>
+<p>Write the reference point on the drawings. A note such as “niche bottom at 48 inches AFF” removes guesswork between the designer, the framer and the tile setter. If you plan a 24-inch-tall opening, <a href="https://housemadeclear.com/shower-niche-height-size/" rel="nofollow noopener noreferrer" target="_blank">its top then sits at 72 inches AFF</a>, and that number tells you how close it comes to the shower head or a ceiling line.</p>
+<h2>How to choose the right height for your household</h2>
+<p>Height is a use question first and a design question second. Ask these before you commit.</p>
+<p><strong>Who showers here, and how tall are they?</strong> A niche set around chest height is comfortable for most adults. If children use the shower, a lower niche, or a second small one, keeps bottles within reach. A niche set slightly higher suits taller adults, as long as it stays out of the direct spray. Suppliers commonly advise <a href="https://voda.ca/en/blogs/bathroom-renovation/recessed-shower-niche-dimensions" rel="nofollow noopener noreferrer" target="_blank">adapting it to the household and avoiding the shower stream</a>.</p>
+<p><strong>Where is the shower head and valve?</strong> A niche directly below the shower head gets soaked, and products and soap residue end up in the opening. Place it on the wall you face, or on the side wall, away from the main spray pattern. Keep it clear of the valve, the diverter and any supply lines in the wall.</p>
+<p><strong>Will anyone use it seated?</strong> If a bench or a fold-down seat is planned, lower the niche or add a second shelf so the products are reachable without standing. We cover seated and aging-in-place layouts in our <a href="https://stateracontracting.com/blog/bathroom-remodeling-for-seniors-a-safety-first-guide" target="_blank" rel="noopener">safety-first bathroom guide for seniors</a>.</p>
+<p><strong>Is the shower curbless?</strong> A curbless design changes how the floor, slope and wall waterproofing are built, so the finished floor height matters even more when you set the niche. Our <a href="https://stateracontracting.com/blog/curbless-shower-pros-cons" target="_blank" rel="noopener">curbless shower planning guide</a> explains the slope and drain decisions that come first.</p>
+<h3>A quick worked example</h3>
+<p>Say your finished shower floor is at 0 and you are tiling with 12 by 24 inch tiles laid vertically on the back wall. You want the niche bottom near 48 inches. That is exactly four tiles high. If the tile joints land on the niche edge, the niche sits cleanly on a grout line. You would then choose a 12-inch or 14-inch opening and check whether the top lands on a joint too. A few inches of adjustment in either direction is usually better than cutting tiles into narrow strips around the opening.</p>
+<h2>Shower niche size: how big should the opening be?</h2>
+<p>Size the niche around what you actually keep in the shower, not around a round number. Plenty of people measure their tallest bottle, add clearance for lifting it in and out, and work from that.</p>
+<p>Standard tall shampoo bottles run about 22 to 26 cm, and a Canadian guide recommends <a href="https://www.bathify.ca/blogs/inspo/shower-niche-ideas-size-placement-design-tips" rel="nofollow noopener noreferrer" target="_blank">niche heights of 25 to 30 cm</a> for taller items. If you buy in bulk, the extra inches matter. According to Fine Homebuilding, a <a href="https://www.finehomebuilding.com/project-guides/tiling/installing-a-shower-niche" rel="nofollow noopener noreferrer" target="_blank">14-inch-tall niche accommodates oversized shampoo bottles</a> a little better than a 12-inch niche.</p>
+<h3>Typical sizes at a glance</h3>
+<table>
+<thead>
+<tr>
+<th>Use</th>
+<th>Opening height</th>
+<th>Opening width</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Standard bottles and soap</td>
+<td>12 in (30 cm)</td>
+<td>12 to 16 in</td>
+<td>Fits between standard studs without extra framing</td>
+</tr>
+<tr>
+<td>Oversized bottles</td>
+<td>14 in (35 cm)</td>
+<td>12 to 16 in</td>
+<td>More clearance for large refill-size bottles</td>
+</tr>
+<tr>
+<td>Two bottles side by side</td>
+<td>25 to 30 cm</td>
+<td>30 to 36 cm</td>
+<td>A common width for two bottles</td>
+</tr>
+<tr>
+<td>Long horizontal niche</td>
+<td>8 to 12 in</td>
+<td>24 to 36 in</td>
+<td>Needs a header or extra framing if it spans studs</td>
+</tr>
+</tbody>
+</table>
+<p>The width figure for two bottles, 30 to 36 cm, comes from the same <a href="https://www.bathify.ca/blogs/inspo/shower-niche-ideas-size-placement-design-tips" rel="nofollow noopener noreferrer" target="_blank">Canadian sizing guide</a>. The other rows are common starting points that we adjust to the wall and the tile on each job.</p>
+<h3>Depth and the wall behind it</h3>
+<p>Most niches are framed between two studs, so the depth is limited by the wall thickness, usually a 2x4 or 2x6 wall. A shallow niche still holds bottles, because the bottles stand rather than lie. Deeper is not always better, since a deep niche collects water and is harder to clean. Check what is behind the wall before anyone cuts: pipes, wires, and whether it is an exterior wall.</p>
+<h3>Prefabricated or custom</h3>
+<p>Prefabricated niche inserts come in set sizes. A custom-built niche, tiled from the inside, <a href="https://www.finehomebuilding.com/project-guides/tiling/installing-a-shower-niche" rel="nofollow noopener noreferrer" target="_blank">can be made in shapes and sizes suited to your layout</a>. If your tile pattern or your shower dimensions are unusual, custom framing lets the niche follow the tile instead of the other way around.</p>
+<h2>Placement: where in the shower the niche should go</h2>
+<p>Centred on the back wall is the classic spot, and it is popular because it looks balanced and is easy to reach. It is not the only choice.</p>
+<ul>
+<li><strong>Back wall, centred:</strong> Good for a single niche in a standard alcove shower, away from the spray if the shower head is on the side wall.</li>
+<li><strong>Side wall:</strong> Useful when the shower head sits on the back wall, or when you want products closer to the entry.</li>
+<li><strong>Beside or behind a bench:</strong> Keeps items within reach when seated.</li>
+<li><strong>Two niches at different heights:</strong> One at adult height and a lower one for children, or one for shampoo and one for razors.</li>
+</ul>
+<h3>Where not to put it</h3>
+<p><strong>Exterior walls.</strong> In cold climates like ours, cutting a recess into an exterior wall removes insulation behind the niche. A Canadian guide warns that this creates a <a href="https://www.bathify.ca/blogs/inspo/shower-niche-ideas-size-placement-design-tips" rel="nofollow noopener noreferrer" target="_blank">thermal bridge and a condensation point that can lead to mould</a>. In a Calgary winter that is a real concern. If the only wall that works is an exterior one, talk to your contractor about alternatives such as a surface-mounted shelf or a niche on an interior wall.</p>
+<p><strong>Over plumbing.</strong> Supply lines, the valve body and drain stacks all live in shower walls. Positioning a niche over them is one of the <a href="https://bromleytiler.co.uk/blog/shower-niches-guide/" rel="nofollow noopener noreferrer" target="_blank">common placement mistakes</a>, and it can force a late, costly change.</p>
+<p><strong>Straight under the shower head.</strong> Constant spray means soaked products and water sitting in the niche.</p>
+<h2>Common shower niche mistakes</h2>
+<p>Most problems come from decisions made too late or details skipped.</p>
+<ol>
+<li><strong>Choosing the niche after the walls are framed.</strong> Structure, plumbing and finishes limit where it can go and how large it can be, and <a href="https://voda.ca/en/blogs/bathroom-renovation/recessed-shower-niche-dimensions" rel="nofollow noopener noreferrer" target="_blank">deciding after construction has begun is a frequent mistake</a>. Settle it during design.</li>
+<li><strong>Ignoring the tile layout.</strong> If the niche dimensions do not match tile coursing, you end up with <a href="https://bromleytiler.co.uk/blog/shower-niches-guide/" rel="nofollow noopener noreferrer" target="_blank">thin sliver cuts</a> around the opening. Plan the size and height around the tile format.</li>
+<li><strong>Making it too wide for the tile.</strong> A very wide opening in a large-format tile can look awkward and complicates the cuts.</li>
+<li><strong>No slope on the niche floor.</strong> The bottom of the niche should tilt slightly forward so water drains out. One Canadian guide gives <a href="https://www.bathify.ca/blogs/inspo/shower-niche-ideas-size-placement-design-tips" rel="nofollow noopener noreferrer" target="_blank">at least 3 degrees</a> and calls standing water a primary cause of long-term damage.</li>
+<li><strong>Skipping or rushing waterproofing.</strong> A niche is a hole in the wall of a wet area. It needs a continuous waterproofing system with careful corners, which is why this is not a good place to improvise.</li>
+<li><strong>Sizing for the bottles you have today.</strong> Bottle shapes change. A little extra height gives you room.</li>
+</ol>
+<p>The rule we follow is to treat the niche as part of the waterproofing and tile plan, not as an add-on. That is also why we raise it at the design stage of every bathroom.</p>
+<h2>Planning the niche in a bathroom renovation</h2>
+<p>A good order of decisions looks like this:</p>
+<ol>
+<li>Pick the tile and its layout, including joint lines on the back wall.</li>
+<li>Decide the shower head, valve and bench positions.</li>
+<li>Choose the niche wall, checking it is interior and free of plumbing.</li>
+<li>Set the bottom height AFF, then the opening size, to land on tile joints.</li>
+<li>Confirm framing, waterproofing and slope details before the wall is closed in.</li>
+</ol>
+<p>If you are weighing a bigger project, our <a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">Alberta bathroom remodel ideas guide</a> shows where a niche fits in a full layout, and the <a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">Calgary bathroom cost guide</a> covers budgeting.</p>
+<blockquote>
+<h2>Our perspective on niches</h2>
+<p>A niche is a small feature that tells you a lot about how a bathroom was planned. When it lines up with the tile joints, sits at a comfortable height and stays dry, it was planned early. When it sits awkwardly or leaks, someone decided late.</p>
+<p>We design and build, so the niche is settled while the drawings are still easy to change. We check the wall it is going into, we review the tile layout, and we confirm the heights with you in the actual shower, not only on paper. Our approach is built around clear communication and a family-owned team that manages each project directly, so you hear about these small decisions before they are built into the wall.</p>
+<p>Our advice: choose your tile first, measure your tallest bottle, and let us fit the niche to both. Do it before framing, and you will rarely think about the niche again, which is the point.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Backsplash height: the kitchen question</h2>
+<p>People who search for niche heights often have a backsplash decision in the same project, so here is the short version.</p>
+<h3>Standard kitchen backsplash height</h3>
+<p>The standard kitchen backsplash height is <a href="https://geostone.ca/en/quartz-backsplash-height-styles-price-and-installation/" rel="nofollow noopener noreferrer" target="_blank">18 inches, measured from the countertop to the underside of the upper cabinets</a>. That is the space between the two surfaces, and the backsplash simply fills it. If you have a shorter run, such as a 4-inch backsplash made from the same material as the counter, it is an <a href="https://geostone.ca/en/quartz-backsplash-height-styles-price-and-installation/" rel="nofollow noopener noreferrer" target="_blank">economical option</a>, though it leaves the wall above exposed.</p>
+<h3>Full-height and counter-to-ceiling backsplash</h3>
+<p>A full-height backsplash <a href="https://geostone.ca/en/quartz-backsplash-height-styles-price-and-installation/" rel="nofollow noopener noreferrer" target="_blank">carries the countertop surface up to the cabinets, the range hood or the ceiling</a>. It is often used on walls without upper cabinets, such as a window wall or a feature wall behind the range. It protects the whole wall from splashes and is easy to wipe. The planning point is the same as for a niche: decide the stopping line, whether hood, shelf, ceiling or trim, before you order material.</p>
+<h3>Backsplash height over the cooktop</h3>
+<p>Height over a stove is not purely a design choice. In Rocky View County, the building guideline says framing and cabinetry directly above a cooktop must be at least <a href="https://www.rockyview.ca/Portals/0/Files/BuildingPlanning/Building/Guideline-Kitchen-Renovations.pdf" rel="nofollow noopener noreferrer" target="_blank">750 mm (30 inches) above the burners or elements</a>. That can be reduced to 600 mm (24 inches) if the framing and cabinetry is noncombustible or protected by a metal hood projecting at least 125 mm (5 inches) beyond it. Requirements can differ by municipality and by the appliance, so confirm the rule for your address. We handle permits and code checks as part of our <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation</a> work.</p>
+<p>A few practical tips for any backsplash:</p>
+<ul>
+<li>Mark outlet locations before tiling so the cuts are clean.</li>
+<li>Choose the stopping height first and size the tile to it, as with a niche.</li>
+<li>Think about wall behind open shelves, which may need the backsplash to run higher.</li>
+</ul>
+<h2>Planning a bathroom or kitchen with us</h2>
+<p>If you are renovating in Calgary, Airdrie, Cochrane or Okotoks, we can settle the niche height, tile layout and waterproofing during design, so the details are right before anything is built. Our design is included with our builds, and we manage permits.</p>
+<p>See our <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovation service</a> for how a project runs, or <a href="https://stateracontracting.com" target="_blank" rel="noopener">contact us</a> to book a consultation.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>We quote fixed-price work and keep you updated daily, so there is no guessing about where your project stands.</p>
+<h2>FAQ</h2>
+<h3>What is the best height for a shower niche?</h3>
+<p>For most standing showers, the bottom of the opening works well between 48 and 60 inches above the finished shower floor. Households with children may want a lower niche or a second one. Always measure from the finished floor, not the subfloor, and adjust to the tile joints.</p>
+<h3>How big should a shower niche be?</h3>
+<p>Size it from your tallest bottle plus clearance. A 12-inch opening suits standard bottles, and a 14-inch opening handles oversized ones a little better. For width, 30 to 36 cm is common when you want two bottles side by side. Let the tile grid set the final dimensions.</p>
+<h3>Can a shower niche go on an exterior wall?</h3>
+<p>It is best avoided in Canadian climates. Recessing into an exterior wall cuts through insulation and can create a cold spot where condensation and mould develop. An interior wall, or a surface-mounted shelf, is a safer choice.</p>
+<h3>What is the standard backsplash height in a kitchen?</h3>
+<p>The standard is 18 inches, from the countertop to the bottom of the upper cabinets. A full-height backsplash continues up to the hood, a shelf or the ceiling. Over a cooktop, check the local clearance rules before setting the height.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://housemadeclear.com/shower-niche-height-size/" rel="nofollow noopener noreferrer" target="_blank">Shower Niche Height &amp; Size: Standard Dimensions Guide</a></li>
+<li><a href="https://www.bathify.ca/blogs/inspo/shower-niche-ideas-size-placement-design-tips" rel="nofollow noopener noreferrer" target="_blank">Shower Niche Ideas: Size, Placement &amp; Design Tips</a></li>
+<li><a href="https://voda.ca/en/blogs/bathroom-renovation/recessed-shower-niche-dimensions" rel="nofollow noopener noreferrer" target="_blank">Built-in shower niche dimensions to choose</a></li>
+<li><a href="https://www.finehomebuilding.com/project-guides/tiling/installing-a-shower-niche" rel="nofollow noopener noreferrer" target="_blank">Installing a Shower Niche, Fine Homebuilding</a></li>
+<li><a href="https://bromleytiler.co.uk/blog/shower-niches-guide/" rel="nofollow noopener noreferrer" target="_blank">Shower Niches: How to Get Them Right</a></li>
+<li><a href="https://geostone.ca/en/quartz-backsplash-height-styles-price-and-installation/" rel="nofollow noopener noreferrer" target="_blank">Quartz backsplash: height, styles, and installation</a></li>
+<li><a href="https://www.rockyview.ca/Portals/0/Files/BuildingPlanning/Building/Guideline-Kitchen-Renovations.pdf" rel="nofollow noopener noreferrer" target="_blank">Kitchen Renovations guideline, Rocky View County</a></li>
+</ul>
+Statera ContractingDiscuss Your Bathroom PlansContact Statera Contracting to discuss a bathroom renovation in Calgary or the surrounding area, including your shower layout.<a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/curbless-shower-pros-cons" target="_blank" rel="noopener">Prioritize 1/4" slope: Curbless shower plan for Canadian renovators</a></li>
+<li><a href="https://stateracontracting.com/blog/tile-shower-cost-calgary" target="_blank" rel="noopener">Calgary Tile Shower Costs: $1,800–$4,500, What Contractors Insist On</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodeling-for-seniors-a-safety-first-guide" target="_blank" rel="noopener">Bathroom Remodeling for Seniors: A Safety-First Guide</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">Bathroom remodel ideas: your 2026 Alberta guide</a></li>
+</ul>
+
+`,
+      },
+    ],
+  },
 ];
 
 
