@@ -23417,6 +23417,201 @@ Statera ContractingDiscuss Your Bathroom PlansContact Statera Contracting to dis
       },
     ],
   },
+  {
+    slug: "pvc-decking-vs-composite",
+    title: "PVC vs Composite Decking: Which Suits a Calgary Deck?",
+    excerpt: "PVC decking is 100% plastic with no wood fibre, so it takes on essentially no water. Composite decking blends wood fibre with plastic and usually costs less.",
+    date: "2026-11-06",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1793817063801_PVC-and-composite-boards-on-a-Calgary-deck.jpeg",
+    coverAlt: "PVC vs Composite Decking: Which Suits a Calgary Deck?",
+    category: "Industry News",
+    readingTime: "11 min read",
+    metaTitle: "PVC vs Composite Decking: Which Suits a Calgary Deck?",
+    metaDescription: "PVC or composite decking? Compare materials, moisture, heat, cost and freeze-thaw performance for Alberta homes, plus quick notes on roofing and siding choices.",
+    content: [
+      {
+        type: "html",
+        html: `<p>PVC decking is 100% plastic with no wood fibre, so it takes on essentially no water. Composite decking blends wood fibre with plastic and usually costs less. For most Calgary backyard decks, a quality capped composite is the sensible middle ground. PVC earns its higher price where boards stay wet, such as near a hot tub or in a shaded, damp spot. Either way, your substructure, footings and permit matter more to the finished deck than the board brand.</p>
+<p>Below we walk through what each board is made of, how they handle Alberta’s freeze-thaw swings, heat, cost and installation, and how to decide. At the end, we also cover the questions people ask next about metal roofing and siding.</p>
+Statera ContractingPlan a Deck That Suits Your HomeStatera Contracting handles exterior work and home renovations in Calgary and nearby areas, including projects that call for careful planning.<a href="https://stateracontracting.com/">Explore Statera Contracting</a>
+<h2>TL;DR</h2>
+<ul>
+<li><strong>PVC</strong> has no wood content and does not absorb water. <strong>Composite</strong> contains wood fibre and plastic, and capped versions are built to resist decay.</li>
+<li>PVC often costs more than entry-level composite. A premium capped composite can outperform a budget PVC board.</li>
+<li>Both need only occasional cleaning and no routine sealing.</li>
+<li>Labour, footings and the structure under the boards drive deck cost more than the board you choose.</li>
+<li>In Calgary, a deck over a certain size or height needs a permit, so check before you build.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-is-actually-in-each-board">What is actually in each board</a></li>
+<li><a href="#moisture-mould-and-freeze-thaw">Moisture, mould and freeze-thaw</a></li>
+<li><a href="#temperature-movement-and-heat">Temperature movement and heat</a></li>
+<li><a href="#cost-what-to-budget">Cost: what to budget</a></li>
+<li><a href="#structure-and-installation">Structure and installation</a></li>
+<li><a href="#lifespan-maintenance-and-the-real-downsides">Lifespan, maintenance and the real downsides</a></li>
+<li><a href="#which-one-for-your-project">Which one for your project</a></li>
+<li><a href="#permits-come-first">Permits come first</a></li>
+<li><a href="#our-perspective">Our perspective</a></li>
+<li><a href="#roofing-and-siding-the-next-two-decisions">Roofing and siding: the next two decisions</a></li>
+<li><a href="#plan-your-exterior-with-statera">Plan your exterior with Statera</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What is actually in each board</h2>
+<p>The names cause confusion. “Composite” is often used as a catch-all for anything that is not wood. In practice, <a href="https://deckstoronto.com/decking-guides/pvc-vs-composite-decking/" rel="nofollow noopener noreferrer" target="_blank">composite decking is a wood-plastic composite</a>, wood fibres mixed with plastic, while PVC decking is cellular PVC with zero wood content.</p>
+<p>That single difference explains most of what follows:</p>
+<ul>
+<li><strong>Composite (wood-plastic):</strong> wood fibre gives it a more natural, wood-like look and feel, and generally a lower price. Modern boards have a polymer cap that shields the core.</li>
+<li><strong>PVC (cellular):</strong> fully synthetic, so <a href="https://blog.advantagelumber.com/2026/10/27/pvc-vs-composite-decking-whats-actually-the-difference/" rel="nofollow noopener noreferrer" target="_blank">it does not absorb moisture through organic material</a>. It is typically lighter and more water-proof.</li>
+</ul>
+<p>The term “capped” matters. Uncapped composite boards, usually older or budget products, are the ones prone to water absorption and mould. When you compare quotes, confirm which type you are being priced and that the board has a full cap.</p>
+<h2>Moisture, mould and freeze-thaw</h2>
+<p>Alberta’s climate is hard on any outdoor surface. Water gets into small cracks or porous material, freezes, expands and can break the material from within. That cycle is a real consideration for decks in Calgary, Airdrie, Cochrane and Okotoks, where a mild chinook afternoon can follow a hard overnight freeze.</p>
+<p>Here is how the two materials handle it:</p>
+<ul>
+<li><strong>PVC</strong> <a href="https://www.deckcosttoronto.com/guide/choosing-materials" rel="nofollow noopener noreferrer" target="_blank">does not absorb water</a>, so the board itself has little to freeze and expand.</li>
+<li><strong>Capped composite</strong> contains wood flour that can absorb and release a small amount of moisture. The boards can swell and shrink lengthwise with the seasons, and the cap is what limits that exposure.</li>
+<li>Reviewers of both materials note that <a href="https://deckstoronto.com/decking-guides/pvc-vs-composite-decking/" rel="nofollow noopener noreferrer" target="_blank">PVC has nothing to promote mould growth and capped composite is engineered for decay resistance</a>. Both still need drainage and airflow, so keep gaps clear and do not leave mats or tarps down for months.</li>
+</ul>
+<p>PVC is the stronger pick for pool decks, waterfront and <a href="https://blog.advantagelumber.com/2026/10/27/pvc-vs-composite-decking-whats-actually-the-difference/" rel="nofollow noopener noreferrer" target="_blank">consistently damp environments</a>. For a typical dry-side Calgary deck, a capped composite handles moisture well when it is installed with proper gaps and ventilation.</p>
+<h2>Temperature movement and heat</h2>
+<p>Moisture is only part of the story. PVC does not absorb water, but it <a href="https://www.deckcosttoronto.com/guide/choosing-materials" rel="nofollow noopener noreferrer" target="_blank">expands and contracts with temperature</a>, and it tends to do so more than composite. Alberta’s temperature range is wide, so this shapes how the deck is built:</p>
+<ul>
+<li>Leave the board-end and side gaps the manufacturer specifies, and set them for the temperature on the day you build. A board laid on a warm July afternoon will behave differently from one laid in a cool October.</li>
+<li>Fasten using the manufacturer’s system, so boards can move without buckling.</li>
+<li>Plan the layout so long runs have room to move.</li>
+</ul>
+<p>On surface heat, some PVC products tend to stay cooler underfoot because they <a href="https://blog.advantagelumber.com/2026/10/27/pvc-vs-composite-decking-whats-actually-the-difference/" rel="nofollow noopener noreferrer" target="_blank">absorb less UV radiation</a>. Colour matters as much as material. Dark boards in direct south or west sun get hot with any product, so choose a lighter tone for a sunny exposure where you will be barefoot.</p>
+<h2>Cost: what to budget</h2>
+<p>PVC usually costs more than entry-level composite, and pressure-treated wood is cheaper to build than composite. For a complete deck, the board is only part of the bill. One Canadian cost guide puts a composite deck at about <a href="https://www.zinodeck.com/blog/composite-decking-cost-canada" rel="nofollow noopener noreferrer" target="_blank">$40 to $75 per square foot installed in 2026</a>, and says labour, frost-depth footings and the substructure drive the final number more than the board choice.</p>
+<p>To put numbers on a common size, here is what that guide reports:</p>
+<table>
+<thead>
+<tr>
+<th>Deck</th>
+<th>Typical installed cost (composite, Canada)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>200 sq ft</td>
+<td>$8,000 to $15,000</td>
+</tr>
+<tr>
+<td>14 x 20 ft (280 sq ft)</td>
+<td><a href="https://www.zinodeck.com/blog/composite-decking-cost-canada" rel="nofollow noopener noreferrer" target="_blank">$11,000 to $21,000</a></td>
+</tr>
+</tbody>
+</table>
+<p>These are national ranges, not Calgary quotes, so treat them as a starting point. Your own price depends on height, access, railings, stairs, lighting and the footings your lot needs. If a PVC quote comes in higher, ask where the difference sits. It may be the board, or it may be the scope.</p>
+<h2>Structure and installation</h2>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1793817176515_Joists-and-fasteners-beneath-a-raised-deck.jpeg" alt="Joists and fasteners beneath a raised deck" /></p>
+<p>Both materials are softer and more flexible than wood, so the frame under them matters. One Canadian guide says composite requires <a href="https://www.deckcosttoronto.com/guide/choosing-materials" rel="nofollow noopener noreferrer" target="_blank">specific joist spacing for residential decks</a>: 12 inches on centre is a manufacturer requirement on most composite products, with 16 inches allowed only in some cases. It describes PVC as even more deflection-sensitive, with 12 inches on centre as standard.</p>
+<p>In practice:</p>
+<ul>
+<li>Follow the exact spacing in your chosen product’s installation guide, not a general rule.</li>
+<li>Expect tighter joist spacing than you would use for wood, which adds some framing material.</li>
+<li>Footings must reach below frost depth, and this is a large share of the cost.</li>
+</ul>
+<p>A deck that is too bouncy or sags between joists is nearly always a framing issue, not a board issue.</p>
+<h2>Lifespan, maintenance and the real downsides</h2>
+<p>One manufacturer comparison says PVC can <a href="https://www.timbertech.com/ideas/pvc-vs-composite-decking/" rel="nofollow noopener noreferrer" target="_blank">last 50 years or longer</a> with no annual sealing, and that composite, while durable, does not last quite as long, though its lower upfront cost appeals to budget-minded homeowners. Treat lifespan claims as manufacturer-stated and read the warranty terms for fading, staining and mould coverage.</p>
+<p>Here is a fair picture of what each material asks of you:</p>
+<ul>
+<li><strong>PVC:</strong> higher upfront cost. Older or low-quality PVC can look plastic, feel slippery or hold heat, so choose a current board with a textured grain.</li>
+<li><strong>Capped composite:</strong> flexible boards need the right substructure. Uncapped boards are prone to water and mould problems, which is why the cap matters.</li>
+<li><strong>Both:</strong> <a href="https://blog.advantagelumber.com/2026/10/27/pvc-vs-composite-decking-whats-actually-the-difference/" rel="nofollow noopener noreferrer" target="_blank">need occasional cleaning and no routine sealing</a>. A soap-and-water wash in spring takes care of most dirt and pollen.</li>
+</ul>
+<p>A premium capped composite can outperform a lower-priced PVC product in some areas, so compare specific products, not just categories.</p>
+<h2>Which one for your project</h2>
+<table>
+<thead>
+<tr>
+<th>Your situation</th>
+<th>Better fit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Standard backyard deck, balanced budget</td>
+<td>Capped composite</td>
+</tr>
+<tr>
+<td>Wet or shaded spot, near a hot tub or pool</td>
+<td>PVC</td>
+</tr>
+<tr>
+<td>Warm, wood-like look matters most</td>
+<td>Capped composite</td>
+</tr>
+<tr>
+<td>Longest-lasting, lowest-moisture option</td>
+<td>PVC</td>
+</tr>
+<tr>
+<td>Tight budget, accepting more upkeep</td>
+<td>Pressure-treated wood</td>
+</tr>
+<tr>
+<td>Sunny, barefoot use</td>
+<td>Lighter colour in either material</td>
+</tr>
+</tbody>
+</table>
+<p>If you are torn, ask for both options priced on the same frame, same railings and same footings. That gives you a like-for-like difference instead of a guess. If you want help with deck and patio installation in Western Canada, a deck and patio installation service can price it for you.</p>
+<h2>Permits come first</h2>
+<p>Board choice is the fun part, but a permit decides whether the project can start. Calgary has rules on deck height, size and setbacks, and inspections follow the work. Our guide to the <a href="https://stateracontracting.com/blog/deck-permit-calgary" target="_blank" rel="noopener">Calgary deck permit</a> explains what to have ready before you build. If your deck is part of a bigger plan, such as a porch, see our guide on <a href="https://stateracontracting.com/blog/front-porch-addition-cost-calgary" target="_blank" rel="noopener">Calgary porch addition costs</a>.</p>
+<h2>Our perspective</h2>
+<blockquote>
+<p>We see material debates go sideways when a homeowner picks a board before the plan is settled. Our view is simple: decide how the space will be used, then choose the material that fits.</p>
+<p>On exterior projects, we work in a fixed-price way, with design included in our builds and permits handled for you. That means the questions that really determine how a project performs, such as code compliance, drainage, structure and permit approval, get settled before anyone buys materials.</p>
+<p>For a typical Calgary home, we lean toward a capped, well-reviewed product with the right substructure. Where moisture is constant, a fully synthetic board is a smart upgrade. In both cases, a licensed, insured team that you can reach daily matters more than the logo on the board.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Roofing and siding: the next two decisions</h2>
+<p>Many homeowners comparing decking are also looking at the rest of the exterior. Here is a short orientation for the most common questions.</p>
+<h3>Corrugated vs standing seam metal roof</h3>
+<p>Standing seam has a premium, modern look with no visible fasteners, while corrugated reads as more rustic or industrial. Standing seam costs <a href="https://homecostlab.com/guides/standing-seam-vs-corrugated-metal/" rel="nofollow noopener noreferrer" target="_blank">roughly twice as much as corrugated</a>, a difference of $8,000 to $15,000 on a typical home. It also needs experienced metal roofing contractors and takes about 3 to 7 days, against 1 to 3 days for corrugated.</p>
+<p>For Canadian weather, <a href="https://customaluminum.ca/choosing-the-right-materials-for-canadian-climates/" rel="nofollow noopener noreferrer" target="_blank">metal roofing sheds snow and ice well</a> because of its smooth surface, and good fastening systems let panels expand and contract. Ice and water shield, attic ventilation and flashing remain essential. For more, read our <a href="https://stateracontracting.com/blog/asphalt-vs-metal-roof" target="_blank" rel="noopener">asphalt vs metal roof guide</a>.</p>
+<h3>LP SmartSide vs Hardie siding</h3>
+<p>LP SmartSide is engineered wood. According to the City of Calgary, <a href="https://www.calgary.ca/environment/resources/climate-ready-measures--exterior-walls-and-siding.html" rel="nofollow noopener noreferrer" target="_blank">engineered wood siding</a> handles extreme heat and freeze-thaw cycles without warping, has good impact resistance compared to vinyl and aluminum, and costs about 45% more installed than standard vinyl. Hardie is fibre cement, which is <a href="https://customaluminum.ca/choosing-the-right-materials-for-canadian-climates/" rel="nofollow noopener noreferrer" target="_blank">resistant to rot, insects, fire and impact</a> and stays stable through temperature swings.</p>
+<p>The City also advises that when you replace siding, you have a qualified professional look at the weather-resistive barrier at the same time. Our guides on <a href="https://stateracontracting.com/blog/vinyl-vs-fiber-cement" target="_blank" rel="noopener">vinyl vs fibre cement siding</a> and <a href="https://stateracontracting.com/blog/fiber-cement-siding-cost-calgary" target="_blank" rel="noopener">fibre cement siding cost in Calgary</a> go deeper on price.</p>
+<h2>Plan your exterior with Statera</h2>
+<p>Statera Contracting is a family-owned, licensed and insured renovation company serving Calgary, Okotoks, Cochrane and Airdrie. We manage permits, include design with our builds, and stay in daily contact while the work is under way. If your deck is part of a larger project like a <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home addition</a>, we can plan it as one job.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p><strong>Ready to talk it through?</strong> <a href="https://stateracontracting.com" target="_blank" rel="noopener">Book a consultation with Statera Contracting</a> and tell us what you are planning.</p>
+<h2>FAQ</h2>
+<h3>Is PVC or composite decking better?</h3>
+<p>Neither wins everywhere. PVC has no wood content and does not absorb water, which suits wet locations. Capped composite costs less in most cases and looks more like wood. Compare specific products, since a premium capped composite can beat a cheaper PVC board.</p>
+<h3>What are the disadvantages of PVC decking?</h3>
+<p>The main one is <a href="https://www.timbertech.com/ideas/pvc-vs-composite-decking/" rel="nofollow noopener noreferrer" target="_blank">higher upfront cost</a>. Older or low-quality PVC can look like plastic, feel slippery or retain heat. Choosing a current textured board in a lighter colour addresses most of these.</p>
+<h3>What are the downsides of composite decking?</h3>
+<p>Composite boards are flexible, so they need specific joist spacing, often 12 inches on centre. Uncapped boards are more prone to water and mould damage, so choose a fully capped product.</p>
+<h3>How much does a 14x20 composite deck cost?</h3>
+<p>One Canadian guide reports <a href="https://www.zinodeck.com/blog/composite-decking-cost-canada" rel="nofollow noopener noreferrer" target="_blank">$11,000 to $21,000 installed</a> for a 14x20 deck. Your Calgary price depends on height, footings, railings and stairs, so request a written, itemized quote.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://blog.advantagelumber.com/2026/10/27/pvc-vs-composite-decking-whats-actually-the-difference/" rel="nofollow noopener noreferrer" target="_blank">PVC vs. Composite Decking: What’s Actually the Difference?</a></li>
+<li><a href="https://deckstoronto.com/decking-guides/pvc-vs-composite-decking/" rel="nofollow noopener noreferrer" target="_blank">PVC vs Composite Decking in Ontario: What Really Differs</a></li>
+<li><a href="https://www.deckcosttoronto.com/guide/choosing-materials" rel="nofollow noopener noreferrer" target="_blank">Choosing the right decking material</a></li>
+<li><a href="https://www.zinodeck.com/blog/composite-decking-cost-canada" rel="nofollow noopener noreferrer" target="_blank">What Drives a Composite Deck’s Cost in Canada</a></li>
+<li><a href="https://www.timbertech.com/ideas/pvc-vs-composite-decking/" rel="nofollow noopener noreferrer" target="_blank">PVC vs. Composite Decking: Benefits and Differences</a></li>
+<li><a href="https://homecostlab.com/guides/standing-seam-vs-corrugated-metal/" rel="nofollow noopener noreferrer" target="_blank">Standing Seam vs Corrugated Metal Roof</a></li>
+<li><a href="https://customaluminum.ca/choosing-the-right-materials-for-canadian-climates/" rel="nofollow noopener noreferrer" target="_blank">Choosing the Right Materials for Canadian Climates</a></li>
+<li><a href="https://www.calgary.ca/environment/resources/climate-ready-measures--exterior-walls-and-siding.html" rel="nofollow noopener noreferrer" target="_blank">Climate ready measures: Exterior walls and siding, City of Calgary</a></li>
+</ul>
+Statera ContractingDiscuss Your Calgary Deck ProjectContact Statera Contracting to discuss your exterior project and home renovation needs in Calgary and the surrounding areas.SStatera Contracting<a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">Call us+1-403-512-8755</a><a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/deck-permit-calgary" target="_blank" rel="noopener">Deck permit calgary: what homeowners need before they build</a></li>
+</ul>
+
+`,
+      },
+    ],
+  },
 ];
 
 
