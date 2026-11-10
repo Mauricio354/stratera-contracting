@@ -115,5 +115,6 @@
   "1049425": { "status": "published", "publishedAt": "2026-11-07" },
   "1056192": { "status": "published", "publishedAt": "2026-11-08" },
   "1060805": { "status": "published", "publishedAt": "2026-11-09" },
-  "1071247": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-11-09 (1060805 published today); webhook arrival, created_at 2026-11-09 + 3 days = 2026-11-12, estimated, not screenshot-confirmed" }
+  "1071247": { "status": "queued", "reason": "daily publish limit (1/day) used for 2026-11-09 (1060805 published today); webhook arrival, created_at 2026-11-09 + 3 days = 2026-11-12, estimated, not screenshot-confirmed" },
+  "1075926": { "status": "queued", "reason": "calendar date not yet reached; webhook arrival, created_at 2026-11-10 + 3 days = 2026-11-13, estimated, not screenshot-confirmed" }
 }
