@@ -23612,6 +23612,241 @@ Statera ContractingDiscuss Your Calgary Deck ProjectContact Statera Contracting 
       },
     ],
   },
+  {
+    slug: "bathroom-fan-sizing",
+    title: "Bathroom Fan Sizing: How to Pick the Right CFM",
+    excerpt: "For most bathrooms, you size the fan at 1 CFM per square foot of floor area, with a minimum of 50 CFM. An 8 ft × 10 ft bathroom (80 sq. ft.) needs an 80 CFM fan.",
+    date: "2026-11-12",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1794018843666_Bathroom-exhaust-fan-near-a-shower.jpeg",
+    coverAlt: "Bathroom Fan Sizing: How to Pick the Right CFM",
+    category: "Industry News",
+    readingTime: "14 min read",
+    metaTitle: "Bathroom Fan Sizing: How to Pick the Right CFM",
+    metaDescription: "Size your bathroom exhaust fan in minutes: the CFM formula, worked examples, duct size, code minimums and when to size up, for Calgary homes.",
+    content: [
+      {
+        type: "html",
+        html: `<p>For most bathrooms, you size the fan at 1 CFM per square foot of floor area, with a minimum of 50 CFM. An 8 ft × 10 ft bathroom (80 sq. ft.) needs an 80 CFM fan. Bathrooms over 100 sq. ft. are sized by adding up the fixtures instead. The duct matters as much as the fan, so we cover that below too.</p>
+<p>This guide walks you through the maths, the building code minimums, duct size and the mistakes we see most often when we open up a bathroom ceiling in a Calgary home.</p>
+Statera ContractingPlan Your Bathroom RenovationStatera Contracting renovates bathrooms in Calgary and surrounding areas, including the planning involved in a home renovation.<a href="https://stateracontracting.com">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Bathrooms up to 100 sq. ft.: multiply length by width to get the floor area. That number is your CFM, and 50 CFM is the floor.</li>
+<li>Bathrooms over 100 sq. ft.: add 50 CFM for a toilet, 50 for a shower, 50 for a bathtub and 100 for a jetted tub.</li>
+<li>Check the fan’s rating at the duct you will actually have. A long run or several bends cuts real airflow, so a larger duct is often the fix.</li>
+<li>A 110 CFM fan typically takes a 4 in. or 6 in. duct, and a 150 mm duct is about 6 in.</li>
+<li>Ask your contractor which ventilation requirements apply to your permit before you buy a fan.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#the-basic-formula-1-cfm-per-square-foot">The basic formula: 1 CFM per square foot</a></li>
+<li><a href="#large-bathrooms-add-up-the-fixtures">Large bathrooms: add up the fixtures</a></li>
+<li><a href="#what-the-building-code-says">What the building code says</a></li>
+<li><a href="#duct-size-the-part-people-skip">Duct size: the part people skip</a></li>
+<li><a href="#signs-your-current-fan-is-undersized">Signs your current fan is undersized</a></li>
+<li><a href="#perspective-why-we-plan-the-fan-before-the-tile">Perspective: why we plan the fan before the tile</a></li>
+<li><a href="#fan-sizing-for-commercial-washrooms">Fan sizing for commercial washrooms</a></li>
+<li><a href="#choosing-the-fan-itself">Choosing the fan itself</a></li>
+<li><a href="#planning-a-bathroom-renovation-in-calgary">Planning a bathroom renovation in Calgary?</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>The basic formula: 1 CFM per square foot</h2>
+<p>CFM means cubic feet per minute, the volume of air a fan moves. The Home Ventilating Institute (HVI) <a href="https://www.hvi.org/resources/publications/home-ventilation-guide-articles/how-much-ventilation-do-i-need/" rel="nofollow noopener noreferrer" target="_blank">recommends 1 CFM per square foot of floor area</a> for intermittent bathroom ventilation, with a minimum of 50 CFM. Intermittent just means the fan runs while the room is in use and for a while afterwards.</p>
+<p>The steps:</p>
+<ol>
+<li>Measure the bathroom’s length and width in feet.</li>
+<li>Multiply them to get square feet.</li>
+<li>That number is your target CFM. If it comes out under 50, use 50.</li>
+<li>Pick a fan rated at or slightly above that number.</li>
+</ol>
+<p>A fan rated slightly above your number is fine. A fan rated below it is the one that leaves mirrors fogged and paint peeling.</p>
+<h3>Worked examples for common Calgary bathrooms</h3>
+<table>
+<thead>
+<tr>
+<th>Bathroom</th>
+<th>Size</th>
+<th>Floor area</th>
+<th>Target CFM</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Small powder room</td>
+<td>4 ft × 6 ft</td>
+<td>24 sq. ft.</td>
+<td>50 (minimum)</td>
+</tr>
+<tr>
+<td>Basement three-piece</td>
+<td>5 ft × 8 ft</td>
+<td>40 sq. ft.</td>
+<td>50 (minimum)</td>
+</tr>
+<tr>
+<td>Standard main bath</td>
+<td>5 ft × 10 ft</td>
+<td>50 sq. ft.</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Larger main bath</td>
+<td>8 ft × 10 ft</td>
+<td>80 sq. ft.</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Compact primary ensuite</td>
+<td>10 ft × 10 ft</td>
+<td>100 sq. ft.</td>
+<td>100</td>
+</tr>
+</tbody>
+</table>
+<p>If your answer lands between two fan models, go up to the next size. Fans are sold in steps such as 50, 80, 110 and 150 CFM, so you will rarely find one that matches your number exactly.</p>
+<h2>Large bathrooms: add up the fixtures</h2>
+<p>Once a bathroom is over 100 sq. ft., floor area stops being a good guide. For those rooms, HVI recommends <a href="https://www.hvi.org/resources/publications/home-ventilation-guide-articles/how-much-ventilation-do-i-need/" rel="nofollow noopener noreferrer" target="_blank">adding CFM for each fixture</a>:</p>
+<ul>
+<li>Toilet: 50 CFM</li>
+<li>Shower: 50 CFM</li>
+<li>Bathtub: 50 CFM</li>
+<li>Jetted tub: 100 CFM</li>
+</ul>
+<p>A primary ensuite of 120 sq. ft. with a toilet, a separate shower and a soaker tub works out to 50 + 50 + 50 = 150 CFM. Swap the soaker tub for a jetted tub and the total becomes 200 CFM.</p>
+<p>In a bathroom this size, one fan sometimes struggles to cover everything. Putting a fan near the shower and a second one near the toilet is a common solution, and it often works better than one oversized unit in the middle of the ceiling. We plan the fan location during layout, before the ceiling is closed up.</p>
+<h3>What about tall ceilings?</h3>
+<p>The square-foot rule assumes a standard ceiling. A vaulted ceiling or a tall ensuite holds more air than the formula expects, and steam collects higher up. Our advice is to move up to the next fan size when the ceiling is noticeably above standard height, and to place the fan close to the shower rather than at the far end of the room. Sizing up costs very little compared with reopening a finished ceiling later.</p>
+<h2>What the building code says</h2>
+<p>The formula above is a sizing guide. Building codes set the legal floor. In Canada, residential ventilation rules sit in Section 9.32 of the National Building Code model, and provinces adopt and adjust it. The clearest published table we can point to comes from British Columbia: Table 9.32.3.6, reproduced in a <a href="https://www.scrd.ca/wp-content/uploads/2022/12/Mechanical-Ventilation-Checklist-Sizing-Tables-2019.pdf" rel="nofollow noopener noreferrer" target="_blank">regional district ventilation checklist</a>, sets the minimum bathroom exhaust fan airflow at 50 CFM (23 L/s) intermittent, or 20 CFM (9.44 L/s) continuous, measured at 0.2 inches of water column static pressure.</p>
+<p>Two points from that are worth knowing.</p>
+<p><strong>Every bathroom needs a fan that vents outdoors.</strong> BC’s Information Bulletin B14-05 explains that each kitchen and bathroom in a dwelling unit must have a fan exhausting to the outdoors at those minimum rates, on top of the home’s principal ventilation system.</p>
+<p><strong>The rating is measured under resistance.</strong> The 0.2 in. static pressure figure means the code cares about airflow with a duct attached, not the number on the box under ideal conditions. That is why the duct section below matters.</p>
+<p>The tables above are BC’s. Your Calgary or area permit is governed by the Alberta code edition in force when you apply, so we confirm the current requirements for each project as part of permit handling rather than relying on a general rule.</p>
+<h3>Continuous versus intermittent fans</h3>
+<p>A fan that runs all day at a low rate can satisfy the code differently from one you switch on and off. HVI notes that <a href="https://www.hvi.org/resources/publications/home-ventilation-guide-articles/how-much-ventilation-do-i-need/" rel="nofollow noopener noreferrer" target="_blank">continuous ventilation at a minimum of 20 CFM</a> may be used in place of an intermittent 50 CFM fan. BC’s bulletin adds that a bathroom fan designated as part of the principal ventilation system can run continuously at the lower rate and ramp up to the higher bathroom rate when the room is in use, so one fan can do both jobs.</p>
+<p>If you are considering a fan with a built-in humidity sensor or a continuous low speed, tell us early. It affects the fan model, the wiring and the switch location.</p>
+<p>The code also covers controls. Where a supplemental exhaust fan is required, <a href="https://www.buildcodes.ca/part-9/9-32-ventilation/" rel="nofollow noopener noreferrer" target="_blank">it must be operated by a manual switch</a> located in the room it serves. Supplemental fans in that situation must also have a rated capacity of at least 25 L/s, about 53 CFM.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794018876775_Continuous-versus-intermittent-fans.jpeg" alt="Continuous versus intermittent fans" /></p>
+<h2>Duct size: the part people skip</h2>
+<p>A fan’s CFM rating only holds if air can actually leave the house. The most common problem we find is a good fan connected to a small, long, kinked duct, which moves a fraction of its rated airflow.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794018781364_Kinked-exhaust-duct-in-a-ceiling-cavity.jpeg" alt="Kinked exhaust duct in a ceiling cavity" /></p>
+<h3>Match duct diameter to fan capacity</h3>
+<p>A widely used <a href="https://www.airsolutions.ca/images/Products/vanEE/Products/Reference/Ventilation-Handy-Reference-Sheet-National-Building-Code.pdf" rel="nofollow noopener noreferrer" target="_blank">ventilation reference sheet</a> pairs maximum flow with duct diameter like this:</p>
+<table>
+<thead>
+<tr>
+<th>Maximum flow</th>
+<th>Duct diameter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>40 CFM</td>
+<td>4 in.</td>
+</tr>
+<tr>
+<td>80 CFM</td>
+<td>5 in.</td>
+</tr>
+<tr>
+<td>150 CFM</td>
+<td>6 in.</td>
+</tr>
+<tr>
+<td>200 CFM</td>
+<td>7 in.</td>
+</tr>
+<tr>
+<td>250 CFM</td>
+<td>8 in.</td>
+</tr>
+</tbody>
+</table>
+<p>The same sheet advises increasing the duct size for long runs or many fittings.</p>
+<p>Some fans are built for more than one size. Panasonic’s Canadian 110 CFM WhisperCeiling model, the FV-11VQ5, is <a href="https://na.panasonic.ca/hubfs/PCI%20-%20Panasonic%20North%20America%20Canada/Resources/WhisperCeiling_brochure_en.pdf?hsLang=en-ca" rel="nofollow noopener noreferrer" target="_blank">specified for a 4 in. or 6 in. duct</a>. Where the layout allows it, we choose the larger option.</p>
+<p>If your fan is listed with a metric duct, 150 mm is about 5.9 in., which in practice means a 6 in. duct.</p>
+<h3>Count the equivalent length</h3>
+<p>Duct length is not just the tape-measure distance. The BC duct-length table defines the equivalent length as <a href="https://www.scrd.ca/wp-content/uploads/2022/12/Mechanical-Ventilation-Checklist-Sizing-Tables-2019.pdf" rel="nofollow noopener noreferrer" target="_blank">the straight length, plus 30 ft for the exterior hood and 10 ft for each 90° elbow</a>. That table gives the maximum equivalent length by duct diameter and fan capacity, for rigid ducts of 4, 5, 6 and 7 in.</p>
+<p>A quick example: 6 ft of straight duct, one 90° elbow and an exterior hood gives 6 + 10 + 30 = 46 ft of equivalent length. That is well beyond what the tape measure says, and it is why a short-looking run can still need a bigger duct.</p>
+<p>A few habits that protect airflow:</p>
+<ul>
+<li>Keep the run as short and straight as the framing allows.</li>
+<li>Avoid flex duct where rigid is possible, because ribs create friction.</li>
+<li>Vent to the outdoors through a proper exterior hood, never into an attic, soffit cavity or crawl space.</li>
+<li>Insulate the duct where it crosses unheated space. Calgary winters turn humid exhaust air into condensation, and that water can run back toward the fan.</li>
+</ul>
+<h2>Signs your current fan is undersized</h2>
+<p>You may not need to calculate anything to know there is a problem. Look for:</p>
+<ul>
+<li>A mirror that stays fogged long after the shower ends.</li>
+<li>Water droplets on the ceiling or the window frame.</li>
+<li>Paint that bubbles or peels near the shower.</li>
+<li>A musty smell, or black spotting in corners and on grout.</li>
+<li>A fan that sounds loud but barely holds a tissue against the grille.</li>
+</ul>
+<p>If the fan is rated correctly but still performs poorly, the duct is the first place to look. Replacing the fan without fixing a crushed or overly long duct only brings back the same result.</p>
+<h2>Perspective: why we plan the fan before the tile</h2>
+<blockquote>
+<p>On almost every bathroom we renovate, the fan decision gets made too late. Someone picks a grille at the end of the job, and by then the ceiling is framed, the drywall is up and the duct route is already fixed.</p>
+<p>We do it the other way round. During design we measure the room, add up the fixtures, choose the CFM and trace the duct route to the exterior wall or roof before anything is built. That is one of the reasons design comes with our builds: ventilation, lighting, plumbing and framing all need to agree with each other, and it is far easier to make them agree on paper.</p>
+<p>Our approach is to size to the room as it will be, not as it is today. If you are adding a soaker tub or a larger shower, the fan needs to match that new layout. We also handle the permit, so the ventilation plan is reviewed against the code that applies to your project and not guessed at.</p>
+<p>If your fan has been struggling, bring it up at your consultation. It is a small item that makes a big difference to how the finished bathroom lasts.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Fan sizing for commercial washrooms</h2>
+<p>A restaurant, pub or office washroom is sized by fixtures, not floor area. The principle is similar to the large-bathroom method, but the rules come from commercial codes and the traffic is higher.</p>
+<p>For reference, Ontario’s building code requires <a href="https://codeindex.ca/article/6.3.2.10" rel="nofollow noopener noreferrer" target="_blank">exhaust air at not less than 24 L/s for each water closet, urinal, shower or slop sink</a>, which is a useful illustration of how fixture-based commercial rates work. ASHRAE 62.1 gives typical values <a href="https://www.hvacengineering.ca/guides/exhaust-system-design-for-commercial-buildings/" rel="nofollow noopener noreferrer" target="_blank">on the order of 25 L/s (50 cfm) per water closet or urinal</a>, with different minimums for continuous versus intermittent operation. For public washrooms, the 2021 International Mechanical Code, as <a href="https://www.fantech.net/en-ca/our-solutions/commercial/public-washroom" rel="nofollow noopener noreferrer" target="_blank">cited by Fantech</a>, calls for the ability to exhaust at least 50 CFM intermittently or 20 CFM continuously per water closet or urinal.</p>
+<p>Those figures are examples of how the calculation works, not the Alberta requirement for your premises. For a Calgary tenant improvement, the washroom fans are checked alongside the rest of the building’s mechanical design. If your project also includes a kitchen, our guides on <a href="https://stateracontracting.com/blog/hood-ventilation-requirements-calgary" target="_blank" rel="noopener">hood ventilation requirements in Calgary</a> and <a href="https://stateracontracting.com/blog/commercial-kitchen-ventilation-alberta" target="_blank" rel="noopener">commercial kitchen ventilation in Alberta</a> cover that side. Our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation service</a> coordinates washroom, kitchen and dining area ventilation as one plan.</p>
+<h2>Choosing the fan itself</h2>
+<p>Once you have the CFM and the duct size, a few practical points narrow the choice:</p>
+<ul>
+<li><strong>Rated airflow at the right pressure.</strong> Look for the CFM rating that matches code testing, not just the highest number on the box.</li>
+<li><strong>Noise.</strong> A fan that is annoying to listen to tends to get switched off, which defeats the purpose. Quieter models are worth it in a primary ensuite.</li>
+<li><strong>Controls.</strong> A timer, humidity sensor or dehumidistat switch keeps the fan running after the shower without anyone having to remember.</li>
+<li><strong>Fit.</strong> Check the housing depth against the joist space, especially in a basement bathroom or under a floor with a heated system.</li>
+<li><strong>Combination units.</strong> Fans with built-in lights or heaters exist, but check the CFM rating of the fan itself, which is the number that matters for ventilation.</li>
+</ul>
+<p>Planning a heated floor at the same time? The wiring and layout interact with the ceiling plan, and our guide to <a href="https://stateracontracting.com/blog/heated-bathroom-floor-cost-calgary" target="_blank" rel="noopener">heated bathroom floor costs in Calgary</a> helps you budget the whole room. In a basement bathroom, the finished ceiling height also limits how much duct and fan housing can fit above, so see our notes on <a href="https://stateracontracting.com/blog/basement-ceiling-height-calgary" target="_blank" rel="noopener">basement ceiling height in Calgary</a> before settling on a layout.</p>
+<h2>Planning a bathroom renovation in Calgary?</h2>
+<p>If you are renovating a bathroom in Calgary, Okotoks, Cochrane or Airdrie, we handle the fan, the duct route and the permit as part of the build. Design is included with our builds, our team is licensed and insured, and you get daily communication from a family-owned crew that manages your project directly.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>See how our <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovation service</a> works, or <a href="https://stateracontracting.com" target="_blank" rel="noopener">book a free consultation</a> and we will review your bathroom’s ventilation as part of the plan. Basement bathrooms are part of our <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement and living spaces</a> work, and we also plan new bathrooms in <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions</a>.</p>
+<h2>FAQ</h2>
+<h3>What size bathroom exhaust fan do I need?</h3>
+<p>Multiply the bathroom’s length by its width and use that as your CFM, with 50 CFM as the minimum. An 80 sq. ft. bathroom needs about 80 CFM. If the room is over 100 sq. ft., add 50 CFM each for the toilet, shower and tub, and 100 CFM for a jetted tub.</p>
+<h3>Is a bigger fan always better?</h3>
+<p>A fan rated moderately above your calculated number is fine, and it gives you room for duct losses. Going far beyond what the room and duct can support does not help, because the duct and its length set the real airflow. Match the fan to the room, then make sure the duct is the right diameter and as short as possible.</p>
+<h3>What duct size does a 110 CFM bathroom fan need?</h3>
+<p>It depends on the model. Panasonic’s 110 CFM WhisperCeiling FV-11VQ5 is specified for a 4 in. or 6 in. duct. On a longer run or one with several elbows, we choose the 6 in. option. A 150 mm duct is roughly 6 in., so it fits that size.</p>
+<h3>Can I use the same fan for continuous ventilation?</h3>
+<p>Yes, if the fan is designed for continuous operation. HVI says a continuous rate of 20 CFM may be used in place of an intermittent 50 CFM fan. The fan model and controls need to suit that use, and your permit review confirms it meets the code for your home.</p>
+<h3>Do I need a permit to change my bathroom fan?</h3>
+<p>Swapping a like-for-like fan on an existing duct is a small job. Adding a new fan, changing the duct route or building a new bathroom is part of a larger renovation that normally involves a permit. We handle that process for you and confirm what applies before work begins.</p>
+Statera ContractingTalk Through Your Bathroom PlansContact Statera Contracting to discuss a bathroom renovation in Calgary or the surrounding areas.SStatera Contracting<a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">Message us on WhatsApp+1-403-512-8755</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.hvi.org/resources/publications/home-ventilation-guide-articles/how-much-ventilation-do-i-need/" rel="nofollow noopener noreferrer" target="_blank">How Much Ventilation Do I Need? (Home Ventilating Institute)</a></li>
+<li><a href="https://www.scrd.ca/wp-content/uploads/2022/12/Mechanical-Ventilation-Checklist-Sizing-Tables-2019.pdf" rel="nofollow noopener noreferrer" target="_blank">Mechanical Ventilation Check List Sizing Tables (2019)</a></li>
+<li><a href="https://www.buildcodes.ca/part-9/9-32-ventilation/" rel="nofollow noopener noreferrer" target="_blank">Section 9.32 Ventilation (BuildCodes.ca)</a></li>
+<li><a href="https://www.airsolutions.ca/images/Products/vanEE/Products/Reference/Ventilation-Handy-Reference-Sheet-National-Building-Code.pdf" rel="nofollow noopener noreferrer" target="_blank">Ventilation Handy Reference Sheet</a></li>
+<li><a href="https://na.panasonic.ca/hubfs/PCI%20-%20Panasonic%20North%20America%20Canada/Resources/WhisperCeiling_brochure_en.pdf?hsLang=en-ca" rel="nofollow noopener noreferrer" target="_blank">Panasonic WhisperCeiling brochure</a></li>
+<li><a href="https://codeindex.ca/article/6.3.2.10" rel="nofollow noopener noreferrer" target="_blank">OBC 6.3.2.10 Exhaust Ducts and Outlets (CodeIndex)</a></li>
+<li><a href="https://www.hvacengineering.ca/guides/exhaust-system-design-for-commercial-buildings/" rel="nofollow noopener noreferrer" target="_blank">Exhaust system design for commercial buildings (HVAC Engineering Canada)</a></li>
+<li><a href="https://www.fantech.net/en-ca/our-solutions/commercial/public-washroom" rel="nofollow noopener noreferrer" target="_blank">Public Washroom (Fantech)</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/heated-bathroom-floor-cost-calgary" target="_blank" rel="noopener">Heated bathroom floor cost in Calgary: what to budget for</a></li>
+<li><a href="https://stateracontracting.com/blog/cost-to-renovate-a-small-bathroom" target="_blank" rel="noopener">Cost to renovate a small bathroom in Calgary: 2026 guide</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">Bathroom remodel ideas: your 2026 Alberta guide</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">Bathroom Renovation Calgary 2026 Cost Guide</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
