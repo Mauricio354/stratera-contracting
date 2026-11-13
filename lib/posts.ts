@@ -23847,6 +23847,198 @@ Statera ContractingTalk Through Your Bathroom PlansContact Statera Contracting t
       },
     ],
   },
+  {
+    slug: "cedar-vs-pressure-treated",
+    title: "Cedar vs Pressure-Treated Wood for Decks and Fences",
+    excerpt: "For most Calgary projects, the best answer is a mix. Use pressure-treated lumber for anything that touches or sits near the ground, and choose cedar where you want the look and feel.",
+    date: "2026-11-13",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1794102421167_Cedar-and-treated-wood-fence-panels-compared.jpeg",
+    coverAlt: "Cedar vs Pressure-Treated Wood for Decks and Fences",
+    category: "Industry News",
+    readingTime: "14 min read",
+    metaTitle: "Cedar vs Pressure-Treated Wood for Decks and Fences",
+    metaDescription: "Cedar or pressure-treated wood for your Calgary deck or fence? Compare lifespan, ground contact, cost, upkeep and safe use, with a clear pick for each part.",
+    content: [
+      {
+        type: "html",
+        html: `<p>For most Calgary projects, the best answer is a mix. Use pressure-treated lumber for anything that touches or sits near the ground, such as posts, joists and footings. Choose cedar where you want the look and feel: deck boards, railings, fence panels and rails. Cedar gives you appearance and a natural resistance to decay. Pressure-treated wood gives you protection that is rated for soil contact and a lower purchase price.</p>
+<p>Below we explain how the two compare on lifespan, moisture, cost, upkeep and safe handling, and how to decide for a deck and for a fence.</p>
+Statera Contractingstateracontracting.comPlan a Longer-Lasting Outdoor ProjectStatera Contracting handles exterior work and home renovations in Calgary and surrounding areas, including projects such as decks and fences.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Pressure-treated lumber is the right choice for posts and any framing in or near the ground. Building code requires preservative treatment for wood in ground contact.</li>
+<li>Cedar is the better-looking board and has natural decay resistance, but untreated cedar is not recommended for long-term ground contact.</li>
+<li>Cedar usually costs more up front. Pressure-treated wood costs less, though neither one is maintenance-free.</li>
+<li>Calgary’s chinook freeze-thaw swings are hard on both woods, so sealing and good drainage matter more than the species.</li>
+<li>Treated wood has a few safe-use rules: never burn it, keep it away from food and drinking water, and avoid bleach-based cleaners.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#the-short-comparison">The short comparison</a></li>
+<li><a href="#what-you-are-actually-choosing-between">What you are actually choosing between</a></li>
+<li><a href="#which-lasts-longer-in-calgary">Which lasts longer in Calgary</a></li>
+<li><a href="#posts-joists-and-ground-contact">Posts, joists and ground contact</a></li>
+<li><a href="#cost-what-you-pay-now-and-later">Cost: what you pay now and later</a></li>
+<li><a href="#maintenance-staining-sealing-and-cleaning">Maintenance: staining, sealing and cleaning</a></li>
+<li><a href="#safe-use-of-treated-wood">Safe use of treated wood</a></li>
+<li><a href="#how-to-choose-for-a-deck">How to choose for a deck</a></li>
+<li><a href="#how-to-choose-for-a-fence">How to choose for a fence</a></li>
+<li><a href="#does-cedar-rot-if-it-gets-wet">Does cedar rot if it gets wet?</a></li>
+<li><a href="#plan-your-exterior-project-with-statera">Plan your exterior project with Statera</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>The short comparison</h2>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Cedar</th>
+<th>Pressure-treated</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Look</td>
+<td>Warm, fine grain, consistent colour</td>
+<td>Greenish or brown tint when new, more knots</td>
+</tr>
+<tr>
+<td>Decay protection</td>
+<td>Natural, strongest in heartwood</td>
+<td>Preservative forced into the wood</td>
+</tr>
+<tr>
+<td>Posts in soil</td>
+<td>Not recommended untreated</td>
+<td>Rated for ground contact</td>
+</tr>
+<tr>
+<td>Upfront cost</td>
+<td>Higher</td>
+<td>Lower</td>
+</tr>
+<tr>
+<td>Finishing</td>
+<td>Stain or seal to hold colour, or let it weather</td>
+<td>Seal to slow cracking and checking</td>
+</tr>
+<tr>
+<td>Best use</td>
+<td>Deck boards, railings, fence panels, rails</td>
+<td>Posts, joists, beams, footing-adjacent framing</td>
+</tr>
+</tbody>
+</table>
+<h2>What you are actually choosing between</h2>
+<p>Cedar in Western Canada normally means western red cedar. Its heartwood, the darker centre of the log, contains natural compounds that resist decay and insects. The paler sapwood has much less protection, so a board’s grade and how much heartwood it contains affect how it ages.</p>
+<p>Pressure-treated lumber is ordinary wood, often a softwood such as spruce or pine, that has had preservative forced deep into it under pressure. The preservative does the work, not the species.</p>
+<p>One point settles a common worry. Health Canada states that since 2004, <a href="https://hc-sc.gc.ca/cps-spc/alt_formats/pdf/pubs/pest/_fact-fiche/sstw-msbt/sstw-msbt-eng.pdf" rel="nofollow noopener noreferrer" target="_blank">CCA-treated wood is no longer available for residential construction</a> such as decks, fences or playground structures in Canada. It adds that wood treated with ACQ or CA-B can be bought at hardware and lumber stores for residential projects. Wood preservatives are also regulated: <a href="https://woodpreservation.ca/en/faq/" rel="nofollow noopener noreferrer" target="_blank">they must be registered with Health Canada’s Pest Management Regulatory Agency</a>, and each preservative is reviewed every fifteen years. So the pressure-treated wood sold for a backyard project today is not the older arsenic-based product many people remember.</p>
+<h2>Which lasts longer in Calgary</h2>
+<p>Both can last a long time, and neither lasts forever. Calgary is a demanding place for outdoor wood. One Canadian deck guide notes that <a href="https://www.homeowner.ca/a/the-playbook-for-hiring-a-decking-company-in-canada-material-decisions-quote-traps-and-what-to-lock-down-before-work-starts" rel="nofollow noopener noreferrer" target="_blank">a Calgary deck deals with chinook-driven freeze-thaw swings</a>. Wood takes on moisture, freezes, thaws and dries again, sometimes within days. That cycle opens checks and cracks no matter which wood you choose.</p>
+<p>Here is what the evidence supports:</p>
+<ul>
+<li><strong>Cedar above ground.</strong> The Canadian Wood Council ran a 10-year above-ground decking test at Canadian sites. It found <a href="https://cwc.ca/articles/durability-research-and-development/" rel="nofollow noopener noreferrer" target="_blank">only small amounts of decay in naturally durable heartwoods</a>, including western redcedar, while ponderosa pine controls showed moderate to advanced decay. In temperate climates, these heartwoods can give service lives of more than 10 years.</li>
+<li><strong>Pressure-treated wood.</strong> The Canadian Wood Council says wood <a href="https://cwc.ca/wp-content/uploads/durability-TipsonTreatedWoodExteriorUse.pdf" rel="nofollow noopener noreferrer" target="_blank">treated to standard, with field-cut ends treated as well, can last 30 to 60 years</a>. That figure describes the wood’s resistance to decay and termites.</li>
+<li><strong>What treatment does not stop.</strong> The same council notes preservative treatment is designed to stop decay and termite attack, not the cracking and splitting that come from repeated wetting and drying. A treated deck board can still look worn well before it fails structurally.</li>
+</ul>
+<p>Practical guides that estimate whole-deck lifespans give wide ranges. One Canadian guide suggests a pressure-treated deck <a href="https://www.homeowner.ca/a/the-playbook-for-hiring-a-decking-company-in-canada-material-decisions-quote-traps-and-what-to-lock-down-before-work-starts" rel="nofollow noopener noreferrer" target="_blank">typically lasts 10 to 15 years before major repair or replacement</a> in freeze-thaw climates, and that cedar can reach 25 years or more with staining or sealing every two to three years. Treat these as ballpark figures. Drainage, sun exposure, board spacing and how often you reseal change the result more than the label on the lumber.</p>
+<h2>Posts, joists and ground contact</h2>
+<p>This is where pressure-treated wood earns its place. Cedar heartwood resists decay, but it can still rot when it stays wet against soil or another surface for years. In the Canadian Wood Council’s ground-contact stake test, after five years <a href="https://cwc.ca/articles/durability-research-and-development/" rel="nofollow noopener noreferrer" target="_blank">moderate to high levels of decay were present in all species at all sites</a>. Western redcedar and yellow cypress were the most durable, and the council does not recommend untreated naturally durable heartwood for long-term ground contact.</p>
+<p>One woodworking reference puts untreated cedar at <a href="https://woodworkingadvisor.com/can-cedar-be-left-untreated/" rel="nofollow noopener noreferrer" target="_blank">roughly 5 to 10 years for anything in direct ground contact</a> and suggests pressure-treated lumber for posts that will sit in soil. Treat that as a rule of thumb, but it matches what the code requires.</p>
+<p>The building code side is clear. Wood Preservation Canada summarises Part 9 of the National Building Code: preservative treatment is required for <a href="https://woodpreservation.ca/en/residential-sitemap/building-code-requirements/" rel="nofollow noopener noreferrer" target="_blank">wood in ground contact, members at or below ground level framed into masonry or concrete (unless a 12 mm air space is provided), and members within 150 mm of the ground</a>, unless they sit on concrete with dampproofing between. For a deck or fence, that points to treated posts and treated lower framing.</p>
+<p>Residential posts in Canada also fall under a specific category. Wood Preservation Canada’s guide says pressure-treated posts for <a href="https://woodpreservation.ca/wp-content/uploads/2025/03/Specifier-Guide-Structural-Posts-and-Building-Poles-2025.pdf" rel="nofollow noopener noreferrer" target="_blank">residential applications are restricted to Use Category UC4.1</a>, with approved preservative systems such as ACQ and CA-B. Look for that rating on the tag when you buy.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794102453612_Posts-joists-and-ground-contact.jpeg" alt="Posts, joists and ground contact" /></p>
+<h3>Cut ends and drilled holes</h3>
+<p>Preservative forms a protective shell around the wood, and the untreated centre is exposed wherever you cut or drill. The Canadian Wood Council advises cutting and drilling before treatment where possible, or <a href="https://cwc.ca/wp-content/uploads/durability-TipsonTreatedWoodExteriorUse.pdf" rel="nofollow noopener noreferrer" target="_blank">brush-treating cuts and holes made on site</a>. On a fence, that means treating the cut tops of posts and any notches. On a deck, it means treating the ends of joists and any cut near a ledger.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794102424487_Worker-seals-the-cut-end-of-a-treated-post.jpeg" alt="Worker seals the cut end of a treated post" /></p>
+<h2>Cost: what you pay now and later</h2>
+<p>Cedar costs more at the lumberyard. One Canadian lumber retailer reports that <a href="https://tuds.ca/blogs/news/cedar-lumber-regina-grades-pricing-and-when-to-choose-cedar-over-pt" rel="nofollow noopener noreferrer" target="_blank">pressure-treated deck boards typically run $2 to $4 per linear foot</a>, while premium cedar deck boards commonly run $4 to $8 per linear foot. Cedar 4x4 posts are priced well above treated posts. Prices move with the season and the supplier, so use these as a comparison, not a quote.</p>
+<p>The larger question is the cost over time. Cedar saves money only if you maintain it, and treated lumber needs sealing too. Many homeowners find the most sensible spend is the split approach described above: treated wood for the structure you will never see, and cedar for what you touch and look at. That keeps the cost of the hidden parts low and puts the extra budget where it shows.</p>
+<p>For a whole deck, labour, hardware, footings, permits and finishing add up to more than the lumber does. Whichever wood you pick, ask for a written scope with fixed pricing. Our guide to <a href="https://stateracontracting.com/blog/fixed-price-vs-cost-plus" target="_blank" rel="noopener">fixed price vs cost plus contracts</a> explains how each approach handles material and labour changes.</p>
+<h2>Maintenance: staining, sealing and cleaning</h2>
+<p>Cedar is dimensionally stable, which means it shrinks and swells less than many woods. The Canadian Wood Council notes that coatings, especially solid-colour stains and paints, <a href="https://cwc.ca/articles/performance-factors/" rel="nofollow noopener noreferrer" target="_blank">tend to last longer on stable species such as western red cedar</a>. It also cautions that deck stains will not last as long on low-density cedar because of foot wear. In practice, expect to refresh a stain on a cedar deck surface more often than on a fence or a railing.</p>
+<p>A realistic upkeep routine for either wood:</p>
+<ol>
+<li>Let new pressure-treated lumber dry before you finish it. Check the supplier’s guidance on timing.</li>
+<li>Choose a penetrating stain or sealer made for exterior decking. Film-forming paints can chip and flake.</li>
+<li>Inspect every spring after the freeze-thaw season, and refresh the finish when water stops beading on the surface.</li>
+<li>Keep leaves, planters and snow piles from sitting against the boards, and leave gaps for drainage.</li>
+<li>Clean with a cleaner suited to the wood, following the label.</li>
+</ol>
+<p>If you want cedar’s silver-grey look, you can let it weather naturally instead of staining. It will still check and move, but the look is part of the appeal for many people.</p>
+<h2>Safe use of treated wood</h2>
+<p>These points keep treated lumber safe and protect your investment. Health Canada advises that treated wood <a href="https://hc-sc.gc.ca/cps-spc/alt_formats/pdf/pubs/pest/_fact-fiche/sstw-msbt/sstw-msbt-eng.pdf" rel="nofollow noopener noreferrer" target="_blank">should never be burned</a>, should not be used where it may directly contact food, and should not be cleaned with bleaching agents such as sodium hypochlorite, which can cause the wood to release chemicals. Wood Preservation Canada adds that treated wood should not be used where it may touch drinking water, in beehives or animal feed, <a href="https://woodpreservation.ca/en/faq/" rel="nofollow noopener noreferrer" target="_blank">as mulch, or as firewood</a>.</p>
+<p>So if you are building raised garden beds, a cutting surface or a picnic tabletop, ask your supplier what suits food contact. Offcuts from a treated deck should go to the appropriate waste stream, never into the fire pit. Wear gloves and a dust mask when cutting, and wash your hands before eating.</p>
+<h2>How to choose for a deck</h2>
+<ul>
+<li><strong>Frame, joists, beams and posts:</strong> pressure-treated. These parts are close to moisture and often near the ground, and the code points to treatment there.</li>
+<li><strong>Deck boards:</strong> cedar if you value the look and are willing to seal it; pressure-treated if you want the lowest cost and plan to seal it as well.</li>
+<li><strong>Railings and trim:</strong> cedar is a popular choice because you touch and see these parts every day.</li>
+<li><strong>Fasteners:</strong> use hardware rated for the wood you choose. Check the preservative manufacturer’s guidance, since some treated wood is harsher on metal.</li>
+</ul>
+<p>Before you build, check the rules. Many Calgary decks need a permit depending on height, size and attachment to the house, and our article on <a href="https://stateracontracting.com/blog/deck-permit-calgary" target="_blank" rel="noopener">deck permits in Calgary</a> covers what to have ready.</p>
+<h2>How to choose for a fence</h2>
+<p>A fence has two jobs, and it helps to treat them separately. The posts live in the ground, so they should be pressure-treated and rated for ground contact. The panels, pickets and rails sit above the soil, which is where cedar’s natural resistance works well. One reference estimates untreated cedar lasts <a href="https://woodworkingadvisor.com/can-cedar-be-left-untreated/" rel="nofollow noopener noreferrer" target="_blank">roughly 15 to 30 years as an above-ground fence</a>. That is a guide rather than a guarantee, because Calgary wind, snow drifts and sprinklers all shorten or extend it.</p>
+<p>A few details that help any fence last:</p>
+<ul>
+<li>Keep the bottom of pickets off the soil, with a small gap, so water can drain.</li>
+<li>Seal cut ends of treated posts.</li>
+<li>Set posts below the frost line and use well-drained backfill.</li>
+<li>Choose a stain you are willing to renew. A fence you neglect will fade and check whichever wood it is.</li>
+</ul>
+<h2>Does cedar rot if it gets wet?</h2>
+<p>Yes, eventually. Cedar’s protective compounds, called thujaplicins, <a href="https://woodworkingadvisor.com/cedar-doesnt-rot/" rel="nofollow noopener noreferrer" target="_blank">leach out over time</a>, especially in wood that is repeatedly wetted and dried or in direct ground contact. That is why old cedar decking can rot even though it often outlasts untreated pine in the same spot. Good airflow and drainage keep cedar healthy far longer than any finish.</p>
+<blockquote>
+<h2>Our perspective on cedar and pressure-treated wood</h2>
+<p>When homeowners ask us which wood is better, we usually answer with a question: which part of the project are you talking about? The structure and the surface have different jobs, and we plan them separately.</p>
+<p>We specify treated lumber for posts, joists and anything close to the ground, because that is what building code and common sense call for. Then we talk through where the budget is best spent on the surface, whether that means cedar for boards and rails or a lower-cost option you will seal on schedule.</p>
+<p>Our approach is client-first and transparent. We handle permits, follow code requirements, and give you a written scope so you know what is being built, with what, and why. We check drainage, footings and attachment details before we talk about finish, because those decide how long the work holds up in Calgary’s freeze-thaw cycles.</p>
+<p>If you are planning exterior work, the most useful step is a clear conversation early, before materials are ordered.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Plan your exterior project with Statera</h2>
+<p>If the wood choice is one piece of a bigger exterior project, we can help you sort out the whole scope. Statera Contracting is a family-owned renovation company serving Calgary, Okotoks, Cochrane and Airdrie. We are licensed and insured, we manage permits, and design is included with our builds. Our team stays in daily contact with you from start to finish.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If your plans include a home addition or a porch, see our <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions</a> service, or <a href="https://stateracontracting.com" target="_blank" rel="noopener">contact Statera Contracting</a> to book a consultation. Our guide to <a href="https://stateracontracting.com/blog/front-porch-addition-cost-calgary" target="_blank" rel="noopener">front porch addition costs in Calgary</a> is a good starting point for budgeting.</p>
+<h2>FAQ</h2>
+<h3>What lasts longer, cedar or pressure-treated wood?</h3>
+<p>It depends on where the wood is used. Above ground, cedar heartwood resists decay well, and treated lumber is also very durable. In soil, pressure-treated wood generally outlasts cedar because it is rated for ground contact. In Calgary, how well the wood drains and how often you seal it affects lifespan as much as the species.</p>
+<h3>Is cedar or pressure-treated better for a fence?</h3>
+<p>Use both. Set pressure-treated posts in the ground, then use cedar for panels, pickets and rails if you like the look. That combination puts the stronger protection where the wood is wettest and spends the extra money where it shows. Treat any cut ends of the posts.</p>
+<h3>Can I leave cedar unstained?</h3>
+<p>Yes. Unfinished cedar weathers to a silver-grey and still resists decay above ground. It will check and move with moisture changes, and it will not hold its original colour. Sealing or staining slows these changes if you want to keep the look.</p>
+<h3>Is modern pressure-treated wood safe for a deck?</h3>
+<p>CCA-treated wood has not been available for residential decks and fences in Canada since 2004, according to Health Canada. Current residential lumber uses preservatives such as ACQ or CA-B. Follow the safe-use rules: never burn it, keep it away from food and drinking water, and avoid bleach-based cleaners.</p>
+<h3>Do I need a permit for a deck or fence in Calgary?</h3>
+<p>Often you do for a deck, depending on its height, size and whether it attaches to the house. Fence rules depend on height and location. Check the City of Calgary’s current requirements before you build, or ask us to handle the permit as part of the project.</p>
+Statera ContractingDiscuss Your Deck or Fence ProjectContact Statera Contracting to discuss exterior work for your Calgary-area home, alongside its other residential renovation services.Statera Contracting<a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">Call us+1-403-512-8755</a><a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://hc-sc.gc.ca/cps-spc/alt_formats/pdf/pubs/pest/_fact-fiche/sstw-msbt/sstw-msbt-eng.pdf" rel="nofollow noopener noreferrer" target="_blank">Staying Safe around Treated Wood, Health Canada</a></li>
+<li><a href="https://woodpreservation.ca/en/faq/" rel="nofollow noopener noreferrer" target="_blank">FAQ, Wood Preservation Canada</a></li>
+<li><a href="https://woodpreservation.ca/en/residential-sitemap/building-code-requirements/" rel="nofollow noopener noreferrer" target="_blank">Building Code Requirements, Wood Preservation Canada</a></li>
+<li><a href="https://woodpreservation.ca/wp-content/uploads/2025/03/Specifier-Guide-Structural-Posts-and-Building-Poles-2025.pdf" rel="nofollow noopener noreferrer" target="_blank">Structural Posts and Building Poles Specifier Guide 2025, Wood Preservation Canada</a></li>
+<li><a href="https://cwc.ca/articles/durability-research-and-development/" rel="nofollow noopener noreferrer" target="_blank">Durability Research and Development, Canadian Wood Council</a></li>
+<li><a href="https://cwc.ca/wp-content/uploads/durability-TipsonTreatedWoodExteriorUse.pdf" rel="nofollow noopener noreferrer" target="_blank">Treated Wood: Tips for Durable Exterior Wood Construction, Canadian Wood Council</a></li>
+<li><a href="https://cwc.ca/articles/performance-factors/" rel="nofollow noopener noreferrer" target="_blank">Performance Factors, Canadian Wood Council</a></li>
+<li><a href="https://www.homeowner.ca/a/the-playbook-for-hiring-a-decking-company-in-canada-material-decisions-quote-traps-and-what-to-lock-down-before-work-starts" rel="nofollow noopener noreferrer" target="_blank">The Playbook for Hiring a Decking Company in Canada, Homeowner.ca</a></li>
+<li><a href="https://tuds.ca/blogs/news/cedar-lumber-regina-grades-pricing-and-when-to-choose-cedar-over-pt" rel="nofollow noopener noreferrer" target="_blank">Cedar Lumber: Grades, Pricing, and When to Choose Cedar over PT, The Ultimate Deck Shop</a></li>
+<li><a href="https://woodworkingadvisor.com/can-cedar-be-left-untreated/" rel="nofollow noopener noreferrer" target="_blank">Can Cedar Be Left Untreated?, Woodworking Advisor</a></li>
+<li><a href="https://woodworkingadvisor.com/cedar-doesnt-rot/" rel="nofollow noopener noreferrer" target="_blank">Does Cedar Rot? Heartwood vs. Sapwood Explained, Woodworking Advisor</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/vinyl-vs-fiber-cement" target="_blank" rel="noopener">Vinyl vs fibre cement siding: Canada homeowner’s guide</a></li>
+<li><a href="https://stateracontracting.com/blog/deck-permit-calgary" target="_blank" rel="noopener">Deck permit calgary: what homeowners need before they build</a></li>
+<li><a href="https://stateracontracting.com/blog/fiberglass-vs-vinyl-windows" target="_blank" rel="noopener">Fibreglass vs Vinyl Windows: What Suits a Calgary Home</a></li>
+<li><a href="https://stateracontracting.com/blog/fiber-cement-siding-cost-calgary" target="_blank" rel="noopener">$10–$18/sq ft: Calgary Fiber Cement Siding Costs &amp; Contractor Red Flags</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
