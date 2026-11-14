@@ -24039,6 +24039,185 @@ Statera ContractingDiscuss Your Deck or Fence ProjectContact Statera Contracting
       },
     ],
   },
+  {
+    slug: "waterfall-countertop-edge",
+    title: "Waterfall Countertop Edge: Design, Seams and What to Plan For",
+    excerpt: "A waterfall countertop edge is a design where the countertop material does not stop at the island's edge. It turns 90 degrees and runs down the side to the floor, so the end of the island is stone instead of a cabinet panel.",
+    date: "2026-11-14",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1794202804807_Stone-waterfall-panel-on-a-kitchen-island.jpeg",
+    coverAlt: "Waterfall Countertop Edge: Design, Seams and What to Plan For",
+    category: "Industry News",
+    readingTime: "12 min read",
+    metaTitle: "Waterfall Countertop Edge: Design, Seams and What to Plan For",
+    metaDescription: "What a waterfall countertop edge is, how the mitred seam works, which materials suit it, and what to check on seating, cabinets and cost before you commit.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A waterfall countertop edge is a design where the countertop material does not stop at the island’s edge. It turns 90 degrees and runs down the side to the floor, so the end of the island is stone instead of a cabinet panel. The details that decide whether it looks right are the mitred seam, the vein match, the cabinet underneath and how many people need to sit at the island. This guide covers each one from a renovation contractor’s point of view.</p>
+Statera ContractingPlan Your Kitchen RenovationStatera Contracting renovates Calgary kitchens, helping you plan a waterfall island as part of a broader home renovation.<a href="https://stateracontracting.com/">Explore renovation services</a>
+<h2>TL;DR</h2>
+<ul>
+<li>A waterfall edge carries the same slab from the top down the side of the island. The corner is a 45-degree mitre joint, and its quality drives the whole look.</li>
+<li>One waterfall side often reads as more refined than two, and it uses less slab.</li>
+<li>Quartz is the easiest material to match across a corner. Quartzite, granite, marble and porcelain each suit a different look and a different level of care.</li>
+<li>Waterfall sides affect seating, outlets, appliance access and cabinet changes later, so plan them with the kitchen layout.</li>
+<li>Cost depends on slab, number of sides, vein matching and fabrication. It is best priced on a measured plan, not from a photo.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-a-waterfall-countertop-edge-is">What a waterfall countertop edge is</a></li>
+<li><a href="#how-the-corner-is-made-the-mitred-joint">How the corner is made: the mitred joint</a></li>
+<li><a href="#one-waterfall-side-or-two">One waterfall side or two</a></li>
+<li><a href="#materials-that-suit-a-waterfall-edge">Materials that suit a waterfall edge</a></li>
+<li><a href="#planning-around-seating-outlets-and-appliances">Planning around seating, outlets and appliances</a></li>
+<li><a href="#are-waterfall-edges-still-a-good-choice">Are waterfall edges still a good choice?</a></li>
+<li><a href="#what-affects-the-cost-of-a-waterfall-edge">What affects the cost of a waterfall edge</a></li>
+<li><a href="#what-to-confirm-before-the-stone-is-ordered">What to confirm before the stone is ordered</a></li>
+<li><a href="#planning-a-waterfall-island-with-statera">Planning a waterfall island with Statera</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What a waterfall countertop edge is</h2>
+<p>A regular countertop edge sits on top of the cabinet. It might be square, bevelled, bullnose or ogee, but the stone stops where the cabinet begins. A waterfall edge continues the same material down the vertical end. Interior designer Heather LaBoda describes it this way in <a href="https://www.architecturaldigest.com/story/waterfall-countertop-101" rel="nofollow noopener noreferrer" target="_blank">Architectural Digest</a>: traditional edges stop where the structure below ends, while a waterfall surface also forms the ends, which turn down to meet the floor.</p>
+<p>That changes how the island looks from the room. Instead of a cabinet box with a stone lid, you see one solid block. LaBoda also notes that it can make an island more durable, because the stone covers the wood structure with a tougher surface. Architect Monica Sanga, quoted in the same article, sees it as a more considered visual stop for the kitchen than the exposed side of a cabinet base.</p>
+<p>People search for this under a few names: waterfall edge, waterfall island edge, waterfall end or waterfall panel. They all mean the same thing: a vertical stone panel at the end of the run.</p>
+<h2>How the corner is made: the mitred joint</h2>
+<p>The corner is where a waterfall succeeds or fails. Good fabricators cut the top and the side panel at 45 degrees so they meet as a clean 90-degree corner. That is called a mitre. Done well, the seam is thin and the pattern appears to wrap around the corner.</p>
+<p>Three things matter at this joint.</p>
+<ol>
+<li><strong>Vein continuity.</strong> On a veined stone or patterned quartz, the side panel should come from the part of the slab next to the top piece, so the lines continue around the corner. This needs more slab than a flat top and a plan made before cutting.</li>
+<li><strong>Thickness.</strong> The mitre works with a thick slab. Ask your fabricator what thickness they will use for the top and the panels, and confirm that it suits the profile you want.</li>
+<li><strong>Support.</strong> The top should rest on the cabinet structure. Cosentino’s <a href="https://assetstools.cosentino.com/api/v1/bynder/doc/0B425745-8BAC-4A87-9D7B54DA7AC39A1D/silestone-countertops-design-and-installation-en.pdf?dl=silestone-countertops-design-and-installation-en.pdf" rel="nofollow noopener noreferrer" target="_blank">Silestone installation manual</a> says the waterfall edge must not lift the countertop off the cabinet. It also says the material acts as cladding on the cabinet side, not as the structure. If the panel is pulled down, the joint opens.</li>
+</ol>
+<p>That last point is why we bring the contractor and the fabricator together early. The cabinet carcass, the level of the floor and the panel height all have to agree before the stone is cut.</p>
+<h2>One waterfall side or two</h2>
+<p>The most common design question is how many ends to wrap.</p>
+<p><strong>One side</strong> works well when one end of the island faces the living room or the entry and the other end meets a wall, a pantry run or a cabinet gable. You get the strong visual effect where people actually see it. It also uses less material and takes less cutting.</p>
+<p><strong>Two sides</strong> give the full solid-block look. They suit a freestanding island with a clean, simple cabinet base. They need the most slab length and the most careful vein planning, and they close off both ends of the island.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794202824391_One-sided-and-two-sided-waterfall-island-comparison.jpeg" alt="One-sided and two-sided waterfall island comparison" /></p>
+<p>A useful test: stand where you will see the island most often, such as the kitchen entry or the sofa. Wrap the end that faces you. If the other end is hidden or sits against something, a standard finished cabinet end is usually enough.</p>
+<h2>Materials that suit a waterfall edge</h2>
+<p>The material changes the look, the care routine and how forgiving the corner is.</p>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Look</th>
+<th>Why it suits a waterfall</th>
+<th>What to know</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quartz</td>
+<td>Consistent colour, marble-look patterns</td>
+<td>Even patterns make the mitred corner clean and the seam hard to see</td>
+<td>Does not need sealing</td>
+</tr>
+<tr>
+<td>Quartzite</td>
+<td>Dramatic natural veining</td>
+<td>Striking when the veining is matched around the corner</td>
+<td>Natural variation means slab selection matters</td>
+</tr>
+<tr>
+<td>Granite</td>
+<td>Natural movement, very hard surface</td>
+<td>Durable in a high-traffic spot</td>
+<td>A sharp knock right at the corner can chip any hard stone</td>
+</tr>
+<tr>
+<td>Marble</td>
+<td>Classic veined look</td>
+<td>The most dramatic option when matched</td>
+<td>Needs the same care as any marble surface</td>
+</tr>
+<tr>
+<td>Porcelain</td>
+<td>Slim, modern lines, minimalist look</td>
+<td>Allows thin profiles</td>
+<td>Check the fabrication method and edge detail</td>
+</tr>
+</tbody>
+</table>
+<p>Quartz is the material we see most often for waterfall islands in Calgary kitchens, mainly because its pattern is predictable across the corner and it is low maintenance. If a slim, contemporary profile appeals to you, read about <a href="https://isiobrasyservicios.com/blog/encimera-porcelanica-ventajas" target="_blank" rel="nofollow noopener noreferrer">porcelain countertop pros and cons</a> before you decide.</p>
+<p>If you are choosing natural stone, pick the actual slabs in person. A small sample cannot show you how the veining will travel around a corner. For a book-matched look, where two consecutive slabs mirror each other across the joint, ask your fabricator early whether suitable slabs are available, because that planning happens at slab selection.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794202796112_Veined-stone-slabs-beside-a-mitred-corner-sample.jpeg" alt="Veined stone slabs beside a mitred corner sample" /></p>
+<p>The vertical panel also sits near feet, stools and the vacuum cleaner. It is worth choosing a surface you are comfortable having in that spot, and keeping a small chip risk at the corner in mind with any hard stone.</p>
+<h2>Planning around seating, outlets and appliances</h2>
+<p>A waterfall panel is solid stone from top to floor. That has practical consequences that are easier to solve on paper than on installation day.</p>
+<p><strong>Seating.</strong> A panel at the end of an overhang can make that seat feel tight. Planning guidance cited by <a href="https://www.architecturecourses.org/design/waterfall-countertop" rel="nofollow noopener noreferrer" target="_blank">ArchitectureCourses.org</a> says that at a standard 36-inch counter, each seated person needs about 24 inches of width and 15 inches of knee depth. With a panel at both ends, the space between the panels has to fit the stools you want. If you plan to seat three or four people, measure the clear space, not the overall island length. Our guide to <a href="https://stateracontracting.com/blog/kitchen-countertop-heights-the-complete-homeowners-guide" target="_blank" rel="noopener">kitchen countertop heights</a> covers the heights and clearances that go with this.</p>
+<p><strong>Storage and access.</strong> A wrapped end closes that side to extra storage or bar seating. In a small kitchen, a waterfall on a large island can also feel heavy, especially with stools. The Architectural Digest piece above makes this point too.</p>
+<p><strong>Toe-kick, outlets and plumbing.</strong> A stone panel replaces the toe-kick on that side, and outlets or plumbing that would normally go in a cabinet end need to be placed before fabrication. Devenio Customs, a US cabinetry company, notes in an <a href="https://deveniocustoms.com/2026/04/20/waterfall-edge-vs-standard-edge-countertop-which-should-you-choose/" rel="nofollow noopener noreferrer" target="_blank">April 2026 comparison</a> that a dishwasher, warming drawer or cooktop in the island needs ventilation and service access planned into the waterfall side.</p>
+<p><strong>Future changes.</strong> Once the stone is fitted, changing the cabinets later is harder. If you might swap the layout in a few years, a one-sided waterfall gives you more flexibility.</p>
+<h2>Are waterfall edges still a good choice?</h2>
+<p>Yes, when they suit the kitchen. They work best on islands with clean, simple cabinetry, where the stone is the feature and the base does not compete with it. They are less successful when the island is small, the cabinetry is busy, or the plan needs stools and storage on every side.</p>
+<p>A single waterfall panel is often the more restrained choice. It looks deliberate without turning the island into a monument. If your kitchen is part of a larger plan, our <a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation planning guide</a> helps you decide where a feature like this belongs.</p>
+<h2>What affects the cost of a waterfall edge</h2>
+<p>We do not publish a fixed price for a waterfall, because it depends on the whole kitchen. These are the factors that move the number:</p>
+<ul>
+<li><strong>Slab choice.</strong> Brand, pattern and colour change the material cost before anything is cut.</li>
+<li><strong>Number of sides.</strong> Each waterfall panel is extra stone and extra fabrication on top of the island top.</li>
+<li><strong>Vein matching.</strong> A matched mitre needs more slab and more care than a plain one.</li>
+<li><strong>Thickness and profile.</strong> Thick, built-up or special edge profiles add labour.</li>
+<li><strong>Panel height.</strong> A panel that goes floor to counter uses more stone than one that is counter-height only.</li>
+<li><strong>Site conditions.</strong> Out-of-level floors, appliances in the island and tight access all affect installation.</li>
+<li><strong>Cabinet work.</strong> The base has to be solid and finished to suit the panel.</li>
+</ul>
+<p>Because the stone is cut once, the cost of a mistake is high. That is why a waterfall is best priced from a measured plan with the slab selected. If you are setting a total budget, our <a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">Calgary kitchen remodel cost guide</a> and the <a href="https://stateracontracting.com/blog/budget-kitchen-renovations-your-2026-alberta-guide" target="_blank" rel="noopener">Alberta budget kitchen guide</a> show where countertops sit in the overall picture.</p>
+<h2>What to confirm before the stone is ordered</h2>
+<p>Use this list when you meet with your fabricator and your contractor.</p>
+<ol>
+<li><strong>Site template.</strong> The fabricator should measure on site after the cabinets are set, so the panel fits the real floor and the real island.</li>
+<li><strong>Dry layout.</strong> Ask to see the slabs laid out with the vein direction before the mitre is cut. After a 45-degree cut there is no room to adjust, as fabrication guidance from SlabKast warns.</li>
+<li><strong>Slab quantity.</strong> The panel comes from the slab next to the top piece, so the order should account for that.</li>
+<li><strong>Panel height and floor gap.</strong> Confirm the panel height matches the island (36 inches is standard for most islands) and how the bottom meets the floor.</li>
+<li><strong>Cabinet strength.</strong> The island carcass must carry the load and support the top.</li>
+<li><strong>Outlets, plumbing and appliances.</strong> Locate them before cutting, not after.</li>
+<li><strong>Seating clearance.</strong> Mark stool positions on the floor with tape.</li>
+<li><strong>Seam position.</strong> Ask where every joint will fall, not just the mitre.</li>
+</ol>
+<p>Vera Svensson of ArchitectureCourses.org cautions against choosing a waterfall from a photograph alone, because the corner, the stools and the floor gap only show up in the real room. A site visit and a scaled plan solve most of that.</p>
+<blockquote>
+<h2>Our perspective on waterfall edges</h2>
+<p>We like waterfall edges when they are planned with the kitchen, not added at the end. The best ones start with how you use the island: where people walk, where they sit, where the outlets and appliances go. Then the stone decision follows.</p>
+<p>Because we handle design and build together, the cabinet carcass, the plumbing and electrical, the permit work where it applies and the countertop template are coordinated by one team. That matters most on a waterfall, where the stone is cut once and the cabinets underneath have to be right.</p>
+<p>Our advice is usually to choose the feature end of the island, wrap that one, and keep the rest of the layout practical. If your plan really calls for two panels, we will check the seating width and the service access with you before anything is ordered.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Planning a waterfall island with Statera</h2>
+<p>If you are considering a waterfall island in Calgary, Airdrie, Cochrane or Okotoks, we can plan it as part of your kitchen renovation. Our team is licensed and insured, builds to code, manages permits and includes design with the build. A family-owned team manages each project directly and keeps you updated daily.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>See our <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation service</a> and book a consultation. We will review your layout, your seating needs and your material options so the waterfall is priced on a real plan. If your cabinets are staying, our guide to <a href="https://stateracontracting.com/blog/renovations-kitchen-cabinets" target="_blank" rel="noopener">kitchen cabinet renovations</a> explains the options.</p>
+<h2>FAQ</h2>
+<h3>What is the difference between a waterfall countertop and a regular countertop?</h3>
+<p>A regular countertop stops at the edge of the cabinet. A waterfall countertop continues the same material down the side of the island to the floor. The corner where the two meet is usually a 45-degree mitred joint.</p>
+<h3>What is the best material for a waterfall edge?</h3>
+<p>Quartz is the most common choice because its pattern is consistent and the corner is easy to match. Quartzite and marble give more dramatic veining but need careful slab selection and, for marble, the usual marble care. Granite and porcelain suit other looks.</p>
+<h3>Can I have a waterfall on only one side of my island?</h3>
+<p>Yes, and many designs do. One panel on the side that faces the room gives most of the visual effect, uses less stone and leaves the other end available for storage or a finished cabinet end.</p>
+<h3>Does a waterfall edge affect seating?</h3>
+<p>It can. A stone panel at the end of an overhang reduces the room for stools. Plan about 24 inches of width and 15 inches of knee depth per person at a standard counter, and measure the clear space between the panels.</p>
+Statera ContractingDiscuss Your Waterfall IslandContact Statera Contracting to discuss your kitchen renovation and how a waterfall island fits into your home renovation plans.Statera Contracting<a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">Email us at statera.contracting@gmail.com</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.architecturaldigest.com/story/waterfall-countertop-101" rel="nofollow noopener noreferrer" target="_blank">Architectural Digest: Waterfall Countertop 101</a></li>
+<li><a href="https://assetstools.cosentino.com/api/v1/bynder/doc/0B425745-8BAC-4A87-9D7B54DA7AC39A1D/silestone-countertops-design-and-installation-en.pdf?dl=silestone-countertops-design-and-installation-en.pdf" rel="nofollow noopener noreferrer" target="_blank">Cosentino: Silestone countertops design and installation</a></li>
+<li><a href="https://www.architecturecourses.org/design/waterfall-countertop" rel="nofollow noopener noreferrer" target="_blank">ArchitectureCourses.org: Waterfall Countertops, what to check before installation</a></li>
+<li><a href="https://deveniocustoms.com/2026/04/20/waterfall-edge-vs-standard-edge-countertop-which-should-you-choose/" rel="nofollow noopener noreferrer" target="_blank">Devenio Customs: Waterfall edge vs standard edge countertop</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/kitchen-countertop-heights-the-complete-homeowners-guide" target="_blank" rel="noopener">Kitchen countertop heights: the complete homeowner’s guide</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">Kitchen renovation ideas for Alberta homeowners: 2026 guide</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-design-calgary-your-2026-renovation-guide" target="_blank" rel="noopener">Kitchen design Calgary: your 2026 renovation guide</a></li>
+<li><a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">Planning a Kitchen Renovation in Calgary</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
