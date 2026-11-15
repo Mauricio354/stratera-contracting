@@ -24218,6 +24218,213 @@ Statera ContractingDiscuss Your Waterfall IslandContact Statera Contracting to d
       },
     ],
   },
+  {
+    slug: "flush-beam-vs-drop-beam",
+    title: "Flush Beam vs Drop Beam: How to Choose for Your Deck",
+    excerpt: "A flush beam sits level with the deck joists, and the joists attach to its side with metal hangers. A drop beam sits under the joists, and the joists rest on top of it.",
+    date: "2026-11-15",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1794276417844_Drop-beam-supporting-joists-in-deck-framing.jpeg",
+    coverAlt: "Flush Beam vs Drop Beam: How to Choose for Your Deck",
+    category: "Industry News",
+    readingTime: "14 min read",
+    metaTitle: "Flush Beam vs Drop Beam: How to Choose for Your Deck",
+    metaDescription: "Flush beam or drop beam for your deck? See how they differ in strength, headroom, looks and permits, and which suits a Calgary-area backyard.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A flush beam sits level with the deck joists, and the joists attach to its side with metal hangers. A drop beam sits under the joists, and the joists rest on top of it. Choose a flush beam when you need a low deck, a clean edge or tight headroom underneath. Choose a drop beam when you want the simplest, most common framing, a stronger joist connection or a cantilever past the beam.</p>
+<p>That is the short answer. The right one for your yard depends on how high the deck sits, how far it spans, what you see from below and what your permit drawings show. This guide walks through each factor so you can make the call, or have a sensible conversation with your builder.</p>
+Statera ContractingPlanning Exterior Work in Calgary?Statera Contracting handles home renovations and exterior work in Calgary and nearby areas. Explore the company’s work and see if it fits your plans.<a href="https://stateracontracting.com/">Visit</a>
+<h2>TL;DR</h2>
+<ul>
+<li><strong>Flush beam:</strong> level with the joists, joists hang off its side. Best for low decks, tight headroom and a clean look from below.</li>
+<li><strong>Drop beam:</strong> under the joists, joists sit on top. The more common choice, simpler to frame, and it allows a limited cantilever.</li>
+<li><strong>Height decides most jobs.</strong> A low door threshold usually points to flush. A taller deck with open space below usually suits a drop beam.</li>
+<li><strong>Hangers and connectors matter more than the beam style.</strong> Either layout needs the right hardware, installed as the manufacturer specifies.</li>
+<li><strong>In Calgary, the beam layout shows up on your permit drawings.</strong> Confirm it with the City’s current requirements before you build.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-a-flush-beam-is">What a flush beam is</a></li>
+<li><a href="#what-a-drop-beam-is">What a drop beam is</a></li>
+<li><a href="#flush-beam-vs-drop-beam-at-a-glance">Flush beam vs drop beam at a glance</a></li>
+<li><a href="#height-and-headroom-the-factor-that-decides-most-jobs">Height and headroom: the factor that decides most jobs</a></li>
+<li><a href="#strength-spans-and-cantilevers">Strength, spans and cantilevers</a></li>
+<li><a href="#post-connections">Post connections</a></li>
+<li><a href="#appearance">Appearance</a></li>
+<li><a href="#cost-what-really-changes-the-price">Cost: what really changes the price</a></li>
+<li><a href="#calgary-and-alberta-checks-before-you-choose">Calgary and Alberta checks before you choose</a></li>
+<li><a href="#how-to-choose-a-simple-decision-path">How to choose: a simple decision path</a></li>
+<li><a href="#our-perspective">Our perspective</a></li>
+<li><a href="#planning-exterior-work-with-statera">Planning exterior work with Statera</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What a flush beam is</h2>
+<p>In a flush beam layout, the beam and the joists share the same level. The joists stop at the beam and are fastened into one side of it. The City of Edmonton’s <a href="https://www.edmonton.ca/sites/default/files/public-files/Uncovered_Deck_Design_Guide.pdf" rel="nofollow noopener noreferrer" target="_blank">Uncovered Deck Design Guide</a> describes it as floor-joist framing fastened into one side of the beam. It also says the beam material must be at least as deep as the joists, and that acceptable metal joist hangers must be used with the fasteners their manufacturer specifies.</p>
+<p>Three practical points follow from that.</p>
+<ol>
+<li><strong>The beam has to be as deep as the joists.</strong> If you have 2x10 joists, the beam needs at least that depth, so a flush beam is often built from deeper lumber or an engineered member.</li>
+<li><strong>The hangers do the connecting work.</strong> The load passes from joist to hanger to beam. The hanger type, the nails or screws and the spacing all count.</li>
+<li><strong>The beam disappears into the frame.</strong> From below you see a flat plane of framing rather than a beam hanging under it.</li>
+</ol>
+<h2>What a drop beam is</h2>
+<p>A drop beam hangs below the joists. The joist frame sits on top of it. The same Edmonton guide calls it the more common type of deck beam installation. It supports the joist frame from underneath and lets the joists extend, or cantilever, beyond the beam by a limited amount.</p>
+<p>The guide also says the beam must be positioned so that neither the allowable joist cantilever nor the maximum joist span is exceeded, measured from the centre of the beam. In plain terms: the beam can’t go just anywhere. Its location along the joists is part of the design.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794276442559_What-a-drop-beam-is.jpeg" alt="What a drop beam is" /></p>
+<p>From below, a drop beam is visible as a long member running under the deck. It adds the beam’s depth to the overall height of the structure.</p>
+<h2>Flush beam vs drop beam at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Flush beam</th>
+<th>Drop beam</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Position</td>
+<td>Level with the joists, joists fasten to its side</td>
+<td>Under the joists, joists rest on top</td>
+</tr>
+<tr>
+<td>Headroom below</td>
+<td>Keeps more clearance</td>
+<td>Uses extra vertical space</td>
+</tr>
+<tr>
+<td>Low door threshold</td>
+<td>Usually the better fit</td>
+<td>Can be hard to fit</td>
+</tr>
+<tr>
+<td>Look from below</td>
+<td>Clean, flat framing</td>
+<td>Beam visible under the deck</td>
+</tr>
+<tr>
+<td>Cantilever past the beam</td>
+<td>Not the natural layout</td>
+<td>Yes, within allowable limits</td>
+</tr>
+<tr>
+<td>Joist connection</td>
+<td>Depends on hangers and fasteners</td>
+<td>Joists bear on the beam</td>
+</tr>
+<tr>
+<td>Framing effort</td>
+<td>More hangers, more precise layout</td>
+<td>Generally simpler</td>
+</tr>
+<tr>
+<td>Typical use</td>
+<td>Low decks, finished-underneath spaces</td>
+<td>Most standard decks</td>
+</tr>
+</tbody>
+</table>
+<p>Several of these points come from general deck-building experience and from the City guide above. Your site and drawings still decide what applies to your deck.</p>
+<h2>Height and headroom: the factor that decides most jobs</h2>
+<p>Start with a measurement: the distance from your door threshold down to finished grade, and then what you want underneath.</p>
+<p>If the threshold is low, a drop beam may not fit. You would need the deck surface, the joists and the beam all stacked between the door and the ground. Dropping the beam below the joists adds its depth to that stack. A flush beam keeps the beam inside the joist depth, so the deck sits lower for the same ground clearance.</p>
+<p>If the deck is tall, the opposite is true. A drop beam is easy to frame and the extra depth doesn’t matter, because the space below is large anyway.</p>
+<p>Headroom matters in other ways too:</p>
+<ul>
+<li><strong>Walk-out basements.</strong> If the space under the deck becomes a covered patio or storage area, a flush beam leaves more usable clearance.</li>
+<li><strong>Ceilings under the deck.</strong> If you plan to enclose or finish the underside, a flat flush frame is simpler to cover.</li>
+<li><strong>Grade.</strong> On a sloped lot, a drop beam may need extra excavation to reach the depth you want, which can limit design options.</li>
+</ul>
+<p>If you’re also planning work on the lower level, our <a href="https://stateracontracting.com/blog/basement-finishing-calgary" target="_blank" rel="noopener">basement finishing guide</a> covers how the space beneath fits into the bigger picture.</p>
+<h2>Strength, spans and cantilevers</h2>
+<p>Both layouts can be engineered to carry the same loads. The difference is how the load travels.</p>
+<p>With a drop beam, the joists sit directly on the beam, so bearing is straightforward. It also allows the joists to extend past the beam, which can reduce the number of posts you need along an edge or let the deck overhang the footings. The Edmonton guide ties this to specific limits: the cantilever and the joist span must both stay within what is allowed.</p>
+<p>With a flush beam, every joist depends on a hanger. That makes the hardware and the fasteners the critical parts. A hanger that doesn’t match the joist size or load, or one fastened with the wrong nails or screws, is the weak point. The guide is clear that acceptable hangers go with the manufacturer’s specified fasteners.</p>
+<p>Two details are worth watching on a flush beam:</p>
+<ul>
+<li><strong>Joists on both sides of one beam.</strong> Framing joists into opposite sides of the same narrow beam can crowd the fasteners. If your design does this, make sure the drawing specifically allows it.</li>
+<li><strong>Beams built from two members attached to the side of a post.</strong> The Edmonton guide notes that the national building code as adopted in Alberta gives no direction for a split beam connected to the sides of a post. It says to avoid this unless you submit an engineering detail, or you fully support the beam members with blocking down to the foundation at the posts and blocking between the two members. If your drawings show a split beam, ask who has reviewed that detail.</li>
+</ul>
+<h2>Post connections</h2>
+<p>The beam is only as secure as its connection to the posts. A drop beam usually rests on top of a post and needs a post cap or similar connector so it can’t tip or shift. A flush beam may be carried by a post that sits beside or under it, and needs the connector or fasteners that keep it vertical and prevent the post from being knocked out from below.</p>
+<p>The exact hardware depends on the post size, the beam and the load. Use the connector the design calls for, install it with the fasteners the manufacturer specifies, and don’t substitute because something was already in the truck.</p>
+<h2>Appearance</h2>
+<p>Looks matter more than people expect, especially on an elevated deck or one with a view from the yard.</p>
+<ul>
+<li><strong>Flush beam:</strong> from below and from the side, the frame looks continuous. There’s no beam hanging under it. That suits decks with skirting-free open undersides, or ones where the underside will be finished.</li>
+<li><strong>Drop beam:</strong> the beam is a visible line under the deck. Many homeowners don’t mind this, and skirting, lattice or landscaping often hides it.</li>
+</ul>
+<p>If the underside will be hidden or the deck is high off the ground, appearance is rarely the deciding factor. If you can see the underside from a patio, a walk-out or a neighbour’s yard, it can be.</p>
+<h2>Cost: what really changes the price</h2>
+<p>The beam layout alone rarely changes a deck budget dramatically. The differences come from the details around it:</p>
+<ul>
+<li><strong>Hardware.</strong> A flush beam needs a hanger for every joist, so you buy and install more connectors. A drop beam needs post caps and fewer joist connections.</li>
+<li><strong>Lumber.</strong> A flush beam must be at least as deep as the joists, which can mean deeper or engineered material. A drop beam can often be built from standard multi-ply lumber.</li>
+<li><strong>Labour.</strong> A flush frame needs precise layout, since every joist end must land correctly in its hanger. A drop beam is typically quicker to frame.</li>
+<li><strong>Excavation and height.</strong> On a sloped lot, the extra depth of a drop beam can add digging or change footing heights.</li>
+<li><strong>Engineering.</strong> Any design that needs an engineer’s detail adds a cost, whichever beam style it uses.</li>
+</ul>
+<p>We don’t publish a flat price for deck work, because it depends on size, height, footings, materials and site access. If you want a fixed price for your specific design, that comes from a site visit and a written scope.</p>
+<h2>Calgary and Alberta checks before you choose</h2>
+<p>Beam choice isn’t only a framing preference. It sits inside a permit and code framework, and the rules you follow depend on your municipality.</p>
+<p>The City of Calgary publishes an <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/worksheet-uncovered-deck.pdf?noredirect=1" rel="nofollow noopener noreferrer" target="_blank">Uncovered Deck Worksheet</a>, last updated February 2026. The worksheet states that its information has no legal status and can’t be used as an official interpretation of the building codes and regulations in effect. It also says its tables may exceed the minimum requirements in the Alberta Building Code. That means two things for you: use it as a guide to what the City expects to see, and rely on the code and your permit review for the final word.</p>
+<p>The Edmonton guide above is from a different city, so treat it as a clear explanation of beam terms and good practice rather than Calgary’s rules. Two other items it covers are worth keeping in mind when you plan the deck:</p>
+<ul>
+<li><strong>Overhead wires.</strong> It states that at least 3.5 metres (11 feet 6 inches) of clearance above the walking surface to electrical wires is required.</li>
+<li><strong>Gas lines.</strong> It states that a deck should be vented on at least two sides if it is over any gas line.</li>
+</ul>
+<p>If your deck needs a permit, the beam layout is part of what the reviewer sees. Our guide to the <a href="https://stateracontracting.com/blog/deck-permit-calgary" target="_blank" rel="noopener">deck permit process in Calgary</a> explains what to have ready. If the deck attaches to the house, near a property line or alongside an addition, the <a href="https://stateracontracting.com/blog/setback-requirements-calgary-additions" target="_blank" rel="noopener">setback requirements for Calgary additions</a> may also be relevant.</p>
+<h2>How to choose: a simple decision path</h2>
+<p>Work through these questions in order.</p>
+<ol>
+<li><strong>How much vertical space do you have?</strong> If the threshold is low and you can’t raise the door, lean flush. If you have room, lean drop.</li>
+<li><strong>Do you want a cantilever?</strong> If you want the deck to extend past the beam within allowable limits, a drop beam is the natural fit.</li>
+<li><strong>Will anyone see or use the space below?</strong> A finished or enclosed underside, or a walk-out patio, favours flush.</li>
+<li><strong>How long are the spans and how heavy is the load?</strong> Hot tubs, large spans and heavy planters raise the importance of the engineering. Either layout can work, but the design must be checked.</li>
+<li><strong>Is the site sloped or tight?</strong> A sloped lot can make a drop beam need more excavation. Tight headroom favours flush.</li>
+<li><strong>What does the permit drawing say?</strong> Confirm the beam, hangers, posts and footings are all drawn and consistent.</li>
+</ol>
+<p>If you answer “it depends” on two or more, that’s normal. A site visit usually settles it in minutes.</p>
+<h2>Our perspective</h2>
+<blockquote>
+<p>We see beam choice go wrong when it’s decided by habit rather than by the site. A builder who always uses drop beams will draw one even when your door threshold is low. A builder who loves the look of flush framing may draw it even when a drop beam would be simpler and stronger.</p>
+<p>Our approach is to start with the measurements, then the permit, then the look. We check threshold height, grade, spans and what sits below the deck. We handle permit paperwork and make sure the drawing, the hangers and the post connections match what gets built. Design is included when you build with us, so you aren’t paying twice to find out what will work.</p>
+<p>We’re a family-owned team and we manage each project directly, with daily communication. That matters on exterior work, because a small change to beam height affects the door, the railings, the stairs and the footings. We would rather talk it through with you before framing than adjust it after.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Planning exterior work with Statera</h2>
+<p>If you’re weighing a deck, porch or other exterior project in Calgary, Okotoks, Cochrane or Airdrie, we can review your site, explain the beam options and handle the permit process. We’re licensed and insured, we build to code, and the design is included with the build.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If the project is bigger, such as a porch or a room added to the house, our <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions service</a> covers design, permits and construction in one contract. You can also <a href="https://stateracontracting.com" target="_blank" rel="noopener">contact Statera Contracting</a> to book a consultation.</p>
+<h2>FAQ</h2>
+<h3>What does a flush beam mean?</h3>
+<p>A flush beam is level with the deck joists. The joists are fastened into the side of it with metal hangers instead of resting on top. The beam needs to be at least as deep as the joists, and the hangers must be installed with the fasteners their manufacturer specifies.</p>
+<h3>What is the purpose of a drop beam?</h3>
+<p>A drop beam supports the joist frame from below. The joists rest on it, and they can extend past it by a limited, allowable amount. It is the more common beam installation because it is straightforward to frame and gives the joists direct bearing.</p>
+<h3>What does a drop beam look like?</h3>
+<p>It looks like a long horizontal member running under the deck, supported by posts. From the side or below you can see it as a distinct line under the joists. Skirting, lattice or landscaping often hides it from the yard.</p>
+<h3>Is a flush beam or a drop beam better for a low deck?</h3>
+<p>A flush beam is usually the better fit, because it uses less vertical space and leaves more clearance below the deck. A drop beam adds its depth to the total height, which can be a problem when the door threshold is low. Measure from the threshold to grade before you decide.</p>
+<h3>Do I need a permit for either type of beam?</h3>
+<p>The permit question depends on the deck, not the beam style. Height, size, attachment to the house and your municipality’s rules all matter. Check the City of Calgary’s current requirements, or ask us to review your plan before you build.</p>
+Statera ContractingTalk Through Your Deck PlansContact Statera Contracting to discuss your renovation plans and its exterior work in Calgary and surrounding areas.<a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.edmonton.ca/sites/default/files/public-files/Uncovered_Deck_Design_Guide.pdf" rel="nofollow noopener noreferrer" target="_blank">Uncovered Deck Design Guide, City of Edmonton</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/worksheet-uncovered-deck.pdf?noredirect=1" rel="nofollow noopener noreferrer" target="_blank">Uncovered Deck Worksheet, City of Calgary</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/pvc-decking-vs-composite" target="_blank" rel="noopener">PVC vs Composite Decking: Which Suits a Calgary Deck?</a></li>
+<li><a href="https://stateracontracting.com/blog/deck-permit-calgary" target="_blank" rel="noopener">Deck permit calgary: what homeowners need before they build</a></li>
+<li><a href="https://stateracontracting.com/blog/vinyl-vs-fiber-cement" target="_blank" rel="noopener">Vinyl vs fibre cement siding: Canada homeowner’s guide</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
