@@ -24425,6 +24425,184 @@ Statera ContractingTalk Through Your Deck PlansContact Statera Contracting to di
       },
     ],
   },
+  {
+    slug: "basement-in-floor-heating",
+    title: "Basement In-Floor Heating in Calgary: What to Know First",
+    excerpt: "In-floor heating suits a Calgary basement well, provided three things are settled before anyone lays a cable or a tube: the slab is dry, the heated floor is insulated underneath, and the flooring you want is rated for radiant heat.",
+    date: "2026-11-16",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1794361135253_Hydronic-heating-loops-over-basement-floor-insulation.jpeg",
+    coverAlt: "Basement In-Floor Heating in Calgary: What to Know First",
+    category: "Industry News",
+    readingTime: "14 min read",
+    metaTitle: "Basement In-Floor Heating in Calgary: What to Know First",
+    metaDescription: "Planning in-floor heating for a Calgary basement? See electric vs hydronic, slab insulation, moisture checks, flooring limits, permits and cost.",
+    content: [
+      {
+        type: "html",
+        html: `<p>In-floor heating suits a Calgary basement well, provided three things are settled before anyone lays a cable or a tube: the slab is dry, the heated floor is insulated underneath, and the flooring you want is rated for radiant heat. Get those right and you have a warm, usable lower level. Get them wrong and you pay for heat that drains into the ground or damages the floor above it. We handle design, permits and the build together on basement projects, so these decisions are made once, in the right order.</p>
+Statera ContractingPlan a Warmer Calgary BasementStatera Contracting renovates basements in Calgary and surrounding areas, bringing heating decisions into the wider renovation plan.<a href="https://stateracontracting.com/">Visit</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Basement slabs stay cold year-round, which is why in-floor heating makes such a difference down there. Electric and hydronic are the two main systems.</li>
+<li>Insulate under the slab. Alberta’s variance allows a minimum of R-7.5 under a heated slab in contact with the ground, instead of the R-16 the 2023 Alberta code edition would otherwise ask for.</li>
+<li>Dry the slab and fix water problems first, then pick a floor covering with a radiant-heat rating and a surface temperature limit.</li>
+<li>Hydronic systems in Calgary face specific inspection rules: an air test, tubing insulation and tagged loops. Electric systems have wiring rules of their own.</li>
+<li>Our <a href="https://stateracontracting.com/blog/heated-floor-cost-calgary" target="_blank" rel="noopener">Calgary heated floor cost guide</a> puts 2026 pricing at $8 to $25 per sq. ft.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#why-a-basement-floor-feels-cold-and-what-in-floor-heating-changes">Why a basement floor feels cold, and what in-floor heating changes</a></li>
+<li><a href="#electric-or-hydronic-which-system-fits-a-basement">Electric or hydronic: which system fits a basement</a></li>
+<li><a href="#insulate-under-the-slab-or-the-heat-goes-into-the-ground">Insulate under the slab or the heat goes into the ground</a></li>
+<li><a href="#moisture-comes-first-dry-the-slab-before-you-heat-it">Moisture comes first: dry the slab before you heat it</a></li>
+<li><a href="#subfloor-options-over-a-heated-slab">Subfloor options over a heated slab</a></li>
+<li><a href="#flooring-you-can-put-over-radiant-heat">Flooring you can put over radiant heat</a></li>
+<li><a href="#calgary-permits-and-inspection-rules">Calgary permits and inspection rules</a></li>
+<li><a href="#what-it-costs-to-install-and-run">What it costs to install and run</a></li>
+<li><a href="#our-perspective">Our perspective</a></li>
+<li><a href="#plan-your-heated-basement-with-us">Plan your heated basement with us</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Why a basement floor feels cold, and what in-floor heating changes</h2>
+<p>A basement slab sits against the soil, and soil stays cool all year. Air heated by a furnace rises and mixes, but the floor stays chilly underfoot, especially under hard surfaces like tile or vinyl plank. That is the comfort problem in-floor heating solves: it warms the surface you stand on rather than relying on warm air to reach the floor.</p>
+<p>The benefit is practical as well as comfortable. A basement that feels warm underfoot gets used for a family room, a gym, a home office or a guest suite. If you are planning a finished lower level, heated floors are best decided at the design stage, when the slab is still accessible and the layout is not yet fixed. Our <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">Basement &amp; Living Spaces</a> work covers exactly that planning.</p>
+<p>There is also a smart way to size the job. Heating the rooms you actually occupy, rather than every square foot including storage and the mechanical room, keeps both the installation cost and the running cost in proportion.</p>
+<h2>Electric or hydronic: which system fits a basement</h2>
+<p>The two systems warm the floor in different ways.</p>
+<p><strong>Electric radiant</strong> uses thin heating cables or mats laid over the slab, usually embedded in a thin layer of self-levelling compound or thinset beneath the finished floor. A thermostat with a floor sensor controls them. They add little height to the floor, they suit renovations of an existing basement, and each room can be run on its own thermostat. They work best in defined areas such as a family room, a bathroom or a wet bar zone.</p>
+<p><strong>Hydronic radiant</strong> circulates warm water through tubing, either cast into the slab or fixed on top of it. It needs a heat source, such as a boiler, a water heater arrangement or a heat pump, plus a manifold and pumps. It makes the most sense when a whole floor, or the whole house, will be heated, or when the slab is being poured or opened up anyway.</p>
+<p>A simple way to choose:</p>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Points toward electric</th>
+<th>Points toward hydronic</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>How much floor will you heat?</td>
+<td>One or a few rooms</td>
+<td>The whole basement or more</td>
+</tr>
+<tr>
+<td>Is the slab already poured and finished?</td>
+<td>Yes, and you want a low build-up</td>
+<td>Only if the slab is being opened or topped</td>
+</tr>
+<tr>
+<td>Do you want to tie into other heat sources?</td>
+<td>No</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>How much equipment space is there?</td>
+<td>Little</td>
+<td>Room for a manifold and heat source</td>
+</tr>
+</tbody>
+</table>
+<p>We walk through this choice with you during the design stage, because it depends on the room layout, the ceiling height and what you want on the floor. Ceiling height matters more than most people expect: every layer you add to the slab takes headroom, and Calgary has a minimum to meet. Our guide to <a href="https://stateracontracting.com/blog/basement-ceiling-height-calgary" target="_blank" rel="noopener">basement ceiling height rules in Calgary</a> explains the 1.95 m figure inspectors look for.</p>
+<h2>Insulate under the slab or the heat goes into the ground</h2>
+<p>A heated slab with nothing beneath it loses heat downward. That makes the system slow to warm up, expensive to run and less comfortable. Under-slab insulation is the fix, and in Alberta there is a specific rule to know.</p>
+<p>Section 9.36 of the National Building Code 2023 Alberta Edition sets a minimum of RSI 2.84 (R-16) for heated floors in contact with the ground in Climate Zone 7A. The Government of Alberta issued a <a href="https://open.alberta.ca/dataset/08ac69ae-5639-46a3-83d2-c52246c78621/resource/3915ba54-96dd-4c54-a9c1-63df5c917836/download/ma-standata-variance-building-23-bcv-003-2024-05.pdf" rel="nofollow noopener noreferrer" target="_blank">STANDATA variance in May 2024</a> that allows a minimum of RSI 1.32 (R-7.5) under-slab insulation for a heated floor in contact with the ground, province-wide, to support hydronic and radiant installations.</p>
+<p>The same document explains the reasoning. An energy analysis of a typical Alberta home showed a 30% gain in thermal performance when under-slab insulation went from RSI 0.88 (R-5) to RSI 1.32 (R-7.5), and adding more beyond RSI 1.32 had only a marginal effect on comfort and annual energy use. So R-7.5 is a sensible target rather than a bare minimum to be exceeded at any cost.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794361176852_Alberta-heated-slab-insulation-values-and-performance-gain.jpeg" alt="Alberta heated-slab insulation values and performance gain" /></p>
+<p>On a new pour, rigid foam goes down over compacted base before the slab. On an existing slab, the insulation question is usually answered in the floor build-up above it, and that is where design and ceiling height meet again. Slab-edge insulation around the perimeter is the other half of keeping heat in the room, and Calgary’s rules address edges too, as covered below.</p>
+<h2>Moisture comes first: dry the slab before you heat it</h2>
+<p>In-floor heating does not cure a damp basement, and moisture trapped under a finished floor causes the problems people blame on the heating. Sort out water before you plan flooring.</p>
+<p>Start outside. Grading should slope away from the foundation, and downspouts should discharge well clear of the wall. Then look at the slab itself: cracks should be patched, any seepage traced to its cause, and the surface should be flat enough for the build-up you have chosen.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794361139869_Repaired-crack-across-an-unfinished-basement-slab.jpeg" alt="Repaired crack across an unfinished basement slab" /></p>
+<p>Then test. Flooring manufacturers set limits on slab moisture, and the National Wood Flooring Association guidelines, which are the industry reference for installers, expect the concrete subfloor to be cured and dry before wood goes down. Where you plan a floating engineered wood floor over concrete, <a href="https://pioneermillworks.com/sites/default/files/inline-files/nwfa_radiant_heat_installations.pdf" rel="nofollow noopener noreferrer" target="_blank">NWFA Appendix H</a> calls for a polyethylene vapour retarder of 6-mil or better.</p>
+<p>Heat can help the drying, but only when done in a controlled way. For wood flooring, the <a href="https://www.thesolidwoodflooringcompany.com/wp-content/uploads/2023/01/NWFA-Installation-Guidelines_compressed.pdf" rel="nofollow noopener noreferrer" target="_blank">NWFA Installation Guidelines</a> recommend that once the concrete has cured, the heat be turned on regardless of season and left on for at least 5 to 6 days to drive out residual moisture before installation.</p>
+<p>This is also the point at which humidity control becomes a design question, not an afterthought. Sealing the slab, a vapour barrier where the floor system calls for one, and correct ventilation all belong in the same plan. We review these items on site before quoting the floor system, so the moisture decisions are not left to the flooring installer alone.</p>
+<h2>Subfloor options over a heated slab</h2>
+<p>Many homeowners ask whether to use a dimpled panel system, plywood or go straight to a floating floor. With in-floor heating, the answer depends on the heating type.</p>
+<ul>
+<li><strong>Electric mats or cables:</strong> these usually sit directly on the slab and are covered by thinset or self-levelling compound. They need a clean, flat surface, so slab preparation matters more than a subfloor layer.</li>
+<li><strong>Hydronic tubing on top of the slab:</strong> the tubing is held in a thin pour or in panels, and the finished flooring sits above that.</li>
+<li><strong>Floating or sleeper floors:</strong> these add height and an air gap, which slows heat transfer. Wood sleepers over a radiant slab are a case where the flooring manufacturer’s instructions have to be checked line by line.</li>
+</ul>
+<p>The principle is simple: the more layers and the more resistance between the heat and the room, the more slowly the floor responds. A dense, thick covering can limit output considerably. A <a href="https://wbiwarm.com/blog/radiant-floor-heating/radiant-ceiling-vs-radiant-floor-heating/" rel="nofollow noopener noreferrer" target="_blank">radiant heating industry source</a> notes that highly resistant coverings such as some carpets and wood floors can hold actual output below 20 Btu per square foot. Tile and vinyl plank conduct heat well, which is why they are such common choices over radiant basements.</p>
+<h2>Flooring you can put over radiant heat</h2>
+<p>Not every floor suits a heated slab, and the manufacturer’s installation instructions are the controlling document. Some figures to plan around:</p>
+<ul>
+<li><strong>Engineered wood:</strong> Mercier’s <a href="https://media.mercier-wood-flooring.com/webfolder_download/ad3c81ccbdfa73281612282d293daab6/technicalbulletin5_flooringoverradiantheatingsystem-v-12-2020/9ee637fd279e140055727a01b8286bfeb3c6f418/technicalbulletin5_flooringoverradiantheatingsystem-v-12-2020.pdf" rel="nofollow noopener noreferrer" target="_blank">Technical Bulletin #5</a> (December 2020) says the heated floor surface must never exceed 80°F (27°C) in use, and accepts only engineered products of 1/2 inch (13 mm) and 3/4 inch (19 mm) over radiant systems. That is one manufacturer’s rule, and other brands set their own, so check the one you choose.</li>
+<li><strong>Wood in general:</strong> NWFA Appendix H sets a maximum subfloor surface temperature of 85°F (29.44°C) for glue-down, direct-nail and sleeper installations over radiant heating.</li>
+<li><strong>Tile, stone and vinyl plank:</strong> these transfer heat efficiently and are the usual first choice for a heated basement.</li>
+</ul>
+<p>For comfort, the Canadian installation code for hydronic systems, CSA B214-16, limits floor surface temperature to 25°C (77°F) where prolonged foot contact is likely and 29°C (84°F) in occupied areas, with allowances up to 33°C (91°F) in bathrooms and foyers, according to an <a href="https://www.hpacmag.com/wp-content/uploads/2019/10/MacNevin_CSA-B214-Course_09-19-19.pdf" rel="nofollow noopener noreferrer" target="_blank">HPAC Magazine course on the update</a>. A good system is designed to stay inside those figures with a thermostat and floor sensor, not to run at its maximum.</p>
+<p>If you choose wood, ramp the heat up gradually. The NWFA advises small incremental increases in relation to the outside temperature, and an outdoor thermostat to limit rapid swings, since sudden changes affect the moisture content of the boards. That matters in Calgary, where a chinook can move the outside temperature by 20 degrees in a day.</p>
+<h2>Calgary permits and inspection rules</h2>
+<p>In-floor heating in a Calgary basement is not a loose DIY add-on. The City of Calgary states that a basement development needs a building permit if the basement is being developed for the first time, if structural changes are made or if new openings are created, and that new heating, ventilation, air conditioning and service water heating systems must always be properly certified under the Alberta Building Code. The details are on the City’s <a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">home renovations and basements page</a>.</p>
+<p>For hydronic systems, the City’s <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/hydronic-heating-systems-bulletin.pdf" rel="nofollow noopener noreferrer" target="_blank">Hydronic Heating Systems Bulletin</a>, effective September 1, 2010, sets out these requirements:</p>
+<ul>
+<li>An air test at inspection, at 60 psi or 1.5 times operating pressure, held for 1 hour.</li>
+<li>Insulation on the underside of the tubing in radiant under-floor or panel systems: R5 under the tube for soil contact, R5 on edges for slab on grade, and R12 for all other systems, per CSA B214-07.</li>
+<li>Each radiant loop tagged with its length and the area it serves.</li>
+</ul>
+<p>For electric systems, the City’s <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/brochures/homeowner-electrical-wiring-guide.pdf" rel="nofollow noopener noreferrer" target="_blank">Homeowners Electrical Wiring Guide</a> says the non-heating leads of an in-floor heating device may be required to run in a raceway from the thermostat box to the floor, ending no more than 50 mm from the floor where the leads are in a wooden base plate and protected from mechanical damage. Electrical work in a basement also ties into the permit process, so it should be planned with the rest of the project.</p>
+<p>Permit handling is part of what we do, and we manage it as part of the build. If you want to understand who applies and what the application must say, see our guide on <a href="https://stateracontracting.com/blog/who-pulls-permits-calgary" target="_blank" rel="noopener">who pulls permits in Calgary</a>.</p>
+<h2>What it costs to install and run</h2>
+<p>Costs depend on system type, the area heated, access to the slab and the flooring on top. For Calgary, our <a href="https://stateracontracting.com/blog/heated-floor-cost-calgary" target="_blank" rel="noopener">heated floor cost guide</a> gives a 2026 range of $8 to $25 per sq. ft. Electric sits toward the lower end and hydronic toward the upper end, with hydronic also needing a heat source and manifold. The same guide breaks down what moves a project within that range.</p>
+<p>Some things add cost that homeowners do not always expect:</p>
+<ul>
+<li>Under-slab or slab-edge insulation, which the Alberta rules make part of a heated slab.</li>
+<li>Slab preparation, such as patching, levelling and moisture treatment.</li>
+<li>A heat source and controls for hydronic systems.</li>
+<li>Thermostats, floor sensors and zoning.</li>
+</ul>
+<p>Operating cost is controlled mostly by what you heat. Warming the occupied rooms rather than storage and mechanical areas, insulating properly underneath and using a programmable thermostat all keep the bill in line. If you are weighing heated floors against other upgrades, our guides on <a href="https://stateracontracting.com/blog/energy-efficient-upgrades-alberta" target="_blank" rel="noopener">energy efficient upgrades in Alberta</a> and <a href="https://stateracontracting.com/blog/energy-efficient-renovations-alberta" target="_blank" rel="noopener">energy efficient renovations with a 3 to 6 year payback</a> show where else the money works hard.</p>
+<p>One thing worth settling early: the price is only meaningful against a defined scope. We work on a fixed-price basis, so the quote covers the system, the preparation and the permit in one agreement.</p>
+<h2>Our perspective</h2>
+<blockquote>
+<p>We think in-floor heating belongs in the first conversation about a basement, not the last. The slab, the insulation, the flooring and the ceiling height all affect each other, and decisions that look separate on paper are one decision in practice.</p>
+<p>Our approach is design and build in one: we plan the heating with the layout, handle the permit and work to code. As a licensed and insured, family-owned team, we manage each project directly and stay in daily contact with you, so nothing about the floor build-up comes as a surprise.</p>
+<p>If you are renovating a basement in Calgary, Okotoks, Cochrane or Airdrie, we would rather talk through moisture, insulation and flooring with you before a single material is ordered.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Plan your heated basement with us</h2>
+<p>If you are ready to turn a cold lower level into a room you will actually use, we can plan the heating, the floor build-up and the permit as one project. Our <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">Basement &amp; Living Spaces</a> service covers design and build, and you can book a consultation through <a href="https://stateracontracting.com" target="_blank" rel="noopener">Statera Contracting</a>.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Bathroom floors are a common starting point for the same technology. See what to budget in our guide to <a href="https://stateracontracting.com/blog/heated-bathroom-floor-cost-calgary" target="_blank" rel="noopener">heated bathroom floor cost in Calgary</a>.</p>
+<h2>FAQ</h2>
+<h3>Is in-floor heating worth it in a basement?</h3>
+<p>For most finished basements, yes. The slab stays cool year-round, so a heated surface changes how the room feels more than a warmer air temperature does. The value is highest when you heat the rooms you occupy and insulate beneath the slab.</p>
+<h3>Can you install in-floor heating on an existing concrete slab?</h3>
+<p>Yes. Electric mats or cables go over the slab beneath the finished floor, which suits a renovation. The slab must be dry, flat and free of cracks and seepage first, and you need to allow for the extra floor height under Calgary’s ceiling rules.</p>
+<h3>How do I control basement moisture before heating the floor?</h3>
+<p>Direct water away from the foundation with grading and downspouts, patch cracks, and test the slab for moisture before choosing flooring. Wood flooring guidelines also recommend running the heat for 5 to 6 days after the concrete has cured to drive out residual moisture before installation.</p>
+<h3>Do I need a permit for basement floor heating in Calgary?</h3>
+<p>A first-time basement development needs a building permit, and new heating systems must be certified under the Alberta Building Code. Hydronic systems face an inspection air test, and electric systems have wiring requirements. We manage the permit for the projects we build.</p>
+<h3>What is the maximum floor temperature?</h3>
+<p>Flooring manufacturers set their own limits. One engineered wood maker sets 27°C (80°F), and CSA B214-16 limits floor surfaces to 29°C (84°F) in occupied areas, with higher allowances in bathrooms and foyers. Your design should keep the floor within the limit for your chosen covering.</p>
+Statera ContractingDiscuss Your Heated Basement PlansContact Statera Contracting to discuss your basement renovation in Calgary or the surrounding areas.<a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://open.alberta.ca/dataset/08ac69ae-5639-46a3-83d2-c52246c78621/resource/3915ba54-96dd-4c54-a9c1-63df5c917836/download/ma-standata-variance-building-23-bcv-003-2024-05.pdf" rel="nofollow noopener noreferrer" target="_blank">Government of Alberta STANDATA variance on insulation below a heated floor</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/building/hydronic-heating-systems-bulletin.pdf" rel="nofollow noopener noreferrer" target="_blank">City of Calgary Hydronic Heating Systems Bulletin</a></li>
+<li><a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">City of Calgary home renovations and basements</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/brochures/homeowner-electrical-wiring-guide.pdf" rel="nofollow noopener noreferrer" target="_blank">City of Calgary Homeowners Electrical Wiring Guide</a></li>
+<li><a href="https://www.thesolidwoodflooringcompany.com/wp-content/uploads/2023/01/NWFA-Installation-Guidelines_compressed.pdf" rel="nofollow noopener noreferrer" target="_blank">NWFA Installation Guidelines</a></li>
+<li><a href="https://pioneermillworks.com/sites/default/files/inline-files/nwfa_radiant_heat_installations.pdf" rel="nofollow noopener noreferrer" target="_blank">NWFA Appendix H, radiant heat installations</a></li>
+<li><a href="https://media.mercier-wood-flooring.com/webfolder_download/ad3c81ccbdfa73281612282d293daab6/technicalbulletin5_flooringoverradiantheatingsystem-v-12-2020/9ee637fd279e140055727a01b8286bfeb3c6f418/technicalbulletin5_flooringoverradiantheatingsystem-v-12-2020.pdf" rel="nofollow noopener noreferrer" target="_blank">Mercier Technical Bulletin #5</a></li>
+<li><a href="https://www.hpacmag.com/wp-content/uploads/2019/10/MacNevin_CSA-B214-Course_09-19-19.pdf" rel="nofollow noopener noreferrer" target="_blank">HPAC Magazine, Important Updates to CSA B214-16</a></li>
+<li><a href="https://wbiwarm.com/blog/radiant-floor-heating/radiant-ceiling-vs-radiant-floor-heating/" rel="nofollow noopener noreferrer" target="_blank">WBI, radiant ceiling vs radiant floor heating</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/heated-bathroom-floor-cost-calgary" target="_blank" rel="noopener">Heated bathroom floor cost in Calgary: what to budget for</a></li>
+<li><a href="https://stateracontracting.com/blog/heated-floor-cost-calgary" target="_blank" rel="noopener">Calgary Heated Floor Costs in 2026: $8 to $25 per Sq. Ft.</a></li>
+<li><a href="https://stateracontracting.com/blog/basement-finishing-calgary" target="_blank" rel="noopener">Basement Finishing Calgary: Full 2026 Guide</a></li>
+<li><a href="https://stateracontracting.com/blog/basement-renovation-cost-calgary" target="_blank" rel="noopener">Basement renovation cost in Calgary: realistic budgets</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
