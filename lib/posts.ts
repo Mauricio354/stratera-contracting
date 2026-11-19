@@ -24603,6 +24603,230 @@ Statera ContractingDiscuss Your Heated Basement PlansContact Statera Contracting
       },
     ],
   },
+  {
+    slug: "pre-construction-checklist",
+    title: "Pre-Construction Checklist for Calgary Renovations",
+    excerpt: "A good pre-construction checklist gets six things settled in writing before anyone swings a hammer: the scope, the budget, the permits, the schedule, the condition of the site and how changes and communication will be handled. Most renovation stress comes from skipping one of these. If you are planning a kitchen, bathroom, basement, addition or a restaurant or retail build-out in Calgary, this is the order we work through, and the questions to have answered before you sign.",
+    date: "2026-11-19",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1794620403238_Homeowner-and-contractor-compare-renovation-samples.jpeg",
+    coverAlt: "Pre-Construction Checklist for Calgary Renovations",
+    category: "Industry News",
+    readingTime: "13 min read",
+    metaTitle: "Pre-Construction Checklist for Calgary Renovations",
+    metaDescription: "A pre-construction checklist for Calgary homeowners and business owners: scope, permits, budget, site review, the kickoff meeting and what to do before work starts.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A good pre-construction checklist gets six things settled in writing before anyone swings a hammer: the scope, the budget, the permits, the schedule, the condition of the site and how changes and communication will be handled. Most renovation stress comes from skipping one of these. If you are planning a kitchen, bathroom, basement, addition or a restaurant or retail build-out in Calgary, this is the order we work through, and the questions to have answered before you sign.</p>
+Statera ContractingPlan Your Calgary RenovationStatera Contracting renovates kitchens, bathrooms, basements, additions and commercial spaces in Calgary and surrounding areas.<a href="https://stateracontracting.com/">Visit</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Write the scope down in plain language, including what will <em>not</em> be touched, and separate must-haves from nice-to-haves.</li>
+<li>Confirm which permits apply (building, development, trade) and who is submitting them. Older buildings may also need an asbestos assessment.</li>
+<li>Settle the budget with a clear list of inclusions, allowances and a contingency, and agree how changes are priced and approved in writing.</li>
+<li>Document the site and existing conditions with photos before work starts, then clear the work area and plan for disruption.</li>
+<li>Hold a pre-construction meeting and leave with an action list: who does what, and by when.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#why-the-work-before-the-work-matters">Why the work before the work matters</a></li>
+<li><a href="#step-1-define-the-scope-in-plain-language">Step 1: Define the scope in plain language</a></li>
+<li><a href="#step-2-check-what-permits-and-approvals-you-need">Step 2: Check what permits and approvals you need</a></li>
+<li><a href="#step-3-build-a-budget-that-survives-surprises">Step 3: Build a budget that survives surprises</a></li>
+<li><a href="#step-4-set-a-schedule-with-its-real-dependencies">Step 4: Set a schedule with its real dependencies</a></li>
+<li><a href="#step-5-document-the-site-before-work-starts">Step 5: Document the site before work starts</a></li>
+<li><a href="#step-6-hold-the-pre-construction-meeting">Step 6: Hold the pre-construction meeting</a></li>
+<li><a href="#step-7-get-the-space-and-your-life-ready">Step 7: Get the space and your life ready</a></li>
+<li><a href="#a-short-readiness-checklist">A short readiness checklist</a></li>
+<li><a href="#our-perspective">Our perspective</a></li>
+<li><a href="#plan-your-renovation-with-statera">Plan your renovation with Statera</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Why the work before the work matters</h2>
+<p>The Canadian Home Builders’ Association notes that <a href="https://www.chba.ca/before-starting-a-renovation/" rel="nofollow noopener noreferrer" target="_blank">many renovation problems come directly from poor planning</a>. That matches what a pre-construction phase is for. It is the stretch between “we want to renovate” and “the crew arrives”, and it is where cost, timing and permits are cheapest to fix, because nothing has been built or ordered yet.</p>
+<p>A pre-construction checklist is not a single document. It is a set of decisions, each with an owner and a date. Below we go through them in the order they usually need to happen.</p>
+<h2>Step 1: Define the scope in plain language</h2>
+<p>Start with a written description of what you want to change and why. The CHBA recommends <a href="https://www.chba.ca/before-starting-a-renovation/" rel="nofollow noopener noreferrer" target="_blank">clear project goals and a split between must-haves and nice-to-haves</a>. That split protects you later, when a quote comes in higher than expected and something has to give.</p>
+<p>A useful scope statement answers:</p>
+<ul>
+<li>Where does the work start and stop? (For example, “new floor in the kitchen only, not the adjoining hallway.”)</li>
+<li>What is being removed, moved or added: walls, plumbing, gas lines, windows, electrical panels?</li>
+<li>Which finishes are chosen, and which are still open?</li>
+<li>What is specifically excluded?</li>
+</ul>
+<p>The exclusions matter as much as the inclusions. Most scope disputes are really two people picturing different boundaries.</p>
+<p>For homeowners, bring drawings if you have them, a short list of selections (fixtures, flooring, cabinets) and a few inspiration images. A contractor who offers design with the build can turn those into a drawing set you both work from. Our <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen</a> and <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom</a> projects start this way.</p>
+<h2>Step 2: Check what permits and approvals you need</h2>
+<p>Permits are the part of the checklist most likely to stall a project, and the rules differ by municipality. Calgary, Okotoks, Cochrane, Airdrie and Rocky View County each run their own process.</p>
+<p><strong>Residential projects.</strong> Structural changes, new or altered plumbing and electrical, finished basements and suites, and additions generally need permits. As one example, the City of Calgary says that for secondary suites, <a href="https://www.calgary.ca/development/home-building/secondary-suite-permits.html" rel="nofollow noopener noreferrer" target="_blank">whether you need only a building permit or a development permit as well depends on your land-use district</a>. Check your district before you design around a suite.</p>
+<p><strong>Commercial projects.</strong> For alterations to restaurants, offices and retail space, the City of Calgary’s <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/Commercial-multi-family-alterations-d-e-occupancy.pdf" rel="nofollow noopener noreferrer" target="_blank">guide to a complete application</a> (2019 Alberta Edition) lists what has to be in the package: a scope-of-work statement on the drawings, a site plan and key plan showing the tenant space, signed Schedules A and B including the owner’s signature, and an asbestos abatement form where it applies, often for buildings constructed before 1990. The C schedules follow before occupancy. Outside the city, Rocky View County’s <a href="https://www.rockyview.ca/sites/default/files/2025-06/Renovations-Commercial-Project-Checklist.pdf" rel="nofollow noopener noreferrer" target="_blank">commercial renovation checklist</a> (updated June 2025) asks first tenants to include permitting for all areas within the space, including offices, warehouses, racking and storage.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794620426682_Key-items-in-a-commercial-permit-package.jpeg" alt="Key items in a commercial permit package" /></p>
+<p>A “Schedule” here is a standard form in which the owner, the design professionals and the contractor confirm who is responsible for design and for field review of the work. Your contractor or designer normally helps assemble them.</p>
+<p><strong>Older buildings.</strong> If your home or commercial space was built before 1990, ask early about a hazardous materials assessment. Materials in older buildings, such as some flooring, insulation and wall finishes, may contain asbestos and the City’s commercial package asks for the abatement form where applicable. Testing takes time, so it belongs at the start of the schedule, not after demolition begins.</p>
+<p>We handle permit management as part of our projects, and we line up the application with the drawings so reviewers see a complete package. If you want the detail on timing and common rejection reasons, our guides on <a href="https://stateracontracting.com/blog/renovation-permits-calgary" target="_blank" rel="noopener">checking permits before demolition</a> and <a href="https://stateracontracting.com/blog/renovation-permit-timeline-calgary" target="_blank" rel="noopener">permit timelines in Calgary</a> go further. Planning in Okotoks? Egress and flood overlays come up often, and we cover them in our <a href="https://stateracontracting.com/blog/renovation-permit-okotoks" target="_blank" rel="noopener">Okotoks permit guide</a>.</p>
+<h2>Step 3: Build a budget that survives surprises</h2>
+<p>A number alone is not a budget. Before the contract is signed, you want to know:</p>
+<ul>
+<li><strong>What the price includes and excludes.</strong> Demolition, disposal, permits, design, painting, and fixtures are common places where assumptions differ.</li>
+<li><strong>Allowances.</strong> An allowance is a placeholder amount for items not yet chosen, such as tile or lighting. If you pick something above the allowance, the difference is yours to cover. Know each figure and compare it to the real products you like.</li>
+<li><strong>Site conditions that could add cost.</strong> Old wiring behind a wall, an undersized panel, or rot under a floor are not visible on day one.</li>
+<li><strong>A contingency.</strong> This is money set aside for the unexpected. We explain how much to hold and why it should stay accessible in <a href="https://stateracontracting.com/blog/renovation-contingency-budget" target="_blank" rel="noopener">our contingency guide</a>.</li>
+</ul>
+<p>Set your own spending limit before you meet with the contractor, and agree that all cost and material decisions are approved by you. That keeps the project from drifting.</p>
+<p>On a fixed-price contract, the clearest protection is the written contract itself. Our list of <a href="https://stateracontracting.com/blog/renovation-contract-clauses" target="_blank" rel="noopener">renovation contract clauses</a> walks through what to look for.</p>
+<h2>Step 4: Set a schedule with its real dependencies</h2>
+<p>A timeline is only as reliable as the things it depends on. List them:</p>
+<ol>
+<li><strong>Permit timing.</strong> Reviews can take days or weeks depending on the type of work and the municipality.</li>
+<li><strong>Special-order lead times.</strong> Windows, custom cabinets, specialty tile and equipment may take weeks to arrive. Ordering them late is one of the most common causes of a stalled job. The same principle shows up in other trades: <a href="https://blog.frostairconditioning.co.uk/blog/aircon-installation-lead-time" target="_blank" rel="nofollow noopener noreferrer">installation lead times for equipment</a> can shape when a project is ready for the next phase.</li>
+<li><strong>Your decision deadlines.</strong> Selections need to be made by a certain date for orders to arrive on time. Ask your contractor for those dates in writing.</li>
+<li><strong>Trade availability.</strong> The sequence of trades (framing, rough-in, inspection, drywall, finishing) has to line up, with inspections between stages.</li>
+<li><strong>Season.</strong> Exterior work and additions in Calgary depend on weather and frost.</li>
+</ol>
+<p>Ask for the schedule as a sequence with dependencies, not just a start and finish date.</p>
+<h2>Step 5: Document the site before work starts</h2>
+<p>A site review records what exists today, so there is no argument later about what the project did or did not change. The City of Edmonton’s <a href="https://www.edmonton.ca/sites/default/files/public-files/Project-Implementation-Plan-Guide.pdf" rel="nofollow noopener noreferrer" target="_blank">Project Implementation Plan guide</a> (July 2025) is written for larger municipal projects, but its list is a good model for any renovation. It calls for recording existing utilities, fences, retaining walls, trees and their condition, debris and water management, and photos and notes of adjacent property conditions. It also covers fencing and any area needed for storage, laydown or loading.</p>
+<p>For a home or small commercial job, this translates into:</p>
+<ul>
+<li><strong>Photos and video</strong> of every room or area being worked on and the ones the crew will pass through: floors, walls, ceilings, stairs, door frames.</li>
+<li><strong>Neighbouring conditions</strong>, such as fences and shared walls, or in a plaza, the adjoining units and common areas.</li>
+<li><strong>Access and delivery.</strong> Where will materials arrive, where will a bin sit, and are there loading restrictions, strata rules or landlord requirements for a commercial space?</li>
+<li><strong>Existing utilities.</strong> Know where the shutoffs are. If the project involves digging, such as an addition, new footings or exterior work, <a href="https://utilitysafety.ca/" rel="nofollow noopener noreferrer" target="_blank">Utility Safety Partners</a> runs the Click Before You Dig process, where homeowners and contractors submit a locate request before disturbing the ground.</li>
+</ul>
+<p>Date-stamped photos kept by both you and the contractor are the simplest protection for everyone.</p>
+<h2>Step 6: Hold the pre-construction meeting</h2>
+<p>This is the meeting where the checklist becomes a plan. It happens after the contract and before work begins, with you and the contractor’s project lead present. For commercial jobs, add the property manager or landlord representative, the designer and any key tenant-side contacts.</p>
+<p>Professional builders in Canada describe a similar agenda. One builder’s guide suggests coming with drawings, a short selections list and inspiration images, then settling the main design elements, allowance amounts, a contingency, how changes are priced, long-lead item deadlines, who communicates with whom, site logistics and paperwork for payments and warranty milestones, and leaving with an action list with owners and dates.</p>
+<p>Here is the version we would use:</p>
+<table>
+<thead>
+<tr>
+<th>Topic</th>
+<th>What to settle</th>
+<th>Write down</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Scope</td>
+<td>Start and stop points, exclusions</td>
+<td>Final scope statement and drawings</td>
+</tr>
+<tr>
+<td>Budget</td>
+<td>Inclusions, allowances, contingency</td>
+<td>Price, allowance list, contingency amount</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Start date, major milestones, order deadlines</td>
+<td>Sequence with your decision dates</td>
+</tr>
+<tr>
+<td>Permits</td>
+<td>Who applies, who books inspections</td>
+<td>Permit status and inspection plan</td>
+</tr>
+<tr>
+<td>Changes</td>
+<td>How a change is priced and approved</td>
+<td>Change-order process (written approval before the work)</td>
+</tr>
+<tr>
+<td>Communication</td>
+<td>Who calls whom, how often, backup contact</td>
+<td>Names, numbers, daily update method</td>
+</tr>
+<tr>
+<td>Site</td>
+<td>Access, parking, bin, work hours, protection</td>
+<td>Site plan and house rules</td>
+</tr>
+<tr>
+<td>Surprises</td>
+<td>What happens if hidden conditions appear</td>
+<td>Agreed process for unexpected findings</td>
+</tr>
+</tbody>
+</table>
+<p>The change-order row deserves attention. Verbal agreements on site are easy to misremember. A written change order states the work, the price and the effect on the schedule before the work happens. Our article on <a href="https://stateracontracting.com/blog/change-orders-renovation" target="_blank" rel="noopener">change orders in renovation</a> explains the process.</p>
+<h2>Step 7: Get the space and your life ready</h2>
+<p>The last pieces of the checklist are practical and mostly fall to you:</p>
+<p><strong>At home</strong></p>
+<ul>
+<li>Clear the work zone and nearby areas of furniture, rugs, art and anything fragile. Dust travels.</li>
+<li>Plan where you will cook, wash and sleep. For a kitchen, set up a temporary kitchen with a kettle, microwave and a small fridge. For a bathroom, decide which other bathroom the household will use.</li>
+<li>Make arrangements for pets and children. Open doors, tools and noise make a work area a poor place for either.</li>
+<li>Confirm access: keys, garage codes, alarm instructions and working hours.</li>
+<li>Tell neighbours about the dates, deliveries and noise, especially in a condo or townhouse.</li>
+<li>Know where your water shutoff and electrical panel are.</li>
+</ul>
+<p><strong>In a business</strong></p>
+<ul>
+<li>Decide whether you close, reduce hours or phase the work by area.</li>
+<li>Move stock, equipment and records out of the work zone, and protect what stays.</li>
+<li>Confirm access hours with the landlord or property manager, including loading areas and elevator use.</li>
+<li>Plan how staff and customers will enter, and post clear signage.</li>
+<li>Line up your opening date with permit approvals and final inspections. For restaurants and bars, that also means the approvals your operation needs before you can open.</li>
+</ul>
+<p>If you have a pre-1990 home or commercial space, make sure any hazardous materials testing has been completed and that you know what the results mean for the work.</p>
+<h2>A short readiness checklist</h2>
+<p>Before the first day, you should be able to answer yes to each of these:</p>
+<ul>
+<li>The contract and scope are signed, and the exclusions are listed.</li>
+<li>The budget includes allowances and a contingency, and you know each figure.</li>
+<li>Permits are issued, or you know the exact stage each one is at.</li>
+<li>Long-lead items are ordered or have order dates.</li>
+<li>Existing conditions are photographed and dated.</li>
+<li>Selections are final for the first phases of work.</li>
+<li>You have a named contact and a daily update method.</li>
+<li>The work zone is cleared and the household or business plan is in place.</li>
+</ul>
+<h2>Our perspective</h2>
+<blockquote>
+<p>A checklist only helps if someone owns every line on it. When we start a project, we want you to know who is applying for the permit, who is ordering the long-lead items, who you call with a question and when you will hear from us.</p>
+<p>We are a family-owned team and we manage each project directly, with daily communication from start to finish. We are licensed and insured, we build to code, and we manage permits so you are not left to work through the forms. Design is included with our builds, which means the scope, drawings and selections are developed together instead of handed off between separate parties.</p>
+<p>Our advice is to spend the extra week up front. A clear scope, a realistic schedule and a written change-order process keep a renovation calm, and calm is what most of our clients tell us they want.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Plan your renovation with Statera</h2>
+<p>We renovate kitchens, bathrooms, basements and living spaces, home additions and commercial spaces across Calgary, Okotoks, Cochrane and Airdrie, including restaurant, office, retail and franchise build-outs. Our pre-construction work covers the scope, design, permits and schedule, so you start with a plan, not a guess.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If you are ready to talk about your project, start with the service that fits it: <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">Kitchen Renovation</a>, <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">Basement &amp; Living Spaces</a>, <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">Home Additions</a> or <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">Commercial Renovation</a>. You can also <a href="https://stateracontracting.com" target="_blank" rel="noopener">book a consultation through our site</a>.</p>
+<h2>FAQ</h2>
+<h3>What is included in a pre-construction checklist?</h3>
+<p>A complete checklist covers the scope of work, the budget with allowances and contingency, permits and any required assessments, the schedule with long-lead items, a site review with photos, the change-order process, communication roles and preparation of the work area. Each item should have an owner and a date.</p>
+<h3>Who should attend the pre-construction meeting?</h3>
+<p>The property owner or decision-maker and the contractor’s project lead are the core. On commercial projects, include the landlord or property manager and the designer. Everyone who can approve costs or selections should be there, so decisions are not delayed afterward.</p>
+<h3>How long before construction should planning start?</h3>
+<p>It depends on the project. A bathroom with a standard permit moves faster than an addition or a commercial build-out with drawings, schedules and a longer review. Start planning as soon as you decide to renovate, since permits and special-order items set the earliest realistic start date.</p>
+<h3>Do I need to move out during a renovation?</h3>
+<p>Not always. Many kitchen and bathroom projects can be lived through with a temporary setup and a clear work zone. Whole-home work or projects that shut off water, power or heat for extended periods may need alternative arrangements. Talk through this at the pre-construction meeting.</p>
+Statera ContractingDiscuss Your Renovation PlansShare what you are planning for your home or commercial space and ask Statera Contracting about renovation work in Calgary.Statera Contracting<a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">Message us on WhatsApp+1-403-512-8755</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.chba.ca/before-starting-a-renovation/" rel="nofollow noopener noreferrer" target="_blank">Before Starting a Renovation, Canadian Home Builders’ Association</a></li>
+<li><a href="https://www.calgary.ca/development/home-building/secondary-suite-permits.html" rel="nofollow noopener noreferrer" target="_blank">Secondary suites development permit requirements, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/Commercial-multi-family-alterations-d-e-occupancy.pdf" rel="nofollow noopener noreferrer" target="_blank">Guide to a Complete Application, commercial and multi-family alterations, City of Calgary</a></li>
+<li><a href="https://www.rockyview.ca/sites/default/files/2025-06/Renovations-Commercial-Project-Checklist.pdf" rel="nofollow noopener noreferrer" target="_blank">Building Permit Checklist for Commercial, Industrial and Renovations, Rocky View County</a></li>
+<li><a href="https://www.edmonton.ca/sites/default/files/public-files/Project-Implementation-Plan-Guide.pdf" rel="nofollow noopener noreferrer" target="_blank">Project Implementation Plan Guide, City of Edmonton</a></li>
+<li><a href="https://utilitysafety.ca/" rel="nofollow noopener noreferrer" target="_blank">Utility Safety Partners</a></li>
+<li>Questions to Ask at Your Pre-Construction Meeting</li>
+<li><a href="https://blog.frostairconditioning.co.uk/blog/aircon-installation-lead-time" target="_blank" rel="nofollow noopener noreferrer">Aircon installation lead time</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/home-renovations-calgary-2026-roadmap" target="_blank" rel="noopener">Home Renovations Calgary 2026 Owner’s Roadmap</a></li>
+<li><a href="https://stateracontracting.com/blog/choose-a-renovation-contractor-calgary" target="_blank" rel="noopener">How to choose a renovation contractor in Calgary</a></li>
+<li><a href="https://stateracontracting.com/blog/renovation-permits-calgary" target="_blank" rel="noopener">Check Calgary Renovation Permits Before Demolition to Avoid Rework</a></li>
+<li><a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">Planning a Kitchen Renovation in Calgary</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
