@@ -24827,6 +24827,202 @@ Statera ContractingDiscuss Your Renovation PlansShare what you are planning for 
       },
     ],
   },
+  {
+    slug: "kitchen-island-size",
+    title: "Kitchen Island Size: Dimensions, Aisles and Seating Rules",
+    excerpt: "A workable kitchen island is usually at least 2 feet deep and 4 feet long, but the size that suits your kitchen depends on the room around it. Most islands end up 3 to 4 feet deep and 5 to 7 feet long, with 42 to 48 inches of open floor on every working side. Work out the room first, then fit the island to what is left. If you go the other way, you get an island that looks good on a floor plan and blocks the dishwasher in real life.",
+    date: "2026-11-20",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1794751530182_Kitchen-island-with-stools-and-clear-surrounding-aisles.jpeg",
+    coverAlt: "Kitchen Island Size: Dimensions, Aisles and Seating Rules",
+    category: "Industry News",
+    readingTime: "14 min read",
+    metaTitle: "Kitchen Island Size: Dimensions, Aisles and Seating Rules",
+    metaDescription: "Plan the right kitchen island size: standard length, width and height, minimum aisle widths, seating space per stool, and how to choose a mitered or waterfall edge.",
+    content: [
+      {
+        type: "html",
+        html: `<p>A workable kitchen island is usually at least 2 feet deep and 4 feet long, but the size that suits your kitchen depends on the room around it. Most islands end up 3 to 4 feet deep and 5 to 7 feet long, with 42 to 48 inches of open floor on every working side. Work out the room first, then fit the island to what is left. If you go the other way, you get an island that looks good on a floor plan and blocks the dishwasher in real life.</p>
+<p>We plan kitchens in Calgary, Airdrie, Cochrane and Okotoks, and island size is one of the first things we settle on paper. This guide gives you the numbers, the arithmetic, and the decisions that come with them.</p>
+Statera Contractingstateracontracting.comPlan an Island That FitsStatera Contracting renovates Calgary kitchens, helping homeowners connect island dimensions with the room around them.<a href="https://stateracontracting.com/">Visit</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Minimum practical island: about 2 ft x 4 ft (61 x 122 cm). Comfortable for prep and a few stools: about 3 ft x 5 ft or larger.</li>
+<li>Leave 42 in. (107 cm) of aisle on working sides and 48 in. (122 cm) if two people cook. Walkways with no work at all can drop to 36 in. (91 cm).</li>
+<li>Plan 24 in. (61 cm) of width per stool, a 12 to 15 in. overhang, and 44 in. (112 cm) behind seats if people walk past.</li>
+<li>A good rule of thumb: keep the island to about 10% of the kitchen’s floor area.</li>
+<li>Choose the edge detail (mitered or waterfall) after the size is settled, because it changes the look and the stone needed, not the footprint.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#standard-kitchen-island-dimensions">Standard kitchen island dimensions</a></li>
+<li><a href="#start-with-the-room-not-the-island">Start with the room, not the island</a></li>
+<li><a href="#how-wide-should-the-aisles-be">How wide should the aisles be?</a></li>
+<li><a href="#seating-space-per-stool-and-the-clearance-behind-it">Seating: space per stool and the clearance behind it</a></li>
+<li><a href="#sinks-cooktops-and-storage-change-the-numbers">Sinks, cooktops and storage change the numbers</a></li>
+<li><a href="#mitered-edge-or-waterfall-edge">Mitered edge or waterfall edge?</a></li>
+<li><a href="#our-view-on-island-size">Our view on island size</a></li>
+<li><a href="#plan-your-island-with-a-calgary-kitchen-contractor">Plan your island with a Calgary kitchen contractor</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Standard kitchen island dimensions</h2>
+<p>There is no single standard, but the published guidance agrees closely. <a href="https://www.forbes.com/home-improvement/kitchen/standard-kitchen-island-size-guide/" rel="nofollow noopener noreferrer" target="_blank">Forbes Home</a> gives 2 by 4 feet as the minimum recommended island. <a href="https://www.thisoldhouse.com/kitchens/how-to-size-a-kitchen-island" rel="nofollow noopener noreferrer" target="_blank">This Old House</a> recommends at least 3 by 5 feet, with a minimum of 42 inches between the island and surrounding walls or cabinets.</p>
+<p>Here is how that plays out in practice:</p>
+<table>
+<thead>
+<tr>
+<th>Island type</th>
+<th>Typical size (depth x length)</th>
+<th>What it suits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Small prep island</td>
+<td>2 ft x 4 ft (61 x 122 cm)</td>
+<td>Extra counter space, no seating</td>
+</tr>
+<tr>
+<td>Mid-size island</td>
+<td>3 ft x 5 ft (91 x 152 cm)</td>
+<td>Prep plus two or three stools on one side</td>
+</tr>
+<tr>
+<td>Larger island</td>
+<td>3.5 to 4 ft x 7 ft (107 to 122 x 213 cm)</td>
+<td>Seating, a sink or cooktop, storage</td>
+</tr>
+<tr>
+<td>Very large island</td>
+<td>8 ft long or more</td>
+<td>Open-concept kitchens with plenty of floor space</td>
+</tr>
+</tbody>
+</table>
+<p>Treat these as starting points. A 3 by 5 foot island sounds modest, but <a href="https://www.finehomebuilding.com/project-guides/kitchens/kitchen-islands-practical-makes-perfect" rel="nofollow noopener noreferrer" target="_blank">Fine Homebuilding</a> points out that with 42 inches of aisle on every side it needs about 120 square feet of room around and including it. Many older Calgary kitchens are smaller than that. If you are unsure where yours sits, our guide to the <a href="https://stateracontracting.com/blog/average-kitchen-size" target="_blank" rel="noopener">average kitchen size in Canadian homes</a> is a useful comparison.</p>
+<h2>Start with the room, not the island</h2>
+<p>The most reliable way to size an island is to work from the walls inward. For an island between two runs of perimeter cabinets, the room width you need is:</p>
+<p><strong>perimeter counter depth + aisle + island depth + aisle + perimeter counter depth</strong></p>
+<p>Standard base cabinets with countertop run about 25.5 inches deep. Take a 36 inch deep island with 42 inch aisles on both sides:</p>
+<p>25.5 + 42 + 36 + 42 + 25.5 = 171 inches, or 14 ft 3 in.</p>
+<p>That is the clear room width between the two walls. If your kitchen is 12 feet wide with cabinets on both long walls, the numbers stop working. Twelve feet is 144 inches. Subtract 51 inches for the two counter runs and 84 inches for two 42 inch aisles, and you have 9 inches left. That is not an island. In a room like that, a peninsula, a rolling cart or simply wider aisles with a bigger work triangle is the better answer.</p>
+<p>The second check is proportion. <a href="https://www.thespruce.com/kitchen-island-planning-guide-1822227" rel="nofollow noopener noreferrer" target="_blank">The Spruce</a> recommends keeping an island to no more than about 10% of the kitchen’s total square footage. In its example, a 130 square foot kitchen can take a 2 ft x 7 ft island (14 sq ft), but a 4 ft x 7 ft island (28 sq ft) is far too large. <a href="https://www.forbes.com/home-improvement/kitchen/standard-kitchen-island-size-guide/" rel="nofollow noopener noreferrer" target="_blank">Forbes Home</a> uses the same logic: no more than 15 square feet in a 150 square foot kitchen.</p>
+<p>The Spruce also suggests a simple test. Put a table or a cardboard-topped frame at the planned size in the room and live with it for a few days. You will find out quickly whether you can still open the fridge and the oven with someone standing at the island.</p>
+<h2>How wide should the aisles be?</h2>
+<p>Aisle width matters more than the island itself, because it decides whether the kitchen is pleasant to cook in. The widely used National Kitchen and Bath Association (NKBA) guidelines, as summarised by <a href="https://www.finehomebuilding.com/project-guides/kitchens/kitchen-islands-practical-makes-perfect" rel="nofollow noopener noreferrer" target="_blank">Fine Homebuilding</a>, are:</p>
+<ul>
+<li><strong>42 inches</strong> for a work aisle where one cook is working.</li>
+<li><strong>48 inches</strong> where two or more people cook.</li>
+<li><strong>36 inches</strong> for a walkway around the island with no work taking place.</li>
+</ul>
+<p>The 42 inch figure is not arbitrary. It lets you open a dishwasher or oven door and still stand beside it, and still have room for someone to squeeze past. In a Calgary family kitchen where a child is doing homework at the island while you cook, 42 inches is the number to protect.</p>
+<p>Fine Homebuilding also notes that these are guidelines rather than building code requirements, and that they assume an average user. A household of one or two people may be happy with slightly narrower work aisles. Most families, and anyone planning to stay in the home for years, are better served by the full figures.</p>
+<p>If anyone in your household uses a wheelchair or walker, plan for more. <a href="https://www.rona.ca/en/workshop/tips/kitchen-renovation-measurements" rel="nofollow noopener noreferrer" target="_blank">Rona’s kitchen measurement guide</a> states that 60 inches is required for a family member who uses a wheelchair. Tell your designer at the start so the whole layout is planned around it.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794751594453_How-wide-should-the-aisles-be-.jpeg" alt="How wide should the aisles be?" /></p>
+<h2>Seating: space per stool and the clearance behind it</h2>
+<p>Seating adds depth, length and a second set of clearances. Four numbers cover most decisions.</p>
+<p><strong>Width per person.</strong> Allow 24 inches per stool as a minimum. If the island is long enough, 28 to 30 inches is more comfortable for adults. A 5 foot island seats two people comfortably and three tightly. A 7 foot island seats three or four.</p>
+<p><strong>Overhang.</strong> The counter must extend past the cabinet so knees fit. The NKBA overhangs reported by Fine Homebuilding are 18 inches for a 30 inch counter, 15 inches for a 36 inch counter and 12 inches for a 42 inch counter. <a href="https://www.forbes.com/home-improvement/kitchen/standard-kitchen-island-size-guide/" rel="nofollow noopener noreferrer" target="_blank">Forbes Home</a> gives the same 15 and 12 inch knee space for those two heights. In practice, a standard 24 inch deep cabinet plus a 12 to 15 inch overhang gives a counter about 36 to 39 inches deep.</p>
+<p><strong>Clearance behind the stools.</strong> This is the measurement people most often forget. Fine Homebuilding gives 32 inches behind seated diners where nobody walks, 36 inches where someone needs to shuffle past, and 44 inches where people walk past normally. <a href="https://www.thisoldhouse.com/kitchens/how-to-size-a-kitchen-island" rel="nofollow noopener noreferrer" target="_blank">This Old House</a> recommends at least 60 inches of clearance on the seating side for comfortable movement, which is the generous end of the range.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794751566840_Clearance-distances-behind-kitchen-island-stools.jpeg" alt="Clearance distances behind kitchen island stools" /></p>
+<p><strong>Counter or bar height.</strong> A 36 inch island with counter-height stools is the easiest to work at. A 42 inch bar-height section creates a visual break and hides the prep clutter, but it is less comfortable for baking and rolling out dough, and it needs the shorter 12 inch overhang. If you are comparing heights across the whole kitchen, our guide to <a href="https://stateracontracting.com/blog/kitchen-countertop-heights-the-complete-homeowners-guide" target="_blank" rel="noopener">kitchen countertop heights</a> covers the trade-offs.</p>
+<p>We often see seating added last, squeezed into what is left. Put the seating in at the start. For help working out island length, stool count and overhang on paper before you commit, this <a href="https://upscale.ch/upscale-magazine/custom-kitchen-island-design-in-zurich" rel="nofollow noopener noreferrer" target="_blank">island planning guide for length, width and overhang</a> walks through the measurements.</p>
+<h3>A worked example</h3>
+<p>Suppose you have a 13 ft 6 in. wide kitchen (162 inches) with standard counters on both walls, and you want three stools. A 39 inch deep island (24 inch cabinet plus a 15 inch overhang) leaves 162 - 51 - 39 = 72 inches for two aisles. That is 36 inches each. The side with the stools needs about 44 inches behind them if people pass, so the numbers do not quite work with a two-sided island and a full work aisle.</p>
+<p>The fixes are all on paper and cost nothing: reduce the island depth to 36 inches with a 12 inch overhang on a shallower base, move the seating to the end of the island where there is more room, or choose a slimmer island without seating. This is the sort of decision we would rather make before the cabinets are ordered.</p>
+<h2>Sinks, cooktops and storage change the numbers</h2>
+<p>An island that holds a sink or cooktop needs to be longer and deeper than a plain prep island.</p>
+<ul>
+<li><strong>Bar sink:</strong> <a href="https://www.thespruce.com/kitchen-island-planning-guide-1822227" rel="nofollow noopener noreferrer" target="_blank">The Spruce</a> notes that bar sinks are 9 to 18 inches wide and need 18 inches to 2 feet of prep space on one or both sides. It says a 7 foot island generally has enough room for a sink.</li>
+<li><strong>Cooktop:</strong> needs clear landing space on both sides and ventilation overhead, which affects ceiling height and the ductwork route.</li>
+<li><strong>Storage:</strong> a 24 inch deep cabinet is the standard. If you want deep drawers on the working side and open seating on the other, the island has to be deep enough for both, usually 38 to 42 inches in total.</li>
+</ul>
+<p>Plumbing and electrical in an island are not just design choices. In Calgary, adding a sink, a cooktop or outlets can trigger permits and inspections, and island receptacles have to meet code. We handle the permit side as part of the project. If you are curious how that works, read about <a href="https://stateracontracting.com/blog/kitchen-renovation-permit-calgary" target="_blank" rel="noopener">how contractors prevent rejected kitchen permits in Calgary</a>. Lighting matters as well: a long island needs pendants or recessed lights at the right spacing, and our <a href="https://stateracontracting.com/blog/kitchen-lighting-plan" target="_blank" rel="noopener">kitchen lighting plan</a> shows how we layer it.</p>
+<h2>Mitered edge or waterfall edge?</h2>
+<p>Once the size is right, the next question is how the countertop finishes at the edge. These two details are often confused, and they do different jobs.</p>
+<p><strong>A mitered edge</strong> joins two pieces of stone at a 45 degree angle so a standard 3 cm slab looks about 6 cm thick. It gives you a chunkier, more substantial counter edge without needing a thicker slab.</p>
+<p><strong>A waterfall edge</strong> carries the countertop material straight down the side of the island to the floor. It makes the island look like one solid block and shows off the pattern of the stone, especially when the veining runs continuously from top to side.</p>
+<p>Here is how to choose:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Mitered edge</th>
+<th>Waterfall edge</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Look</td>
+<td>Thick, clean slab edge</td>
+<td>Continuous stone from top to floor</td>
+</tr>
+<tr>
+<td>Where it works</td>
+<td>Island and perimeter counters</td>
+<td>Exposed island ends</td>
+</tr>
+<tr>
+<td>Cabinet panels</td>
+<td>Stay visible</td>
+<td>Covered by stone on the waterfall side</td>
+</tr>
+<tr>
+<td>Stone needed</td>
+<td>A little extra for the edge</td>
+<td>Noticeably more, since the sides are stone too</td>
+</tr>
+<tr>
+<td>Fabrication</td>
+<td>Precise 45 degree joint</td>
+<td>Precise 90 degree corner joint, ideally with matched veining</td>
+</tr>
+</tbody>
+</table>
+<p>A waterfall is the stronger statement and works best on an island end that people see from the living or dining area. A mitered edge suits a kitchen where you want to keep the painted or panelled island cabinetry visible, or where the waterfall would use more stone than the budget allows. Many kitchens combine the two: a mitered edge on the perimeter counters and a waterfall on one or both island ends.</p>
+<p>If you choose a waterfall, tell us early. The side panels add to the stone order, and veining that matches across the corner depends on selecting the right slab, so it should be decided before the slab is cut. Ask your stone supplier for current pricing on your chosen material, since stone prices vary by material and slab.</p>
+<h2>Our view on island size</h2>
+<blockquote>
+<p>We are a family-owned team, and one of the first things we do in a kitchen design is test the island on paper against the room. A drawing that shows the island, the aisles and the stools together tells you more than any rule of thumb.</p>
+<p>The most common mistake we see is an island chosen first and the room fitted around it. We start with the walls, the appliances and how your household actually cooks, and we size the island to those. Design is included when you build with us, so these decisions happen before construction, not during it.</p>
+<p>The same applies to permits and code. We manage permit applications, and we build to code, so when an island needs a sink, a cooktop or extra outlets, the plan already accounts for it. You also get daily communication from the team running your project, so a question about an aisle width or an overhang gets answered the same day.</p>
+<p>If your kitchen is tight, the right answer is sometimes a smaller island, a peninsula or a slimmer prep counter. We would rather give you an island you use every day than one that looks impressive and gets in the way.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Plan your island with a Calgary kitchen contractor</h2>
+<p>If you are planning a new island or a full kitchen, our <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation service</a> covers design, permits and construction under one fixed-price agreement. We are licensed and insured, and we work across Calgary, Airdrie, Cochrane and Okotoks. We will measure your room, test island options against the aisle and seating rules above, and show you the layout before anything is ordered.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>Book a consultation through our site and bring your measurements, or just a sketch. For wider planning, see our guide to <a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">planning a kitchen renovation in Calgary</a> and our <a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">kitchen renovation ideas for Alberta homeowners</a>.</p>
+<h2>FAQ</h2>
+<h3>What is a good size for a kitchen island?</h3>
+<p>For most family kitchens, 3 to 4 feet deep and 5 to 7 feet long works well. The minimum for a useful island is about 2 by 4 feet. Keep the island to roughly 10% of the kitchen’s floor area, and leave at least 42 inches of aisle on working sides.</p>
+<h3>How much space do I need around a kitchen island?</h3>
+<p>Plan 42 inches on working sides and 48 inches if two people cook at once. A pure walkway can be 36 inches. Behind seated diners, allow 44 inches if people walk past, or 36 inches if they only need to edge by.</p>
+<h3>How wide should a kitchen be to fit an island?</h3>
+<p>With cabinets on both walls, a 36 inch deep island and 42 inch aisles, you need about 14 ft 3 in. between the walls. Kitchens around 12 feet wide usually fit only a slim prep island or a peninsula, and a 10 foot wide kitchen generally has no room for either. Add the widths together before you fall in love with a design.</p>
+<h3>How many stools fit at a kitchen island?</h3>
+<p>Allow 24 inches per stool as a minimum, and 28 to 30 inches if you want elbow room. A 5 foot island seats two comfortably, and a 7 foot island seats three to four. Add the overhang depth to the island depth, and check the clearance behind the stools.</p>
+Statera ContractingTalk Through Your Kitchen IslandContact Statera Contracting to discuss your Calgary kitchen renovation and how an island could fit your space.<a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.forbes.com/home-improvement/kitchen/standard-kitchen-island-size-guide/" rel="nofollow noopener noreferrer" target="_blank">Forbes Home: Kitchen Island Space, Sizing and Dimensions</a></li>
+<li><a href="https://www.thisoldhouse.com/kitchens/how-to-size-a-kitchen-island" rel="nofollow noopener noreferrer" target="_blank">This Old House: How To Size a Kitchen Island</a></li>
+<li><a href="https://www.finehomebuilding.com/project-guides/kitchens/kitchen-islands-practical-makes-perfect" rel="nofollow noopener noreferrer" target="_blank">Fine Homebuilding: How to Design a Kitchen Island</a></li>
+<li><a href="https://www.thespruce.com/kitchen-island-planning-guide-1822227" rel="nofollow noopener noreferrer" target="_blank">The Spruce: Kitchen Island Dimension Guide</a></li>
+<li><a href="https://www.rona.ca/en/workshop/tips/kitchen-renovation-measurements" rel="nofollow noopener noreferrer" target="_blank">Rona: Your Kitchen Renovation, Measured for Perfection</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/average-kitchen-size" target="_blank" rel="noopener">Average kitchen size in Canadian homes: 2026 guide</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-countertop-heights-the-complete-homeowners-guide" target="_blank" rel="noopener">Kitchen countertop heights: the complete homeowner’s guide</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">Kitchen renovation ideas for Alberta homeowners: 2026 guide</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-design-calgary-your-2026-renovation-guide" target="_blank" rel="noopener">Kitchen design Calgary: your 2026 renovation guide</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
