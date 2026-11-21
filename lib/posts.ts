@@ -25023,6 +25023,250 @@ Statera ContractingTalk Through Your Kitchen IslandContact Statera Contracting t
       },
     ],
   },
+  {
+    slug: "rockwool-vs-fiberglass-insulation",
+    title: "Rockwool vs Fiberglass Insulation: Which to Choose for a Calgary Renovation",
+    excerpt: "For most wall cavities in a Calgary renovation, both rockwool (also sold as mineral wool, stone wool or Roxul) and fiberglass will insulate well. The real difference is where they go and what you want from them. Rockwool costs more but handles fire and moisture better, which is why it suits basements, garages, commercial kitchens and shared walls. Fiberglass costs less and does the same job in ordinary above-grade walls and attics when it is installed properly. Installation quality matters more than the brand of batt, and that is a decision best made before the quote is signed, not after the drywall is up.",
+    date: "2026-11-21",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1794793138927_Rockwool-and-fiberglass-batts-in-Calgary-renovation.jpeg",
+    coverAlt: "Rockwool vs Fiberglass Insulation: Which to Choose for a Calgary Renovation",
+    category: "Industry News",
+    readingTime: "14 min read",
+    metaTitle: "Rockwool vs Fiberglass Insulation: Which to Choose for a Calgary Renovation",
+    metaDescription: "Rockwool (mineral wool) or fiberglass? Compare R-value, fire, moisture, sound and cost, and see which suits a Calgary basement, addition or commercial build.",
+    content: [
+      {
+        type: "html",
+        html: `<p>For most wall cavities in a Calgary renovation, both rockwool (also sold as mineral wool, stone wool or Roxul) and fiberglass will insulate well. The real difference is where they go and what you want from them. Rockwool costs more but handles fire and moisture better, which is why it suits basements, garages, commercial kitchens and shared walls. Fiberglass costs less and does the same job in ordinary above-grade walls and attics when it is installed properly. Installation quality matters more than the brand of batt, and that is a decision best made before the quote is signed, not after the drywall is up.</p>
+<p>This guide is written for homeowners and business owners planning a renovation in Calgary, Airdrie, Cochrane or Okotoks who want to know which batt to put in the scope of work, and why.</p>
+Statera ContractingPlan insulation into your renovationStatera Contracting renovates homes and commercial spaces in Calgary and surrounding areas, including basements, additions and kitchens.<a href="https://stateracontracting.com/">Visit</a>
+<h2>TL;DR</h2>
+<ul>
+<li><strong>R-value is close.</strong> Mineral wool runs about <a href="https://www.finehomebuilding.com/project-guides/insulation/an-overview-of-common-insulation-materials" rel="nofollow noopener noreferrer" target="_blank">R-2.9 to R-4.3 per inch and fiberglass batts R-3.1 to R-4.2</a>, so thermal performance rarely decides the choice.</li>
+<li><strong>Rockwool wins on fire and moisture.</strong> It is the stronger pick for basements, mechanical rooms, garages and commercial kitchens.</li>
+<li><strong>Fiberglass wins on price.</strong> A government-funded Canadian materials guide rates a mineral wool batt at <a href="https://assets.cmhc-schl.gc.ca/sites/housing%20catalog/resources/housing-hesign-catalogue-materials-guide-en.pdf" rel="nofollow noopener noreferrer" target="_blank">$$$$ against $$ for an unfaced fibreglass batt</a> at the same R21 and 140 mm.</li>
+<li><strong>Sound is mostly about the wall, not the batt.</strong> Framing, drywall and a fully filled cavity matter more than which fibre is inside.</li>
+<li><strong>Fit matters most.</strong> Batts must fill the cavity with no gaps or compression to deliver their rated value.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-the-two-materials-actually-are">What the two materials actually are</a></li>
+<li><a href="#head-to-head-comparison">Head-to-head comparison</a></li>
+<li><a href="#r-value-close-enough-that-it-rarely-decides">R-value: close enough that it rarely decides</a></li>
+<li><a href="#fire-resistance">Fire resistance</a></li>
+<li><a href="#moisture-and-basements">Moisture and basements</a></li>
+<li><a href="#soundproofing-what-really-changes-the-result">Soundproofing: what really changes the result</a></li>
+<li><a href="#cost-what-to-expect">Cost: what to expect</a></li>
+<li><a href="#installation-differences">Installation differences</a></li>
+<li><a href="#metal-studs-vs-wood-studs">Metal studs vs wood studs</a></li>
+<li><a href="#a-quick-note-on-low-iron-glass">A quick note on low-iron glass</a></li>
+<li><a href="#where-each-one-fits-in-a-calgary-renovation">Where each one fits in a Calgary renovation</a></li>
+<li><a href="#how-to-decide-step-by-step">How to decide, step by step</a></li>
+<li><a href="#our-perspective">Our perspective</a></li>
+<li><a href="#planning-a-basement-addition-or-commercial-build-in-calgary">Planning a basement, addition or commercial build in Calgary?</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What the two materials actually are</h2>
+<p>Fiberglass batts are made from spun glass. Rockwool batts are made from spun rock or slag, which is why you will see them called mineral wool or stone wool. According to a manufacturer’s Canadian technical library, <a href="https://www.owenscorning.com/en-ca/technical-resource-library/myth-busting" rel="nofollow noopener noreferrer" target="_blank">both go into wood or steel stud wall cavities to slow heat and sound transfer</a>, and both can contain recycled material: recycled glass in fiberglass and post-industrial content in mineral wool.</p>
+<p>Roxul is simply a well-known Canadian brand name for stone wool, so a search for “Roxul vs fiberglass” is the same comparison as rockwool vs fiberglass. If a quote says “mineral wool batts” or “stone wool batts”, it means the same family of product.</p>
+<p>To a homeowner the two look different on site. Fiberglass is the familiar pink or yellow fluffy batt that makes skin itch. Mineral wool is denser, greyish and firmer, so it stays put between studs rather than slumping.</p>
+<h2>Head-to-head comparison</h2>
+<p>The table below pulls together published figures. Ranges are wide because products vary, so treat them as a guide and check the label on the actual batt specified for your job.</p>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Rockwool (mineral wool)</th>
+<th>Fiberglass batts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>R-value per inch</td>
+<td><a href="https://www.finehomebuilding.com/project-guides/insulation/an-overview-of-common-insulation-materials" rel="nofollow noopener noreferrer" target="_blank">R-2.9 to R-4.3</a></td>
+<td><a href="https://www.finehomebuilding.com/project-guides/insulation/an-overview-of-common-insulation-materials" rel="nofollow noopener noreferrer" target="_blank">R-3.1 to R-4.2</a></td>
+</tr>
+<tr>
+<td>Relative cost</td>
+<td>Higher ($$$$ in the Canadian materials guide)</td>
+<td>Lower ($$ in the same guide)</td>
+</tr>
+<tr>
+<td>Fire behaviour</td>
+<td>High fire resistance, no chemical flame retardants needed</td>
+<td>Does not burn as such, but the glass softens at lower temperatures</td>
+</tr>
+<tr>
+<td>Moisture</td>
+<td>Does not absorb water readily and dries out</td>
+<td>Loses performance when wet</td>
+</tr>
+<tr>
+<td>Below grade</td>
+<td>Usable in panel form</td>
+<td><a href="https://www.finehomebuilding.com/project-guides/insulation/an-overview-of-common-insulation-materials" rel="nofollow noopener noreferrer" target="_blank">Batts cannot be used below grade</a></td>
+</tr>
+<tr>
+<td>Air sealing</td>
+<td>Permeable to air and vapour</td>
+<td>Permeable to air</td>
+</tr>
+<tr>
+<td>Handling</td>
+<td>Heavier, firmer, harder to cut</td>
+<td>Light, easy to cut and fit</td>
+</tr>
+</tbody>
+</table>
+<p>The takeaway is that neither one is an air barrier. Natural Resources Canada notes that glass-fibre and mineral-fibre batts <a href="https://natural-resources.canada.ca/sites/www.nrcan.gc.ca/files/energy/pdf/housing/Chapter3_e.pdf" rel="nofollow noopener noreferrer" target="_blank">suit accessible cavities but must completely fill the space without gaps or compression</a> to give their full insulating benefit. A perfectly specified rockwool batt that is stuffed in crooked will lose to a fiberglass batt installed well.</p>
+<h2>R-value: close enough that it rarely decides</h2>
+<p>R-value measures resistance to heat flow, and a higher number means better insulation. Published ranges overlap heavily. Mineral wool is quoted at R-2.9 to R-4.3 per inch and fiberglass batts at R-3.1 to R-4.2 per inch, so a standard 2x6 wall cavity lands in nearly the same place with either one.</p>
+<p>Some sellers claim rockwool beats fiberglass by 20 to 30 percent per inch. That compares standard fiberglass with the best mineral wool. High-density fiberglass closes most of the gap. When you compare quotes, compare the actual R-value printed on each product for the cavity depth you have, not the material name.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794793180448_Overlapping-R-value-ranges-for-two-insulation-types.jpeg" alt="Overlapping R-value ranges for two insulation types" /></p>
+<p>In Canada, R-values are also given as RSI (the metric equivalent). RSI 1.0 is roughly R-5.7. Your plans and building permit documents may use either, so ask for both when reviewing a scope.</p>
+<h2>Fire resistance</h2>
+<p>Mineral wool is made from rock that melts at very high temperatures, so it stays in place in a fire and slows its spread inside a wall. Fiberglass is also used in fire-rated assemblies, and glass fibre insulation carries a flame spread rating of 0 on typical product data, as seen in a <a href="https://www.jm.com/content/dam/jm/global/en/building-insulation/Files/BI%20Toolbox/JM-Canada-Product-Selector-Guide-English.pdf" rel="nofollow noopener noreferrer" target="_blank">manufacturer’s Canadian product selector</a>. The difference shows up at the extremes: mineral wool tolerates much higher temperatures before it fails.</p>
+<p>That makes rockwool a sensible choice in places where fire risk is higher or fire separation matters:</p>
+<ul>
+<li>Walls and ceilings around a furnace or mechanical room</li>
+<li>Attached garage walls and ceilings below living space</li>
+<li>Party walls and ceilings between a commercial kitchen and a unit above</li>
+<li>Pub, bar and restaurant build-outs with cooking equipment and extraction</li>
+</ul>
+<p>For these spaces, the required fire rating comes from the Alberta Building Code and the assembly drawings, not from the type of batt alone. Confirm the exact assembly with your contractor and the permit review.</p>
+<h2>Moisture and basements</h2>
+<p>Basements are where the two materials separate most. Mineral wool is naturally water-repellent, and it can be used below grade in panel form. Fiberglass batts <a href="https://www.finehomebuilding.com/project-guides/insulation/an-overview-of-common-insulation-materials" rel="nofollow noopener noreferrer" target="_blank">cannot be used below grade</a>, and wet fiberglass loses much of its insulating performance and can hold moisture against framing.</p>
+<p>The common Calgary basement scenario is a finished space over a concrete foundation wall, where a rockwool-type product is a natural fit in the stud cavity, because a small leak or condensation event is less likely to ruin the insulation. If you are planning a basement, water management comes before any batt choice. Our guide to <a href="https://stateracontracting.com/blog/flood-resistant-basement-calgary" target="_blank" rel="noopener">flood-resistant basements in Calgary</a> covers what to settle first, and if your house is older, read about <a href="https://stateracontracting.com/blog/asbestos-testing-calgary-renovation" target="_blank" rel="noopener">asbestos testing before a Calgary renovation</a> before any wall is opened.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794793145901_Mineral-wool-in-a-Calgary-basement-wall-cavity.jpeg" alt="Mineral wool in a Calgary basement wall cavity" /></p>
+<p>One caution that applies to both materials: batts are not an air barrier. Glass and mineral fibre are typically poor air-sealing products, according to the <a href="https://www.saveonenergy.ca/en/For-Your-Home/Advice-and-Tips/Insulation-Buying-Guide" rel="nofollow noopener noreferrer" target="_blank">Save on Energy buying guide</a>, so the air and vapour control layers in your wall assembly still need to be designed and installed correctly. That is a detail to settle at the design stage.</p>
+<h2>Soundproofing: what really changes the result</h2>
+<p>Sound control is the most common reason people ask about rockwool, for media rooms, bedrooms next to a living area, and basement ceilings under a main floor. Here the evidence is more modest than the marketing.</p>
+<p>A manufacturer’s acoustics guide states that for sound transmission and absorption, mineral wool and fiberglass are <a href="https://www.jm.com/content/dam/jm/global/en/building-insulation/Files/BI%20Toolbox/JM_Insulating%20For%20Acoustics.pdf" rel="nofollow noopener noreferrer" target="_blank">nearly identical, with differences the human ear cannot detect</a>. The same guide cites National Research Council of Canada data showing a 2x4 drywall wall dropping from STC 38 with studs at 32-inch spacing to STC 32 at 12-inch spacing, which shows how much the framing itself matters. STC (sound transmission class) is the rating for how well a wall blocks airborne sound, and a higher number is better.</p>
+<p>A trade publication adds that insulation has no STC rating by itself, because ratings apply to the <a href="https://www.constructionspecifier.com/choosing-fiberglass-or-stone-wool-for-fire-and-acoustics/" rel="nofollow noopener noreferrer" target="_blank">whole wall or floor assembly</a>. Adding insulation to an empty cavity can raise a partition’s STC by roughly 4 to 10 points depending on the design.</p>
+<p>Rockwool’s denser structure can give a small edge. One manufacturer’s Canadian fact sheet reports slightly higher transmission loss in the low and high frequency ranges for stone wool in comparable assemblies. In real rooms, the bigger gains come from:</p>
+<ol>
+<li>A cavity that is fully filled, but not overstuffed</li>
+<li>Staggered or double studs, or resilient channel on the ceiling</li>
+<li>A second layer of drywall</li>
+<li>Sealed gaps around outlets, ducts and door frames</li>
+</ol>
+<p>For a broader look at how walls, furnishings and layout shape what you hear at home, this <a href="https://theconnecteddwelling.com/audio-visual/beginners-guide-better-living-room-sound" target="_blank" rel="nofollow noopener noreferrer">beginner’s guide to better living-room sound</a> is a useful companion. If sound control is a priority, say so when the design is drawn, because the framing and drywall plan is where it is won or lost.</p>
+<h2>Cost: what to expect</h2>
+<p>Rockwool costs more per square foot. A Canadian government-funded materials guide ranks mineral wool batts in its top price tier and unfaced fibreglass batts two tiers lower at the same R21 and 140 mm size. A U.S. professional table published in 2013 to 2016 put <a href="https://www.buildinggreen.com/sites/default/files/BG_Insulation_Recommendations.pdf" rel="nofollow noopener noreferrer" target="_blank">mineral wool at $1.20 per square foot for material and $1.44 installed</a>, a useful ratio but not a Calgary price, since material costs have moved a lot since.</p>
+<p>On a real project, insulation is a small share of the budget. A typical basement or addition spends far more on framing, drywall, mechanical work, flooring and permits. The upgrade to rockwool in selected walls adds a modest amount compared with the full job, which makes it an easy decision where fire or moisture is a concern. For a full picture of what a Calgary renovation costs, see our <a href="https://stateracontracting.com/blog/cost-of-renovating-a-house-in-calgary-2026-budget-guide" target="_blank" rel="noopener">2026 renovation budget guide</a>.</p>
+<h2>Installation differences</h2>
+<p>Mineral wool installs much like fiberglass, with a few differences. It is heavier and firmer, so it friction-fits snugly between studs and holds its shape, but it needs a sharp knife or saw to cut cleanly. Fiberglass is easy to cut but easy to compress or leave gappy around wiring and boxes.</p>
+<p>Protective clothing matters with either product. The Save on Energy guide says glass and mineral fibre installation requires gloves, long sleeves and eye and respiratory protection. If you are hiring out the work, that is simply handled on site.</p>
+<h2>Metal studs vs wood studs</h2>
+<p>People comparing insulation often ask about the framing too, because the two decisions affect each other. Both batt types work in either: they are made for <a href="https://www.owenscorning.com/en-ca/technical-resource-library/myth-busting" rel="nofollow noopener noreferrer" target="_blank">wood or steel stud cavities</a>.</p>
+<ul>
+<li><strong>Wood studs</strong> are the default for houses, additions and most basement walls. They are easy to adjust on site and fasten into.</li>
+<li><strong>Steel studs</strong> are common in commercial interiors, such as offices, retail and restaurant partitions, where straight, non-combustible, consistent framing suits tenant improvements. Steel has less surface area to carry sound than wood, which can give a <a href="https://www.constructionspecifier.com/choosing-fiberglass-or-stone-wool-for-fire-and-acoustics/" rel="nofollow noopener noreferrer" target="_blank">higher STC in the finished wall</a>.</li>
+</ul>
+<p>Because steel conducts heat more readily than wood, exterior walls need their insulation plan thought through carefully. In a residential basement, wood framing is usually the simpler path. Which one fits depends on the room, the building code and what the wall has to do, so have it decided in the plans rather than on site.</p>
+<h2>A quick note on low-iron glass</h2>
+<p>Searches for rockwool also bring up low-iron glass (sold under names such as Starphire). It is an unrelated product, a clearer glass with less green tint at the edges, chosen for appearance in shower enclosures, glass railings and storefronts. It has no effect on insulation. Where glass matters for energy performance, such as windows, the University of Calgary’s design standards call for <a href="https://www.ucalgary.ca/live-uc-ucalgary-site/sites/default/files/teams/223/Design%20Standards/5.6%20Glazing%20Systems%20Version%201.0%20August%202023.pdf" rel="nofollow noopener noreferrer" target="_blank">insulating sealed double glazing with a high-performance Low-E coating</a> on exterior glazing. For window frames, see our comparison of <a href="https://stateracontracting.com/blog/fiberglass-vs-vinyl-windows" target="_blank" rel="noopener">fibreglass vs vinyl windows for a Calgary home</a>.</p>
+<h2>Where each one fits in a Calgary renovation</h2>
+<table>
+<thead>
+<tr>
+<th>Space</th>
+<th>Better fit</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Basement walls and stud cavities</td>
+<td>Rockwool</td>
+<td>Handles moisture better</td>
+</tr>
+<tr>
+<td>Garage-adjacent walls and ceilings</td>
+<td>Rockwool</td>
+<td>Stronger fire performance</td>
+</tr>
+<tr>
+<td>Commercial kitchen, bar or restaurant partitions</td>
+<td>Rockwool</td>
+<td>Fire separation and noise</td>
+</tr>
+<tr>
+<td>Basement ceiling for sound</td>
+<td>Either, with the right assembly</td>
+<td>The assembly drives the result</td>
+</tr>
+<tr>
+<td>Standard above-grade walls in an addition</td>
+<td>Fiberglass or rockwool</td>
+<td>R-value is close, so budget decides</td>
+</tr>
+<tr>
+<td>Attic and large open cavities</td>
+<td>Fiberglass</td>
+<td>Lower cost, easy to install</td>
+</tr>
+</tbody>
+</table>
+<p>If your goal is lower energy bills, upgrading insulation is one of several steps. Our guide to <a href="https://stateracontracting.com/blog/energy-efficient-renovations-alberta" target="_blank" rel="noopener">energy efficient renovations in Alberta</a> shows where to start.</p>
+<h2>How to decide, step by step</h2>
+<ol>
+<li><strong>List the rooms and what each needs</strong>: moisture, fire separation, quiet, or just warmth.</li>
+<li><strong>Put rockwool where fire or moisture risk is real</strong>, and use fiberglass where it is a sound, cost-effective fit.</li>
+<li><strong>Check the stated R-value</strong> at your cavity depth for each product and compare like for like.</li>
+<li><strong>Plan the air and vapour layers</strong> so the batt works as part of a complete wall.</li>
+<li><strong>Confirm the code requirements</strong> in the permit drawings.</li>
+<li><strong>Have the material written into the scope</strong> so the price you agree includes it.</li>
+</ol>
+<h2>Our perspective</h2>
+<blockquote>
+<p>Homeowners often come to us with a simple question, and what they want underneath is a basement that is warm, dry and quiet, or a restaurant that passes inspection the first time. The batt is one part of that.</p>
+<p>We are a family-owned team and we manage each project directly. When we plan a renovation, the insulation is chosen with the framing, the permit drawings and the use of the room, not picked from a shelf on the day. Our work is fixed-price, so a clear scope up front means the materials you agreed to are the materials in your walls.</p>
+<p>Design is included with our builds and we handle permits and code compliance, which is where insulation choices are checked. Our view is straightforward: put the more robust material where fire and moisture are real concerns, spend sensibly elsewhere, and make sure every cavity is filled properly.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Planning a basement, addition or commercial build in Calgary?</h2>
+<p>Statera Contracting is a Calgary renovation company that also serves Okotoks, Cochrane and Airdrie. We are licensed and insured, handle permits, and include design with our builds. You get daily communication from the team managing your project, with fixed-price contracts, so the insulation decision is settled in the scope.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If you are finishing a basement, see our <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">Basement &amp; Living Spaces</a> service. For a new room, look at <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">Home Additions</a>, and for restaurants, pubs, offices and retail, our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">Commercial Renovation</a> page explains how we work. You can also start from the <a href="https://stateracontracting.com" target="_blank" rel="noopener">Statera Contracting home page</a> to book a consultation.</p>
+<h2>FAQ</h2>
+<h3>Is rockwool or fiberglass better for soundproofing?</h3>
+<p>In tested wall cavities the two perform almost the same, and a manufacturer’s acoustics guide says the difference is not audible. Rockwool’s density gives a small edge in some frequency ranges. The framing, the drywall layers and sealed gaps usually make a bigger difference than the batt.</p>
+<h3>What is the main disadvantage of fiberglass insulation?</h3>
+<p>It must fill the cavity without gaps or compression to perform, and it loses performance when wet, so it does not belong below grade. It also requires gloves, long sleeves and respiratory protection during installation. With careful installation it works well in dry above-grade walls and attics.</p>
+<h3>Is foam insulation better than rockwool?</h3>
+<p>Foam gives a higher R-value for a given thickness and better water resistance. Rigid foam suits tight spaces, and spray foam suits cavities needing tight air sealing, per the <a href="https://www.saveonenergy.ca/en/For-Your-Home/Advice-and-Tips/Insulation-Buying-Guide" rel="nofollow noopener noreferrer" target="_blank">Save on Energy guide</a>. It costs more per unit of insulation, and interior foam needs a fire-resistant covering. The right choice depends on the wall assembly and code.</p>
+<h3>Is mineral wool the same as rockwool and Roxul?</h3>
+<p>Yes. Rockwool, stone wool and Roxul are names for insulation spun from rock, and mineral wool is the general term. A quote that lists any of them refers to the same type of product, though R-values and density vary by manufacturer.</p>
+<h3>Is rockwool worth the extra cost?</h3>
+<p>It is worth it in basements, garage-adjacent walls and commercial kitchens, where moisture or fire separation matters. In ordinary above-grade walls the R-values are close, so many homeowners reserve rockwool for the places where it matters most.</p>
+Statera ContractingDiscuss insulation for your renovationContact Statera Contracting to discuss your Calgary home or commercial renovation and how insulation fits into the project.Statera Contracting<a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">Email Staterastatera.contracting@gmail.com</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.finehomebuilding.com/project-guides/insulation/an-overview-of-common-insulation-materials" rel="nofollow noopener noreferrer" target="_blank">What to Consider When Choosing Insulation, Fine Homebuilding</a></li>
+<li><a href="https://assets.cmhc-schl.gc.ca/sites/housing%20catalog/resources/housing-hesign-catalogue-materials-guide-en.pdf" rel="nofollow noopener noreferrer" target="_blank">Materials Guide, Housing Design Catalogue</a></li>
+<li><a href="https://natural-resources.canada.ca/sites/www.nrcan.gc.ca/files/energy/pdf/housing/Chapter3_e.pdf" rel="nofollow noopener noreferrer" target="_blank">Keeping the heat in, Chapter 3, Natural Resources Canada</a></li>
+<li><a href="https://www.owenscorning.com/en-ca/technical-resource-library/myth-busting" rel="nofollow noopener noreferrer" target="_blank">Debunking Common Myths, The Building Library</a></li>
+<li><a href="https://www.jm.com/content/dam/jm/global/en/building-insulation/Files/BI%20Toolbox/JM-Canada-Product-Selector-Guide-English.pdf" rel="nofollow noopener noreferrer" target="_blank">Building Insulation Guide, Canada Product Selector</a></li>
+<li><a href="https://www.jm.com/content/dam/jm/global/en/building-insulation/Files/BI%20Toolbox/JM_Insulating%20For%20Acoustics.pdf" rel="nofollow noopener noreferrer" target="_blank">Insulating for Acoustics</a></li>
+<li><a href="https://www.constructionspecifier.com/choosing-fiberglass-or-stone-wool-for-fire-and-acoustics/" rel="nofollow noopener noreferrer" target="_blank">Choosing fiberglass or stone wool for fire and acoustics, The Construction Specifier</a></li>
+<li><a href="https://www.buildinggreen.com/sites/default/files/BG_Insulation_Recommendations.pdf" rel="nofollow noopener noreferrer" target="_blank">Insulation Recommendations, BuildingGreen</a></li>
+<li><a href="https://www.saveonenergy.ca/en/For-Your-Home/Advice-and-Tips/Insulation-Buying-Guide" rel="nofollow noopener noreferrer" target="_blank">Insulation Buying Guide, Save on Energy</a></li>
+<li><a href="https://www.ucalgary.ca/live-uc-ucalgary-site/sites/default/files/teams/223/Design%20Standards/5.6%20Glazing%20Systems%20Version%201.0%20August%202023.pdf" rel="nofollow noopener noreferrer" target="_blank">Glazing Systems design standards, University of Calgary</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/smart-renovations-for-calgary-homes-2026-guide" target="_blank" rel="noopener">Smart renovations for Calgary homes: 2026 guide</a></li>
+<li><a href="https://stateracontracting.com/blog/basement-renovation-company-alternatives-4" target="_blank" rel="noopener">Top 4 Basement Renovation Company Alternatives 2026</a></li>
+<li><a href="https://stateracontracting.com/blog/asbestos-testing-calgary-renovation" target="_blank" rel="noopener">Asbestos Testing Before a Calgary Renovation</a></li>
+<li><a href="https://stateracontracting.com/blog/choose-a-renovation-contractor-calgary" target="_blank" rel="noopener">How to choose a renovation contractor in Calgary</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
