@@ -122,7 +122,7 @@
   "1089369": { "status": "published", "publishedAt": "2026-11-16" },
   "1103881": { "status": "published", "publishedAt": "2026-11-19" },
   "1111355": { "status": "published", "publishedAt": "2026-11-20" },
-  "1113502": { "status": "queued", "reason": "calendar date not yet reached; webhook arrival, created_at 2026-11-18 + 3 days = 2026-11-21, estimated, not screenshot-confirmed; today's slot (2026-11-18) left unused, no past-due candidate (1103881 estimated 2026-11-19, 1111355 estimated 2026-11-20)" },
+  "1113502": { "status": "published", "publishedAt": "2026-11-21" },
   "1118280": { "status": "queued", "reason": "calendar date not yet reached; webhook arrival, created_at 2026-11-19 + 3 days = 2026-11-22, estimated, not screenshot-confirmed; today's slot (2026-11-19) used by 1103881" },
   "1122807": { "status": "queued", "reason": "calendar date not yet reached; webhook arrival, created_at 2026-11-20 + 3 days = 2026-11-23, estimated, not screenshot-confirmed; today's slot (2026-11-20) used by 1111355" }
 }
