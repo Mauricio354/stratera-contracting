@@ -25267,6 +25267,160 @@ Statera ContractingDiscuss insulation for your renovationContact Statera Contrac
       },
     ],
   },
+  {
+    slug: "quartz-vs-marble",
+    title: "Quartz vs Marble Countertops: Which Suits Your Calgary Home",
+    excerpt: "For most Calgary kitchens and family bathrooms, quartz is the easier choice: it is harder, non-porous and needs no sealing. Marble is the better pick if you want a one-of-a-kind natural surface and you are happy to keep up the care.",
+    date: "2026-11-22",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1794879201307_Calgary-kitchen-with-marble-and-quartz-counters.jpeg",
+    coverAlt: "Quartz vs Marble Countertops: Which Suits Your Calgary Home",
+    category: "Industry News",
+    readingTime: "11 min read",
+    metaTitle: "Quartz vs Marble Countertops: Which Suits Your Calgary Home",
+    metaDescription: "Quartz or marble? Compare durability, heat, staining, upkeep and 2026 Calgary installed prices for kitchens, vanities and restaurant counters.",
+    content: [
+      {
+        type: "html",
+        html: `<p>For most Calgary kitchens and family bathrooms, quartz is the easier choice: it is harder, non-porous and needs no sealing. Marble is the better pick if you want a one-of-a-kind natural surface and you are happy to wipe up spills quickly and keep up the care. Both are good materials. The right one depends on how you cook, how you live and what you want the room to look like in ten years.</p>
+<p>We renovate kitchens and bathrooms across Calgary, Airdrie, Cochrane and Okotoks, and the countertop question comes up on almost every project. Below is how the two compare on the things that matter day to day, what they cost in Calgary, and how to decide.</p>
+Statera ContractingPlan Your Kitchen RenovationStatera Contracting renovates Calgary kitchens and bathrooms, helping you consider countertops as part of the wider room project.<a href="https://stateracontracting.com/">Visit</a>
+<h2>TL;DR</h2>
+<ul>
+<li><strong>Quartz</strong> is engineered, harder (Mohs 7 versus 3 for marble), never needs sealing and resists stains and acids. It is the low-maintenance choice for busy kitchens and kids’ bathrooms.</li>
+<li><strong>Marble</strong> is natural, with unique veining. Acids such as coffee, wine and citrus can etch it even when it is sealed, so it suits homeowners who accept some patina.</li>
+<li><strong>Heat:</strong> marble tolerates it better, but quartz resin can scorch, so use a trivet either way.</li>
+<li><strong>Cost:</strong> 2026 Calgary installed pricing is about $70 to $130 per sq ft for quartz and $80 to $150 per sq ft for marble.</li>
+<li><strong>Plan the whole job:</strong> the countertop, cabinets, plumbing and permits are easier to coordinate as one project.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-the-two-materials-actually-are">What the two materials actually are</a></li>
+<li><a href="#durability-scratches-chips-and-everyday-wear">Durability: scratches, chips and everyday wear</a></li>
+<li><a href="#stains-etching-and-the-coffee-question">Stains, etching and the coffee question</a></li>
+<li><a href="#heat-where-marble-has-the-edge">Heat: where marble has the edge</a></li>
+<li><a href="#maintenance-what-you-will-do-every-year">Maintenance: what you will do every year</a></li>
+<li><a href="#what-each-costs-in-calgary">What each costs in Calgary</a></li>
+<li><a href="#choosing-for-the-room">Choosing for the room</a></li>
+<li><a href="#our-perspective">Our perspective</a></li>
+<li><a href="#plan-your-countertop-as-part-of-the-renovation">Plan your countertop as part of the renovation</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What the two materials actually are</h2>
+<p>Marble is a natural metamorphic rock, quarried in many countries. It comes in white, grey, pink and other tones, and its veining means no two slabs match. Quartz countertops are engineered: <a href="https://www.bobvila.com/articles/quartz-vs-marble/" rel="nofollow noopener noreferrer" target="_blank">typically 90 to 94% crushed stone with 6 to 10% polymer resin and pigments</a>. That mix is why quartz is more uniform, comes in a very wide range of colours, and looks much the same installed as it did on the showroom sample.</p>
+<p>That difference in appearance is the first decision. If you are drawn to a slab with dramatic, irregular veining, quartz patterns can come close but will repeat across a long run. If you want a calm, consistent surface, quartz delivers it without surprises. Marble’s veining also allows book-matched slabs, where two cut faces mirror each other, which is a look quartz does not offer.</p>
+<p>One practical note: look at a full slab, not a small sample chip. Veining and scale are very hard to judge from a few inches of stone, and that goes for both materials.</p>
+<h2>Durability: scratches, chips and everyday wear</h2>
+<p>On the Mohs hardness scale, which rates how easily a mineral is scratched, <a href="https://www.bobvila.com/articles/quartz-vs-marble/" rel="nofollow noopener noreferrer" target="_blank">marble sits at 3 and quartz at 7</a>. In a working kitchen that gap shows up as knife marks, dragged pots and chipped edges on marble, while quartz holds its surface far better.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794879271592_Mohs-hardness-comparison-marble-3-quartz-7.jpeg" alt="Mohs hardness comparison: marble 3, quartz 7" /></p>
+<p>Marble has one durability advantage. Because it is natural stone, it can be re-honed and re-polished in place, so a worn surface can be brought back. Quartz is harder to polish, though it needs that treatment much less often. A honed (matte) marble finish also hides wear and etching better than a high polish.</p>
+<p>Lifespan is long for both. <a href="https://www.countryliving.com/home-design/decorating-ideas/a63739609/quartz-vs-marble-design-guide/" rel="nofollow noopener noreferrer" target="_blank">Marble can last 20 to 50 years, and some quartz manufacturers offer warranties of 15 to 25 years</a>, though warranty terms vary by brand.</p>
+<h2>Stains, etching and the coffee question</h2>
+<p>These two problems are often confused, and they matter most for marble.</p>
+<ul>
+<li><strong>Staining</strong> is when a liquid soaks into the stone. Marble is porous, quartz is not.</li>
+<li><strong>Etching</strong> is a chemical reaction. Marble is calcium carbonate, and acids dissolve its polished surface, leaving a dull mark.</li>
+</ul>
+<p>A Canadian stone supplier explains that <a href="https://urbanquarry.ca/resources/care-maintenance/" rel="nofollow noopener noreferrer" target="_blank">coffee, orange juice, vinegar, wine and soft drinks will etch most calcareous stone whether it is sealed or not</a>. Sealing only buys you time to wipe up the spill. The same source says professional refinishing is the best way to remove etches permanently.</p>
+<p>That is why people searching for this topic ask about coffee. On quartz, a normal cup of coffee is not a problem: its non-porous surface does not absorb it. On marble, the risk is the coffee’s acidity, not its temperature, so a drip left to sit can leave a dull ring. Lemon, tomato, vinegar and wine do the same.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794879247557_Coffee-ring-on-a-marble-kitchen-counter.jpeg" alt="Coffee ring on a marble kitchen counter" /></p>
+<p>In a bathroom, the same chemistry applies to toothpaste, mouthwash and some cleansers. Quartz is far more forgiving around a daily-use sink. If you do choose marble for a vanity, a honed finish and wiping the surface after use will keep it looking its best.</p>
+<h2>Heat: where marble has the edge</h2>
+<p>Marble handles heat better than quartz. <a href="https://www.bobvila.com/articles/quartz-vs-marble/" rel="nofollow noopener noreferrer" target="_blank">Quartz generally resists temperatures up to about 400°F, while Carrara marble has a higher threshold of about 480°F</a>, though this varies by marble type. The reason is the resin: it can scorch or discolour under a hot pan straight off the burner.</p>
+<p>In practice, use a trivet or hot pad on either surface. A hot curling iron or flat iron left on a quartz vanity can also mark the resin. A mug of fresh coffee is fine on quartz, and a pot from the stove is not.</p>
+<h2>Maintenance: what you will do every year</h2>
+<p>Quartz needs no sealing and cleans with standard household cleaners. Marble needs more attention:</p>
+<ul>
+<li>Sealing <a href="https://www.countryliving.com/home-design/decorating-ideas/a63739609/quartz-vs-marble-design-guide/" rel="nofollow noopener noreferrer" target="_blank">every 6 to 12 months</a>, closer to every 6 months on a busy primary bathroom vanity.</li>
+<li>Mild dish soap and warm water, or a pH-neutral cleaner, for regular cleaning.</li>
+<li>Prompt wipe-ups of wine, juice and other acidic spills.</li>
+</ul>
+<p>Sealing reduces how much liquid marble absorbs, but it does not prevent etching, scratching or heat damage. Think of it as extra wiping time, not armour.</p>
+<p>Calgary conditions add a small wrinkle. Our dry winters, Chinook temperature swings and hard water all play a part, and the hard water in particular leaves mineral spots on vanities. On quartz those deposits sit on the surface and wipe away. On marble they are one more reason to dry the surface after use.</p>
+<p>If you have a bathroom countertop that sees heavy use and want to understand how surface protection works on non-porous stone, this overview of <a href="https://ppf.ltd/quartz-stain-protection" target="_blank" rel="nofollow noopener noreferrer">quartz stain protection</a> is a helpful companion to the sealing-versus-non-porous comparison above.</p>
+<h2>What each costs in Calgary</h2>
+<p>Prices vary with slab grade, edge profile, cut-outs and layout. For 2026, a Calgary price guide published in October 2026 puts installed pricing at $70 to $130 per sq ft for quartz and $80 to $150 per sq ft for marble. The same guide gives these typical totals, and “installed” there includes the slab, template, fabrication, a standard edge, sink and cooktop cut-outs, delivery and installation:</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Quartz</th>
+<th>Marble</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Installed price per sq ft (Calgary, 2026)</td>
+<td>$70 to $130</td>
+<td>$80 to $150</td>
+</tr>
+<tr>
+<td>Typical kitchen, 35 to 60 sq ft</td>
+<td>$2,500 to $7,800</td>
+<td>$2,800 to $9,000</td>
+</tr>
+<tr>
+<td>Bathroom vanity top, installed</td>
+<td>$400 to $1,200</td>
+<td>$400 to $1,200</td>
+</tr>
+</tbody>
+</table>
+<p>Premium marbles such as Calacatta sit at the top of the range or above, because slab grade is the biggest cost driver. These are published ranges, not quotes, and they move with supply and design, so treat them as a way to compare the two materials rather than a budget.</p>
+<p>A worked example: a 45 sq ft kitchen at the midpoint of each range lands roughly at $4,500 for quartz and $5,200 for marble. The gap is real but small next to the cabinetry, flooring and labour in the rest of the room. Over time, marble also carries the cost of resealing and, if etches bother you, refinishing. Our <a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">kitchen remodel cost guide for Calgary</a> shows where countertops fit in the whole budget, and the <a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">bathroom renovation cost guide</a> does the same for vanities.</p>
+<h2>Choosing for the room</h2>
+<h3>Kitchen</h3>
+<p>If the kitchen is the centre of a busy household, with cooking, homework and spilled juice, quartz is the practical answer. It stays consistent, needs no sealing and shrugs off stains. Marble is a good fit for a baking station, a pastry area or a lower-traffic island where you want the natural look and will accept it ageing. Marble also tends to darken slightly with age, and most quartz is not recommended outdoors because sun can yellow the resin.</p>
+<p>If you are planning a statement island, ask how the edge and seams will be handled. Our guide to the <a href="https://stateracontracting.com/blog/waterfall-countertop-edge" target="_blank" rel="noopener">waterfall countertop edge</a> covers what to plan for, and the <a href="https://stateracontracting.com/blog/kitchen-countertop-heights-the-complete-homeowners-guide" target="_blank" rel="noopener">kitchen countertop heights guide</a> helps you get the working surface right before material is ordered.</p>
+<h3>Bathroom vanity</h3>
+<p>For a vanity, quartz is usually the easier choice. Toothpaste, mouthwash, hair products and hard water all work against marble, and a vanity top is small enough that the price difference is modest. Choose marble for a guest bath or powder room where use is light and the look matters most. If you are also thinking about the floor, see our guides to <a href="https://stateracontracting.com/blog/heated-bathroom-floor-cost-calgary" target="_blank" rel="noopener">heated bathroom floor costs</a> and <a href="https://stateracontracting.com/blog/tile-shower-cost-calgary" target="_blank" rel="noopener">tile shower costs</a>.</p>
+<h3>Restaurant and commercial counters</h3>
+<p>For bars, restaurants and other food-service spaces, quartz is the common specification. One manufacturer’s Canadian technical manual states its quartz <a href="https://www.caesarstone.ca/wp-content/uploads/sites/5/2023/01/Ceasarstone_CS_TechnicalDataManual-5.pdf" rel="nofollow noopener noreferrer" target="_blank">meets the sanitation requirements of restaurants, hospitals and schools</a>, and that for installations near heating and cooling equipment it should be 3 cm thick with a design that limits thermal and mechanical stress. Its non-porous binder also means it does not need sealants or waxes to keep its appearance.</p>
+<p>Those are the points to settle before ordering: slab thickness, what sits next to heat sources, and how the counter will be cleaned. Marble can still work as a feature top for a dessert or host station, but a hard-working prep or bar surface is where quartz earns its place.</p>
+<h2>Our perspective</h2>
+<blockquote>
+<p>We have no stake in which stone you pick, only in how well it fits the way you live. When a family tells us they want something that looks good with no fuss, we steer them to quartz. When someone has fallen for a marble slab and understands it will etch and need care, we plan the install around it.</p>
+<p>What matters more than the material is how the project is run. The slab is one piece of a kitchen or bathroom: cabinets, plumbing, electrical, backsplash and permits all have to line up with it. We work as a family-owned, licensed and insured team that manages each project directly, includes design with our builds and keeps you updated daily.</p>
+<p>Choosing the countertop early, with the cabinet layout and sink in mind, avoids the late changes that cost time and money. We would rather talk you through the trade-offs at the start than have you discover them after installation.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Plan your countertop as part of the renovation</h2>
+<p>The cleanest way to get a countertop you will be happy with is to decide it alongside the layout, not after it. Our team handles design, permits and construction for kitchens and bathrooms under a fixed-price agreement, so the material you choose is built into the plan from day one.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If you are planning a <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation</a> or <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovation</a> in Calgary, Airdrie, Cochrane or Okotoks, book a consultation with us. Restaurant, pub and retail owners can also see our <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovation</a> work.</p>
+<h2>FAQ</h2>
+<h3>Which is stronger, marble or quartz?</h3>
+<p>Quartz. It rates 7 on the Mohs hardness scale and marble rates 3, so quartz resists scratches and chips much better. Marble can be re-polished in place, which helps it recover from wear.</p>
+<h3>Can I put a hot cup of coffee on quartz?</h3>
+<p>Yes. A freshly poured cup of coffee will not harm quartz, and the surface does not absorb it. Pots and pans from the stove or oven are different: use a trivet, because excess heat can scorch the resin.</p>
+<h3>Does marble stain easily?</h3>
+<p>Marble is porous, so it can absorb liquids like wine and oil, and sealing reduces that. The bigger issue is etching, a dull mark left by acids such as coffee, citrus and vinegar, which sealing does not stop. Wipe spills quickly.</p>
+<h3>Is quartz or marble better for a bathroom vanity?</h3>
+<p>Quartz is usually better for a daily-use vanity because it needs no sealing and tolerates toothpaste, cosmetics and hard-water spots. Marble suits a lightly used guest bath where you want the natural look.</p>
+<h3>Is marble more expensive than quartz in Calgary?</h3>
+<p>Generally yes. 2026 Calgary installed pricing is about $70 to $130 per sq ft for quartz and $80 to $150 per sq ft for marble, with premium marble higher. Marble also has ongoing sealing costs.</p>
+Statera ContractingDiscuss Your Countertop PlansReach out to discuss how your quartz or marble choice fits into a kitchen or bathroom renovation in Calgary and nearby areas.<a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.bobvila.com/articles/quartz-vs-marble/" rel="nofollow noopener noreferrer" target="_blank">Quartz vs. Marble Countertops: What’s the Difference?</a></li>
+<li><a href="https://www.countryliving.com/home-design/decorating-ideas/a63739609/quartz-vs-marble-design-guide/" rel="nofollow noopener noreferrer" target="_blank">Marble vs. Quartz Countertops: Which is Better?</a></li>
+<li><a href="https://urbanquarry.ca/resources/care-maintenance/" rel="nofollow noopener noreferrer" target="_blank">Care &amp; Maintenance guide</a></li>
+<li>Countertop Prices Calgary 2026</li>
+<li><a href="https://www.caesarstone.ca/wp-content/uploads/sites/5/2023/01/Ceasarstone_CS_TechnicalDataManual-5.pdf" rel="nofollow noopener noreferrer" target="_blank">Technical Data Manual</a></li>
+<li><a href="https://ppf.ltd/quartz-stain-protection" target="_blank" rel="nofollow noopener noreferrer">Quartz Stain Protection</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/renovations-kitchen-cabinets" target="_blank" rel="noopener">Kitchen cabinet renovations in Calgary: options &amp; budgets</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-design-calgary-your-2026-renovation-guide" target="_blank" rel="noopener">Kitchen design Calgary: your 2026 renovation guide</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">Kitchen renovation ideas for Alberta homeowners: 2026 guide</a></li>
+<li><a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">Planning a Kitchen Renovation in Calgary</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
