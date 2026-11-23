@@ -124,5 +124,6 @@
   "1111355": { "status": "published", "publishedAt": "2026-11-20" },
   "1113502": { "status": "published", "publishedAt": "2026-11-21" },
   "1118280": { "status": "published", "publishedAt": "2026-11-22" },
-  "1122807": { "status": "queued", "reason": "calendar date not yet reached; webhook arrival, created_at 2026-11-20 + 3 days = 2026-11-23, estimated, not screenshot-confirmed; today's slot (2026-11-20) used by 1111355" }
+  "1122807": { "status": "published", "publishedAt": "2026-11-23" },
+  "1178732": { "status": "queued", "reason": "calendar date not yet reached; webhook arrival, created_at 2026-11-23 + 3 days = 2026-11-26, estimated, not screenshot-confirmed; today's slot (2026-11-23) used by 1122807" }
 }
