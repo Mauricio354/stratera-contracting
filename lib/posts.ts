@@ -25421,6 +25421,208 @@ Statera ContractingDiscuss Your Countertop PlansReach out to discuss how your qu
       },
     ],
   },
+  {
+    slug: "double-vanity-sizes",
+    title: "Double Vanity Sizes: Standard Widths and What Fits Your Bathroom",
+    excerpt: "The most common double vanity size is 60 inches wide, and it is also the practical minimum. Here are the standard widths, the spacing each one needs, and how to measure your bathroom before you order.",
+    date: "2026-11-23",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1794969216878_Double-sink-vanity-showing-basins-and-counter-width.jpeg",
+    coverAlt: "Double Vanity Sizes: Standard Widths and What Fits Your Bathroom",
+    category: "Industry News",
+    readingTime: "14 min read",
+    metaTitle: "Double Vanity Sizes: Standard Widths and What Fits Your Bathroom",
+    metaDescription: "Standard double vanity sizes in Canada (48, 60, 72 and 84 inches), the spacing each one needs, and how to measure your bathroom before you commit.",
+    content: [
+      {
+        type: "html",
+        html: `<p>The most common double vanity size is 60 inches wide, and it is also the practical minimum. Retail guides list <a href="https://www.wayfair.ca/sca/ideas-and-advice/guides/your-guide-to-double-vanity-sizes-T22783" rel="nofollow noopener noreferrer" target="_blank">48, 60 and 72 inches as the most popular double vanity widths</a>, with larger sizes up to 84 inches. Which one suits your bathroom depends on the wall length, the clearance in front of the cabinet, and where your plumbing already sits. This guide gives you the standard sizes, the spacing each one needs, and a simple way to measure before you order anything.</p>
+<p>If you are planning a bathroom renovation in Calgary, Okotoks, Cochrane or Airdrie, the vanity is best chosen alongside the layout, not after it. We handle that planning as part of <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">our bathroom renovation work</a>.</p>
+Statera Contractingstateracontracting.comPlan a Bathroom That FitsStatera Contracting handles bathroom renovations in Calgary and nearby areas, including the planning that helps your vanity fit the layout.<a href="https://stateracontracting.com/">Visit</a>
+<h2>TL;DR</h2>
+<ul>
+<li>The standard double vanity is 60 inches wide and about 21 inches deep. 72 inches is the comfortable step up, and 84 inches is the generous one.</li>
+<li>Two sinks need at least 30 inches between sink centres and 15 inches from each sink centre to the side wall. That adds up to 60 inches.</li>
+<li>A 48-inch double fits two sinks but sits below those minimums. It suits a smaller room only when you accept a tight fit.</li>
+<li>Your bathroom wall should be wider than the vanity. A 60-inch vanity needs roughly 8 feet wall to wall when side fixtures are involved.</li>
+<li>A second sink usually means a second drain and supply set. If the rough-in is single, plan for plumbing changes and a permit.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#standard-double-vanity-sizes-at-a-glance">Standard double vanity sizes at a glance</a></li>
+<li><a href="#why-60-inches-is-the-starting-point">Why 60 inches is the starting point</a></li>
+<li><a href="#can-you-fit-two-sinks-in-a-48-inch-vanity">Can you fit two sinks in a 48-inch vanity?</a></li>
+<li><a href="#spacing-around-the-vanity-matters-as-much-as-width">Spacing around the vanity matters as much as width</a></li>
+<li><a href="#how-to-measure-your-bathroom-for-a-double-vanity">How to measure your bathroom for a double vanity</a></li>
+<li><a href="#the-plumbing-behind-a-second-sink">The plumbing behind a second sink</a></li>
+<li><a href="#choosing-between-60-72-and-84-inches">Choosing between 60, 72 and 84 inches</a></li>
+<li><a href="#other-things-to-settle-before-you-order">Other things to settle before you order</a></li>
+<li><a href="#our-perspective">Our perspective</a></li>
+<li><a href="#planning-a-double-vanity-with-statera">Planning a double vanity with Statera</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>Standard double vanity sizes at a glance</h2>
+<p>Double vanities are sold in a handful of widths. <a href="https://www.wayfair.ca/sca/ideas-and-advice/guides/your-guide-to-double-vanity-sizes-T22783" rel="nofollow noopener noreferrer" target="_blank">Retail guides describe the range as running from 48 inches up to 84 inches</a>. The table below puts the common sizes next to what each gives you in practice. The spacing figures come from the NKBA minimums and recommendations explained later in this article.</p>
+<table>
+<thead>
+<tr>
+<th>Vanity width</th>
+<th>Typical use</th>
+<th>Sink centre to sink centre</th>
+<th>Counter outside each sink</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>48 in</td>
+<td>Small primary bath, tight fit</td>
+<td>About 24 in</td>
+<td>Very little</td>
+</tr>
+<tr>
+<td>60 in</td>
+<td>Standard double, medium to large bath</td>
+<td>30 in</td>
+<td>About 15 in</td>
+</tr>
+<tr>
+<td>72 in</td>
+<td>Comfortable primary ensuite</td>
+<td>36 in</td>
+<td>About 18 in</td>
+</tr>
+<tr>
+<td>84 in and up</td>
+<td>Large or custom primary bath</td>
+<td>36 in or more</td>
+<td>Generous, room for a centre drawer bank or tower</td>
+</tr>
+</tbody>
+</table>
+<p>The 60-inch figure matters most. A <a href="https://mybath.ca/blogs/vanities/bathroom-vanity-height-and-sizes-guide" rel="nofollow noopener noreferrer" target="_blank">Canadian sizing guide puts 60 inches as the smallest width where two people can use two sinks at once</a>. Another notes that <a href="https://bathroomsupplier.ca/blogs/blog/how-big-is-a-double-sink-vanity" rel="nofollow noopener noreferrer" target="_blank">the standard double sink vanity is 60 inches wide and 21 inches deep</a>, with overall heights in the 32 to 36 inch range.</p>
+<h3>Depth and height</h3>
+<p>Most vanities run about 21 inches deep, though <a href="https://bathroomsupplier.ca/blogs/blog/how-big-is-a-double-sink-vanity" rel="nofollow noopener noreferrer" target="_blank">double sink models can range from 21 to 24 inches</a>. Depth matters more than people expect. In a narrow bathroom, three extra inches of cabinet takes three inches from the walkway.</p>
+<p>Height has changed over time. <a href="https://www.homeowner.ca/a/replacing-bathroom-vanity-in-a-weekend-plumbing-levelling-and-caulking" rel="nofollow noopener noreferrer" target="_blank">Older Canadian homes often have 32-inch vanities, while most new ones ship at a 36-inch comfort height</a>. If you are replacing an older vanity, the taller cabinet will move your faucet and mirror positions, so check those before you order.</p>
+<h2>Why 60 inches is the starting point</h2>
+<p>The 60-inch standard is not arbitrary. It comes from the spacing rules for two people sharing a counter. The National Kitchen &amp; Bath Association (NKBA) is the industry body that publishes bathroom planning guidelines, and its figures are widely used by designers. A <a href="https://www.rona.ca/en/workshop/tips/your-bathroom-renovation-measured-for-perfection" rel="nofollow noopener noreferrer" target="_blank">Canadian renovation retailer’s measuring guide lists 30 inches as the minimum between sink centres, with 36 inches recommended</a>. It also lists 15 inches as the minimum from a sink centre to the side wall, and 20 inches as the recommended distance.</p>
+<p>Add the minimums together: 15 + 30 + 15 = 60 inches. That is why double-sink cabinets start there. If you want to meet every recommendation, 20 + 36 + 20 = 76 inches. A 72-inch vanity gets close to that, which is why 72 inches is the usual choice for a primary ensuite where comfort matters more than saving wall space.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794969252260_Minimum-and-recommended-double-sink-clearances.jpeg" alt="Minimum and recommended double-sink clearances" /></p>
+<h3>What 60 inches feels like day to day</h3>
+<p>At 60 inches, each person gets a basin and a strip of counter on the outside. The space between the two sinks is small, so it works as a gap, not a surface. You can set down a toothbrush, but not a hair dryer and a skincare routine.</p>
+<p>At 72 inches you gain room for a centre drawer bank or a shared counter area. For two people getting ready at the same time every morning, that extra foot is the difference most homeowners notice first.</p>
+<h2>Can you fit two sinks in a 48-inch vanity?</h2>
+<p>Yes, physically. <a href="https://www.wayfair.ca/sca/ideas-and-advice/guides/your-guide-to-double-vanity-sizes-T22783" rel="nofollow noopener noreferrer" target="_blank">A 48-inch double is the smallest double vanity size, and it can hold two sinks with storage below</a>, though it is a tighter fit. The sink centres end up about 24 inches apart, which is under the 30-inch minimum. <a href="https://mybath.ca/blogs/vanities/bathroom-vanity-height-and-sizes-guide" rel="nofollow noopener noreferrer" target="_blank">One Canadian guide says two adults will bump elbows at that spacing</a>.</p>
+<p>That leaves two sensible options for a wall between 48 and 60 inches:</p>
+<ol>
+<li>Choose a 48-inch double if you want two basins and accept the compact spacing. It is the practical floor for a genuine double in a small bathroom.</li>
+<li>Choose a large single-sink vanity with the basin centred, so there is counter on both sides. The same Canadian guide says this arrangement <a href="https://mybath.ca/blogs/vanities/bathroom-vanity-height-and-sizes-guide" rel="nofollow noopener noreferrer" target="_blank">serves two people better than a cramped double on that wall</a>.</li>
+</ol>
+<p>Both are good answers. The right one depends on whether your household needs two basins running at once or simply more counter and storage. If you are not sure, we talk through this at the design stage, using your actual wall and your actual routines.</p>
+<h2>Spacing around the vanity matters as much as width</h2>
+<p>A vanity can be the right width and still feel wrong if the room around it is tight. Check these numbers:</p>
+<ul>
+<li><strong>Between sink centres:</strong> 30 inches minimum, 36 inches recommended.</li>
+<li><strong>Sink centre to side wall or tall cabinet:</strong> 15 inches minimum, 20 inches recommended.</li>
+<li><strong>Clear floor in front:</strong> NKBA guidelines recommend <a href="https://nkba-ps.com/images/downloads/Awards/nkba_bath_planning_guidelines_pre_2023.pdf" rel="nofollow noopener noreferrer" target="_blank">at least 30 inches of clear space from the front edge of a fixture to any opposite fixture, wall or obstacle</a>. The commonly cited code minimum is 21 inches.</li>
+</ul>
+<p>The side-wall figure exists for a practical reason. At 20 inches you will not hit your elbow on a wall or linen cabinet while brushing your teeth or drying your hair. <a href="https://www.durasupreme.com/blog/bathroom-design-top-7-bathroom-guidelines/" rel="nofollow noopener noreferrer" target="_blank">Designers describe NKBA numbers as guidelines rather than strict rules</a>, so a room that is slightly under on one number can still work well if the others are generous. The 21-inch front clearance is the one to treat as firm.</p>
+<h3>Door swings and tubs</h3>
+<p>Wall width is rarely the whole wall. A shower door that swings out, a tub that needs 30 inches of access, or a toilet beside the vanity all take space. Subtract those first. What remains is your usable vanity wall.</p>
+<h2>How to measure your bathroom for a double vanity</h2>
+<p>Grab a tape measure and a notepad. This takes ten minutes.</p>
+<ol>
+<li><strong>Measure the wall width.</strong> Go wall to wall where the vanity will sit. Subtract any fixture that needs clearance, such as a door swing or a tub. <a href="https://www.wayfair.ca/sca/ideas-and-advice/guides/your-guide-to-double-vanity-sizes-T22783" rel="nofollow noopener noreferrer" target="_blank">Allow about half an inch to an inch per side for the vanity top overhang</a>.</li>
+<li><strong>Measure the depth.</strong> Measure from the wall outward, and leave at least 30 inches of open floor. Account for drawers and doors that need room to open.</li>
+<li><strong>Measure the height.</strong> Measure from the floor, and note where existing outlets, switches and faucets are.</li>
+<li><strong>Find your clearance per side.</strong> One Canadian guide gives the formula: <a href="https://www.bathify.ca/blogs/inspo/double-vanity-canada-under-2000" rel="nofollow noopener noreferrer" target="_blank">wall-to-wall width minus vanity width, divided by two</a>. Check the result against the 15 and 20 inch figures above.</li>
+<li><strong>Mark the plumbing.</strong> Note where the drain and supply lines come through the wall or floor.</li>
+</ol>
+<p>The same guide maps wall width to vanity size. A 48-inch double needs about 84 inches wall to wall, a 60-inch double about 96 inches, and a 72-inch or wider double about 108 inches or more. Those numbers include breathing room beside the cabinet. If your numbers do not meet both side and front clearance, <a href="https://www.bathify.ca/blogs/inspo/double-vanity-canada-under-2000" rel="nofollow noopener noreferrer" target="_blank">the advice is to go narrower rather than tolerate a tight fit</a>. A well-proportioned 48-inch double in a small room feels better than an oversized one.</p>
+<h3>A worked example</h3>
+<p>Say your bathroom wall measures 100 inches between two side walls, with no door swing on that wall.</p>
+<ul>
+<li>A 72-inch vanity leaves 28 inches in total, or 14 inches per side. That is fine if the vanity sits against one wall and the other side is open, but tight if both ends are boxed in.</li>
+<li>A 60-inch vanity leaves 40 inches, or 20 inches per side. Each sink centre then sits 30 inches from its nearest sink and 20 or more inches from its wall. That is a comfortable fit.</li>
+</ul>
+<p>In this case the 60-inch vanity is the safer pick, even though the wall could technically hold more.</p>
+<h2>The plumbing behind a second sink</h2>
+<p>Two sinks need two P-traps, four supply lines and two drain connections. If your existing rough-in only supports one drain, <a href="https://bathgems.com/collections/48-inch-double-sink-vanity" rel="nofollow noopener noreferrer" target="_blank">a plumber needs to add the second, and one vendor estimates $400 to $800 for the conversion</a>, depending on region and wall access. Treat that as a ballpark, not a quote.</p>
+<p>The rough-in positions also set what you can install. <a href="https://remodelcalculators.com/construction-diagrams/bath-sink-rough-in" rel="nofollow noopener noreferrer" target="_blank">A typical rough-in diagram puts drain stubs 18 to 20 inches above the finished floor, and supplies 20 to 22 inches</a>. The two sink centrelines also have to be at least 30 inches apart under the plumbing code that diagram cites. If your existing plumbing sits in the wrong place for a double, moving it is part of the project scope and the budget. Plumbing changes in Calgary generally need a permit, and the plumbing work should be done by a licensed tradesperson. We manage permit handling as part of our renovations, so that step does not land on you.</p>
+<p>If you are budgeting, our <a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">Calgary bathroom renovation cost guide</a> shows where plumbing moves and vanity upgrades fit into the total.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1794969278285_The-plumbing-behind-a-second-sink.jpeg" alt="The plumbing behind a second sink" /></p>
+<h2>Choosing between 60, 72 and 84 inches</h2>
+<h3>Choose 60 inches when</h3>
+<ul>
+<li>Your wall is about 8 feet wall to wall.</li>
+<li>You want two basins for a shared family bathroom.</li>
+<li>You value storage under the counter more than counter surface.</li>
+</ul>
+<h3>Choose 72 inches when</h3>
+<ul>
+<li>You are renovating a primary ensuite and want 36 inches between sink centres.</li>
+<li>You want a centre drawer bank or a shared counter between the sinks.</li>
+<li>Your wall is about 9 feet or more.</li>
+</ul>
+<h3>Choose 84 inches or custom when</h3>
+<ul>
+<li>The room is large and you want a furniture-style piece with towers and extra storage.</li>
+<li>You want each person to have a clear, separate zone.</li>
+</ul>
+<p>One point applies to all three: a double vanity looks right when it fits the room’s proportions. A 72-inch cabinet in a bathroom that has just enough space looks heavy. A 60-inch one in a roomy ensuite looks slightly undersized. That judgment is much easier to make with the layout drawn out than from a catalogue photo. For more on the whole room, our <a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">bathroom remodel ideas guide for Alberta</a> covers layout choices beyond the vanity.</p>
+<h2>Other things to settle before you order</h2>
+<ul>
+<li><strong>Fan and lighting.</strong> A bigger vanity often means a longer mirror and more light fixtures. Ventilation also matters in a bathroom used by two people at once. See our guide to <a href="https://stateracontracting.com/blog/bathroom-fan-sizing" target="_blank" rel="noopener">bathroom fan sizing</a>.</li>
+<li><strong>Counter height.</strong> Comfort height at 36 inches is now common on doubles. It suits most adults, so check it against the people who will use the room.</li>
+<li><strong>Accessibility.</strong> If someone in the household needs more floor space or a wheelchair-friendly layout, the clearance rules change. Our <a href="https://stateracontracting.com/blog/bathroom-remodeling-for-seniors-a-safety-first-guide" target="_blank" rel="noopener">safety-first guide to bathroom remodelling for seniors</a> covers it.</li>
+<li><strong>Storage.</strong> A 60-inch double has two sink bowls and two sets of drain plumbing in the cabinet, so some drawers are cut around the pipes. Ask what the interior layout looks like before you commit.</li>
+</ul>
+<h2>Our perspective</h2>
+<blockquote>
+<p>We see the vanity as a layout decision first and a product decision second. The width you want is only useful if the wall, the door swing, the plumbing and the clearances in front of it all agree.</p>
+<p>That is why we start with a measured plan. Because design is included with our builds, we can test a 60-inch double against a 72-inch one, or against a large single, on paper before anything is ordered or cut. You see the options and the trade-offs while changes are still easy.</p>
+<p>We are a family-owned team, licensed and insured, and we manage each project directly. That means permit handling, code compliance and the plumbing changes a second sink may need are coordinated in one place, with daily communication so you always know what is happening in your bathroom.</p>
+<p>If you are torn between sizes, bring us your wall measurements and we will help you land on the one that feels right in the room.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Planning a double vanity with Statera</h2>
+<p>If a double vanity is part of a bathroom you are planning, we can take it from layout to finished room. Our team works with homeowners in Calgary, Okotoks, Cochrane and Airdrie, handles permits, and includes design with the build. See our <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovation service</a> or <a href="https://stateracontracting.com" target="_blank" rel="noopener">get in touch through our main site</a> to book a consultation.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>We will measure the space, check the plumbing, and show you which size works before you spend anything on a cabinet.</p>
+<h2>FAQ</h2>
+<h3>What is the standard double vanity size?</h3>
+<p>The standard double vanity is 60 inches wide and about 21 inches deep. Larger sizes, such as 72 inches, are common for primary bathrooms. <a href="https://www.wayfair.ca/sca/ideas-and-advice/guides/your-guide-to-double-vanity-sizes-T22783" rel="nofollow noopener noreferrer" target="_blank">The usual range runs from 48 up to 84 inches</a>.</p>
+<h3>Is a 60-inch double vanity too small?</h3>
+<p>Not for most households. It meets the minimum spacing of 30 inches between sink centres and 15 inches to each side wall. Two people can use it together, though the counter between the sinks is narrow. If you want more elbow room and a centre drawer bank, 72 inches is the comfortable upgrade.</p>
+<h3>How much wall space do I need for a double vanity?</h3>
+<p>The vanity itself should be at least 60 inches wide, and the wall should be wider than that when a tub, shower door or toilet sits beside it. One Canadian guide suggests <a href="https://www.bathify.ca/blogs/inspo/double-vanity-canada-under-2000" rel="nofollow noopener noreferrer" target="_blank">about 96 inches wall to wall for a 60-inch double</a>. Measure your own wall and subtract any door swing.</p>
+<h3>Can I install a double vanity where a single one is now?</h3>
+<p>Often yes, if the wall is wide enough. The second sink needs its own drain and supply connections, so the plumbing may need to change. Plan for that work and the permit in your budget before you choose the cabinet.</p>
+Statera ContractingTalk Through Your Bathroom PlansShare your bathroom renovation questions with Statera Contracting and discuss your project in Calgary or the surrounding areas.<a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.wayfair.ca/sca/ideas-and-advice/guides/your-guide-to-double-vanity-sizes-T22783" rel="nofollow noopener noreferrer" target="_blank">Your Guide to Double Vanity Sizes, Wayfair Canada</a></li>
+<li><a href="https://mybath.ca/blogs/vanities/bathroom-vanity-height-and-sizes-guide" rel="nofollow noopener noreferrer" target="_blank">Bathroom Vanity Height, Width &amp; Depth: Complete Size Guide, MyBath</a></li>
+<li><a href="https://bathroomsupplier.ca/blogs/blog/how-big-is-a-double-sink-vanity" rel="nofollow noopener noreferrer" target="_blank">How big is a double sink vanity?, Golzar Home</a></li>
+<li><a href="https://www.homeowner.ca/a/replacing-bathroom-vanity-in-a-weekend-plumbing-levelling-and-caulking" rel="nofollow noopener noreferrer" target="_blank">Replacing Bathroom Vanity in a Weekend, Homeowner.ca</a></li>
+<li><a href="https://www.rona.ca/en/workshop/tips/your-bathroom-renovation-measured-for-perfection" rel="nofollow noopener noreferrer" target="_blank">Your Bathroom Renovation: Measured for Perfection, Rona</a></li>
+<li><a href="https://nkba-ps.com/images/downloads/Awards/nkba_bath_planning_guidelines_pre_2023.pdf" rel="nofollow noopener noreferrer" target="_blank">Bath Planning Guidelines, NKBA</a></li>
+<li><a href="https://www.durasupreme.com/blog/bathroom-design-top-7-bathroom-guidelines/" rel="nofollow noopener noreferrer" target="_blank">Bathroom Design: Top 7 Bathroom Guidelines, Dura Supreme</a></li>
+<li><a href="https://www.bathify.ca/blogs/inspo/double-vanity-canada-under-2000" rel="nofollow noopener noreferrer" target="_blank">Best Double Vanities for Master Bathrooms in Canada, Bathify</a></li>
+<li><a href="https://bathgems.com/collections/48-inch-double-sink-vanity" rel="nofollow noopener noreferrer" target="_blank">48 Inch Double Sink Vanity, BathGems</a></li>
+<li><a href="https://remodelcalculators.com/construction-diagrams/bath-sink-rough-in" rel="nofollow noopener noreferrer" target="_blank">Bathroom sink rough-in heights and double-vanity centerlines, Remodel Calculators</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/shower-niche-height" target="_blank" rel="noopener">Shower Niche Height: Where to Place It and How Tall to Make It</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodel-ideas-your-2026-alberta-guide" target="_blank" rel="noopener">Bathroom Remodel Ideas: Your 2026 Alberta Guide</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-remodeling-for-seniors-a-safety-first-guide" target="_blank" rel="noopener">Bathroom Remodeling for Seniors: A Safety-First Guide</a></li>
+<li><a href="https://stateracontracting.com/blog/bathroom-renovation-calgary-cost-2026" target="_blank" rel="noopener">Bathroom Renovation Calgary 2026 Cost Guide</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
