@@ -25623,6 +25623,196 @@ Statera ContractingTalk Through Your Bathroom PlansShare your bathroom renovatio
       },
     ],
   },
+  {
+    slug: "open-shelving-kitchen",
+    title: "Open Shelving in the Kitchen: Sizes, Layouts and What to Plan",
+    excerpt: "Open shelving works best when it is planned as part of the kitchen, not added at the end. Here are the depths, heights, spacing, materials and layouts to settle before any wall is closed up.",
+    date: "2026-11-26",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1795226721752_Open-kitchen-shelves-displaying-everyday-dishes.jpeg",
+    coverAlt: "Open Shelving in the Kitchen: Sizes, Layouts and What to Plan",
+    category: "Industry News",
+    readingTime: "12 min read",
+    metaTitle: "Open Shelving in the Kitchen: Sizes, Layouts and What to Plan",
+    metaDescription: "Planning open shelving in your kitchen? Get the depths, heights, spacing, materials and layouts that work, plus how to plan the walls before the renovation starts.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Open shelving works best when it is planned as part of the kitchen, not added at the end. The right depth, the right height above the counter and a wall that can carry the load decide whether the shelves look good and stay useful. This guide covers the measurements, materials and layouts we would settle with you before any wall is closed up.</p>
+<p>If you are renovating a kitchen in Calgary or the surrounding area, <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">our kitchen renovation team</a> includes design with the build, so shelving is decided alongside cabinets, lighting and counters rather than after them.</p>
+Statera Contractingstateracontracting.comPlan Open Shelving With Your KitchenStatera Contracting renovates Calgary kitchens, with design and build planned together so shelving fits alongside cabinets, lighting and counters.<a href="https://stateracontracting.com/">Visit</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Choose a shelf depth of 10 to 12 inches for dishes and glasses, and 8 to 10 inches for mugs, jars and spices.</li>
+<li>Hang the lowest shelf about 18 inches above the counter, and leave 12 to 15 inches between shelves.</li>
+<li>Fix shelves into wall studs. Drywall anchors alone are the classic mistake.</li>
+<li>Open shelves suit everyday items, a focal wall or a short wall, and they replace storage you will need to make up elsewhere.</li>
+<li>Keep them away from the range, or flank the hood with closed cabinets, to limit grease and dust.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-open-shelving-does-well-in-a-kitchen">What open shelving does well in a kitchen</a></li>
+<li><a href="#where-open-shelves-work-best">Where open shelves work best</a></li>
+<li><a href="#depth-height-and-spacing">Depth, height and spacing</a></li>
+<li><a href="#fixing-shelves-to-the-wall">Fixing shelves to the wall</a></li>
+<li><a href="#materials-and-finishes">Materials and finishes</a></li>
+<li><a href="#lighting-the-shelves">Lighting the shelves</a></li>
+<li><a href="#styling-without-clutter">Styling without clutter</a></li>
+<li><a href="#dust-grease-and-cleaning">Dust, grease and cleaning</a></li>
+<li><a href="#are-open-shelves-still-in-style">Are open shelves still in style?</a></li>
+<li><a href="#budgeting-for-shelves-in-a-renovation">Budgeting for shelves in a renovation</a></li>
+<li><a href="#having-us-plan-and-build-it">Having us plan and build it</a></li>
+<li><a href="#our-view-on-open-shelving">Our view on open shelving</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What open shelving does well in a kitchen</h2>
+<p>Open shelving means shelves without cabinet doors, so dishes, glassware and decor stay on display. The appeal is visual: a wall of uppers can feel heavy, and shelves let light and the wall colour show through.</p>
+<p>Designers quoted by <a href="https://www.realsimple.com/considerations-before-adding-open-shelving-to-your-kitchen-8763917" rel="nofollow noopener noreferrer" target="_blank">Real Simple</a> say open shelves make sense in a smaller, darker kitchen where full cabinets would crowd the walls and absorb limited light. They also suit unusual ceiling angles, where standard upper cabinets are awkward to install. In many Calgary homes, a short wall, a sloped ceiling in a bungalow or a window-heavy room is exactly where this applies.</p>
+<p>The trade-off is storage. A standard upper cabinet holds more than two open shelves can, because shelves cannot be stacked full without looking cluttered. So the usual approach is to replace one or two cabinets with shelves, not every upper, and to put the lost storage into deeper drawers or a pantry. We can plan that balance with you in the design stage, which is easier than discovering it after the cabinets are in. Our guide to <a href="https://stateracontracting.com/blog/renovations-kitchen-cabinets" target="_blank" rel="noopener">kitchen cabinet options and budgets in Calgary</a> shows how the pieces fit together.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1795226773179_What-open-shelving-does-well-in-a-kitchen.jpeg" alt="What open shelving does well in a kitchen" /></p>
+<h2>Where open shelves work best</h2>
+<p>The layouts below come up most often, and each solves a specific problem.</p>
+<ul>
+<li><strong>A focal wall.</strong> Shelves on either side of a range hood or around a beverage station give the room a centre point. <a href="https://thedecormag.com/kitchens/how-to-incorporate-open-shelving-in-a-kitchen" rel="nofollow noopener noreferrer" target="_blank">The Decor Mag</a> suggests this placement, with one or two shelves per section to keep things balanced.</li>
+<li><strong>The end of a cabinet run.</strong> In a galley or L-shaped kitchen, a short stack of shelves softens the hard stop where cabinets end.</li>
+<li><strong>Above a coffee bar.</strong> Mugs, a canister and a plant live happily here, within arm’s reach of where you use them.</li>
+<li><strong>A short wall.</strong> Where uppers would feel crowded, shelves keep the wall lighter.</li>
+<li><strong>Away from heavy heat and splashing.</strong> The same guide advises against placing them directly beside a high-output range or over a sink unless the materials are sealed.</li>
+</ul>
+<p>One caution comes from designers quoted by <a href="https://www.livingetc.com/advice/is-open-shelving-in-a-kitchen-a-good-idea" rel="nofollow noopener noreferrer" target="_blank">Livingetc</a>: in a small kitchen with little storage, the loss of cabinet space can outweigh the look. The answer is to place shelves where storage is already generous, or to make the storage up with drawers, a pantry or taller base cabinets.</p>
+<h2>Depth, height and spacing</h2>
+<p>These are the numbers to settle first. Most guides agree closely, which is useful. The figures below are drawn from <a href="https://kettleandlinen.com/ideas/how-to-choose-kitchen-shelves/" rel="nofollow noopener noreferrer" target="_blank">Kettle &amp; Linen</a>, <a href="https://www.interior-design-trends.com/journal/floating-shelves-ideas/" rel="nofollow noopener noreferrer" target="_blank">Interior Design Trends</a> and <a href="https://thedecormag.com/kitchens/how-to-incorporate-open-shelving-in-a-kitchen" rel="nofollow noopener noreferrer" target="_blank">The Decor Mag</a>.</p>
+<table>
+<thead>
+<tr>
+<th>Measurement</th>
+<th>Typical range</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Depth for plates and bowls</td>
+<td>10 to 12 inches</td>
+<td>Most dinner plates are 10 to 11 inches across</td>
+</tr>
+<tr>
+<td>Depth for mugs, jars, spices</td>
+<td>8 to 10 inches</td>
+<td>Smaller items need less reach</td>
+</tr>
+<tr>
+<td>Depth to avoid</td>
+<td>Over 12 to 14 inches</td>
+<td>Items at the back are forgotten and the shelf needs stronger support</td>
+</tr>
+<tr>
+<td>Lowest shelf above counter</td>
+<td>18 inches, or 20 to 22 with tall appliances below</td>
+<td>Clearance for a toaster, mixer or coffee maker</td>
+</tr>
+<tr>
+<td>Space between shelves</td>
+<td>12 to 15 inches for plates, 16 to 18 for tall pitchers</td>
+<td>A stack of plates lifts out without bumping the shelf above</td>
+</tr>
+<tr>
+<td>Distance from cooktop</td>
+<td>At least 30 inches</td>
+<td>Keeps shelves clear of heat and grease</td>
+</tr>
+</tbody>
+</table>
+<p>The counter height also matters, because every shelf measurement starts there. If you are changing counters at the same time, our <a href="https://stateracontracting.com/blog/kitchen-countertop-heights-the-complete-homeowners-guide" target="_blank" rel="noopener">guide to kitchen countertop heights</a> is worth reading first.</p>
+<h3>A worked example</h3>
+<p>Say you have a 36-inch wall beside the range and want shelves for everyday dishes. You choose 10-inch-deep shelves, starting 18 inches above the counter. The first shelf holds plates, with 13 inches above it for lifting out a stack. The second shelf sits 13 inches higher and holds bowls and glasses. A third shelf would reach the ceiling area and become hard to use, so two shelves is the right answer. That matches the one-to-two-shelves-per-section advice and leaves room for a plant or a cutting board.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1795226754335_Worked-example-of-open-shelf-spacing.jpeg" alt="Worked example of open shelf spacing" /></p>
+<h2>Fixing shelves to the wall</h2>
+<p>A shelf full of dishes is heavy. Kitchen floating shelves typically carry about 25 to 50 pounds each, according to <a href="https://mykitch.ca/blogs/blog/kitchen-floating-shelves" rel="nofollow noopener noreferrer" target="_blank">mykitch.ca</a>, with more capacity when the bracket is screwed into several studs. A stud is the vertical wood framing inside the wall. The same guide calls drywall anchors alone the classic installation mistake: they feel fine on day one, then loosen under daily use. Interior Design Trends gives a figure of no more than 10 to 20 pounds per shelf on anchors alone.</p>
+<p>Two practical points follow:</p>
+<ol>
+<li><strong>Plan shelf positions to the studs, or the other way round.</strong> If a stud does not land where a bracket is wanted, move the shelf a few inches rather than trusting an anchor.</li>
+<li><strong>Plan during the renovation.</strong> When a kitchen is opened up, the wall is exposed and the shelf locations can be decided before the drywall goes on. That is one of the real advantages of choosing shelving at the design stage, not after the paint is dry.</li>
+</ol>
+<p>Visible brackets are generally spaced about every 16 inches into studs where possible, and concealed steel brackets should go into at least two studs.</p>
+<h2>Materials and finishes</h2>
+<p>The material changes how the shelf looks, how it handles a kitchen’s humidity and how much weight it carries. <a href="https://www.interior-design-trends.com/journal/floating-shelves-ideas/" rel="nofollow noopener noreferrer" target="_blank">Interior Design Trends</a> summarizes the options:</p>
+<ul>
+<li><strong>Solid hardwood</strong> such as oak, walnut or ash is stiff, and a marked surface can be re-oiled. It is the strongest option for heavy dishes.</li>
+<li><strong>Edge-banded plywood</strong> is stable in humid rooms and takes paint, which suits a shelf that matches the cabinets.</li>
+<li><strong>Steel ledges</strong> suit modern kitchens and are slim.</li>
+<li><strong>Tempered glass</strong> is light and easy to clean, though it shows dust and needs clip brackets.</li>
+<li><strong>Hollow-core MDF</strong> is the lightest-duty option, rated for only 10 to 25 pounds, so it is better for decor than dishes.</li>
+</ul>
+<p>For a Calgary kitchen, where winter air is dry, a well-finished hardwood shelf is a safe choice. Match the finish to the cabinets and counters so the shelves look like part of the room. Our <a href="https://stateracontracting.com/blog/contemporary-kitchen-renovation-your-2026-alberta-guide" target="_blank" rel="noopener">contemporary kitchen renovation guide</a> shows how finishes can be coordinated across a whole kitchen.</p>
+<h3>Matching the style</h3>
+<p>Designer Hannah Goldberg told <a href="https://www.realsimple.com/considerations-before-adding-open-shelving-to-your-kitchen-8763917" rel="nofollow noopener noreferrer" target="_blank">Real Simple</a> that hidden-bracket shelves suit sleek contemporary and organic modern kitchens, while visible brackets and gallery rails suit rustic, French country or cottage styles. Pick the bracket style first and the rest follows.</p>
+<h2>Lighting the shelves</h2>
+<p>Shelves with nothing lit look flat in the evening, and a lit shelf doubles as task light. Plan wiring for under-shelf or wall lighting before the walls close. Our <a href="https://stateracontracting.com/blog/kitchen-lighting-plan" target="_blank" rel="noopener">kitchen lighting plan</a> explains a three-layer approach that fits shelving naturally.</p>
+<h2>Styling without clutter</h2>
+<p>The difference between a magazine shelf and a messy one is mostly restraint. These rules appear consistently across styling guides:</p>
+<ul>
+<li>Leave part of each shelf empty. <a href="https://giraffyco.ca/blogs/news/open-shelving-organization-styling-containment-and-dust-control" rel="nofollow noopener noreferrer" target="_blank">Giraffy Co.</a> suggests leaving 30 to 40 percent clear, and mykitch.ca suggests 40 to 50 percent.</li>
+<li>Group items in odd numbers, with three as the sweet spot.</li>
+<li>Build a small triangle: one tall, one medium, one short piece.</li>
+<li>Mix textures such as matte ceramic, clear glass and warm wood, instead of mixing many colours.</li>
+<li>Put everyday plates on the lower shelf and a plant or board on the top one.</li>
+<li>Use baskets or boxes sized to the shelf for anything you would rather not display.</li>
+</ul>
+<p>If the shelf holds only what you use weekly, it stays tidy because the items rotate. Good china that sits for months belongs behind a door.</p>
+<h2>Dust, grease and cleaning</h2>
+<p>Items in daily use do not gather much grease, which is why everyday dishes suit open shelves. Interior Design Trends advises keeping shelves at least 30 inches from a cooktop for this reason. Where you cook heavily, put the shelves on a wall away from the range and keep closed cabinets on either side of the hood.</p>
+<p>Dust is a normal part of open storage, so plan to wipe plates and glasses before use now and then, and choose smooth, sealed surfaces that wipe clean in seconds. If you want the display look with less upkeep, glass-front cabinets with built-in lighting are an option we can build. A <a href="https://shopping.yahoo.com/home-garden/kitchen/articles/just-unexpected-cabinet-style-set-140000328.html" rel="nofollow noopener noreferrer" target="_blank">Yahoo Shopping trend report</a> notes designers are leaning toward glazed cabinets as a middle ground between open shelving and closed storage in 2026.</p>
+<h2>Are open shelves still in style?</h2>
+<p>Yes, in moderation. The current direction is one or two well-placed runs of shelving combined with closed cabinets, not a kitchen with every upper removed. That balance is also what keeps a kitchen practical to live in and easy to sell later. The same mix of closed storage and a focused display area works in both contemporary and traditional kitchens.</p>
+<h2>Budgeting for shelves in a renovation</h2>
+<p>Shelving is usually cheaper than cabinets, since it needs less material. That does not mean the project is free of cost: the wall prep, finishing, lighting and the storage you make up elsewhere all count. Our guides to <a href="https://stateracontracting.com/blog/budget-kitchen-renovations-your-2026-alberta-guide" target="_blank" rel="noopener">budget kitchen renovations in Alberta</a> and <a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">planning a kitchen renovation in Calgary</a> show how to place shelving within a full budget. For more layouts, see our <a href="https://stateracontracting.com/blog/kitchen-renovation-ideas-for-alberta-homeowners-2026-guide" target="_blank" rel="noopener">kitchen renovation ideas for Alberta homeowners</a> and <a href="https://stateracontracting.com/blog/kitchen-design-calgary-your-2026-renovation-guide" target="_blank" rel="noopener">Calgary kitchen design guide</a>.</p>
+<h2>Having us plan and build it</h2>
+<p>Statera Contracting is a licensed and insured, family-owned renovation company serving Calgary, Okotoks, Cochrane and Airdrie. Kitchens are one of our core services, and design is included with our builds. We handle permits where a project needs them, and our team communicates with you daily during the work.</p>
+<p>If you want open shelving in your kitchen, we can set the depths, heights and wall backing in the plan, with cabinets, counters and lighting all decided together. <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">See our kitchen renovation service</a> to book a consultation.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<h2>Our view on open shelving</h2>
+<blockquote>
+<p>Open shelving is one of the easiest ways to make a kitchen feel lighter, and one of the easiest to get wrong. The mistakes are rarely about taste. They come from shelves that are too deep, too close to the range or fixed only into drywall.</p>
+<p>We prefer to settle shelving at the design stage. Our design is included with our builds, so the shelf wall, the lighting and the storage you give up are planned together, with one team and fixed pricing for the whole project.</p>
+<p>Our advice is to use open shelves for what you reach for every week, keep closed cabinets near the cooking, and let the plan do the work before anything is built. The result is a kitchen that looks good and still works at a busy Tuesday dinner.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>FAQ</h2>
+<h3>How deep should open kitchen shelves be?</h3>
+<p>Ten to twelve inches suits dinner plates, bowls and everyday glassware. Use 8 to 10 inches for mugs, jars and spices. Shelves deeper than about 12 inches tend to hide items at the back and need stronger support.</p>
+<h3>How high should open shelves be above the counter?</h3>
+<p>About 18 inches to the lowest shelf is the common guide, or 20 to 22 inches if tall appliances sit below. Leave 12 to 15 inches between shelves so a stack of plates lifts out easily.</p>
+<h3>Is open shelving cheaper than upper cabinets?</h3>
+<p>The shelves themselves usually cost less because they need less material. The full cost depends on the wall work, finish, lighting and the storage you add elsewhere, so it is best compared inside a complete kitchen plan.</p>
+<h3>Do open shelves get greasy?</h3>
+<p>Shelves near the range collect more grease and dust. Keep them at least 30 inches from the cooktop, store items you use often, and consider closed cabinets beside the hood.</p>
+<h3>Can open shelves hold heavy dishes?</h3>
+<p>Yes, when they are screwed into wall studs. Typical kitchen floating shelves carry about 25 to 50 pounds each, and anchors in drywall alone carry far less.</p>
+Statera ContractingTalk Through Your Kitchen ShelvingReach out to discuss how open shelving could fit into a Calgary kitchen renovation alongside cabinets, lighting and counters.SStatera Contracting<a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">Email Staterastatera.contracting@gmail.com</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.realsimple.com/considerations-before-adding-open-shelving-to-your-kitchen-8763917" rel="nofollow noopener noreferrer" target="_blank">Real Simple: What to Consider Before Adding Open Shelving to Your Kitchen</a></li>
+<li><a href="https://www.livingetc.com/advice/is-open-shelving-in-a-kitchen-a-good-idea" rel="nofollow noopener noreferrer" target="_blank">Livingetc: Should you have open shelving in a kitchen?</a></li>
+<li><a href="https://shopping.yahoo.com/home-garden/kitchen/articles/just-unexpected-cabinet-style-set-140000328.html" rel="nofollow noopener noreferrer" target="_blank">Yahoo Shopping: glass-front cabinets as an alternative to open shelving</a></li>
+<li><a href="https://thedecormag.com/kitchens/how-to-incorporate-open-shelving-in-a-kitchen" rel="nofollow noopener noreferrer" target="_blank">The Decor Mag: Open Shelving in Kitchens</a></li>
+<li><a href="https://kettleandlinen.com/ideas/how-to-choose-kitchen-shelves/" rel="nofollow noopener noreferrer" target="_blank">Kettle &amp; Linen: How to Choose Open Kitchen Shelves</a></li>
+<li><a href="https://www.interior-design-trends.com/journal/floating-shelves-ideas/" rel="nofollow noopener noreferrer" target="_blank">Interior Design Trends: Floating Shelves Sizes, Spacing and Loads</a></li>
+<li><a href="https://mykitch.ca/blogs/blog/kitchen-floating-shelves" rel="nofollow noopener noreferrer" target="_blank">mykitch.ca: Kitchen Floating Shelves, Load Limits and Styling</a></li>
+<li><a href="https://giraffyco.ca/blogs/news/open-shelving-organization-styling-containment-and-dust-control" rel="nofollow noopener noreferrer" target="_blank">Giraffy Co.: Open Shelving Organization</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/kitchen-island-size" target="_blank" rel="noopener">Kitchen Island Size: Dimensions, Aisles and Seating Rules</a></li>
+<li><a href="https://stateracontracting.com/blog/average-kitchen-size" target="_blank" rel="noopener">Average Kitchen Size in Canadian Homes: 2026 Guide</a></li>
+<li><a href="https://stateracontracting.com/blog/kitchen-lighting-plan" target="_blank" rel="noopener">Contractor Ready Kitchen Lighting Plan: 70–100 lm/sq ft, Three Layer System</a></li>
+<li><a href="https://stateracontracting.com/blog/cabinet-hardware-placement" target="_blank" rel="noopener">Cabinet Hardware Placement: Where Knobs and Pulls Go</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
