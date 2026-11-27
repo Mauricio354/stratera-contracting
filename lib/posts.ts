@@ -25813,6 +25813,180 @@ Statera ContractingTalk Through Your Kitchen ShelvingReach out to discuss how op
       },
     ],
   },
+  {
+    slug: "permit-drawings-vs-construction-drawings",
+    title: "Permit Drawings vs Construction Drawings in Calgary",
+    excerpt: "Permit drawings get your project approved by the City of Calgary. Construction drawings get it priced and built. Here is how the two sets differ and what each one must show.",
+    date: "2026-11-27",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1795311415127_Permit-and-construction-plans-spread-across-drafting-table.jpeg",
+    coverAlt: "Permit Drawings vs Construction Drawings in Calgary",
+    category: "Industry News",
+    readingTime: "11 min read",
+    metaTitle: "Permit Drawings vs Construction Drawings in Calgary",
+    metaDescription: "Permit drawings get a Calgary permit approved. Construction drawings get the job priced and built. Here is how they differ and what each one must show.",
+    content: [
+      {
+        type: "html",
+        html: `<p>Permit drawings are the set the City of Calgary reviews to confirm your project meets code. Construction drawings go further: they carry the exact dimensions, materials and details that trades need to price and build the work. On many renovations one coordinated set can serve both purposes. On others, the permit set comes first and the detailed drawings follow. If you are planning a kitchen, basement, addition or restaurant build-out, knowing which set you hold, and what it leaves out, keeps your budget and schedule from drifting.</p>
+Statera ContractingPlan Your Calgary RenovationStatera Contracting handles home and commercial renovations in Calgary, with a design-and-build approach that includes design and permit management.<a href="https://stateracontracting.com/">Visit</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Permit drawings answer one question for the City: does the proposed work comply with the Alberta Building Code? They show sizes, layouts and code notes, not every build detail.</li>
+<li>Construction drawings answer a different question: how exactly is each element built, with which products and finishes? That is what a contractor needs for a firm price.</li>
+<li>Calgary lists what a permit set must show by project type, and some openings and structures need a professional engineer’s review.</li>
+<li>A permit set can be returned for missing information, so the drawings and the permit application need to agree before you submit.</li>
+<li>Our design-and-build approach includes design and permit management, so the drawings are prepared with the build in mind.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-permit-drawings-are">What permit drawings are</a></li>
+<li><a href="#what-construction-drawings-add">What construction drawings add</a></li>
+<li><a href="#permit-drawings-vs-construction-drawings-side-by-side">Permit drawings vs construction drawings, side by side</a></li>
+<li><a href="#what-calgary-asks-to-see">What Calgary asks to see</a></li>
+<li><a href="#when-a-professional-must-stamp-the-drawings">When a professional must stamp the drawings</a></li>
+<li><a href="#why-a-permit-set-is-not-enough-to-price-your-renovation">Why a permit set is not enough to price your renovation</a></li>
+<li><a href="#where-calgary-submissions-get-returned">Where Calgary submissions get returned</a></li>
+<li><a href="#our-view-on-drawings">Our view on drawings</a></li>
+<li><a href="#getting-your-drawings-and-permit-handled-together">Getting your drawings and permit handled together</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What permit drawings are</h2>
+<p>A permit drawing set describes the proposed work so a plan reviewer can check it against code. The City of Calgary says <a href="https://www.calgary.ca/development/permits/process-faq.html" rel="nofollow noopener noreferrer" target="_blank">required drawings vary by project type</a>. Depending on the job, that can mean a site or key plan, floor plans, elevations for exterior work, wall assembly and door details, and plumbing, mechanical, electrical or sprinkler drawings. Every set should include the project title, scale, north arrow, dimensions and room labels.</p>
+<p>The City also has <a href="https://www.calgary.ca/development/home-building/drawing-standards.html" rel="nofollow noopener noreferrer" target="_blank">project drawing standards</a>. Draw the existing spaces as they are now, mark the proposed changes, and label and dimension every space and opening. Leave personal information off: “Bedroom 1”, not a family member’s name.</p>
+<p>The purpose is review, so the set shows what the reviewer needs and stops there. Think of it as the proof that the plan is legal, not the instructions for building it.</p>
+<h2>What construction drawings add</h2>
+<p>Construction drawings take the approved design and make it buildable. For an interior project that typically means detailed floor and ceiling plans, finish plans, interior elevations, millwork details, power and data locations, and schedules. Cabinet sizes, fixture models, attachment details and hardware are specified rather than implied.</p>
+<p>The Royal Architectural Institute of Canada describes construction drawings as a document <a href="https://chop.raic.ca/appendix-d-drawings" rel="nofollow noopener noreferrer" target="_blank">used by bidders to prepare bids</a>, by contractors to direct the work, and by authorities to verify conformity before issuing permits. That is why the two sets are not always separate: the same drawings can serve several audiences, and the level of detail needed can differ depending on how the project is procured.</p>
+<p>Two points are worth holding onto:</p>
+<ul>
+<li>A set submitted for a permit has not been approved just because it was submitted.</li>
+<li>A set marked “for construction” has not been permit-approved just because it is detailed.</li>
+</ul>
+<p>They answer different questions, and you need both answers before work starts.</p>
+<h2>Permit drawings vs construction drawings, side by side</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Permit drawings</th>
+<th>Construction drawings</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Main audience</td>
+<td>The City’s plan reviewers</td>
+<td>Contractor, trades, suppliers</td>
+</tr>
+<tr>
+<td>Main question</td>
+<td>Does it meet code and bylaws?</td>
+<td>How is it built, with what?</td>
+</tr>
+<tr>
+<td>Dimensions</td>
+<td>Enough to verify code, often approximate</td>
+<td>Exact, with tolerances and details</td>
+</tr>
+<tr>
+<td>Materials and finishes</td>
+<td>Assemblies and code-relevant items</td>
+<td>Specific products, finishes, hardware</td>
+</tr>
+<tr>
+<td>Pricing</td>
+<td>Not enough to price reliably</td>
+<td>Basis for a firm price</td>
+</tr>
+<tr>
+<td>Typical content</td>
+<td>Site plan, floor plans, elevations, sections, code notes</td>
+<td>Detailed plans, millwork, schedules, installation details</td>
+</tr>
+</tbody>
+</table>
+<p>A permit set is not wrong or lazy for leaving out stain colours or countertop sizes. The building department simply does not check them. One architect’s often-cited explanation is that <a href="https://www.josharch.com/blog/2015/9/2/permit-drawings-compared-to-construction-drawings" rel="nofollow noopener noreferrer" target="_blank">permit drawings show approximate size and shape</a> to satisfy a checklist, while the builder needs details such as exact window, door and countertop specifications.</p>
+<h2>What Calgary asks to see</h2>
+<p>Requirements depend on the work. These are the City’s published lists for the projects our clients ask about most.</p>
+<h3>Basements and interior renovations</h3>
+<p>The City says a building permit is <a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">required when a basement is developed for the first time</a>, when walls are moved or removed, when new openings are cut in interior or exterior walls, or when exterior renovations are done. Finishes, painting and furniture typically do not need one. Our guides on <a href="https://stateracontracting.com/blog/renovation-permits-calgary" target="_blank" rel="noopener">Calgary renovation permits</a>, <a href="https://stateracontracting.com/blog/basement-ceiling-height-calgary" target="_blank" rel="noopener">basement ceiling heights</a> and <a href="https://stateracontracting.com/blog/bathroom-permit-calgary" target="_blank" rel="noopener">bathroom permits</a> go deeper on each.</p>
+<h3>Home additions</h3>
+<p>For an addition, the City asks for a <a href="https://www.calgary.ca/development/home-building/additions.html" rel="nofollow noopener noreferrer" target="_blank">site plan, floor plans, elevations and structural cross-sections</a>. The floor plans cover each affected floor with room uses and labelled, dimensioned existing and new walls, doors, windows and beams. Elevations show every affected side. Cross-sections show wall, floor and roof assemblies and the building height. Manufacturer’s floor joist and roof layouts are also needed.</p>
+<p>A detached or duplex dwelling list goes further. It asks for a <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/single-family-or-duplex-dwelling.pdf" rel="nofollow noopener noreferrer" target="_blank">dimensioned site plan and building plans</a> with foundation plans, glazed-opening calculations, window and door U-values, and wall, floor and roof construction details. The same list says plans stamped “not for construction”, “preliminary” or “for permit purposes only” are not accepted. Setbacks can also trigger a separate approval, which we cover in our <a href="https://stateracontracting.com/blog/home-addition-permit-calgary" target="_blank" rel="noopener">home addition permit guide</a>.</p>
+<p>The City’s online application sorts uploads into <a href="https://www.calgary.ca/development/permits/digital-application-criteria.html" rel="nofollow noopener noreferrer" target="_blank">plan sets</a>: architectural, electrical, mechanical, plumbing and gas, and structural. Knowing that structure helps you see which drawings your project needs.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1795311488520_Home-additions.jpeg" alt="Home additions" /></p>
+<h3>Restaurants, pubs and other commercial work</h3>
+<p>Commercial permits are more detailed. The City requires a building permit for <a href="https://www.calgary.ca/for-business/licences/commercial-building-code.html" rel="nofollow noopener noreferrer" target="_blank">a new use, partition or structural changes, mechanical, plumbing or electrical work, ventilation changes and health reviews</a> for restaurants and similar businesses. Drawings must be accurate and legible, and show washrooms, fire ratings and other affected code areas. A minor tenant-improvement permit may be issued within 21 business days if code requirements are met and all documentation is provided.</p>
+<p>For alterations to commercial occupancies, the City’s <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/Commercial-multi-family-alterations-d-e-occupancy.pdf" rel="nofollow noopener noreferrer" target="_blank">complete-application guide</a> asks for a scope-of-work statement on the drawings and floor plans at a scale of not less than 1:100. They must show wall locations and types, room uses, door and window ratings, egress, stairs, exits, and washroom and barrier-free provisions. Structural, mechanical, electrical and sprinkler drawings are added as they apply. Trade permits for electrical, plumbing, gas and mechanical work <a href="https://www.calgary.ca/development/permits/process-faq.html" rel="nofollow noopener noreferrer" target="_blank">may be needed separately</a>, and most tenant improvements do not need a development permit, while new commercial projects and additions do.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1795311454628_Restaurants-pubs-and-other-commercial-work.jpeg" alt="Restaurants, pubs and other commercial work" /></p>
+<h2>When a professional must stamp the drawings</h2>
+<p>Some work needs an architect or professional engineer. The City explains that where professional involvement is required, <a href="https://www.calgary.ca/development/home-building/additions.html" rel="nofollow noopener noreferrer" target="_blank">plans must be stamped by that professional</a>, and engineers must be registered with APEGA. In a concrete foundation wall, a professional engineer’s structural review is needed when a new opening is wider than 1.2 m, when combined new and existing openings exceed 25% of the wall length, when the solid wall left between openings is narrower than either opening, or when the door sits in a pre-engineered tall wall.</p>
+<p>This matters for basement walkouts, new windows and load-bearing changes. We explain the process in our guides to <a href="https://stateracontracting.com/blog/load-bearing-wall-permit-calgary" target="_blank" rel="noopener">load-bearing wall permits</a> and <a href="https://stateracontracting.com/blog/load-bearing-wall-removal-calgary" target="_blank" rel="noopener">load-bearing wall removal</a>.</p>
+<p>Prefab and modular builders face a similar question of what to submit and who draws it, and this overview of what to submit with permit drawings shows how the same split applies there.</p>
+<h2>Why a permit set is not enough to price your renovation</h2>
+<p>A permit set tells a contractor what the City will review. It does not settle which faucet, which tile, how the cabinet boxes are built or where the outlets go. A contractor who prices from it has to assume those items, and assumptions are where change orders come from.</p>
+<p>For a fixed-price contract to mean something, the scope has to be defined in enough detail that both sides read it the same way. Detailed drawings and a written scope do that job. This is also why the order of work matters. If you price first, then draw for permit, then change the layout to suit the reviewer, the price you were given no longer matches the plan.</p>
+<p>The RAIC also notes that the detail needed to set a bid <a href="https://chop.raic.ca/appendix-d-drawings" rel="nofollow noopener noreferrer" target="_blank">can differ from the detail needed to build</a>, depending on how the project is procured. Decide early which stage you are paying for.</p>
+<h2>Where Calgary submissions get returned</h2>
+<p>The City notifies applicants in writing if an application fails prescreen and gives <a href="https://www.calgary.ca/development/permits/process-faq.html" rel="nofollow noopener noreferrer" target="_blank">30 days to resubmit missing information</a>. During detailed review it sends reminders at 30 and 60 days, and the permit may be refused if information is not provided within 90 days. If you revise a permit, you upload all updated plans through your My ID account with a description of the changes, and additional fees may apply.</p>
+<p>An Alberta engineering firm lists the usual causes of trouble: <a href="https://krengineering.ca/permit-approval-process-in-alberta-new-construction-renovation/" rel="nofollow noopener noreferrer" target="_blank">inconsistent drawings, unclear scope, unrecognized change of use, missing structural information and incomplete code analysis</a>. Most come down to one thing: the drawings, the application and the actual plan do not match.</p>
+<p>Before you submit, check that:</p>
+<ol>
+<li>Every room, wall and opening on the drawings matches what you intend to build.</li>
+<li>Existing and proposed work are clearly distinguished.</li>
+<li>Structural changes have the engineering the City requires.</li>
+<li>Commercial drawings carry the scope statement and all applicable trade drawings.</li>
+<li>The drawings reference the code edition in force. Alberta lists the <a href="https://www.alberta.ca/building-codes-and-standards" rel="nofollow noopener noreferrer" target="_blank">National Building Code, 2023 Alberta Edition</a> as its current code.</li>
+</ol>
+<h2>Our view on drawings</h2>
+<blockquote>
+<p>We see drawings as one continuous job, not two separate documents. The permit set and the construction set should come from the same design, so what the City approves is what we build and what you were priced.</p>
+<p>That is why design is included with our builds, and why we manage the permit ourselves. When one team handles the design, the permit and the build, there is no handoff where details get lost between a drawing and a trade.</p>
+<p>We are a family-owned, licensed and insured team, and we are on your project daily. Fixed-price contracting only works when the scope is clear, so we would rather settle the details on paper before anyone picks up a tool.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Getting your drawings and permit handled together</h2>
+<p>We are a Calgary renovation contractor serving Okotoks, Cochrane, Airdrie and the surrounding area. Our work includes <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen</a>, <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom</a> and <a href="https://stateracontracting.com/services/basement-living-spaces-calgary" target="_blank" rel="noopener">basement</a> renovations, <a href="https://stateracontracting.com/services/home-additions-calgary" target="_blank" rel="noopener">home additions</a>, and <a href="https://stateracontracting.com/services/commercial-renovation-calgary" target="_blank" rel="noopener">commercial renovations</a> such as restaurants, pubs, offices and retail. Each includes permit management and design, with code compliance built in.</p>
+<p>If you want to know what your project needs before you commit, <a href="https://stateracontracting.com" target="_blank" rel="noopener">book a consultation with Statera Contracting</a>.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<h2>FAQ</h2>
+<h3>What are permit drawings?</h3>
+<p>They are the plans you submit to the City of Calgary so reviewers can confirm the proposed work meets the Alberta Building Code. They usually include floor plans, elevations, sections, a site plan where needed and code notes, drawn to the City’s standards.</p>
+<h3>Can I build from permit drawings alone?</h3>
+<p>They are written for review, so they often leave out exact product specifications and build details. Construction drawings add the dimensions, materials and installation details that trades need. Some projects use one coordinated set for both purposes, so ask which one you have.</p>
+<h3>Do I need drawings for every renovation?</h3>
+<p>No. Calgary says minor cosmetic work such as painting, finishes and furniture typically does not need a building permit. Moving or removing walls, new openings, first-time basement development and exterior renovations do, and so do most commercial changes involving a new use, construction or mechanical work.</p>
+<h3>Who can draw my permit set?</h3>
+<p>The City accepts drawings that meet its standards, but where the National Building Code requires an architect or professional engineer, their stamp is needed. Engineers must be registered with APEGA. We can tell you early whether your project triggers that requirement.</p>
+Statera ContractingTalk Through Your Drawing NeedsContact Statera Contracting to discuss your Calgary renovation and how its design-and-build approach includes design and permit management.SStatera Contracting<a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">Email usstatera.contracting@gmail.com</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.calgary.ca/development/permits/process-faq.html" rel="nofollow noopener noreferrer" target="_blank">Building Permit Process Guideline and Common Questions, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/development/home-building/drawing-standards.html" rel="nofollow noopener noreferrer" target="_blank">Project drawing standards, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/development/home-building/basements.html" rel="nofollow noopener noreferrer" target="_blank">Home renovations and basements, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/development/home-building/additions.html" rel="nofollow noopener noreferrer" target="_blank">Additions, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/single-family-or-duplex-dwelling.pdf" rel="nofollow noopener noreferrer" target="_blank">Single detached or duplex dwelling requirements, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/development/permits/digital-application-criteria.html" rel="nofollow noopener noreferrer" target="_blank">Digital permit application criteria, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/for-business/licences/commercial-building-code.html" rel="nofollow noopener noreferrer" target="_blank">Commercial building code and permits, City of Calgary</a></li>
+<li><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/carls/building-permit/Commercial-multi-family-alterations-d-e-occupancy.pdf" rel="nofollow noopener noreferrer" target="_blank">Guide to a Complete Application, commercial alterations, City of Calgary</a></li>
+<li><a href="https://chop.raic.ca/appendix-d-drawings" rel="nofollow noopener noreferrer" target="_blank">Appendix D, Drawings, RAIC</a></li>
+<li><a href="https://www.alberta.ca/building-codes-and-standards" rel="nofollow noopener noreferrer" target="_blank">Building codes and standards, Alberta.ca</a></li>
+<li><a href="https://www.josharch.com/blog/2015/9/2/permit-drawings-compared-to-construction-drawings" rel="nofollow noopener noreferrer" target="_blank">Permit Drawings Compared to Construction Drawings</a></li>
+<li><a href="https://krengineering.ca/permit-approval-process-in-alberta-new-construction-renovation/" rel="nofollow noopener noreferrer" target="_blank">Permit Approval Process in Alberta</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/who-pulls-permits-calgary" target="_blank" rel="noopener">Calgary Permits: Who Pulls Them, and What Homeowners Must Write</a></li>
+<li><a href="https://stateracontracting.com/blog/renovation-permits-calgary" target="_blank" rel="noopener">Check Calgary Renovation Permits Before Demolition to Avoid Rework</a></li>
+<li><a href="https://stateracontracting.com/blog/load-bearing-wall-permit-calgary" target="_blank" rel="noopener">Load Bearing Wall Permits: Calgary’s Contractor Checklist Cuts Delays</a></li>
+<li><a href="https://stateracontracting.com/blog/home-addition-permit-calgary" target="_blank" rel="noopener">Calgary Home Addition Permits: Setbacks Can Trigger Extra Approval</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
