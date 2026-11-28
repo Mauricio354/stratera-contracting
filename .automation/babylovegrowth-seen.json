@@ -127,7 +127,7 @@
   "1122807": { "status": "published", "publishedAt": "2026-11-23" },
   "1178732": { "status": "published", "publishedAt": "2026-11-26" },
   "1225508": { "status": "published", "publishedAt": "2026-11-27" },
-  "1273226": { "status": "queued", "reason": "calendar date not yet reached; webhook arrival, created_at 2026-11-25 + 3 days = 2026-11-28, estimated, not screenshot-confirmed; today's slot (2026-11-25) left unused because no article is due yet (1178732 is due 2026-11-26)" },
+  "1273226": { "status": "published", "publishedAt": "2026-11-28" },
   "1321036": { "status": "queued", "reason": "calendar date not yet reached; webhook arrival, created_at 2026-11-26 + 3 days = 2026-11-29, estimated, not screenshot-confirmed; today's slot (2026-11-26) used by 1178732" },
   "1368482": { "status": "queued", "reason": "calendar date not yet reached; webhook arrival, created_at 2026-11-27 + 3 days = 2026-11-30, estimated, not screenshot-confirmed; today's slot (2026-11-27) used by 1225508" }
 }
