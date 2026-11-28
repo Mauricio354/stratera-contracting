@@ -25987,6 +25987,180 @@ Statera ContractingTalk Through Your Drawing NeedsContact Statera Contracting to
       },
     ],
   },
+  {
+    slug: "plywood-vs-particle-board-cabinets",
+    title: "Plywood vs Particle Board Cabinets: Which Box Is Worth It",
+    excerpt: "For most Calgary kitchens and bathrooms, plywood boxes are the better buy where water, weight and years of use are involved, and particle board is a reasonable choice in dry, lightly loaded spaces.",
+    date: "2026-11-28",
+    author: "Industry News",
+    coverImage: "https://media.babylovegrowth.ai/blog-images/organization-42752/1795401259173_Plywood-and-particle-board-cabinet-box-edges.jpeg",
+    coverAlt: "Plywood vs Particle Board Cabinets: Which Box Is Worth It",
+    category: "Industry News",
+    readingTime: "10 min read",
+    metaTitle: "Plywood vs Particle Board Cabinets: Which Box Is Worth It",
+    metaDescription: "Plywood or particle board cabinet boxes? Compare strength, water resistance, weight and cost, and see where each material belongs in a Calgary kitchen or bath.",
+    content: [
+      {
+        type: "html",
+        html: `<p>For most Calgary kitchens and bathrooms, plywood boxes are the better buy where water, weight and years of use are involved, and particle board is a reasonable choice in dry, lightly loaded spaces. The difference you pay for is hidden inside the cabinet, behind the door finish, so it is worth deciding before the order goes in. If you are planning a renovation, our team can walk you through the choice as part of the <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovation</a> design.</p>
+Statera Contractingstateracontracting.comChoose Cabinet Boxes With ConfidenceStatera Contracting renovates Calgary kitchens, and our team can walk you through cabinet choices as part of the design.<a href="https://stateracontracting.com/">Visit</a>
+<h2>TL;DR</h2>
+<ul>
+<li>Plywood is glued layers of real wood veneer. Particle board is wood chips and resin pressed into a sheet. MDF is finer wood fibre and resin, denser than both.</li>
+<li>Plywood handles a leak, a heavy load and a hinge screw better. Particle board swells and crumbles once water gets past its surface.</li>
+<li>Particle board costs roughly 30 to 50% less per cabinet, so it stays popular in flat-pack and budget lines.</li>
+<li>If you cannot afford plywood everywhere, put it in the sink base, the dishwasher cabinet and the cabinet beside the range.</li>
+<li>Particle board belongs in dry rooms: closets, a home office, a bookshelf.</li>
+</ul>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#what-the-three-materials-actually-are">What the three materials actually are</a></li>
+<li><a href="#plywood-vs-particle-board-how-they-compare">Plywood vs particle board: how they compare</a></li>
+<li><a href="#water-where-the-real-difference-shows">Water: where the real difference shows</a></li>
+<li><a href="#screws-hinges-and-heavy-uppers">Screws, hinges and heavy uppers</a></li>
+<li><a href="#what-about-mdf">What about MDF?</a></li>
+<li><a href="#cost-what-you-actually-pay">Cost: what you actually pay</a></li>
+<li><a href="#where-to-spend-on-plywood-and-where-to-save">Where to spend on plywood and where to save</a></li>
+<li><a href="#how-to-compare-quotes">How to compare quotes</a></li>
+<li><a href="#plan-your-cabinets-with-statera">Plan your cabinets with Statera</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#sources">Sources</a></li>
+</ul>
+<h2>What the three materials actually are</h2>
+<p>Cabinet boxes are the carcasses: the sides, bottom, top and back that hold everything. The doors and drawer fronts are a separate choice. Three sheet materials cover almost every box you will be quoted.</p>
+<p>The Canadian Kitchen Cabinet Association <a href="https://ckca.ca/cabinet-materials/" rel="nofollow noopener noreferrer" target="_blank">describes the main materials</a> this way: plywood is thin wood veneer plies glued together, while MDF (medium-density fibreboard) is wood fibres bonded with adhesive under pressure, finer in texture, denser and heavier than particle board. Particle board sits at the budget end: larger wood particles and resin, pressed flat and usually covered with a melamine (plastic laminate) skin.</p>
+<p>That skin is why you cannot tell them apart by looking at a closed cabinet. You see it at the edges, inside the sink base, and the first time something goes wrong.</p>
+<h2>Plywood vs particle board: how they compare</h2>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Plywood</th>
+<th>Particle board</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Construction</td>
+<td>Layered wood veneers</td>
+<td>Wood particles and resin</td>
+</tr>
+<tr>
+<td>Bending strength (MOR)</td>
+<td>About 4,890 to 6,180 psi</td>
+<td>About 2,200 to 3,500 psi</td>
+</tr>
+<tr>
+<td>Stiffness (MOE)</td>
+<td>About 1.01 to 1.24 million psi</td>
+<td>About 0.40 to 0.60 million psi</td>
+</tr>
+<tr>
+<td>Weight, ¾-inch 4×8 sheet</td>
+<td>About 50 to 75 lb</td>
+<td>About 77 to 100 lb</td>
+</tr>
+<tr>
+<td>After a leak</td>
+<td>Usually dries and stays usable</td>
+<td>Swells, often permanently</td>
+</tr>
+<tr>
+<td>Screws near an edge</td>
+<td>Resists splitting</td>
+<td>Edges hold screws less well</td>
+</tr>
+<tr>
+<td>Cost</td>
+<td>Higher</td>
+<td>Roughly 30 to 50% lower</td>
+</tr>
+</tbody>
+</table>
+<p>The strength, stiffness and weight figures come from <a href="https://www.captivatingcabinets.com/blog/what-is-particle-board-in-cabinets" rel="nofollow noopener noreferrer" target="_blank">a published comparison of material grades</a>, and the cost gap from <a href="https://kraftersland.com/plywood-vs-particle-board-cabinets-buyers-guide/" rel="nofollow noopener noreferrer" target="_blank">a 2026 buyer’s guide</a>. Prices are in US dollars there, so treat the percentage as the useful number, not the dollar amounts.</p>
+<p>The weight line surprises people. Particle board is the weaker material, yet a sheet of it is heavier, so a particle board cabinet is harder to carry and hang. <a href="https://www.deslaurier.com/en-ca/learning-centre/plywood-vs.-particle-board-comparing-cabinet-box-construction" rel="nofollow noopener noreferrer" target="_blank">Plywood boxes are described</a> as supporting more weight while being lighter, and particle board as more prone to dents and scratches.</p>
+<h2>Water: where the real difference shows</h2>
+<p>A melamine face sheds splashes. Trouble starts at a raw edge, a screw hole or the plumbing cut-out in a sink base, because that is where water reaches the core.</p>
+<p>Particle board is bonded with urea-formaldehyde resin and a little wax, which gives short-term moisture resistance only. <a href="https://pinewoodcabinets.com/guides/cabinet-construction/plywood-vs-mdf-boxes" rel="nofollow noopener noreferrer" target="_blank">Once standing water breaks the resin bond, the swelling is permanent</a>. A slow drip from a supply line or dishwasher connection can mean replacing the cabinet. In plywood, the same drip usually means drying it out and fixing the plumbing.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1795401139619_Swollen-particle-board-around-a-sink-cut-out.jpeg" alt="Swollen particle board around a sink cut-out" /></p>
+<p>Not all particle board performs the same. University of British Columbia researchers tested standard M-2 particle board from five North American mills in a 24-hour submersion. <a href="https://www.captivatingcabinets.com/blog/what-is-particle-board-in-cabinets" rel="nofollow noopener noreferrer" target="_blank">Thickness swell averaged between 4.8% and 25.5%</a> depending on the mill, and only one of the five came in under the 5.5% limit used for moisture-resistant grades. So the words “particle board” tell you less than the grade and the manufacturer do.</p>
+<p><img src="https://media.babylovegrowth.ai/blog-images/organization-42752/1795401288093_Particle-board-swell-range-and-moisture-grade-limit.jpeg" alt="Particle-board swell range and moisture-grade limit" /></p>
+<p>Plywood is not waterproof either. A leak left for days will stain or delaminate it. You also do not need marine plywood for a sink base: <a href="https://www.captivatingcabinets.com/blog/plywood-kitchen-cabinets-pros-and-cons" rel="nofollow noopener noreferrer" target="_blank">ordinary hardwood plywood is the right material</a>, and the practical protection is drying a leak quickly and a liner on the cabinet floor.</p>
+<p>In Calgary, where winter air is dry but basement bathrooms, laundry rooms and kitchens with dishwashers still see daily moisture, this matters most under sinks and around appliances.</p>
+<h2>Screws, hinges and heavy uppers</h2>
+<p>On wall cabinets, the box is what the mounting screws pass through on their way into the wall studs. The material around those screws carries the load of the dishes, so it matters more than the finish.</p>
+<p>Plywood’s advantage is resistance to splitting, which lets fasteners sit close to an edge. That counts in frameless (European-style) boxes, where drawer runners and hinge plates sit near the front edge, as <a href="https://pinewoodcabinets.com/guides/cabinet-construction/plywood-vs-mdf-boxes" rel="nofollow noopener noreferrer" target="_blank">one construction guide explains</a>. The same guide notes that particle board edges hold a screw noticeably less well than its faces.</p>
+<p>Hinge and pull placement is a separate detail that depends on the doors and drawers you choose. Our guide to <a href="https://stateracontracting.com/blog/cabinet-hardware-placement" target="_blank" rel="noopener">cabinet hardware placement</a> covers where knobs and pulls go.</p>
+<h2>What about MDF?</h2>
+<p>MDF is the third name on many quotes. It is smooth, dense and stable, and common in painted doors. As a box material it swells more slowly and more evenly than particle board, but it still swells when soaked. One tested comparison found MDF holds a screw <a href="https://pinewoodcabinets.com/guides/cabinet-construction/plywood-vs-mdf-boxes" rel="nofollow noopener noreferrer" target="_blank">roughly 39% better than particle board</a> at the same density, so its reputation as the weakest option is not deserved. For a sink base, plywood remains the safer pick. A broader look at <a href="https://blog.simmonsinteriorsupply.com/blog/mdf-vs-plywood-furniture" target="_blank" rel="nofollow noopener noreferrer">MDF versus plywood</a> in furniture shows how the same trade-offs of cost, weight and durability apply across home interiors.</p>
+<h2>Cost: what you actually pay</h2>
+<p>Plywood costs more at every level. On a typical semi-custom line, plywood boxes add a noticeable percentage to the cabinet price, and stock lines often do not offer plywood at all. The gap is real, but it is a gap on the cabinet portion of the kitchen, not on the whole project. Labour, countertops, flooring, plumbing and permits are unaffected by the box material.</p>
+<p>That is why the cost question is better framed over the life of the kitchen. If you plan to stay for ten years or more, a box that survives a leak and still holds its hinges usually costs less over its life than one you replace. If you are renovating to sell in a year or two, particle board in dry upper cabinets is a sensible saving.</p>
+<p>For budget ranges across a full project, see our guides to <a href="https://stateracontracting.com/blog/kitchen-remodel-cost" target="_blank" rel="noopener">kitchen remodel cost in Calgary</a> and <a href="https://stateracontracting.com/blog/budget-kitchen-renovations-your-2026-alberta-guide" target="_blank" rel="noopener">budget kitchen renovations</a>.</p>
+<h2>Where to spend on plywood and where to save</h2>
+<p>You do not have to choose one material for the whole kitchen. If you can only upgrade some boxes, <a href="https://buildersontario.com/plywood-vs-mdf-kitchen-cabinets/" rel="nofollow noopener noreferrer" target="_blank">upgrade the sink base, the dishwasher cabinet and the cabinet beside the range</a>, because water and heat live there. Uppers holding glassware can be a lower-cost material.</p>
+<p>A room-by-room guide:</p>
+<ul>
+<li><strong>Kitchen sink base and dishwasher cabinet:</strong> plywood.</li>
+<li><strong>Kitchen uppers and tall pantry:</strong> plywood for heavy loads; particle board is acceptable in light use.</li>
+<li><strong>Bathroom vanity:</strong> plywood. Steam and splashes reach the box daily.</li>
+<li><strong>Laundry room:</strong> plywood, for the same reason.</li>
+<li><strong>Closets, home office, bookshelves:</strong> particle board is fine where it never sees water or heavy weight.</li>
+<li><strong>Commercial kitchens, bars and restaurants:</strong> plywood in anything near sinks, dishwashing and heavy daily use.</li>
+</ul>
+<p>Particle board is <a href="https://www.kitchenbathworld.ca/blog/plywood-vs-particleboard-cabinet-boxes" rel="nofollow noopener noreferrer" target="_blank">acceptable in dry rooms with light loads</a>, while kitchens, bathrooms and laundry rooms are where trouble starts.</p>
+<h2>How to compare quotes</h2>
+<p>Two cabinet quotes with the same door style can be very different products. Before you compare prices, ask for the following in writing:</p>
+<ol>
+<li><strong>Box material and thickness.</strong> Standards for cabinet construction, such as <a href="https://pinewoodcabinets.com/guides/cabinet-construction/plywood-vs-mdf-boxes" rel="nofollow noopener noreferrer" target="_blank">ANSI/AWI 0641-2019</a>, call for base material at least 17.5 mm thick.</li>
+<li><strong>Back panel material.</strong> Many lines use a thin fibreboard back even with a sturdy box.</li>
+<li><strong>Edge treatment.</strong> Exposed plywood edges need banding, and particle board edges need sealing.</li>
+<li><strong>Sink base specification.</strong> Ask whether it is a moisture-resistant grade and how it is protected around the plumbing cut-out.</li>
+<li><strong>Warranty wording on moisture.</strong> Some warranties exclude moisture and humidity exposure, so read that clause before you sign.</li>
+</ol>
+<p>This is also the point where a single contractor managing the whole job helps. Cabinet price, installation, plumbing and countertops all affect each other, and the quote you compare should cover the lot.</p>
+<blockquote>
+<h2>Our view on cabinet boxes</h2>
+<p>We design and build kitchens, bathrooms and basements across Calgary, Airdrie, Cochrane and Okotoks, and design is included with our builds. When a homeowner asks about cabinet boxes, we start with where the cabinet lives, not with the cheapest number.</p>
+<p>A sink base and a dishwasher cabinet face the hardest conditions in your house, and we think those are the places to put your budget. A box that handles a slow leak and keeps its hinges is a cabinet you install once. Because we are a family-owned team that manages each project directly and stays in daily contact with you, we can talk through these choices with you before anything is ordered, and keep the whole project on a fixed price.</p>
+<p>The goal is a kitchen you stop thinking about, not one you open up in eight years to replace a swollen base.</p>
+<p><em>Patrick</em></p>
+</blockquote>
+<h2>Plan your cabinets with Statera</h2>
+<p>Statera Contracting is a licensed and insured Calgary renovation company. We handle permits, design and construction for <a href="https://stateracontracting.com/services/kitchen-renovation-calgary" target="_blank" rel="noopener">kitchen renovations</a>, <a href="https://stateracontracting.com/services/bathroom-renovation-calgary" target="_blank" rel="noopener">bathroom renovations</a> and basements, and we also build out restaurants, pubs and other commercial spaces. Tell us what your project needs and we will go through your cabinet options with you in a free consultation.</p>
+<p><a href="https://stateracontracting.com/contact" target="_blank" rel="noopener"><img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-42752/1783356093621_stateracontracting.jpg" alt="Statera Contracting" /></a></p>
+<p>If you want to start with planning, read our guide to <a href="https://stateracontracting.com/blog/planning-kitchen-renovation-calgary" target="_blank" rel="noopener">planning a kitchen renovation in Calgary</a>, or see our <a href="https://stateracontracting.com/blog/renovations-kitchen-cabinets" target="_blank" rel="noopener">kitchen cabinet options and budgets</a>.</p>
+<h2>FAQ</h2>
+<h3>Is plywood better than particle board for kitchen cabinets?</h3>
+<p>For most kitchens, yes. Plywood is stronger, holds screws more reliably and recovers better from a leak. Particle board costs less up front, which is its main advantage. Using plywood in the sink base, dishwasher cabinet and range-side cabinet gets you most of the benefit.</p>
+<h3>Is plywood better than MDF for cabinets?</h3>
+<p>Plywood is the safer choice in wet areas and for load-bearing boxes. MDF is smooth and stable and swells more evenly than particle board, but it still sags once soaked. Many painted doors are MDF, which is a different job from the box.</p>
+<h3>What are the disadvantages of particle board cabinets?</h3>
+<p>Particle board swells and crumbles when water reaches the core, usually at raw edges, screw holes or plumbing cut-outs. It is also heavy and holds screws less well at its edges. Those weaknesses matter most in sinks, vanities and laundry rooms, and much less in dry rooms.</p>
+<h3>Is particle board ever fine for cabinets?</h3>
+<p>Yes. In closets, home offices and bookshelves that never see water, it is a sensible way to save money. Look for a thick, well-sealed board and keep it out of any sink or appliance location.</p>
+SStatera ContractingTalk Through Your Cabinet ChoicesContact Statera Contracting to discuss how cabinet box materials fit into your Calgary kitchen renovation.<a href="https://wa.me/14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="tel:+14035128755" rel="nofollow noopener noreferrer" target="_blank">+1-403-512-8755</a><a href="mailto:statera.contracting@gmail.com" rel="nofollow noopener noreferrer" target="_blank">statera.contracting@gmail.com</a>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://ckca.ca/cabinet-materials/" rel="nofollow noopener noreferrer" target="_blank">Cabinet Materials, Canadian Kitchen Cabinet Association</a></li>
+<li><a href="https://www.captivatingcabinets.com/blog/what-is-particle-board-in-cabinets" rel="nofollow noopener noreferrer" target="_blank">What Is Particle Board? Grades, Water Swell, vs Plywood</a></li>
+<li><a href="https://www.captivatingcabinets.com/blog/plywood-kitchen-cabinets-pros-and-cons" rel="nofollow noopener noreferrer" target="_blank">Plywood Cabinets: Pros, Cons and Which Lines Use It</a></li>
+<li><a href="https://pinewoodcabinets.com/guides/cabinet-construction/plywood-vs-mdf-boxes" rel="nofollow noopener noreferrer" target="_blank">Plywood vs MDF vs Particleboard Cabinet Boxes</a></li>
+<li><a href="https://kraftersland.com/plywood-vs-particle-board-cabinets-buyers-guide/" rel="nofollow noopener noreferrer" target="_blank">Plywood vs Particle Board Cabinets (2026): Buyer’s Guide</a></li>
+<li><a href="https://www.deslaurier.com/en-ca/learning-centre/plywood-vs.-particle-board-comparing-cabinet-box-construction" rel="nofollow noopener noreferrer" target="_blank">Plywood vs. Particle Board: Comparing Cabinet Box Construction</a></li>
+<li><a href="https://www.kitchenbathworld.ca/blog/plywood-vs-particleboard-cabinet-boxes" rel="nofollow noopener noreferrer" target="_blank">Plywood vs Particleboard Cabinet Boxes: What’s Inside</a></li>
+<li><a href="https://buildersontario.com/plywood-vs-mdf-kitchen-cabinets/" rel="nofollow noopener noreferrer" target="_blank">Plywood vs MDF vs Particleboard Kitchen Cabinets</a></li>
+</ul>
+<h2>Recommended</h2>
+<ul>
+<li><a href="https://stateracontracting.com/blog/cabinet-hardware-placement" target="_blank" rel="noopener">Cabinet Hardware Placement: Where Knobs and Pulls Go</a></li>
+<li><a href="https://stateracontracting.com/blog/renovations-kitchen-cabinets" target="_blank" rel="noopener">Kitchen cabinet renovations in Calgary: options &amp; budgets</a></li>
+<li><a href="https://stateracontracting.com/blog/quartz-vs-marble" target="_blank" rel="noopener">Quartz vs Marble Countertops: Which Suits Your Calgary Home</a></li>
+</ul>
+`,
+      },
+    ],
+  },
 ];
 
 
